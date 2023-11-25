@@ -21,7 +21,7 @@
     <string name="empty_list">Порожній список</string>
     <string name="loading">Завантаження</string>
     <string name="please_wait">Будь ласка, зачекайте</string>
-    <string name="connection_error">Не вдалося встановити з'єднання з сервером</string>
+    <string name="connection_error">Не вдалося встановити з\'єднання з сервером</string>
     <string name="something_went_wrong">Помилка: Щось пішло не так</string>
     <string name="home">Головна</string>
     <string name="planes">Літаки</string>
