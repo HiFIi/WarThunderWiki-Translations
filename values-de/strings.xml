@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- CREDIT: Reddit: u/Ravens_door // PayPal: https://www.paypal.me/PenguinRed -->
+
+    <string name="app_name">ThunderDex</string>
+    <string name="wt_news">Thunder Neuigkeiten</string>
+    <string name="wt_updates">Thunder Updates</string>
+    <string name="my_favorites">Meine Favoriten</string>
+    <string name="battle_rating">Battle Rating:</string>
+    <string name="battle_rating_ab">AB</string>
+    <string name="battle_rating_rb">RB</string>
+    <string name="battle_rating_sb">SB</string>
+    <string name="not_available">N/A</string>
+    <string name="research">Forschung:</string>
+    <string name="purchase">Kaufen:</string>
+    <string name="description">Beschreibung:</string>
+    <string name="general_info">Generelle Info:</string>
+    <string name="pros_and_cons">Pros und Cons:</string>
+    <string name="pros">Pros:</string>
+    <string name="cons">Cons:</string>
+    <string name="empty_list">Leere Liste</string>
+    <string name="loading">Lädt</string>
+    <string name="please_wait">Bitte warten</string>
+    <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden</string>
+    <string name="something_went_wrong">Error: Etwas ist schiefgelaufen</string>
+    <string name="home">Home</string>
+    <string name="planes">Flugzeuge</string>
+    <string name="helicopters">Helikopter</string>
+    <string name="tanks">Panzer</string>
+    <string name="ships">Schiffe</string>
+    <string name="favorite">favorisieren</string>
+    <string name="unfavorite">Unfavorisieren</string>
+    <string name="donate_dialog_title"><b>SPENDEN!</b></string>
+    <string name="donate_dialog_body"><b>HALLO! DANKE FÜRS HERUNTERLADEN VON THUNDERDEX!</b>"
+
+Ich habe einen Spenden-knopf hinzugefügt, einfach drücken und Paypal wird sich öffnen.
+
+Bitte erwäge es, einmal zu spenden... es ist viel Arbeit und Zeit in diese App geflossen.</string>
+</resources>
