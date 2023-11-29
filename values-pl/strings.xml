@@ -1,7 +1,4 @@
 <resources>
-
-    <!-- CREDIT: Czarne_Majty  // https://www.reddit.com/user/WisniAirsoft/ -->
-
     <string name="app_name">ThunderDex</string>
     <string name="wt_news">Thunder News</string>
     <string name="wt_updates">Thunder Updates</string>
@@ -18,7 +15,7 @@
     <string name="pros_and_cons">Zalety i Wady:</string>
     <string name="pros">Pros:</string>
     <string name="cons">Cons:</string>
-    <string name="empty_list">Pusta Lista</string>
+    <string name="empty_list">Lista jest pusta</string>
     <string name="loading">Ładowanie</string>
     <string name="please_wait">Proszę Czekać</string>
     <string name="connection_error">Nie można połączyć się z serwerem</string>
@@ -35,5 +32,5 @@
 
 Dodałem link do Paypala gdybyś chciał wspomóc moją pracę
 
-Dzięki Dobrowolnej wpłacie ta aplikacja jest darmowa :)</string>
+Dzięki dobrowolnej wpłacie ta aplikacja może się rozwijać :)</string>
 </resources>

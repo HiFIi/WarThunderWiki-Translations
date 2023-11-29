@@ -1,0 +1,39 @@
+<resources>
+	
+	<!-- CREDIT: https://www.reddit.com/u/Russian1Bear -->
+	
+    <string name="app_name">ThunderDex</string>
+    <string name="wt_news">Новости</string>
+    <string name="wt_updates">Обновления</string>
+    <string name="my_favorites">Избранное</string>
+    <string name="battle_rating">Боевой рейтинг:</string>
+    <string name="battle_rating_ab">АБ</string>
+    <string name="battle_rating_rb">РБ</string>
+    <string name="battle_rating_sb">СБ</string>
+    <string name="not_available">Недоступно</string>
+    <string name="research">Исследование:</string>
+    <string name="purchase">Цена:</string>
+    <string name="description">Описание:</string>
+    <string name="general_info">Общая информация:</string>
+    <string name="pros_and_cons">Достоинства и недостатки:</string>
+    <string name="pros">Достоинства:</string>
+    <string name="cons">Недостатки:</string>
+    <string name="empty_list">Пусто</string>
+    <string name="loading">Загрузка</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="connection_error">Не удалось подключиться к серверу</string>
+    <string name="something_went_wrong">Ошибка: что-то пошло не так</string>
+    <string name="home">Главная</string>
+    <string name="planes">Самолёты</string>
+    <string name="helicopters">Вертолёты</string>
+    <string name="tanks">Танки</string>
+    <string name="ships">Корабли</string>
+    <string name="favorite">Добавить в избранное</string>
+    <string name="unfavorite">Убрать из избранного</string>
+    <string name="donate_dialog_title"><b>ПОЖЕРТВОВАНИЯ!</b></string>
+    <string name="donate_dialog_body"><b>ПРИВЕТ! СПАСИБО, ЧТО ЗАГРУЗИЛИ THUNDERDEX!</b>"
+
+Я добавил кнопку "пожертвовать", нажмите на неё и вас перекинет в PayPal.
+
+Пожалуйста, подумайте о пожертвовании… на это бесплатное приложение уходит много труда и времени.</string>
+</resources>
