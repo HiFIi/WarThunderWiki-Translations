@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">ThunderDex</string>
-    <string name="wt_news">Thunder News</string>
-    <string name="wt_updates">Thunder Updates</string>
-    <string name="my_favorites">My Favorites</string>
+    <string name="news">News</string>
+    <string name="updates">Updates</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
     <string name="battle_rating">Battle rating:</string>
     <string name="battle_rating_ab">AB</string>
     <string name="battle_rating_rb">RB</string>
@@ -10,6 +11,7 @@
     <string name="not_available">N/A</string>
     <string name="research">Research:</string>
     <string name="purchase">Purchase:</string>
+    <string name="bundle_or_gift">Bundle or Gift</string>
     <string name="description">Description:</string>
     <string name="general_info">General info:</string>
     <string name="pros_and_cons">Pros and cons:</string>
@@ -30,7 +32,13 @@
     <string name="donate_dialog_title"><b>DONATIONS!</b></string>
     <string name="donate_dialog_body"><b>HELLO! THANK YOU FOR DOWNLOADING THUNDERDEX!</b>"
 
-I have added a donation button, simply click it and it will launch PayPal.
+Please consider donating once… a lot of work and time goes into this free app.
 
-Please consider donating once… a lot of work and time goes into this free app.</string>
+You can donate by going into the settings of the app and clicking on PayPal option.</string>
+    <string name="settings_app_theme_title">Monet theming</string>
+    <string name="settings_app_theme_desc">Enable monet theming for %s</string>
+    <string name="settings_donate_title">Liked this app?</string>
+    <string name="settings_donate_desc">Consider donating via PayPal</string>
+    <string name="settings_clear_cache_title">Clear cache</string>
+    <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
 </resources>
