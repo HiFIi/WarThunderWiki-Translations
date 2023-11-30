@@ -30,15 +30,15 @@
     <string name="favorite">Favorite</string>
     <string name="unfavorite">Unfavorite</string>
     <string name="donate_dialog_title"><b>DONATIONS!</b></string>
-    <string name="donate_dialog_body"><b>HELLO! THANK YOU FOR DOWNLOADING THUNDERDEX!</b>"
+    <string name="donate_dialog_body"><b>HELLO, AND THANK YOU FOR INSTALLING THUNDERDEX!</b>"
 
-Please consider donating once… a lot of work and time goes into this free app.
+Please consider donating once… a <b>lot</b> of work and time goes into this free app.
 
-You can donate by going into the settings of the app and clicking on PayPal option.</string>
+You can donate by going into the settings of the app and clicking on the PayPal option.</string>
     <string name="settings_app_theme_title">Monet theming</string>
     <string name="settings_app_theme_desc">Enable monet theming for %s</string>
-    <string name="settings_donate_title">Liked this app?</string>
-    <string name="settings_donate_desc">Consider donating via PayPal</string>
+    <string name="settings_donate_title">Enjoying this app?</string>
+    <string name="settings_donate_desc">Please consider donating via PayPal!</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
 </resources>
