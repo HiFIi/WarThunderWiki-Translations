@@ -1,39 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
 <resources>
-
-    <!-- Credit u/TorbIet -->
-
-    <string name="app_name">ThunderDex</string>
-    <string name="wt_news">Thunder Nyheter</string>
-    <string name="wt_updates">Thunder Updateringar</string>
-    <string name="my_favorites">Mina Favoriter</string>
-    <string name="battle_rating">Battle rating:</string>
-    <string name="battle_rating_ab">AB</string>
-    <string name="battle_rating_rb">RB</string>
-    <string name="battle_rating_sb">SB</string>
-    <string name="not_available">N/A</string>
-    <string name="research">Forskning:</string>
-    <string name="purchase">Köp:</string>
-    <string name="description">Beskrivning:</string>
-    <string name="general_info">Allmän information:</string>
-    <string name="pros_and_cons">Fördelar och nackdelar:</string>
-    <string name="pros">Fördelar:</string>
-    <string name="cons">Nackdelar:</string>
-    <string name="empty_list">Tom lista</string>
-    <string name="loading">Laddar</string>
-    <string name="please_wait">Vänligen vänta</string>
-    <string name="connection_error">Kunde inte ansluta till servern</string>
-    <string name="something_went_wrong">Error: Något gick fel</string>
-    <string name="home">Hem</string>
-    <string name="planes">Flygplan</string>
-    <string name="helicopters">Helikoptrar</string>
-    <string name="tanks">Stridsvagnar</string>
-    <string name="ships">Fartyg</string>
-    <string name="favorite">Favorisera</string>
-    <string name="unfavorite">Avfavorisera</string>
-    <string name="donate_dialog_title"><b>DONATIONER!</b></string>
-    <string name="donate_dialog_body"><b>HALLÅ! TACK FÖR ATT DU LADDAT NER THUNDERDEX!</b>"
-
-Jag har lagt till en donationsknapp, klicka bara på den så startar PayPal.
-
-Vänligen överväg att donera... mycket arbete och tid läggs ner på denna app.</string>
+  <string name="app_name">ThunderDex</string>
+  <string name="news">Nyheter</string>
+  <string name="updates">Uppdateringar</string>
+  <string name="favorites">Favoriter</string>
+  <string name="settings">Inställningar</string>
+  <string name="battle_rating">Battle Rating:</string>
+  <string name="battle_rating_ab">AB</string>
+  <string name="battle_rating_rb">RB</string>
+  <string name="battle_rating_sb">SB</string>
+  <string name="not_available">N/A</string>
+  <string name="research">Forskning:</string>
+  <string name="purchase">Inköp:</string>
+  <string name="bundle_or_gift">Paket eller gåva</string>
+  <string name="description">Beskrivning:</string>
+  <string name="general_info">Generell information:</string>
+  <string name="pros_and_cons">För-och nackdelar:</string>
+  <string name="pros">Fördelar:</string>
+  <string name="cons">Nackdelar:</string>
+  <string name="empty_list">Tom lista</string>
+  <string name="loading">Läser in…</string>
+  <string name="please_wait">Vänta…</string>
+  <string name="connection_error">Kunde inte ansluta till servern! :(</string>
+  <string name="something_went_wrong">Fel: Något gick fel! D:</string>
+  <string name="home">Hem</string>
+  <string name="planes">Flygplan / Jets</string>
+  <string name="helicopters">Helikoptrar</string>
+  <string name="tanks">Tankar</string>
+  <string name="ships">Fartyg</string>
+  <string name="favorite">Favorit</string>
+  <string name="unfavorite">Avfavorit</string>
+  <string name="donate_dialog_title">
+    <b>❤️ Donations ❤️</b>
+  </string>
+  <string name="donate_dialog_body">
+    <b>Hello, and thank you for using ThunderDex!!</b>
+    <b>
+      <i>at least</i>
+    </b>
+    <b>lot</b>
+    <b>free</b>
+    <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Överväg att donera en gång... \n \n ett arbete går in i den här appen. \n \n \n \n -HiFii
+  </string>
+  <string name="settings_app_theme_title">Monet-tema</string>
+  <string name="settings_app_theme_desc">Aktivera monetära teman för %s</string>
+  <string name="settings_donate_title">
+    <i>Enjoying this app?</i>
+  </string>
+  <string name="settings_donate_desc">❤️ Överväg att donera via PayPal! ❤️</string>
+  <string name="settings_clear_cache_title">Rensa cache</string>
+  <string name="settings_clear_cache_desc">Rensa sparade inställningar, texter och bilder</string>
+  <string name="affirmative_text">Tack!</string>
+  <string name="read_changelog">Läs Changelog...</string>
+  <string name="changelog">Ändringslogg</string>
+  <string name="changelog_dialog_body">
+    <b>Version 1.7.0:</b>\n \n • Optimerade PNG-filer för att minska appstorleken! \n • Starta om appen automatiskt när tema ändras \n • Bättre hantering av bakåtknappstryckning \n • Byggoptimeringar \n • Lägg till en liten fördröjning innan bilden laddas \ \n • Bugfixar \n • Biblioteksuppdateringar (Jsoup, kommentarer , AGP, Googles materialdesignbibliotek) \n • Förbättra gradle.properties för potentiella mindre apk-storlekar \n • Strängjusteringar \n • Mindre gränssnittsjusteringar
+  </string>
 </resources>

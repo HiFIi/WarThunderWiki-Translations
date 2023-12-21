@@ -1,39 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
 <resources>
-
-    <!-- CREDIT: Reddit: u/Ravens_door // PayPal: https://www.paypal.me/PenguinRed -->
-
-    <string name="app_name">ThunderDex</string>
-    <string name="wt_news">Thunder Neuigkeiten</string>
-    <string name="wt_updates">Thunder Updates</string>
-    <string name="my_favorites">Meine Favoriten</string>
-    <string name="battle_rating">Battle Rating:</string>
-    <string name="battle_rating_ab">AB</string>
-    <string name="battle_rating_rb">RB</string>
-    <string name="battle_rating_sb">SB</string>
-    <string name="not_available">N/A</string>
-    <string name="research">Forschung:</string>
-    <string name="purchase">Kaufen:</string>
-    <string name="description">Beschreibung:</string>
-    <string name="general_info">Generelle Info:</string>
-    <string name="pros_and_cons">Pros und Cons:</string>
-    <string name="pros">Pros:</string>
-    <string name="cons">Cons:</string>
-    <string name="empty_list">Leere Liste</string>
-    <string name="loading">Lädt</string>
-    <string name="please_wait">Bitte warten</string>
-    <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden</string>
-    <string name="something_went_wrong">Error: Etwas ist schiefgelaufen</string>
-    <string name="home">Home</string>
-    <string name="planes">Flugzeuge</string>
-    <string name="helicopters">Helikopter</string>
-    <string name="tanks">Panzer</string>
-    <string name="ships">Schiffe</string>
-    <string name="favorite">favorisieren</string>
-    <string name="unfavorite">Unfavorisieren</string>
-    <string name="donate_dialog_title"><b>SPENDEN!</b></string>
-    <string name="donate_dialog_body"><b>HALLO! DANKE FÜRS HERUNTERLADEN VON THUNDERDEX!</b>"
-
-Ich habe einen Spenden-knopf hinzugefügt, einfach drücken und Paypal wird sich öffnen.
-
-Bitte erwäge es, einmal zu spenden... es ist viel Arbeit und Zeit in diese App geflossen.</string>
+  <string name="app_name">ThunderDex</string>
+  <string name="news">Nachricht</string>
+  <string name="updates">Aktualisierung</string>
+  <string name="favorites">Favoriten</string>
+  <string name="settings">Einstellungen</string>
+  <string name="battle_rating">Kampfwertung:</string>
+  <string name="battle_rating_ab">AB</string>
+  <string name="battle_rating_rb">RB</string>
+  <string name="battle_rating_sb">SB</string>
+  <string name="not_available">N / A</string>
+  <string name="research">Forschung:</string>
+  <string name="purchase">Kaufen:</string>
+  <string name="bundle_or_gift">Bündel oder Geschenk</string>
+  <string name="description">Beschreibung:</string>
+  <string name="general_info">Allgemeine Information:</string>
+  <string name="pros_and_cons">Vor-und Nachteile:</string>
+  <string name="pros">Vorteile:</string>
+  <string name="cons">Nachteile:</string>
+  <string name="empty_list">Leere Liste</string>
+  <string name="loading">Wird geladen…</string>
+  <string name="please_wait">Bitte warten…</string>
+  <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden! :(</string>
+  <string name="something_went_wrong">Fehler: Etwas ist schief gelaufen! D:</string>
+  <string name="home">Heim</string>
+  <string name="planes">Flugzeuge / Jets</string>
+  <string name="helicopters">Hubschrauber</string>
+  <string name="tanks">Panzer</string>
+  <string name="ships">Schiffe</string>
+  <string name="favorite">Favorit</string>
+  <string name="unfavorite">Unfavorit</string>
+  <string name="donate_dialog_title">
+    <b>❤️ Donations ❤️</b>
+  </string>
+  <string name="donate_dialog_body">
+    <b>Hello, and thank you for using ThunderDex!!</b>
+    <b>
+      <i>at least</i>
+    </b>
+    <b>lot</b>
+    <b>free</b>
+    <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Bitte erwägen Sie eine einmalige Spende … \n \n Ein Teil der Arbeit fließt in diese App. \n \n \n \n -HiFii
+  </string>
+  <string name="settings_app_theme_title">Monet-Thema</string>
+  <string name="settings_app_theme_desc">Monet-Design für %s aktivieren</string>
+  <string name="settings_donate_title">
+    <i>Enjoying this app?</i>
+  </string>
+  <string name="settings_donate_desc">❤️ Bitte denken Sie darüber nach, über PayPal zu spenden! ❤️</string>
+  <string name="settings_clear_cache_title">Cache leeren</string>
+  <string name="settings_clear_cache_desc">Gespeicherte Einstellungen, Texte und Bilder löschen</string>
+  <string name="affirmative_text">Danke!</string>
+  <string name="read_changelog">Änderungsprotokoll lesen…</string>
+  <string name="changelog">Änderungsprotokoll</string>
+  <string name="changelog_dialog_body">
+    <b>Version 1.7.0:</b>\n \n • Optimierte PNGs, um die App-Größe zu verkleinern! \n • App automatisch neu starten, wenn sich das Design ändert \n • Bessere Handhabung des Zurück-Tastendrucks \n • Build-Optimierungen \n • Eine leichte Verzögerung vor dem Laden des Bildes hinzufügen \n • Fehlerbehebungen \n • Bibliotheksaktualisierungen (Jsoup, Anmerkungen). , AGP, Google Material Design Library) \n • Gradle.properties für potenziell kleinere Apk-Größe verbessern \n • String-Optimierungen \n • Kleinere UI-Optimierungen
+  </string>
 </resources>
