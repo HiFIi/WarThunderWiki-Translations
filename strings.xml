@@ -4,7 +4,7 @@
     <string name="updates">Updates</string>
     <string name="favorites">Favorites</string>
     <string name="settings">Settings</string>
-    <string name="battle_rating">Battle rating:</string>
+    <string name="battle_rating">Battle Rating:</string>
     <string name="battle_rating_ab">AB</string>
     <string name="battle_rating_rb">RB</string>
     <string name="battle_rating_sb">SB</string>
@@ -14,31 +14,31 @@
     <string name="bundle_or_gift">Bundle or Gift</string>
     <string name="description">Description:</string>
     <string name="general_info">General info:</string>
-    <string name="pros_and_cons">Pros and cons:</string>
+    <string name="pros_and_cons">Pros and Cons:</string>
     <string name="pros">Pros:</string>
     <string name="cons">Cons:</string>
     <string name="empty_list">Empty list</string>
-    <string name="loading">Loading</string>
-    <string name="please_wait">Please wait</string>
-    <string name="connection_error">Could not connect to server</string>
-    <string name="something_went_wrong">Error: Something went wrong</string>
+    <string name="loading">Loading…</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="connection_error">Could not connect to server! :(</string>
+    <string name="something_went_wrong">Error: Something went wrong! D:</string>
     <string name="home">Home</string>
-    <string name="planes">Planes</string>
+    <string name="planes">Planes / Jets</string>
     <string name="helicopters">Helicopters</string>
     <string name="tanks">Tanks</string>
     <string name="ships">Ships</string>
     <string name="favorite">Favorite</string>
     <string name="unfavorite">Unfavorite</string>
-    <string name="donate_dialog_title"><b>DONATIONS!</b></string>
-    <string name="donate_dialog_body"><b>HELLO, AND THANK YOU FOR INSTALLING THUNDERDEX!</b>"
-
-Please consider donating once… a <b>lot</b> of work and time goes into this free app.
-
-You can donate by going into the settings of the app and clicking on the PayPal option.</string>
+    <string name="donate_dialog_title"><b>❤️ Donations ❤️ </b></string>
+    <string name="donate_dialog_body"><b>Hello, and thank you for using ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="settings_app_theme_title">Monet theming</string>
     <string name="settings_app_theme_desc">Enable monet theming for %s</string>
-    <string name="settings_donate_title">Enjoying this app?</string>
-    <string name="settings_donate_desc">Please consider donating via PayPal!</string>
+    <string name="settings_donate_title"><i>Enjoying this app?</i></string>
+    <string name="settings_donate_desc">❤️ Please consider donating via PayPal! ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
+    <string name="affirmative_text">Thanks!</string>
+    <string name="read_changelog">Read Changelog…</string>
+    <string name="changelog">Changelog</string>
+    <string name="changelog_dialog_body"><b>Version 1.7.0:</b>\n\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Library updates (Jsoup, annotations, AGP, Google Material design library)\n• Improve gradle.properties for potential smaller apk size\n• String tweaks\n• Minor UI tweaks</string>
 </resources>
