@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
-<resources> 
-  <string name="app_name">ГромДекс</string>  
-  <string name="news">Новости</string>  
-  <string name="updates">Обновления</string>  
-  <string name="favorites">Избранное</string>  
-  <string name="settings">Настройки</string>  
-  <string name="battle_rating">Боевой рейтинг:</string>  
-  <string name="battle_rating_ab">АБ</string>  
-  <string name="battle_rating_rb">РБ</string>  
-  <string name="battle_rating_sb">СБ</string>  
-  <string name="not_available">Н/Д</string>  
-  <string name="research">Исследовать:</string>  
-  <string name="purchase">Покупка:</string>  
-  <string name="bundle_or_gift">Пакет или подарок</string>  
-  <string name="description">Описание:</string>  
-  <string name="general_info">Главная информация:</string>  
-  <string name="pros_and_cons">За и против:</string>  
-  <string name="pros">Плюсы:</string>  
-  <string name="cons">Минусы:</string>  
-  <string name="empty_list">Пустой список</string>  
-  <string name="loading">Загрузка…</string>  
-  <string name="please_wait">Пожалуйста, подождите…</string>  
-  <string name="connection_error">Не удалось подключиться к серверу! :(</string>  
-  <string name="something_went_wrong">Ошибка: Что-то пошло не так! Д:</string>  
-  <string name="home">Дом</string>  
-  <string name="planes">Самолеты / Реактивные самолеты</string>  
-  <string name="helicopters">Вертолеты</string>  
-  <string name="tanks">Танки</string>  
-  <string name="ships">Корабли</string>  
-  <string name="favorite">Любимый</string>  
-  <string name="unfavorite">Удалить из избранного</string>  
+<resources>
+  <string name="app_name">ГромДекс</string>
+  <string name="news">Новости</string>
+  <string name="updates">Обновления</string>
+  <string name="favorites">Избранное</string>
+  <string name="settings">Настройки</string>
+  <string name="battle_rating">Боевой рейтинг:</string>
+  <string name="battle_rating_ab">АБ</string>
+  <string name="battle_rating_rb">РБ</string>
+  <string name="battle_rating_sb">СБ</string>
+  <string name="not_available">Н/Д</string>
+  <string name="research">Исследовать:</string>
+  <string name="purchase">Покупка:</string>
+  <string name="bundle_or_gift">Пакет или подарок</string>
+  <string name="description">Описание:</string>
+  <string name="general_info">Главная информация:</string>
+  <string name="pros_and_cons">За и против:</string>
+  <string name="pros">Плюсы:</string>
+  <string name="cons">Минусы:</string>
+  <string name="empty_list">Пустой список</string>
+  <string name="loading">Загрузка…</string>
+  <string name="please_wait">Пожалуйста, подождите…</string>
+  <string name="connection_error">Не удалось подключиться к серверу! :(</string>
+  <string name="something_went_wrong">Ошибка: Что-то пошло не так! Д:</string>
+  <string name="home">Дом</string>
+  <string name="planes">Самолеты / Реактивные самолеты</string>
+  <string name="helicopters">Вертолеты</string>
+  <string name="tanks">Танки</string>
+  <string name="ships">Корабли</string>
+  <string name="favorite">Любимый</string>
+  <string name="unfavorite">Удалить из избранного</string>
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
-  </string>  
+  </string>
   <string name="donate_dialog_body">
     <b>Hello, and thank you for using ThunderDex!!</b>
-    <b> 
-      <i>at least</i> 
+    <b>
+      <i>at least</i>
     </b>
     <b>lot</b>
     <b>free</b>
     <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Пожалуйста, рассмотрите возможность пожертвования однажды… \n \n в это приложение будет вложено много работы. \n \n \n \n -HiFii
-  </string>  
-  <string name="settings_app_theme_title">Тематика Моне</string>  
-  <string name="settings_app_theme_desc">Включить тему Monet для %s</string>  
+  </string>
+  <string name="settings_app_theme_title">Тематика Моне</string>
+  <string name="settings_app_theme_desc">Включить тему Monet для %s</string>
   <string name="settings_donate_title">
     <i>Enjoying this app?</i>
-  </string>  
-  <string name="settings_donate_desc">❤️ Пожалуйста, рассмотрите возможность пожертвования через PayPal! ❤️</string>  
-  <string name="settings_clear_cache_title">Очистить кэш</string>  
-  <string name="settings_clear_cache_desc">Очистить сохраненные настройки, тексты и изображения</string>  
-  <string name="affirmative_text">Спасибо!</string>  
-  <string name="read_changelog">Читать журнал изменений…</string>  
-  <string name="changelog">Журнал изменений</string>  
+  </string>
+  <string name="settings_donate_desc">❤️ Пожалуйста, рассмотрите возможность пожертвования через PayPal! ❤️</string>
+  <string name="settings_clear_cache_title">Очистить кэш</string>
+  <string name="settings_clear_cache_desc">Очистить сохраненные настройки, тексты и изображения</string>
+  <string name="affirmative_text">Спасибо!</string>
+  <string name="read_changelog">Читать журнал изменений…</string>
+  <string name="changelog">Журнал изменений</string>
   <string name="changelog_dialog_body">
     <b>Version 2.0.0:</b>
-    <b>Version 1.7.0:</b>\n \n • ПОИСК ДОБАВЛЕН!!!!!! \n • Добавлено 8 новых языков (французский, немецкий, итальянский, русский, испанский, шведский, турецкий и польский). \n \n \n • \n \n • Оптимизированы PNG-файлы для уменьшения размера приложения! \n • Автоматический перезапуск приложения при смене темы. \n • Улучшена обработка нажатия кнопки «Назад». \n • Оптимизирована сборка. \n • Добавлена ​​небольшая задержка перед загрузкой изображения. \n • Исправлены ошибки. \n • Незначительные настройки пользовательского интерфейса.
-  </string>  
-  <string name="search">Поиск</string>  
-  <string name="no_data_found">Данные не найдены…</string>  
-  <string name="search_vehicle">Поиск автомобиля</string>  
-  <string name="search_here">Поищи здесь…</string>  
-  <string name="clear_search">Очистить поиск</string> 
+    <b>Previous update:</b>\n • ПОИСК ДОБАВЛЕН!!!!!! \n • Добавлено 8 новых языков: - французский \n - немецкий \n - итальянский \n - русский \n - испанский \n - шведский \n - турецкий \n - польский \n \n \n • PNG-файлы оптимизированы для сжатия приложения. размер! \n • Автоматический перезапуск приложения при смене темы. \n • Улучшена обработка нажатия кнопки «Назад». \n • Оптимизирована сборка. \n • Добавлена ​​небольшая задержка перед загрузкой изображения. \n • Исправлены ошибки. \n • Незначительные настройки пользовательского интерфейса.
+  </string>
+  <string name="search">Поиск</string>
+  <string name="no_data_found">Данные не найдены…</string>
+  <string name="search_vehicle">Поиск автомобиля</string>
+  <string name="search_here">Поищи здесь…</string>
+  <string name="clear_search">Очистить поиск</string>
 </resources>

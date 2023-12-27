@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
-<resources> 
-  <string name="app_name">ThunderDex</string>  
-  <string name="news">Notizia</string>  
-  <string name="updates">Aggiornamenti</string>  
-  <string name="favorites">Preferiti</string>  
-  <string name="settings">Impostazioni</string>  
-  <string name="battle_rating">Grado di battaglia:</string>  
-  <string name="battle_rating_ab">AB</string>  
-  <string name="battle_rating_rb">RB</string>  
-  <string name="battle_rating_sb">SB</string>  
-  <string name="not_available">N / A</string>  
-  <string name="research">Ricerca:</string>  
-  <string name="purchase">Acquistare:</string>  
-  <string name="bundle_or_gift">Pacchetto o regalo</string>  
-  <string name="description">Descrizione:</string>  
-  <string name="general_info">Informazioni generali:</string>  
-  <string name="pros_and_cons">Pro e contro:</string>  
-  <string name="pros">Professionisti:</string>  
-  <string name="cons">Contro:</string>  
-  <string name="empty_list">Elenco vuoto</string>  
-  <string name="loading">Caricamento…</string>  
-  <string name="please_wait">Attendere prego…</string>  
-  <string name="connection_error">Non poteva collegarsi al server! :(</string>  
-  <string name="something_went_wrong">Errore: qualcosa è andato storto! D:</string>  
-  <string name="home">Casa</string>  
-  <string name="planes">Aerei/Jet</string>  
-  <string name="helicopters">Elicotteri</string>  
-  <string name="tanks">Carri armati</string>  
-  <string name="ships">Navi</string>  
-  <string name="favorite">Preferito</string>  
-  <string name="unfavorite">Sfavorito</string>  
+<resources>
+  <string name="app_name">ThunderDex</string>
+  <string name="news">Notizia</string>
+  <string name="updates">Aggiornamenti</string>
+  <string name="favorites">Preferiti</string>
+  <string name="settings">Impostazioni</string>
+  <string name="battle_rating">Grado di battaglia:</string>
+  <string name="battle_rating_ab">AB</string>
+  <string name="battle_rating_rb">RB</string>
+  <string name="battle_rating_sb">SB</string>
+  <string name="not_available">N / A</string>
+  <string name="research">Ricerca:</string>
+  <string name="purchase">Acquistare:</string>
+  <string name="bundle_or_gift">Pacchetto o regalo</string>
+  <string name="description">Descrizione:</string>
+  <string name="general_info">Informazioni generali:</string>
+  <string name="pros_and_cons">Pro e contro:</string>
+  <string name="pros">Professionisti:</string>
+  <string name="cons">Contro:</string>
+  <string name="empty_list">Elenco vuoto</string>
+  <string name="loading">Caricamento…</string>
+  <string name="please_wait">Attendere prego…</string>
+  <string name="connection_error">Non poteva collegarsi al server! :(</string>
+  <string name="something_went_wrong">Errore: qualcosa è andato storto! D:</string>
+  <string name="home">Casa</string>
+  <string name="planes">Aerei/Jet</string>
+  <string name="helicopters">Elicotteri</string>
+  <string name="tanks">Carri armati</string>
+  <string name="ships">Navi</string>
+  <string name="favorite">Preferito</string>
+  <string name="unfavorite">Sfavorito</string>
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
-  </string>  
+  </string>
   <string name="donate_dialog_body">
     <b>Hello, and thank you for using ThunderDex!!</b>
-    <b> 
-      <i>at least</i> 
+    <b>
+      <i>at least</i>
     </b>
     <b>lot</b>
     <b>free</b>
     <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Considera l\'idea di donare una volta... \n \n una parte del lavoro va in questa app. \n \n \n \n -HiFii
-  </string>  
-  <string name="settings_app_theme_title">Temi Monet</string>  
-  <string name="settings_app_theme_desc">Abilita tematica Monet per %s</string>  
+  </string>
+  <string name="settings_app_theme_title">Temi Monet</string>
+  <string name="settings_app_theme_desc">Abilita tematica Monet per %s</string>
   <string name="settings_donate_title">
     <i>Enjoying this app?</i>
-  </string>  
-  <string name="settings_donate_desc">❤️ Considera la possibilità di donare tramite PayPal! ❤️</string>  
-  <string name="settings_clear_cache_title">Svuota cache</string>  
-  <string name="settings_clear_cache_desc">Cancella le impostazioni, i testi e le immagini salvate</string>  
-  <string name="affirmative_text">Grazie!</string>  
-  <string name="read_changelog">Leggi il registro delle modifiche...</string>  
-  <string name="changelog">Registro delle modifiche</string>  
+  </string>
+  <string name="settings_donate_desc">❤️ Considera la possibilità di donare tramite PayPal! ❤️</string>
+  <string name="settings_clear_cache_title">Svuota cache</string>
+  <string name="settings_clear_cache_desc">Cancella le impostazioni, i testi e le immagini salvate</string>
+  <string name="affirmative_text">Grazie!</string>
+  <string name="read_changelog">Leggi il registro delle modifiche...</string>
+  <string name="changelog">Registro delle modifiche</string>
   <string name="changelog_dialog_body">
     <b>Version 2.0.0:</b>
-    <b>Version 1.7.0:</b>\n \n • RICERCA AGGIUNTA!!!!!! \n • Aggiunte 8 nuove lingue (francese, tedesco, italiano, russo, spagnolo, svedese, turco e polacco) \n \n \n • \n \n • PNG ottimizzati per ridurre le dimensioni dell\'app! \n • Riavvio automatico dell\'app quando il tema cambia \n • Migliore gestione della pressione del pulsante Indietro \n • Ottimizzazioni della creazione \n • Aggiunto un leggero ritardo prima del caricamento dell\'immagine \n • Correzioni di bug \n • Piccole modifiche all\'interfaccia utente
-  </string>  
-  <string name="search">Ricerca</string>  
-  <string name="no_data_found">Nessun dato trovato…</string>  
-  <string name="search_vehicle">Cerca veicolo</string>  
-  <string name="search_here">Cerca qui…</string>  
-  <string name="clear_search">Cancella ricerca</string> 
+    <b>Previous update:</b>\n • RICERCA AGGIUNTA!!!!!! \n • Aggiunte 8 nuove lingue: - Francese \n - Tedesco \ \n - Italiano \n \n - Russo \n - Spagnolo \n - Svedese \n - Turco \n - Polacco \n \n \n • PNG ottimizzati per ridurre l\'app misurare! \n • Riavvio automatico dell\'app quando il tema cambia \n • Migliore gestione della pressione del pulsante Indietro \n • Ottimizzazioni della creazione \n • Aggiunto un leggero ritardo prima del caricamento dell\'immagine \n • Correzioni di bug \n • Piccole modifiche all\'interfaccia utente
+  </string>
+  <string name="search">Ricerca</string>
+  <string name="no_data_found">Nessun dato trovato…</string>
+  <string name="search_vehicle">Cerca veicolo</string>
+  <string name="search_here">Cerca qui…</string>
+  <string name="clear_search">Cancella ricerca</string>
 </resources>
