@@ -35,15 +35,6 @@
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
   </string>
-  <string name="donate_dialog_body">
-    <b>Hello, and thank you for using ThunderDex!!</b>
-    <b>
-      <i>at least</i>
-    </b>
-    <b>lot</b>
-    <b>free</b>
-    <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Considera l\'idea di donare una volta... \n \n una parte del lavoro va in questa app. \n \n \n \n -HiFii
-  </string>
   <string name="settings_app_theme_title">Temi Monet</string>
   <string name="settings_app_theme_desc">Abilita tematica Monet per %s</string>
   <string name="settings_donate_title">
@@ -55,10 +46,6 @@
   <string name="affirmative_text">Grazie!</string>
   <string name="read_changelog">Leggi il registro delle modifiche...</string>
   <string name="changelog">Registro delle modifiche</string>
-  <string name="changelog_dialog_body">
-    <b>Version 2.0.0:</b>
-    <b>Previous update:</b>\n • RICERCA AGGIUNTA!!!!!! \n • Aggiunte 8 nuove lingue: - Francese \n - Tedesco \ \n - Italiano \n \n - Russo \n - Spagnolo \n - Svedese \n - Turco \n - Polacco \n \n \n • PNG ottimizzati per ridurre l\'app misurare! \n • Riavvio automatico dell\'app quando il tema cambia \n • Migliore gestione della pressione del pulsante Indietro \n • Ottimizzazioni della creazione \n • Aggiunto un leggero ritardo prima del caricamento dell\'immagine \n • Correzioni di bug \n • Piccole modifiche all\'interfaccia utente
-  </string>
   <string name="search">Ricerca</string>
   <string name="no_data_found">Nessun dato trovato…</string>
   <string name="search_vehicle">Cerca veicolo</string>

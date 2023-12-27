@@ -35,15 +35,6 @@
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
   </string>
-  <string name="donate_dialog_body">
-    <b>Hello, and thank you for using ThunderDex!!</b>
-    <b>
-      <i>at least</i>
-    </b>
-    <b>lot</b>
-    <b>free</b>
-    <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Prosimy o rozważenie przekazania darowizny raz… \n \n Ta aplikacja wymaga wiele pracy. \n \n \n \n -HiFii
-  </string>
   <string name="settings_app_theme_title">Motyw Moneta</string>
   <string name="settings_app_theme_desc">Włącz motyw monet dla %s</string>
   <string name="settings_donate_title">
@@ -55,10 +46,6 @@
   <string name="affirmative_text">Dzięki!</string>
   <string name="read_changelog">Przeczytaj dziennik zmian…</string>
   <string name="changelog">Dziennik zmian</string>
-  <string name="changelog_dialog_body">
-    <b>Version 2.0.0:</b>
-    <b>Previous update:</b>\n • DODANO WYSZUKIWANIE!!!!!! \n • Dodano 8 nowych języków: - francuski \n - niemiecki \n - włoski \n - rosyjski \n - hiszpański \n - szwedzki \n - turecki \n - polski \n \n \n • Zoptymalizowane pliki PNG w celu zmniejszenia aplikacji rozmiar! \n • Automatyczne ponowne uruchamianie aplikacji po zmianie motywu \n • Lepsza obsługa naciśnięcia przycisku Wstecz \n • Optymalizacje kompilacji \n • Dodanie niewielkiego opóźnienia przed załadowaniem obrazu \n • Poprawki błędów \n • Drobne poprawki interfejsu użytkownika
-  </string>
   <string name="search">Szukaj</string>
   <string name="no_data_found">Nie znaleziono danych…</string>
   <string name="search_vehicle">Wyszukaj pojazd</string>

@@ -30,7 +30,7 @@
     <string name="favorite">Favorite</string>
     <string name="unfavorite">Unfavorite</string>
     <string name="donate_dialog_title"><b>❤️ Donations ❤️ </b></string>
-    <string name="donate_dialog_body"><b>Hello, and thank you for using ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
+    <string name="donate_dialog_body" translatable="false"><b>Hello, and thank you for using ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="settings_app_theme_title">Monet theming</string>
     <string name="settings_app_theme_desc">Enable monet theming for %s</string>
     <string name="settings_donate_title"><i>Enjoying this app?</i></string>
@@ -40,7 +40,7 @@
     <string name="affirmative_text">Thanks!</string>
     <string name="read_changelog">Read Changelog…</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body"><b>Version 2.0.0:</b>\n• SEARCH ADDED!!!!!!\n• Added the following translations: - French\n- German\n- Italian\n- Russian\n- Spanish\n- Swedish\n- Turkish\n- Polish\n\n<b>Previous update:</b>\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
+    <string name="changelog_dialog_body" translatable="false">\n<i>You asked, and I listened!!</i> 😁\n<b>Vehicle search has been added.</b>\n\n• <b>Added the following translations:</b>\n     - <i>French</i>\n     - <i>German</i>\n     - <i>Italian</i>\n     - <i>Russian</i>\n     - <i>Spanish</i>\n     - <i>Swedish</i>\n     - <i>Polish</i>\n\n<b>Previous update:</b>\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
     <string name="search">Search</string>
     <string name="no_data_found">No data found…</string>
     <string name="search_vehicle">Search vehicle</string>

@@ -35,15 +35,6 @@
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
   </string>
-  <string name="donate_dialog_body">
-    <b>Hello, and thank you for using ThunderDex!!</b>
-    <b>
-      <i>at least</i>
-    </b>
-    <b>lot</b>
-    <b>free</b>
-    <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Lütfen bir kez bağış yapmayı düşünün… \n \n Bu uygulamaya çok emek harcanıyor. \n \n \n \n -HiFii
-  </string>
   <string name="settings_app_theme_title">Monet teması</string>
   <string name="settings_app_theme_desc">%s için para temasını etkinleştir</string>
   <string name="settings_donate_title">
@@ -55,10 +46,6 @@
   <string name="affirmative_text">Teşekkürler!</string>
   <string name="read_changelog">Değişiklik Günlüğünü Oku…</string>
   <string name="changelog">Değişiklik günlüğü</string>
-  <string name="changelog_dialog_body">
-    <b>Version 2.0.0:</b>
-    <b>Previous update:</b>\n • ARAMA EKLENDİ!!!!!! \n • 8 yeni dil eklendi: - Fransızca \n - Almanca \n - İtalyanca \n - Rusça \n - İspanyolca \n - İsveççe \n - Türkçe \n - Lehçe \n \n \n • Uygulamayı küçültmek için optimize edilmiş PNG\'ler boyut! \n • Tema değiştiğinde uygulamayı otomatik olarak yeniden başlatma \n • Geri düğmesine basmanın daha iyi işlenmesi \n • Derleme optimizasyonları \n • Resim yüklenmeden önce küçük bir gecikme ekleme \n • Hata düzeltmeleri \n • Küçük kullanıcı arayüzü ayarlamaları
-  </string>
   <string name="search">Aramak</string>
   <string name="no_data_found">Veri bulunamadı…</string>
   <string name="search_vehicle">Araç ara</string>
