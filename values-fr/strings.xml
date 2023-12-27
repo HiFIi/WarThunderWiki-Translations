@@ -56,6 +56,12 @@
   <string name="read_changelog">Lire le journal des modifications…</string>
   <string name="changelog">Journal des modifications</string>
   <string name="changelog_dialog_body">
-    <b>Version 1.7.0:</b>\n \n • Fichiers PNG optimisés pour réduire la taille de l\'application ! \n • Redémarrage automatique de l\'application lorsque le thème change \n • Meilleure gestion de la pression sur le bouton Précédent \n • Optimisations de build \n • Ajout d\'un léger délai avant le chargement de l\'image \n • Corrections de bugs \n • Mises à jour de la bibliothèque (Jsoup, annotations , AGP, bibliothèque de conception Google Material) \n • Améliorer gradle.properties pour réduire potentiellement la taille de l\'apk \n • Ajustements de chaîne \n • Ajustements mineurs de l\'interface utilisateur
+    <b>Version 2.0.0:</b>
+    <b>Version 1.7.0:</b>\n \n • RECHERCHE AJOUTÉE !!!!!! \n • Ajout de 8 nouvelles langues (français, allemand, italien, russe, espagnol, suédois, turc et polonais) \n \n \n • \n \n • PNG optimisés pour réduire la taille de l\'application ! \n • Redémarrage automatique de l\'application lorsque le thème change \n • Meilleure gestion de la pression sur le bouton Précédent \n • Optimisations de build \n • Ajout d\'un léger délai avant le chargement de l\'image \n • Correction de bugs \n • Ajustements mineurs de l\'interface utilisateur
   </string>
+  <string name="search">Recherche</string>
+  <string name="no_data_found">Aucune donnée disponible…</string>
+  <string name="search_vehicle">Rechercher un véhicule</string>
+  <string name="search_here">Cherche ici…</string>
+  <string name="clear_search">Effacer la recherche</string>
 </resources>

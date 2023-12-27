@@ -24,7 +24,7 @@
   <string name="loading">Ładowanie…</string>
   <string name="please_wait">Proszę czekać…</string>
   <string name="connection_error">Nie można połączyć się z serwerem! :(</string>
-  <string name="something_went_wrong">Błąd: coś poszło nie tak! D:</string>
+  <string name="something_went_wrong">Błąd: Coś poszło nie tak! D:</string>
   <string name="home">Dom</string>
   <string name="planes">Samoloty / Odrzutowce</string>
   <string name="helicopters">Helikoptery</string>
@@ -56,6 +56,12 @@
   <string name="read_changelog">Przeczytaj dziennik zmian…</string>
   <string name="changelog">Dziennik zmian</string>
   <string name="changelog_dialog_body">
-    <b>Version 1.7.0:</b>\n \n • Zoptymalizowane pliki PNG w celu zmniejszenia rozmiaru aplikacji! \n • Automatyczne ponowne uruchamianie aplikacji po zmianie motywu \n • Lepsza obsługa naciśnięcia przycisku Wstecz \n • Optymalizacje kompilacji \n • Dodanie niewielkiego opóźnienia przed załadowaniem obrazu \n • Poprawki błędów \n • Aktualizacje bibliotek (Jsoup, adnotacje , AGP, biblioteka Google Material design) \n • Ulepsz gradle.properties w celu uzyskania potencjalnie mniejszego rozmiaru apk \n • Ulepszenia ciągów znaków \n • Drobne poprawki interfejsu użytkownika
+    <b>Version 2.0.0:</b>
+    <b>Version 1.7.0:</b>\n \n • DODANO WYSZUKIWANIE!!!!!! \n • Dodano 8 nowych języków (francuski, niemiecki, włoski, rosyjski, hiszpański, szwedzki, turecki i polski) \n \n \n • \n \n • Zoptymalizowane pliki PNG w celu zmniejszenia rozmiaru aplikacji! \n • Automatyczne ponowne uruchamianie aplikacji po zmianie motywu \n • Lepsza obsługa naciśnięcia przycisku Wstecz \n • Optymalizacje kompilacji \n • Dodanie niewielkiego opóźnienia przed załadowaniem obrazu \n • Poprawki błędów \n • Drobne poprawki interfejsu użytkownika
   </string>
+  <string name="search">Szukaj</string>
+  <string name="no_data_found">Nie znaleziono danych…</string>
+  <string name="search_vehicle">Wyszukaj pojazd</string>
+  <string name="search_here">Szukaj tutaj…</string>
+  <string name="clear_search">Wyczyść wyszukiwanie</string>
 </resources>

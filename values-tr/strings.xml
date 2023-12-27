@@ -56,6 +56,12 @@
   <string name="read_changelog">Değişiklik Günlüğünü Oku…</string>
   <string name="changelog">Değişiklik günlüğü</string>
   <string name="changelog_dialog_body">
-    <b>Version 1.7.0:</b>\n \n • PNG\'ler uygulama boyutunu küçültecek şekilde optimize edildi! \n • Tema değiştiğinde uygulamayı otomatik olarak yeniden başlat \n • Geri düğmesine basmanın daha iyi işlenmesi \n • Derleme optimizasyonları \n • Resim yüklenmeden önce küçük bir gecikme ekleme \n • Hata düzeltmeleri \n • Kitaplık güncellemeleri (Jsoup, ek açıklamalar) , AGP, Google Materyal tasarım kütüphanesi) \n • Potansiyel olarak daha küçük apk boyutu için gradle.properties\'i iyileştirin \n • Dize ayarlamaları \n • Küçük kullanıcı arayüzü ayarlamaları
+    <b>Version 2.0.0:</b>
+    <b>Version 1.7.0:</b>\n \n • ARAMA EKLENDİ!!!!!! \n • 8 yeni dil eklendi (Fransızca, Almanca, İtalyanca, Rusça, İspanyolca, İsveççe, Türkiye ve Lehçe) \n \n \n • \n \n • Uygulama boyutunu küçültmek için PNG\'ler optimize edildi! \n • Tema değiştiğinde uygulamayı otomatik olarak yeniden başlatma \n • Geri düğmesine basmanın daha iyi işlenmesi \n • Derleme optimizasyonları \n • Resim yüklenmeden önce küçük bir gecikme ekleme \n • Hata düzeltmeleri \n • Küçük kullanıcı arayüzü ayarlamaları
   </string>
+  <string name="search">Aramak</string>
+  <string name="no_data_found">Veri bulunamadı…</string>
+  <string name="search_vehicle">Araç ara</string>
+  <string name="search_here">Burada ara…</string>
+  <string name="clear_search">Aramayı Temizle</string>
 </resources>

@@ -53,9 +53,15 @@
   <string name="settings_clear_cache_title">Svuota cache</string>
   <string name="settings_clear_cache_desc">Cancella le impostazioni, i testi e le immagini salvate</string>
   <string name="affirmative_text">Grazie!</string>
-  <string name="read_changelog">Leggi il registro delle modifiche…</string>
+  <string name="read_changelog">Leggi il registro delle modifiche...</string>
   <string name="changelog">Registro delle modifiche</string>
   <string name="changelog_dialog_body">
-    <b>Version 1.7.0:</b>\n \n • PNG ottimizzati per ridurre le dimensioni dell\'app! \n • Riavvio automatico dell\'app quando il tema cambia \n • Migliore gestione della pressione del pulsante Indietro \n • Ottimizzazioni della creazione \n • Aggiunto un leggero ritardo prima del caricamento dell\'immagine \n • Correzioni di bug \n • Aggiornamenti della libreria (Jsoup, annotazioni , AGP, libreria di progettazione dei materiali Google) \n • Migliorato gradle.properties per potenziali dimensioni dell\'apk più ridotte \n • Modifiche alle stringhe \n • Piccole modifiche all\'interfaccia utente
+    <b>Version 2.0.0:</b>
+    <b>Version 1.7.0:</b>\n \n • RICERCA AGGIUNTA!!!!!! \n • Aggiunte 8 nuove lingue (francese, tedesco, italiano, russo, spagnolo, svedese, turco e polacco) \n \n \n • \n \n • PNG ottimizzati per ridurre le dimensioni dell\'app! \n • Riavvio automatico dell\'app quando il tema cambia \n • Migliore gestione della pressione del pulsante Indietro \n • Ottimizzazioni della creazione \n • Aggiunto un leggero ritardo prima del caricamento dell\'immagine \n • Correzioni di bug \n • Piccole modifiche all\'interfaccia utente
   </string>
+  <string name="search">Ricerca</string>
+  <string name="no_data_found">Nessun dato trovato…</string>
+  <string name="search_vehicle">Cerca veicolo</string>
+  <string name="search_here">Cerca qui…</string>
+  <string name="clear_search">Cancella ricerca</string>
 </resources>

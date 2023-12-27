@@ -56,6 +56,12 @@
   <string name="read_changelog">Läs Changelog...</string>
   <string name="changelog">Ändringslogg</string>
   <string name="changelog_dialog_body">
-    <b>Version 1.7.0:</b>\n \n • Optimerade PNG-filer för att minska appstorleken! \n • Starta om appen automatiskt när tema ändras \n • Bättre hantering av bakåtknappstryckning \n • Byggoptimeringar \n • Lägg till en liten fördröjning innan bilden laddas \ \n • Bugfixar \n • Biblioteksuppdateringar (Jsoup, kommentarer , AGP, Googles materialdesignbibliotek) \n • Förbättra gradle.properties för potentiella mindre apk-storlekar \n • Strängjusteringar \n • Mindre gränssnittsjusteringar
+    <b>Version 2.0.0:</b>
+    <b>Version 1.7.0:</b>\n \n • SÖKNING TILLAD!!!!!! \n • Lade till 8 nya språk (franska, tyska, italienska, ryska, spanska, svenska Turkiet och polska) \n \n \n • \n \n • Optimerade PNG-filer för att minska appstorleken! \n • Starta om appen automatiskt när tema ändras \n • Bättre hantering av bakåtknapptryckning \n • Byggoptimeringar \n • Lägg till en liten fördröjning innan bilden laddas \ \n • Bugfixar \n • Mindre UI-justeringar
   </string>
+  <string name="search">Sök</string>
+  <string name="no_data_found">Ingen information hittad…</string>
+  <string name="search_vehicle">Sök fordon</string>
+  <string name="search_here">Sök här…</string>
+  <string name="clear_search">Rensa sökning</string>
 </resources>

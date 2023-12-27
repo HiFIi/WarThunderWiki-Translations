@@ -56,6 +56,12 @@
   <string name="read_changelog">Leer registro de cambios...</string>
   <string name="changelog">Registro de cambios</string>
   <string name="changelog_dialog_body">
-    <b>Version 1.7.0:</b>\n \n • ¡PNG optimizados para reducir el tamaño de la aplicación! \n • Reiniciar automáticamente la aplicación cuando cambia el tema \n • Mejor manejo al presionar el botón Atrás \n • Optimizaciones de compilación \n • Agregar un ligero retraso antes de la carga de la imagen \n • Corrección de errores \n • Actualizaciones de la biblioteca (Jsoup, anotaciones , AGP, biblioteca de diseño de materiales de Google) \n • Mejorar gradle.properties para un posible tamaño de apk más pequeño \n • Ajustes de cadena \n • Ajustes menores en la interfaz de usuario
+    <b>Version 2.0.0:</b>
+    <b>Version 1.7.0:</b>\n \n • ¡¡¡BÚSQUEDA AÑADIDA!!!!!! \n • Se agregaron 8 idiomas nuevos (francés, alemán, italiano, ruso, español, sueco, turco y polaco) \n \n \n • \n \n • ¡PNG optimizados para reducir el tamaño de la aplicación! \n • Reiniciar automáticamente la aplicación cuando cambia el tema \n • Mejor manejo al presionar el botón Atrás \n • Optimizaciones de compilación \n • Agregar un ligero retraso antes de la carga de la imagen \n • Corrección de errores \n • Ajustes menores en la interfaz de usuario
   </string>
+  <string name="search">Buscar</string>
+  <string name="no_data_found">Datos no encontrados…</string>
+  <string name="search_vehicle">Buscar vehículo</string>
+  <string name="search_here">Busca aquí…</string>
+  <string name="clear_search">Borrar búsqueda</string>
 </resources>
