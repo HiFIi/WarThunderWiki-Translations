@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
-<resources>
-  <string name="app_name">ThunderDex</string>
-  <string name="news">Haberler</string>
-  <string name="updates">Güncellemeler</string>
-  <string name="favorites">Favoriler</string>
-  <string name="settings">Ayarlar</string>
-  <string name="battle_rating">Savaş Puanı:</string>
-  <string name="battle_rating_ab">AB</string>
-  <string name="battle_rating_rb">RB</string>
-  <string name="battle_rating_sb">SB</string>
-  <string name="not_available">Yok</string>
-  <string name="research">Araştırma:</string>
-  <string name="purchase">Satın almak:</string>
-  <string name="bundle_or_gift">Paket veya Hediye</string>
-  <string name="description">Tanım:</string>
-  <string name="general_info">Genel Bilgi:</string>
-  <string name="pros_and_cons">Lehte ve aleyhte olanlar:</string>
-  <string name="pros">Artıları:</string>
-  <string name="cons">Eksileri:</string>
-  <string name="empty_list">Boş liste</string>
-  <string name="loading">Yükleniyor…</string>
-  <string name="please_wait">Lütfen bekleyin…</string>
-  <string name="connection_error">Server\'a bağlanılamadı! :(</string>
-  <string name="something_went_wrong">Hata: Bir şeyler ters gitti! D:</string>
-  <string name="home">Ev</string>
-  <string name="planes">Uçaklar / Jetler</string>
-  <string name="helicopters">Helikopterler</string>
-  <string name="tanks">Tanklar</string>
-  <string name="ships">Gemiler</string>
-  <string name="favorite">Favori</string>
-  <string name="unfavorite">Favorilerden kaldır</string>
+<resources> 
+  <string name="app_name">ThunderDex</string>  
+  <string name="news">Haberler</string>  
+  <string name="updates">Güncellemeler</string>  
+  <string name="favorites">Favoriler</string>  
+  <string name="settings">Ayarlar</string>  
+  <string name="battle_rating">Savaş Puanı:</string>  
+  <string name="battle_rating_ab">AB</string>  
+  <string name="battle_rating_rb">RB</string>  
+  <string name="battle_rating_sb">SB</string>  
+  <string name="not_available">Yok</string>  
+  <string name="research">Araştırma:</string>  
+  <string name="purchase">Satın almak:</string>  
+  <string name="bundle_or_gift">Paket veya Hediye</string>  
+  <string name="description">Tanım:</string>  
+  <string name="general_info">Genel Bilgi:</string>  
+  <string name="pros_and_cons">Lehte ve aleyhte olanlar:</string>  
+  <string name="pros">Artıları:</string>  
+  <string name="cons">Eksileri:</string>  
+  <string name="empty_list">Boş liste</string>  
+  <string name="loading">Yükleniyor…</string>  
+  <string name="please_wait">Lütfen bekleyin…</string>  
+  <string name="connection_error">Server\'a bağlanılamadı! :(</string>  
+  <string name="something_went_wrong">Hata: Bir şeyler ters gitti! D:</string>  
+  <string name="home">Ev</string>  
+  <string name="planes">Uçaklar / Jetler</string>  
+  <string name="helicopters">Helikopterler</string>  
+  <string name="tanks">Tanklar</string>  
+  <string name="ships">Gemiler</string>  
+  <string name="favorite">Favori</string>  
+  <string name="unfavorite">Favorilerden kaldır</string>  
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
-  </string>
+  </string>  
   <string name="donate_dialog_body">
     <b>Hello, and thank you for using ThunderDex!!</b>
-    <b>
-      <i>at least</i>
+    <b> 
+      <i>at least</i> 
     </b>
     <b>lot</b>
     <b>free</b>
     <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Lütfen bir kez bağış yapmayı düşünün… \n \n Bu uygulamaya çok emek harcanıyor. \n \n \n \n -HiFii
-  </string>
-  <string name="settings_app_theme_title">Monet teması</string>
-  <string name="settings_app_theme_desc">%s için para temasını etkinleştir</string>
+  </string>  
+  <string name="settings_app_theme_title">Monet teması</string>  
+  <string name="settings_app_theme_desc">%s için para temasını etkinleştir</string>  
   <string name="settings_donate_title">
     <i>Enjoying this app?</i>
-  </string>
-  <string name="settings_donate_desc">❤️ Lütfen PayPal aracılığıyla bağış yapmayı düşünün! ❤️</string>
-  <string name="settings_clear_cache_title">Önbelleği temizle</string>
-  <string name="settings_clear_cache_desc">Kaydedilen ayarları, metinleri ve resimleri temizleyin</string>
-  <string name="affirmative_text">Teşekkürler!</string>
-  <string name="read_changelog">Değişiklik Günlüğünü Oku…</string>
-  <string name="changelog">Değişiklik günlüğü</string>
+  </string>  
+  <string name="settings_donate_desc">❤️ Lütfen PayPal aracılığıyla bağış yapmayı düşünün! ❤️</string>  
+  <string name="settings_clear_cache_title">Önbelleği temizle</string>  
+  <string name="settings_clear_cache_desc">Kaydedilen ayarları, metinleri ve resimleri temizleyin</string>  
+  <string name="affirmative_text">Teşekkürler!</string>  
+  <string name="read_changelog">Değişiklik Günlüğünü Oku…</string>  
+  <string name="changelog">Değişiklik günlüğü</string>  
   <string name="changelog_dialog_body">
     <b>Version 2.0.0:</b>
     <b>Version 1.7.0:</b>\n \n • ARAMA EKLENDİ!!!!!! \n • 8 yeni dil eklendi (Fransızca, Almanca, İtalyanca, Rusça, İspanyolca, İsveççe, Türkiye ve Lehçe) \n \n \n • \n \n • Uygulama boyutunu küçültmek için PNG\'ler optimize edildi! \n • Tema değiştiğinde uygulamayı otomatik olarak yeniden başlatma \n • Geri düğmesine basmanın daha iyi işlenmesi \n • Derleme optimizasyonları \n • Resim yüklenmeden önce küçük bir gecikme ekleme \n • Hata düzeltmeleri \n • Küçük kullanıcı arayüzü ayarlamaları
-  </string>
-  <string name="search">Aramak</string>
-  <string name="no_data_found">Veri bulunamadı…</string>
-  <string name="search_vehicle">Araç ara</string>
-  <string name="search_here">Burada ara…</string>
-  <string name="clear_search">Aramayı Temizle</string>
+  </string>  
+  <string name="search">Aramak</string>  
+  <string name="no_data_found">Veri bulunamadı…</string>  
+  <string name="search_vehicle">Araç ara</string>  
+  <string name="search_here">Burada ara…</string>  
+  <string name="clear_search">Aramayı Temizle</string> 
 </resources>

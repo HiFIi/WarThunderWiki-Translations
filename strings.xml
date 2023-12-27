@@ -40,7 +40,7 @@
     <string name="affirmative_text">Thanks!</string>
     <string name="read_changelog">Read Changelog…</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body"><b>Version 2.0.0:</b>\n\n• SEARCH ADDED!!!!!!\n• Added 8 new languages (French, German, Italian, Russian, Spanish, SwedishTurkey, and Polish)\n\n\n•<b>Version 1.7.0:</b>\n\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
+    <string name="changelog_dialog_body"><b>Version 2.0.0:</b>\n\n• SEARCH ADDED!!!!!!\n• Added 8 new languages (French, German, Italian, Russian, Spanish, SwedishTurkey, and Polish)\n\n<b>Version 1.7.0:</b>\n\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
     <string name="search">Search</string>
     <string name="no_data_found">No data found…</string>
     <string name="search_vehicle">Search vehicle</string>

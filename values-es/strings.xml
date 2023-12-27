@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
-<resources>
-  <string name="app_name">Truenodex</string>
-  <string name="news">Noticias</string>
-  <string name="updates">Actualizaciones</string>
-  <string name="favorites">Favoritos</string>
-  <string name="settings">Ajustes</string>
-  <string name="battle_rating">Clasificación de batalla:</string>
-  <string name="battle_rating_ab">AB</string>
-  <string name="battle_rating_rb">RB</string>
-  <string name="battle_rating_sb">SB</string>
-  <string name="not_available">N / A</string>
-  <string name="research">Investigación:</string>
-  <string name="purchase">Compra:</string>
-  <string name="bundle_or_gift">Paquete o regalo</string>
-  <string name="description">Descripción:</string>
-  <string name="general_info">Información general:</string>
-  <string name="pros_and_cons">Pros y contras:</string>
-  <string name="pros">Ventajas:</string>
-  <string name="cons">Contras:</string>
-  <string name="empty_list">Lista vacía</string>
-  <string name="loading">Cargando…</string>
-  <string name="please_wait">Espere por favor…</string>
-  <string name="connection_error">¡No se pudo conectar al servidor! :(</string>
-  <string name="something_went_wrong">Error: ¡Algo salió mal! D:</string>
-  <string name="home">Hogar</string>
-  <string name="planes">Aviones / Jets</string>
-  <string name="helicopters">Helicópteros</string>
-  <string name="tanks">Tanques</string>
-  <string name="ships">Buques</string>
-  <string name="favorite">Favorito</string>
-  <string name="unfavorite">No favorito</string>
+<resources> 
+  <string name="app_name">Truenodex</string>  
+  <string name="news">Noticias</string>  
+  <string name="updates">Actualizaciones</string>  
+  <string name="favorites">Favoritos</string>  
+  <string name="settings">Ajustes</string>  
+  <string name="battle_rating">Clasificación de batalla:</string>  
+  <string name="battle_rating_ab">AB</string>  
+  <string name="battle_rating_rb">RB</string>  
+  <string name="battle_rating_sb">SB</string>  
+  <string name="not_available">N / A</string>  
+  <string name="research">Investigación:</string>  
+  <string name="purchase">Compra:</string>  
+  <string name="bundle_or_gift">Paquete o regalo</string>  
+  <string name="description">Descripción:</string>  
+  <string name="general_info">Información general:</string>  
+  <string name="pros_and_cons">Pros y contras:</string>  
+  <string name="pros">Ventajas:</string>  
+  <string name="cons">Contras:</string>  
+  <string name="empty_list">Lista vacía</string>  
+  <string name="loading">Cargando…</string>  
+  <string name="please_wait">Espere por favor…</string>  
+  <string name="connection_error">¡No se pudo conectar al servidor! :(</string>  
+  <string name="something_went_wrong">Error: ¡Algo salió mal! D:</string>  
+  <string name="home">Hogar</string>  
+  <string name="planes">Aviones / Jets</string>  
+  <string name="helicopters">Helicópteros</string>  
+  <string name="tanks">Tanques</string>  
+  <string name="ships">Buques</string>  
+  <string name="favorite">Favorito</string>  
+  <string name="unfavorite">No favorito</string>  
   <string name="donate_dialog_title">
     <b>❤️ Donations ❤️</b>
-  </string>
+  </string>  
   <string name="donate_dialog_body">
     <b>Hello, and thank you for using ThunderDex!!</b>
-    <b>
-      <i>at least</i>
+    <b> 
+      <i>at least</i> 
     </b>
     <b>lot</b>
     <b>free</b>
     <b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n \n Por favor considere donar una vez... \n \n una gran cantidad de trabajo se destina a esta aplicación. \n \n \n \n -HiFii
-  </string>
-  <string name="settings_app_theme_title">Tematización de Monet</string>
-  <string name="settings_app_theme_desc">Habilitar temas de Monet para %s</string>
+  </string>  
+  <string name="settings_app_theme_title">Tematización de Monet</string>  
+  <string name="settings_app_theme_desc">Habilitar temas de Monet para %s</string>  
   <string name="settings_donate_title">
     <i>Enjoying this app?</i>
-  </string>
-  <string name="settings_donate_desc">❤️ ¡Considere donar a través de PayPal! ❤️</string>
-  <string name="settings_clear_cache_title">Limpiar cache</string>
-  <string name="settings_clear_cache_desc">Borrar configuraciones, textos e imágenes guardados</string>
-  <string name="affirmative_text">¡Gracias!</string>
-  <string name="read_changelog">Leer registro de cambios...</string>
-  <string name="changelog">Registro de cambios</string>
+  </string>  
+  <string name="settings_donate_desc">❤️ ¡Considere donar a través de PayPal! ❤️</string>  
+  <string name="settings_clear_cache_title">Limpiar cache</string>  
+  <string name="settings_clear_cache_desc">Borrar configuraciones, textos e imágenes guardados</string>  
+  <string name="affirmative_text">¡Gracias!</string>  
+  <string name="read_changelog">Leer registro de cambios...</string>  
+  <string name="changelog">Registro de cambios</string>  
   <string name="changelog_dialog_body">
     <b>Version 2.0.0:</b>
     <b>Version 1.7.0:</b>\n \n • ¡¡¡BÚSQUEDA AÑADIDA!!!!!! \n • Se agregaron 8 idiomas nuevos (francés, alemán, italiano, ruso, español, sueco, turco y polaco) \n \n \n • \n \n • ¡PNG optimizados para reducir el tamaño de la aplicación! \n • Reiniciar automáticamente la aplicación cuando cambia el tema \n • Mejor manejo al presionar el botón Atrás \n • Optimizaciones de compilación \n • Agregar un ligero retraso antes de la carga de la imagen \n • Corrección de errores \n • Ajustes menores en la interfaz de usuario
-  </string>
-  <string name="search">Buscar</string>
-  <string name="no_data_found">Datos no encontrados…</string>
-  <string name="search_vehicle">Buscar vehículo</string>
-  <string name="search_here">Busca aquí…</string>
-  <string name="clear_search">Borrar búsqueda</string>
+  </string>  
+  <string name="search">Buscar</string>  
+  <string name="no_data_found">Datos no encontrados…</string>  
+  <string name="search_vehicle">Buscar vehículo</string>  
+  <string name="search_here">Busca aquí…</string>  
+  <string name="clear_search">Borrar búsqueda</string> 
 </resources>
