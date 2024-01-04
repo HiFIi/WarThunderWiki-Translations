@@ -20,7 +20,7 @@
     <string name="empty_list">Empty list</string>
     <string name="loading">Loading…</string>
     <string name="please_wait">Please wait…</string>
-    <string name="connection_error">Could not connect to server! :(</string>
+    <string name="connection_error">Could not connect to server! :(</string>m
     <string name="something_went_wrong">Error: Something went wrong! D:</string>
     <string name="home">Home</string>
     <string name="planes">Planes / Jets</string>
@@ -40,10 +40,26 @@
     <string name="affirmative_text">Thanks!</string>
     <string name="read_changelog">Read Changelog…</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">\n<i>You asked, and I listened!!</i> 😁\n<b>Vehicle search has been added.</b>\n\n• <b>Added the following translations:</b>\n     - <i>French</i>\n     - <i>German</i>\n     - <i>Italian</i>\n     - <i>Russian</i>\n     - <i>Spanish</i>\n     - <i>Swedish</i>\n     - <i>Polish</i>\n\n<b>Previous update:</b>\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
+    <string name="changelog_dialog_body" translatable="false">\n<i>You asked, and I listened!!</i> 😁\n<b>Vehicle search has been added.</b>\n\n• Added a gradient to the vehicle images\n\n• <b>Added the following translations:</b>\n     - <i>French</i>\n     - <i>German</i>\n     - <i>Italian</i>\n     - <i>Russian</i>\n     - <i>Spanish</i>\n     - <i>Swedish</i>\n     - <i>Polish</i>\n\n<b>Previous update:</b>\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
     <string name="search">Search</string>
     <string name="no_data_found">No data found…</string>
     <string name="search_vehicle">Search vehicle</string>
     <string name="search_here">Search here…</string>
     <string name="clear_search">Clear search</string>
+    <string name="request_a_feature_title">Request a feature</string>
+    <string name="request_a_feature_body">Want something added to the app? Click here to contact the developer</string>
+    <string name="about">About</string>
+    <string name="settings_translate_title">Translate the app</string>
+    <string name="settings_translate_body">Want to contribute a language in the app? Click here!</string>
+    <string name="settings_discord_title">Join the ThunderDex Discord</string>
+    <string name="settings_discord_body">click here to join the ThunderDex Discord group! 😁</string>
+    <string name="my_email_demo">myname@example.com</string>
+    <string name="recipient">Recipient</string>
+    <string name="message_body">Message body</string>
+    <string name="subject">Subject</string>
+    <string name="send">Send</string>
+    <string name="my_email">MBQSniper@gmail.com</string>
+    <string name="feature_request">Feature Request</string>
+    <string name="recipient_bold">Recipient:</string>
+    <string name="bold_subject">Subject:</string>
 </resources>
