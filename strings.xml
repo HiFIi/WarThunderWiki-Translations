@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">ThunderDex</string>
+
+    <!-- links -->
+    <string name="paypal_link">https://paypal.me/hifii</string>
+    <!--                                                        -->
+    <!-- ////////////////////////////////////////////////////// -->
+    <!-- !!!!!! REMEMBER TO CHANGE THIS LINK PERIODICALLY!!!!!! -->
+    <string name="discord_invite_link">https://discord.com/invite/kKjqpqAm</string>
+    <!-- ////////////////////////////////////////////////////// -->
+    <!--                                                        -->
+    <!-- end links -->
+
     <string name="news">News</string>
     <string name="updates">Updates</string>
     <string name="favorites">Favorites</string>
@@ -30,7 +41,7 @@
     <string name="favorite">Favorite</string>
     <string name="unfavorite">Unfavorite</string>
     <string name="donate_dialog_title"><b>❤️ Donations ❤️ </b></string>
-    <string name="donate_dialog_body" translatable="false"><b>Hello, and thank you for using ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
+    <string name="donate_dialog_body" translatable="false"><b>Hello, and thank you for Installing or updating ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="settings_app_theme_title">Monet theming</string>
     <string name="settings_app_theme_desc">Enable monet theming for %s</string>
     <string name="settings_donate_title"><i>Enjoying this app?</i></string>
@@ -39,8 +50,6 @@
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
     <string name="affirmative_text">Thanks!</string>
     <string name="read_changelog">Read Changelog…</string>
-    <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">\n<i>You asked, and I listened!!</i> 😁\n<b>Vehicle search has been added.</b>\n\n• Added a gradient to the vehicle images\n\n• <b>Added the following translations:</b>\n     - <i>French</i>\n     - <i>German</i>\n     - <i>Italian</i>\n     - <i>Russian</i>\n     - <i>Spanish</i>\n     - <i>Swedish</i>\n     - <i>Polish</i>\n\n<b>Previous update:</b>\n• Optimized PNGs to shrink app size!\n• Auto-restart app when theme changes\n• Better handling of back button press\n• Build optimizations\n• Add a slight delay prior to the image loading\n• Bug fixes\n• Minor UI tweaks</string>
     <string name="search">Search</string>
     <string name="no_data_found">No data found…</string>
     <string name="search_vehicle">Search vehicle</string>
@@ -53,13 +62,20 @@
     <string name="settings_translate_body">Want to contribute a language in the app? Click here!</string>
     <string name="settings_discord_title">Join the ThunderDex Discord</string>
     <string name="settings_discord_body">click here to join the ThunderDex Discord group! 😁</string>
-    <string name="my_email_demo">myname@example.com</string>
     <string name="recipient">Recipient</string>
     <string name="message_body">Message body</string>
     <string name="subject">Subject</string>
     <string name="send">Send</string>
     <string name="my_email">MBQSniper@gmail.com</string>
-    <string name="feature_request">Feature Request</string>
+    <string name="feature_request">ThunderDex Feature Request</string>
     <string name="recipient_bold">Recipient:</string>
     <string name="bold_subject">Subject:</string>
+    <string name="thunderdex_translation_text">\nSo,\nyou want to translate ThunderDex?</string>
+    <string name="request_text_hint">Try typing something to start…</string>
+    <string name="translations_strings_xml_url">Head over to <a href="https://github.com/HiFIi/WarThunderWiki-Translations/blob/main/strings.xml">here</a> and download the strings.xml\n\nOnce you do so, translate the strings (excluding the couple of strings that have a translatable=false tag)\n\nThen, translate into your native language and send an email to MBQSniper@gmail.com titled COUNTRY translations (with COUNTRY being whatever Country youre in.\n\nill take care of the rest and youll get credit upon the updating of the app)</string>
+    <string name="usage_in_battles">Usage in battles:</string>
+
+    <!-- Please always leave these strings at the bottom -->
+    <string name="changelog">Changelog</string>
+    <string name="changelog_dialog_body" translatable="false">\n• Added the "Usage in Battles" section for vehicles\n• Added the following new Settings:\n      - New setting to join the ThunderDex Discord\n      - New "request a feature' option\n      - Added a translation setting\n• Reorganized the settings\n• Removed translations again for now\n• Vehicle images are now larger\n• Adjusted and fixed the vehicle image gradient\n\n<b>Previous update:</b>\n• Search added!</string>
 </resources>
