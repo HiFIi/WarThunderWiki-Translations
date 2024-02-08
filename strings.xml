@@ -3,8 +3,8 @@
     <string name="paypal_link">https://paypal.me/hifii</string>
     <!--                                                        -->
     <!-- ////////////////////////////////////////////////////// -->
-    <!-- !!!!!! REMEMBER TO CHANGE THIS LINK PERIODICALLY!!!!!! -->
-    <string name="discord_invite_link">https://discord.com/invite/kKjqpqAm</string>
+    <!--              This is now a permanent link :)           -->
+    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
     <!-- ////////////////////////////////////////////////////// -->
     <!--                                                        -->
     <!-- end links -->
@@ -70,7 +70,7 @@
     <string name="thunderdex_translation_text">\nSo,\nyou want to translate ThunderDex?</string>
     <string name="request_text_hint">Try typing something to start…</string>
     <string name="usage_in_battles">Usage in battles:</string>
-    
+
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false"><b>Hello, and thank you for Installing or updating ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="translations_strings_xml_url" translatable="false">Head over to <a href="https://github.com/HiFIi/WarThunderWiki-Translations/blob/main/strings.xml">here</a> and download the strings.xml\n\nOnce you do so, translate the strings (excluding the couple of strings that have a translatable=false tag)\n\nThen, translate into your native language and send an email to MBQSniper@gmail.com titled COUNTRY translations (with COUNTRY being whatever Country youre in.\n\nill take care of the rest and youll get credit upon the updating of the app)</string>
@@ -79,5 +79,5 @@
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">\n• Added the "Usage in Battles" section for vehicles\n• Added the following new Settings:\n      - New setting to join the ThunderDex Discord\n      - New "request a feature' option\n      - Added a translation setting\n• Reorganized the settings\n• Removed translations again for now\n• Vehicle images are now larger\n• Adjusted and fixed the vehicle image gradient\n\n<b>Previous update:</b>\n• Search added!</string>
+    <string name="changelog_dialog_body" translatable="false">\n• Added permanent discord link!\n• Made the vehicle image gradient slightly darker\n• Fixed the toolbar including the gradient bug \n\n• Added the "Usage in Battles" section for vehicles\n• Added the following new Settings:\n      - New setting to join the ThunderDex Discord\n      - New "request a feature' option\n      - Added a translation setting\n• Reorganized the settings\n• Removed translations again for now\n• Vehicle images are now larger\n• Adjusted and fixed the vehicle image gradient\n\n<b>Previous update:</b>\n• Search added!</string>
 </resources>
