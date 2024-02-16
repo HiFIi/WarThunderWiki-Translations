@@ -7,12 +7,17 @@
     <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
     <!-- ////////////////////////////////////////////////////// -->
     <!--                                                        -->
+    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
+    <!-- ////////////////////////////////////////////////////// -->
+    <!--                                                        -->
     <!-- end links -->
 
-    <string name="news">News</string>
-    <string name="updates">Updates</string>
-    <string name="favorites">Favorites</string>
+    <string name="news">War Thunder News</string>
+    <string name="updates">Latest Updates</string>
+    <string name="vehicle_types">Vehicles</string>
+    <string name="favorite_vehicles">Favorite Vehicles</string>
     <string name="settings">Settings</string>
+    <string name="extras">Extras</string>
     <string name="battle_rating">Battle Rating:</string>
     <string name="battle_rating_ab">AB</string>
     <string name="battle_rating_rb">RB</string>
@@ -22,54 +27,44 @@
     <string name="purchase">Purchase:</string>
     <string name="bundle_or_gift">Bundle or Gift</string>
     <string name="description">Description:</string>
-    <string name="general_info">General info:</string>
+    <string name="general_info">General Info:</string>
     <string name="pros_and_cons">Pros and Cons:</string>
     <string name="pros">Pros:</string>
     <string name="cons">Cons:</string>
     <string name="empty_list">Empty list</string>
     <string name="loading">Loading…</string>
     <string name="please_wait">Please wait…</string>
-    <string name="connection_error">Could not connect to server! :(</string>m
-    <string name="something_went_wrong">Error: Something went wrong! D:</string>
+    <string name="connection_error">Could not connect to server</string>m
+    <string name="something_went_wrong">Error: Something went wrong</string>
     <string name="home">Home</string>
-    <string name="planes">Planes / Jets</string>
+    <string name="planes">Aircraft</string>
     <string name="helicopters">Helicopters</string>
     <string name="tanks">Tanks</string>
     <string name="ships">Ships</string>
     <string name="favorite">Favorite</string>
     <string name="unfavorite">Unfavorite</string>
-    <string name="donate_dialog_title"><b>❤️ Donations ❤️ </b></string>
-    <string name="settings_app_theme_title">Monet theming</string>
-    <string name="settings_app_theme_desc">Enable monet theming for %s</string>
-    <string name="settings_donate_title"><i>Enjoying this app?</i></string>
+    <string name="donate_dialog_title"><b>❤️ DONATIONS. :) ❤️ </b></string>
+    <string name="settings_app_theme_title">Dynamic Theming</string>
+    <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
+    <string name="settings_donate_title"><i>Support the developer</i></string>
     <string name="settings_donate_desc">❤️ Please consider donating via PayPal! ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
     <string name="affirmative_text">Thanks!</string>
-    <string name="read_changelog">Read Changelog…</string>
+    <string name="read_changelog">Read the changelog…</string>
     <string name="search">Search</string>
     <string name="no_data_found">No data found…</string>
     <string name="search_vehicle">Search vehicle</string>
     <string name="search_here">Search here…</string>
     <string name="clear_search">Clear search</string>
-    <string name="request_a_feature_title">Request a feature</string>
-    <string name="request_a_feature_body">Want something added to the app? Click here to contact the developer</string>
     <string name="about">About</string>
-    <string name="settings_translate_title">Translate the app</string>
-    <string name="settings_translate_body">Want to contribute a language in the app? Click here!</string>
     <string name="settings_discord_title">Join the ThunderDex Discord</string>
     <string name="settings_discord_body">click here to join the ThunderDex Discord group! 😁</string>
-    <string name="recipient">Recipient</string>
-    <string name="message_body">Message body</string>
-    <string name="subject">Subject</string>
-    <string name="send">Send</string>
-    <string name="my_email">MBQSniper@gmail.com</string>
-    <string name="feature_request">ThunderDex Feature Request</string>
-    <string name="recipient_bold">Recipient:</string>
-    <string name="bold_subject">Subject:</string>
-    <string name="thunderdex_translation_text">\nSo,\nyou want to translate ThunderDex?</string>
-    <string name="request_text_hint">Try typing something to start…</string>
     <string name="usage_in_battles">Usage in battles:</string>
+    <string name="wiki">Wiki</string>
+    <string name="about_app">War Thunder Wiki Client</string>
+    <string name="reddit_title">Join the ThunderDex subreddit!</string>
+    <string name="reddit_summary">Be part of something amazing.</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false"><b>Hello, and thank you for Installing or updating ThunderDex!!</b>\n\nPlease consider donating <b><i>at least</i></b> once…\n\na <b>lot</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
@@ -79,5 +74,5 @@
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">\n• Added permanent discord link!\n• Made the vehicle image gradient slightly darker\n• Fixed the toolbar including the gradient bug \n\n• Added the "Usage in Battles" section for vehicles\n• Added the following new Settings:\n      - New setting to join the ThunderDex Discord\n      - New "request a feature' option\n      - Added a translation setting\n• Reorganized the settings\n• Removed translations again for now\n• Vehicle images are now larger\n• Adjusted and fixed the vehicle image gradient\n\n<b>Previous update:</b>\n• Search added!</string>
+    <string name="changelog_dialog_body" translatable="false">• BRAND NEW and cleaner interface!!    ENJOY!\n• Added my ThunderDexApp subreddit\n• "News" section has been fixed permanently\n• planes / jets changed to Aircraft\n• Add blurred searchview\n• fix toolbar glitching while collapsiing\n• Remove special star character from vehicle info</string>
 </resources>
