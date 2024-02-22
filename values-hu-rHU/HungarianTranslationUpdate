@@ -34,7 +34,7 @@
     <string name="settings_app_theme_title">Dinamikus Téma</string>
     <string name="settings_app_theme_desc">Dinamikus Téma beállítása for %s</string>
     <string name="settings_donate_title"><i>Fejlesztő támogatása</i></string>
-    <string name="settings_donate_desc">❤️   Támogatsd a munkám pénzel   ❤️</string>
+    <string name="settings_donate_desc">❤️   Támogatsd a munkám   ❤️</string>
     <string name="settings_clear_cache_title">Gyorsítótár törlése</string>
     <string name="settings_clear_cache_desc">Elmentett beállítások, szövegek és képek törlése </string>
     <string name="affirmative_text">Köszönöm!</string>
