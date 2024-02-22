@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">ThunderDex</string>
+    <string name="news">War Thunder Naujienos</string>
+    <string name="updates">Naujausi Atnaujinimai</string>
+    <string name="vehicle_types">Karinės Transporto Priemonės</string>
+    <string name="favorite_vehicles">Mėgstamiausios Transporto Priemonės</string>
+    <string name="settings">Nustatymai</string>
+    <string name="battle_rating">Mūšio reitingas:</string>
+    <string name="battle_rating_ab">AB</string>
+    <string name="battle_rating_rb">RB</string>
+    <string name="battle_rating_sb">SB</string>
+    <string name="not_available">N/A</string>
+    <string name="research">Tyrimas:</string>
+    <string name="purchase">Pirkimas:</string>
+    <string name="bundle_or_gift">Rinkinys arba Dovana</string>
+    <string name="description">Aprašymas:</string>
+    <string name="general_info">Bendra Informacija:</string>
+    <string name="pros_and_cons">Pliusai ir Minusai:</string>
+    <string name="pros">Pliusai:</string>
+    <string name="cons">Minusai:</string>
+    <string name="empty_list">Tuščias Sąrašąs</string>
+    <string name="loading">Įkeliama…</string>
+    <string name="please_wait">Prašau palaukite…</string>
+    <string name="connection_error">Neįmanoma prisijungti prie serverio</string>m
+    <string name="something_went_wrong">Klaida: kažkas ne taip pavyko</string>
+    <string name="home">Namai</string>
+    <string name="planes">Lėktuvai</string>
+    <string name="helicopters">Sraigtasparniai</string>
+    <string name="tanks">Tankai</string>
+    <string name="ships">Laivai</string>
+    <string name="favorite">Mėgstamiausi</string>
+    <string name="unfavorite">Nemėgstamas</string>
+    <string name="donate_dialog_title"><b>❤️   • AUKA •   ❤️</b></string>
+    <string name="settings_app_theme_title">Dinaminis Temų Kūrimas</string>
+    <string name="settings_app_theme_desc">Įgalinti Dinaminią Temą %s</string>
+    <string name="settings_donate_title"><i>Palaikykite Kūrėją</i></string>
+    <string name="settings_donate_desc">❤️   Paremkite Mano Darbą Aukodami   ❤️</string>
+    <string name="settings_clear_cache_title">Išvalyti talpyklą</string>
+    <string name="settings_clear_cache_desc">Išvalykite išsaugotus nustatymus, tekstus ir vaizdus</string>
+    <string name="affirmative_text">Ačiū!</string>
+    <string name="read_changelog">Perskaitykite pakeitimų žurnalą</string>
+    <string name="no_data_found">Duomenų nerasta…</string>
+    <string name="search_vehicle">Ieškokite transporto priemonės</string>
+    <string name="search_here">Ieškokite čia…</string>
+    <string name="clear_search">Išvalyti paiešką</string>
+    <string name="settings_discord_title">Prisijunkite prie „ThunderDex“ Discord grupės</string>
+    <string name="settings_discord_body"><i>Būkite kažko nuostabaus dalimi.</i></string>
+    <string name="usage_in_battles">Naudojimas mūšiuose:</string>
+    <string name="wiki">Wiki</string>
+    <string name="about_app">War Thunder Wiki Klientas</string>
+    <string name="reddit_title">Prisijunkite prie „ThunderDex“ subreddito!</string>
+    <string name="reddit_summary">Spustelėkite čia, kad prisijungtumėte prie „ThunderDex“ subreddit! 😁</string>
+
+    <!-- DO NOT TRANSLATE THESE!!!! -->
+    <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
+
+    <!-- Please always leave these strings at the bottom -->
+    <string name="changelog">Changelog</string>
+    <string name="changelog_dialog_body" translatable="false">• Reduced app size by 4MB\n• Changed some wording in the app\n• Cleaned up code and improved code structure\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
+    <!-- And these...-->
+    <string name="paypal_link">https://paypal.me/hifii</string>
+    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
+    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
+    <!-- ^^^^^ Permanent Discord link ^^^^^ -->
+</resources>
