@@ -43,7 +43,7 @@
     <string name="search_vehicle">Jármű keresése</string>
     <string name="search_here">Keress itt...</string>
     <string name="clear_search">Keresés törlése</string>
-    <string name="settings_discord_title">Csatlakozz a ThunderDex Discord csoportba</string>
+    <string name="settings_discord_title">Csatlakozz a ThunderDex Discord csoporthoz</string>
     <string name="settings_discord_body"><i>Légy része valami csodálatosnak.</i></string>
     <string name="usage_in_battles">Csatákban való használat:</string>
     <string name="wiki">Wiki</string>
