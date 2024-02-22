@@ -2,8 +2,8 @@
     <string name="app_name" translatable="false">ThunderDex</string>
     <string name="news">War Thunder Naujienos</string>
     <string name="updates">Naujausi Atnaujinimai</string>
-    <string name="vehicle_types">Karinės Transporto Priemonės</string>
-    <string name="favorite_vehicles">Mėgstamiausios Transporto Priemonės</string>
+    <string name="vehicle_types">Karino "Mašinos</string>
+    <string name="favorite_vehicles">Mėgstamiausi</string>
     <string name="settings">Nustatymai</string>
     <string name="battle_rating">Mūšio reitingas:</string>
     <string name="battle_rating_ab">AB</string>
