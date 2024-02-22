@@ -22,7 +22,7 @@
     <string name="loading">Betöltés...</string>
     <string name="please_wait">Kérlek várj...</string>
     <string name="connection_error">Nem sikerült csatlakozni a szerverhez</string>m
-    <string name="something_went_wrong">Error: Something went wrong</string>
+    <string name="something_went_wrong">Hiba történt</string>
     <string name="home">Kezdőlap</string>
     <string name="planes">Légi erők</string>
     <string name="helicopters">Helikopterek</string>
@@ -32,7 +32,7 @@
     <string name="unfavorite">Eltávolítás a kedvencektől</string>
     <string name="donate_dialog_title"><b>❤️   • TÁMOGATÁS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dinamikus Téma</string>
-    <string name="settings_app_theme_desc">Dinamikus Téma beállítása for %s</string>
+    <string name="settings_app_theme_desc">Dinamikus Téma beállítása %s számára</string>
     <string name="settings_donate_title"><i>Fejlesztő támogatása</i></string>
     <string name="settings_donate_desc">❤️   Támogatsd a munkám   ❤️</string>
     <string name="settings_clear_cache_title">Gyorsítótár törlése</string>
