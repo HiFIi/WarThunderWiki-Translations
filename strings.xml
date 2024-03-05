@@ -56,7 +56,7 @@
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">• Reduced app size by 4MB\n• Changed some wording in the app\n• Cleaned up code and improved code structure\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
+    <string name="changelog_dialog_body" translatable="false">• Added Lithuanian and Hungarian translations (thanks to theslimyboi  and Tdikristof_ on Discord for the translations)\n• Changed a couple of UI elements\n• New ThunderDex header font\n• Other minor changes\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
     <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
