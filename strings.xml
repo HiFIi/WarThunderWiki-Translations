@@ -33,7 +33,8 @@
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
     <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_donate_title"><i>Support the developer</i></string>
+    <string name="settings_donate_title_paypal"><i>Support the developer on PayPal</i></string>
+    <string name="settings_donate_title_cash_app"><i>Support the developer on Cash App</i></string>
     <string name="settings_donate_desc">❤️   Support my work by donating   ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
@@ -52,13 +53,14 @@
     <string name="reddit_summary">Click here to join the ThunderDex subreddit! 😁</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
-    <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
+    <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal or the Cash App option.</b>\n\n-HiFii</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">• Fixed changelog not being up to date in version 3.1.3, this is version 3.1.3 :)• Updated AGP\n• Bug fixes and performance improvements\n• Changed some element sizes in the app\n• Updated a library, gradle, and build tools\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
+    <string name="changelog_dialog_body" translatable="false">• Added an option to donate on Cash App\n• Fixed changelog not being up to date in version 3.1.2 :)\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app\n• Updated a library, gradle, and build tools\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
+    <string name="cash_app_link">https://cash.app/$hifii</string>
     <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
     <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->

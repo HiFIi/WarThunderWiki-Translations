@@ -59,6 +59,7 @@
     <string name="changelog_dialog_body" translatable="false">• Reduced app size by 4MB\n• Changed some wording in the app\n• Cleaned up code and improved code structure\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
+    <string name="cash_app_link">https://cash.app/$hifii</string>
     <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
     <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->
