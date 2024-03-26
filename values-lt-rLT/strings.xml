@@ -33,7 +33,6 @@
     <string name="donate_dialog_title"><b>❤️   • AUKA •   ❤️</b></string>
     <string name="settings_app_theme_title">Dinaminis Temų Kūrimas</string>
     <string name="settings_app_theme_desc">Įgalinti Dinaminią Temą %s</string>
-    <string name="settings_donate_title"><i>Palaikykite Kūrėją</i></string>
     <string name="settings_donate_desc">❤️   Paremkite Mano Darbą Aukodami   ❤️</string>
     <string name="settings_clear_cache_title">Išvalyti talpyklą</string>
     <string name="settings_clear_cache_desc">Išvalykite išsaugotus nustatymus, tekstus ir vaizdus</string>

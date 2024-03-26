@@ -33,8 +33,6 @@
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
     <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_donate_title_paypal"><i>Support the developer on PayPal</i></string>
-    <string name="settings_donate_title_cash_app"><i>Support the developer on Cash App</i></string>
     <string name="settings_donate_desc">❤️   Support my work by donating   ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
@@ -54,6 +52,10 @@
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal or the Cash App option.</b>\n\n-HiFii</string>
+    
+    <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
+    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
+    <string name="settings_donate_title_google_pay" translatable="false"><i>Support the developer on Google Pay</i></string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>

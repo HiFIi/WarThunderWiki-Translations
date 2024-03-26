@@ -33,7 +33,6 @@
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
     <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_donate_title"><i>Support the developer</i></string>
     <string name="settings_donate_desc">❤️   Support my work by donating   ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
