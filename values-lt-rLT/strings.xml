@@ -50,6 +50,14 @@
     <string name="reddit_title">Prisijunkite prie „ThunderDex“ subreddito!</string>
     <string name="reddit_summary">Spustelėkite čia, kad prisijungtumėte prie „ThunderDex“ subreddit! 😁</string>
 
+    <!-- Google Pay -->
+    <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
+    <string name="gpay_donation_dialog_body">Thank you for considering a donation!\n\nSend the payment to mbqonxda@gmail.com</string>
+    <string name="gpay_dialog_confirm">Open Google Pay</string>
+    <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
+    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
+
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
 
