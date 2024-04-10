@@ -55,14 +55,17 @@
 
     <!-- Google Pay -->
     <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
-    <string name="gpay_donation_dialog_body">Thank you for considering a donation!\n\nSend the payment to mbqonxda@gmail.com</string>
+    <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
     <string name="gpay_dialog_confirm">Open Google Pay</string>
+    <string name="gpay_dialog_negative">Copy Email address</string>
     <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
     <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
+    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
-    <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, Cash App, or Google Pay option!</b>\n\n-HiFii</string>
+    <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, Cash App, or Google Pay option!</b>\n\n-HiFii</string>
 
     <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
     <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
@@ -70,7 +73,7 @@
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">• Added an option to donate on Cash App\n• Added an option to donate with Google Pay\n• Fixed bugs and all Java isues in the app :)\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app such as header heights and image heights\n• Updated a library, gradle, and build tools\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
+    <string name="changelog_dialog_body" translatable="false">• Adjusted vehicle image height again. Its my favorite hobby :P \n• Updated Android AGP\n• Library updates\n• Added Android 9 support\n• Adjusted text in a dialog\n• Added an option to donate on Cash App\n• Added an option to donate with Google Pay\n• Fixed Google Pay not launching on older devices\n• Fixed typo in the changelog lol\n• Added an option to copy the Google Pay donation Email\n• Fixed bugs and all Java issues in the app :)\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app such as header heights and image heights\n• Updated a library, gradle, and build tools\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
     <string name="cash_app_link">https://cash.app/$hifii</string>
