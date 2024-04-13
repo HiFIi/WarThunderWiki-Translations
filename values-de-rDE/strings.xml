@@ -33,6 +33,7 @@
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
     <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
+    <string name="settings_app_theme_desc_two">Enable dynamic app theming</string>
     <string name="settings_donate_desc">❤️   Support my work by donating   ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
@@ -49,17 +50,24 @@
     <string name="about_app">War Thunder Wiki Client</string>
     <string name="reddit_title">Join the ThunderDex subreddit!</string>
     <string name="reddit_summary">Click here to join the ThunderDex subreddit! 😁</string>
+    <string name="upcoming_features_summary">Check out the cool features planned for 2024</string>
+    <string name="upcoming_features_summary_alt">Features &amp; plans for %s in 2024</string>
+    <string name="upcoming_features">Upcoming ThunderDex Features</string>
 
     <!-- Google Pay -->
     <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
     <string name="gpay_donation_dialog_body">Thank you for considering a donation!\n\nSend the payment to mbqonxda@gmail.com</string>
     <string name="gpay_dialog_confirm">Open Google Pay</string>
+    <string name="gpay_dialog_negative">Copy Email address</string>
     <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
     <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
+    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
+    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>

@@ -3,7 +3,7 @@
     <string name="app_name" translatable="false">ThunderDex</string>
     <!-- DO NOT TRANSLATE -->
 
-    <string name="news">War Thunder News</string>
+    <string name="news">Latest War Thunder News</string>
     <string name="updates">Latest Game Updates</string>
     <string name="vehicle_types">Vehicles</string>
     <string name="favorite_vehicles">Favorite Vehicles</string>
@@ -36,6 +36,7 @@
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
     <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
+    <string name="settings_app_theme_desc_two">Enable dynamic app theming</string>
     <string name="settings_donate_desc">❤️   Support my work by donating!!   ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear your saved settings, texts and images</string>
@@ -49,11 +50,31 @@
     <string name="settings_discord_body"><i>Be part of something amazing…</i></string>
     <string name="usage_in_battles">Usage in battles:</string>
     <string name="wiki">Wiki</string>
-    <string name="about_app">War Thunder Wikipedia Client</string>
+    <string name="about_app">The <b>best</b> War Thunder Wikipedia app.</string>
     <string name="reddit_title">Join the ThunderDex Subreddit</string>
     <string name="reddit_summary">Click here to join the ThunderDex subreddit!!! 😁</string>
+    <string name="upcoming_features_summary">Features &amp; plans for 2024</string>
+    <string name="upcoming_features_summary_alt">Feature plans for ThunderDex in 2024</string>
+    <string name="upcoming_features">Preview upcoming app features</string>
 
-    <!-- Google Pay -->
+    <!-- DO NOT TRANSLATE THESE!!!! -->
+    <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
+    <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
+    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
+    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+
+    <!-- Please always leave these strings at the bottom -->
+    <string name="changelog">Changelog</string>
+    <string name="changelog_dialog_body" translatable="false">• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference</string>
+
+    <!-- Links -->
+    <string name="paypal_link">https://paypal.me/hifii</string>
+    <string name="cash_app_link">https://cash.app/$hifii</string>
+    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
+    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
+    <!-- ^^^^^ Permanent Discord link ^^^^^ -->
+
+    <!-- UNUSED FOR NOW: Google Pay -->
     <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
     <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
     <string name="gpay_dialog_confirm">Open Google Pay</string>
@@ -63,22 +84,5 @@
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">Copied Google Pay Email</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-
-    <!-- DO NOT TRANSLATE THESE!!!! -->
-    <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, Cash App, or Google Pay option!</b>\n\n-HiFii</string>
-
-    <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
-    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Support the developer on Google Pay</i></string>
-
-    <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">• Adjusted vehicle image height again. Its my favorite hobby :P \n• Updated Android AGP\n• Library updates\n• Added Android 9 support\n• Adjusted text in a dialog\n• Added an option to donate on Cash App\n• Added an option to donate with Google Pay\n• Fixed Google Pay not launching on older devices\n• Fixed typo in the changelog lol\n• Added an option to copy the Google Pay donation Email\n• Fixed bugs and all Java issues in the app :)\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app such as header heights and image heights\n• Updated a library, gradle, and build tools\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
-    <!-- And these...-->
-    <string name="paypal_link">https://paypal.me/hifii</string>
-    <string name="cash_app_link">https://cash.app/$hifii</string>
-    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
-    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
-    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
-    <!-- ^^^^^ Permanent Discord link ^^^^^ -->
-</resources>
+    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string></resources>
