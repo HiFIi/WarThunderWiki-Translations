@@ -51,12 +51,12 @@
     <string name="reddit_title">Csatlakozz a ThunderDex subreddithez!</string>
     <string name="reddit_summary">Itt csatlakozz a ThunderDex subreddithez! 😁</string>
     <string name="upcoming_features_summary">Csekkold a tervben lévő menő funkciókat 2024-re</string>
-    <string name="upcoming_features_summary_alt">Features &amp; plans for %s in 2024</string>
+    <string name="upcoming_features_summary_alt">Funkciók &amp; tervek %s -re 2024-ben</string>
     <string name="upcoming_features">Közelgő ThunderDex Funkciók</string>
 
     <!-- Google Pay -->
     <string name="gpay_donation_dialog_title"><b>Támogas Google Pay-el</b></string>
-    <string name="gpay_donation_dialog_body">Köszönöm hogy megfontolod a támogatásomst!\n\n Küld a mbqonxda@gmail.com email címre</string>
+    <string name="gpay_donation_dialog_body">Köszönöm hogy megfontolod a támogatásomat!\n\n Küld a mbqonxda@gmail.com email címre</string>
     <string name="gpay_dialog_confirm">Nyitsd meg a Google Pay-t</string>
     <string name="gpay_dialog_negative">Email cím másolása</string>
     <string name="error_gpay_not_installed">Google Pay nincs telepítve! Google Play Store indítása…</string>
