@@ -29,7 +29,7 @@
     <string name="tanks">Szárazföldi erők</string>
     <string name="ships">Vízi erők</string>
     <string name="favorite">A Kedvencekhez</string>
-    <string name="unfavorite">Eltávolítás a kedvencektől</string>
+    <string name="unfavorite">Eltávolítás a kedvencek közül</string>
     <string name="donate_dialog_title"><b>❤️   • TÁMOGATÁS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dinamikus Téma</string>
     <string name="settings_app_theme_desc">Dinamikus Téma beállítása %s számára</string>
@@ -50,19 +50,19 @@
     <string name="about_app">War Thunder Wiki Kliens</string>
     <string name="reddit_title">Csatlakozz a ThunderDex subreddithez!</string>
     <string name="reddit_summary">Itt csatlakozz a ThunderDex subreddithez! 😁</string>
-    <string name="upcoming_features_summary">Check out the cool features planned for 2024</string>
+    <string name="upcoming_features_summary">Csekkold a tervben lévő menő funkciókat 2024-re</string>
     <string name="upcoming_features_summary_alt">Features &amp; plans for %s in 2024</string>
-    <string name="upcoming_features">Upcoming ThunderDex Features</string>
+    <string name="upcoming_features">Közelgő ThunderDex Funkciók</string>
 
     <!-- Google Pay -->
-    <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
-    <string name="gpay_donation_dialog_body">Thank you for considering a donation!\n\nSend the payment to mbqonxda@gmail.com</string>
-    <string name="gpay_dialog_confirm">Open Google Pay</string>
-    <string name="gpay_dialog_negative">Copy Email address</string>
-    <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
+    <string name="gpay_donation_dialog_title"><b>Támogas Google Pay-el</b></string>
+    <string name="gpay_donation_dialog_body">Köszönöm hogy megfontolod a támogatásomst!\n\n Küld a mbqonxda@gmail.com email címre</string>
+    <string name="gpay_dialog_confirm">Nyitsd meg a Google Pay-t</string>
+    <string name="gpay_dialog_negative">Email cím másolása</string>
+    <string name="error_gpay_not_installed">Google Pay nincs telepítve! Google Play Store indítása…</string>
     <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
+    <string name="gpay_clipboard_label">Google Pay Email másolva</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
