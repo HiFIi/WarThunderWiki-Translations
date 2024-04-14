@@ -54,18 +54,31 @@
     <string name="reddit_title">Join the ThunderDex Subreddit</string>
     <string name="reddit_summary">Click here to join the ThunderDex subreddit!!! 😁</string>
     <string name="upcoming_features_summary">Features &amp; plans for 2024</string>
-    <string name="upcoming_features_summary_alt">Feature plans for ThunderDex in 2024</string>
+    <string name="upcoming_features_summary_alt">2024 ThunderDex Plans</string>
     <string name="upcoming_features">Preview upcoming app features</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
     <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
-    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
+    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App!</i></string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="blank" translatable="false"> </string>
+
+    <!-- Upcoming Features strings -->
+    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
+    <string name="upcoming_feature_two">• Filter vehicles by rank instead of alphabetically</string>
+    <string name="upcoming_feature_three">• Add option to choose how vehicles are filtered</string>
+    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
+    <string name="upcoming_feature_five">• Add an option to download selected vehicle images</string>
+    <string name="upcoming_feature_six">• Add more translations</string>
+    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
+    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
+    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference</string>
+    <string name="changelog_dialog_body" translatable="false"><b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added back navigation to the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0:</b>\n• Fix text wrap issue on certain devices for the upcoming features preference\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Slightly redesigned the Settings\n• Removed some of the summary texts in the Settings</string>
 
     <!-- Links -->
     <string name="paypal_link">https://paypal.me/hifii</string>
@@ -75,7 +88,7 @@
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->
 
     <!-- UNUSED FOR NOW: Google Pay -->
-    <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
+    <string name="gpay_donation_dialog_title">Donate using Google Pay!</string>
     <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
     <string name="gpay_dialog_confirm">Open Google Pay</string>
     <string name="gpay_dialog_negative">Copy Email address</string>
@@ -85,4 +98,5 @@
     <string name="gpay_clipboard_label">Copied Google Pay Email</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Support the developer on Google Pay</i></string>
-    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string></resources>
+    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
+</resources>
