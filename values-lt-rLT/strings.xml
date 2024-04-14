@@ -65,25 +65,13 @@
     <string name="gpay_clipboard_label">Copied Google Pay Email</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
-    <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_two">• Filter vehicles by rank instead of alphabetically</string>
-    <string name="upcoming_feature_three">• Add option to choose how vehicles are filtered</string>
-    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_five">• Add an option to download selected vehicle images</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
-
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-
+    <string name="changelog_dialog_body" translatable="false">• Reduced app size by 4MB\n• Changed some wording in the app\n• Cleaned up code and improved code structure\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
     <string name="cash_app_link">https://cash.app/$hifii</string>

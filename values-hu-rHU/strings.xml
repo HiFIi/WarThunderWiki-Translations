@@ -29,7 +29,7 @@
     <string name="tanks">Szárazföldi erők</string>
     <string name="ships">Vízi erők</string>
     <string name="favorite">A Kedvencekhez</string>
-    <string name="unfavorite">Eltávolítás a kedvencektől</string>
+    <string name="unfavorite">Eltávolítás a kedvencek közül</string>
     <string name="donate_dialog_title"><b>❤️   • TÁMOGATÁS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dinamikus Téma</string>
     <string name="settings_app_theme_desc">Dinamikus Téma beállítása %s számára</string>
@@ -50,32 +50,20 @@
     <string name="about_app">War Thunder Wiki Kliens</string>
     <string name="reddit_title">Csatlakozz a ThunderDex subreddithez!</string>
     <string name="reddit_summary">Itt csatlakozz a ThunderDex subreddithez! 😁</string>
-    <string name="upcoming_features_summary">Check out the cool features planned for 2024</string>
+    <string name="upcoming_features_summary">Csekkold a tervben lévő menő funkciókat 2024-re</string>
     <string name="upcoming_features_summary_alt">Features &amp; plans for %s in 2024</string>
-    <string name="upcoming_features">Upcoming ThunderDex Features</string>
+    <string name="upcoming_features">Közelgő ThunderDex Funkciók</string>
 
     <!-- Google Pay -->
-    <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
-    <string name="gpay_donation_dialog_body">Thank you for considering a donation!\n\nSend the payment to mbqonxda@gmail.com</string>
-    <string name="gpay_dialog_confirm">Open Google Pay</string>
-    <string name="gpay_dialog_negative">Copy Email address</string>
-    <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
+    <string name="gpay_donation_dialog_title"><b>Támogas Google Pay-el</b></string>
+    <string name="gpay_donation_dialog_body">Köszönöm hogy megfontolod a támogatásomst!\n\n Küld a mbqonxda@gmail.com email címre</string>
+    <string name="gpay_dialog_confirm">Nyitsd meg a Google Pay-t</string>
+    <string name="gpay_dialog_negative">Email cím másolása</string>
+    <string name="error_gpay_not_installed">Google Pay nincs telepítve! Google Play Store indítása…</string>
     <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
+    <string name="gpay_clipboard_label">Google Pay Email másolva</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-
-    <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_two">• Filter vehicles by rank instead of alphabetically</string>
-    <string name="upcoming_feature_three">• Add option to choose how vehicles are filtered</string>
-    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_five">• Add an option to download selected vehicle images</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
@@ -83,7 +71,7 @@
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-
+    <string name="changelog_dialog_body" translatable="false">• Reduced app size by 4MB\n• Changed some wording in the app\n• Cleaned up code and improved code structure\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
     <string name="cash_app_link">https://cash.app/$hifii</string>
