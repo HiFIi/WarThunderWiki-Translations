@@ -33,7 +33,6 @@
     <string name="donate_dialog_title"><b>❤️   • TÁMOGATÁS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dinamikus Téma</string>
     <string name="settings_app_theme_desc">Dinamikus Téma beállítása %s számára</string>
-    <string name="settings_app_theme_desc_two">Enable dynamic app theming</string>
     <string name="settings_donate_desc">❤️   Támogatsd a munkám   ❤️</string>
     <string name="settings_clear_cache_title">Gyorsítótár törlése</string>
     <string name="settings_clear_cache_desc">Elmentett beállítások, szövegek és képek törlése </string>
@@ -53,6 +52,11 @@
     <string name="upcoming_features_summary">Csekkold a tervben lévő menő funkciókat 2024-re</string>
     <string name="upcoming_features_summary_alt">Funkciók &amp; tervek %s -re 2024-ben</string>
     <string name="upcoming_features">Közelgő ThunderDex Funkciók</string>
+    <string name="about_app_summary">ThunderDex was initially conceived in 2023.\nI was a frequent user of the War Thunder Wiki and got tired of using it on my browser.\nWith 10+ years of coding knowledge, I developed this app in a few months and decided to release it to everyone for FREE!\n\nI really hope you enjoy the app! - HiFii</string>
+    <string name="about_contribute_header_text">How do I contribute?</string>
+    <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
+    <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian translations)</b></string>
+    <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian translations)</b></string>
 
     <!-- Google Pay -->
     <string name="gpay_donation_dialog_title"><b>Támogas Google Pay-el</b></string>
@@ -66,16 +70,25 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
     <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Több testreszabhatósági lehetőség  (jármű képének merete, stb.)</string>
-    <string name="upcoming_feature_two">• Járművek sorbarendezése rank szerint ABC sorrend helyett</string>
-    <string name="upcoming_feature_three">• Sorbarendezés módjának kiválasztása</string>
-    <string name="upcoming_feature_four">• Fejlesztések a jármű képnézegetőhöz</string>
-    <string name="upcoming_feature_five">• Opció a jármű képeinek letöltéséhez</string>
-    <string name="upcoming_feature_six">• Több fordítás</string>
-    <string name="upcoming_feature_seven">• Elegendő fordítás után, nyelvválasztási opció</string>
-    <string name="upcoming_feature_eight">• Még több fejlesztés a teljesítményhez és a betöltési sebességhez</string>
-    <string name="upcoming_feature_nine">• Több információ és felhasználók álltal kért információk</string>
-    <string name="upcoming_feature_ten">• War Thunder háttér szekció, az oldalról való letöltési lehetőséggel</string>
+    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
+    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
+    <string name="upcoming_feature_six">• Add more translations</string>
+    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
+    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
+    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
+
+    <!-- Sort by strings -->
+    <string name="sort_by">Sort by</string>
+    <string name="filter_list">Filter list</string>
+    <string name="sort_alphabetically">Alphabetically</string>
+    <string name="sort_rank_ascending">Rank (Ascending)</string>
+    <string name="sort_rank_descending">Rank (Descending)</string>
+
+    <!-- Image download -->
+    <string name="image_save_success">Image saved to Gallery</string>
+    <string name="image_save_fail">Failed to save image</string>
+    <string name="image_load_fail">Failed to load image</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>

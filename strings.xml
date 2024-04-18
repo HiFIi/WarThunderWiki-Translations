@@ -4,7 +4,7 @@
     <!-- DO NOT TRANSLATE -->
 
     <string name="news">Latest War Thunder News</string>
-    <string name="updates">Latest Game Updates</string>
+    <string name="updates">Latest Updates</string>
     <string name="vehicle_types">Vehicles</string>
     <string name="favorite_vehicles">Favorite Vehicles</string>
     <string name="settings">Settings</string>
@@ -26,6 +26,7 @@
     <string name="please_wait">Please wait…</string>
     <string name="connection_error">Could not connect to server</string>m
     <string name="something_went_wrong">Error: Something went wrong</string>
+    <string name="about">About</string>
     <string name="home">Home</string>
     <string name="planes">Aircraft</string>
     <string name="helicopters">Helicopters</string>
@@ -36,7 +37,6 @@
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
     <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_app_theme_desc_two">Enable dynamic app theming</string>
     <string name="settings_donate_desc">❤️   Support my work by donating!!   ❤️</string>
     <string name="settings_clear_cache_title">Clear cache</string>
     <string name="settings_clear_cache_desc">Clear your saved settings, texts and images</string>
@@ -56,6 +56,9 @@
     <string name="upcoming_features_summary">Features &amp; plans for 2024</string>
     <string name="upcoming_features_summary_alt">2024 ThunderDex Plans</string>
     <string name="upcoming_features">Preview upcoming app features</string>
+    <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
+    <string name="about_app_summary">ThunderDex was initially conceived in 2023.\nI was a frequent user of the War Thunder Wiki and got tired of using it on my browser.\nWith 10+ years of coding knowledge, I developed this app in a few months and decided to release it to everyone for FREE!\n\nI really hope you enjoy the app! - HiFii</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
@@ -63,28 +66,45 @@
     <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App!</i></string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
     <string name="blank" translatable="false"> </string>
+    <string name="about_contribute_header_text">How do I contribute?</string>
+    <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
+    <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian translations)</b></string>
+    <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian translations)</b></string>
+
 
     <!-- Upcoming Features strings -->
+
+    <!-- 1 -->
     <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_two">• Filter vehicles by rank instead of alphabetically</string>
-    <string name="upcoming_feature_three">• Add option to choose how vehicles are filtered</string>
+
+    <!-- 2 -->
     <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_five">• Add an option to download selected vehicle images</string>
+
+    <!-- 3 -->
     <string name="upcoming_feature_six">• Add more translations</string>
+
+    <!-- 4 -->
     <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
+
+    <!-- 5 -->
     <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
+
+    <!-- 6 -->
     <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
+
+    <!-- 7 -->
     <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"><b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added back navigation to the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0:</b>\n• Fix text wrap issue on certain devices for the upcoming features preference\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Slightly redesigned the Settings\n• Removed some of the summary texts in the Settings</string>
+    <string name="changelog_dialog_body" translatable="false"><b>3.5.0:</b>\n<b>** CLEAR YOUR APP DATA IF YOU HAVE ISSUES **</b>\n• Add filter preferences in the app. It is on the right of the search bar, you can filter alphabetically, ascending rank, and descending rank\n• NEW APP ICON!! :)\n• Clear cache setting moved to the top of the list\n• Settings should now fit on your screen without scrolling\n• Replaced Preview New Activities with About ThunderDex in settings\n• You can now download vehicle images\n• Use similar looking icons for settings\n• fix summary alignment when summary is empty\n• Misc changes, fixes, and improvements\n• Disabled jetifier in gradle.properties\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the Preview App Features Preference\n• Added back navigation to the preview upcoming app features Preference\n• Updated the stars animation time in the preview app features preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)</string>
 
     <!-- Links -->
-    <string name="paypal_link">https://paypal.me/hifii</string>
-    <string name="cash_app_link">https://cash.app/$hifii</string>
-    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
-    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
+    <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
+    <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
+    <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
+    <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->
 
     <!-- UNUSED FOR NOW: Google Pay -->
@@ -99,4 +119,16 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Support the developer on Google Pay</i></string>
     <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
+
+    <!-- Sort by strings -->
+    <string name="sort_by">Sort by</string>
+    <string name="filter_list">Filter list</string>
+    <string name="sort_alphabetically">Alphabetically</string>
+    <string name="sort_rank_ascending">Rank (Ascending)</string>
+    <string name="sort_rank_descending">Rank (Descending)</string>
+
+    <!-- Image download -->
+    <string name="image_save_success">Image saved to Gallery</string>
+    <string name="image_save_fail">Failed to save image</string>
+    <string name="image_load_fail">Failed to load image</string>
 </resources>
