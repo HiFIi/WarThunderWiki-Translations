@@ -70,14 +70,15 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
     <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
+    <string name="upcoming_feature_one">• Több testreszabhatósági lehetőség  (jármű képének merete, stb.)</string>
+    <string name="upcoming_feature_four">• Fejlesztések a jármű képnézegetőhöz</string>
+    <string name="upcoming_feature_six">• Több fordítás</string>
+    <string name="upcoming_feature_seven">• Elegendő fordítás után, nyelvválasztási opció</string>
+    <string name="upcoming_feature_eight">• Még több fejlesztés a teljesítményhez és a betöltési sebességhez</string>
+    <string name="upcoming_feature_nine">• Több információ és felhasználók álltal kért információk</string>
+    <string name="upcoming_feature_ten">• War Thunder háttér szekció, az oldalról való letöltési lehetőséggel</string>
 
+     
     <!-- Sort by strings -->
     <string name="sort_by">Sort by</string>
     <string name="filter_list">Filter list</string>
