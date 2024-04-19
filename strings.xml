@@ -26,7 +26,7 @@
     <string name="please_wait">Please wait…</string>
     <string name="connection_error">Could not connect to server</string>m
     <string name="something_went_wrong">Error: Something went wrong</string>
-    <string name="about">About</string>
+    <string name="about" translatable="false">About</string>
     <string name="home">Home</string>
     <string name="planes">Aircraft</string>
     <string name="helicopters">Helicopters</string>
@@ -52,7 +52,7 @@
     <string name="wiki">Wiki</string>
     <string name="about_app">The <b>best</b> War Thunder Wikipedia app.</string>
     <string name="reddit_title">Join the ThunderDex Subreddit</string>
-    <string name="reddit_summary">Click here to join the ThunderDex subreddit!!! 😁</string>
+    <string name="reddit_summary">Click here to join the ThunderDex subreddit 😁</string>
     <string name="upcoming_features_summary">Features &amp; plans for 2024</string>
     <string name="upcoming_features_summary_alt">2024 ThunderDex Plans</string>
     <string name="upcoming_features">Preview upcoming app features</string>
@@ -63,7 +63,7 @@
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
     <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
-    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App!</i></string>
+    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
     <string name="blank" translatable="false"> </string>
     <string name="about_contribute_header_text">How do I contribute?</string>
@@ -97,7 +97,7 @@
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"><b>3.5.0:</b>\n<b>** CLEAR YOUR APP DATA IF YOU HAVE ISSUES **</b>\n• Add filter preferences in the app. It is on the right of the search bar, you can filter alphabetically, ascending rank, and descending rank\n• NEW APP ICON!! :)\n• Clear cache setting moved to the top of the list\n• Settings should now fit on your screen without scrolling\n• Replaced Preview New Activities with About ThunderDex in settings\n• You can now download vehicle images\n• Use similar looking icons for settings\n• fix summary alignment when summary is empty\n• Misc changes, fixes, and improvements\n• Disabled jetifier in gradle.properties\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the Preview App Features Preference\n• Added back navigation to the preview upcoming app features Preference\n• Updated the stars animation time in the preview app features preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)</string>
+    <string name="changelog_dialog_body" translatable="false"><b>** CLEAR YOUR APP DATA IF YOU HAVE ISSUES **</b>\n<b>3.5.1:</b>\n• Small app fixes and improvements from 3.5.0\n<b>3.5.0:</b>\n• Add filter preferences in the app. It is on the right of the search bar, you can filter alphabetically, ascending rank, and descending rank\n• NEW APP ICON!! :)\n• Clear cache setting moved to the top of the list\n• Settings should now fit on your screen without scrolling\n• Replaced Preview New Activities with About ThunderDex in settings\n• You can now download vehicle images\n• Use similar looking icons for settings\n• fix summary alignment when summary is empty\n• Misc changes, fixes, and improvements\n• Disabled jetifier in gradle.properties\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the Preview App Features Preference\n• Added back navigation to the preview upcoming app features Preference\n• Updated the stars animation time in the preview app features preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)</string>
 
     <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
@@ -108,7 +108,7 @@
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->
 
     <!-- UNUSED FOR NOW: Google Pay -->
-    <string name="gpay_donation_dialog_title">Donate using Google Pay!</string>
+    <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
     <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
     <string name="gpay_dialog_confirm">Open Google Pay</string>
     <string name="gpay_dialog_negative">Copy Email address</string>
