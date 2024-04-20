@@ -1,106 +1,106 @@
 <resources>
     <string name="app_name" translatable="false">ThunderDex</string>
-    <string name="news">War Thunder News</string>
-    <string name="updates">Latest Updates</string>
-    <string name="vehicle_types">Vehicles</string>
-    <string name="favorite_vehicles">Favorite Vehicles</string>
-    <string name="settings">Settings</string>
+    <string name="news">War Thunder Neuigkeiten</string>
+    <string name="updates">Updates</string>
+    <string name="vehicle_types">Fahrzeuge</string>
+    <string name="favorite_vehicles">Lieblingsfahrzeuge</string>
+    <string name="settings">Einstellungen</string>
     <string name="battle_rating">Battle Rating:</string>
     <string name="battle_rating_ab">AB</string>
     <string name="battle_rating_rb">RB</string>
     <string name="battle_rating_sb">SB</string>
     <string name="not_available">N/A</string>
-    <string name="research">Research:</string>
-    <string name="purchase">Purchase:</string>
-    <string name="bundle_or_gift">Bundle or Gift</string>
-    <string name="description">Description:</string>
-    <string name="general_info">General Info:</string>
-    <string name="pros_and_cons">Pros and Cons:</string>
-    <string name="pros">Pros:</string>
-    <string name="cons">Cons:</string>
-    <string name="empty_list">Empty list</string>
-    <string name="loading">Loading…</string>
-    <string name="please_wait">Please wait…</string>
-    <string name="connection_error">Could not connect to server</string>m
-    <string name="something_went_wrong">Error: Something went wrong</string>
+    <string name="research">Forschung:</string>
+    <string name="purchase">Kaufen:</string>
+    <string name="bundle_or_gift">Bundle oder Geschenk</string>
+    <string name="description">Beschreibung:</string>
+    <string name="general_info">Generelles:</string>
+    <string name="pros_and_cons">Vor- und Nachteile:</string>
+    <string name="pros">Vorteile:</string>
+    <string name="cons">Nachteile:</string>
+    <string name="empty_list">Leere Liste</string>
+    <string name="loading">Laden…</string>
+    <string name="please_wait">Bitte Warten…</string>
+    <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden</string>
+    <string name="something_went_wrong">Fehler: Etwas ist schiefgelaufen</string>
     <string name="home">Home</string>
-    <string name="planes">Aircraft</string>
-    <string name="helicopters">Helicopters</string>
-    <string name="tanks">Tanks</string>
-    <string name="ships">Ships</string>
-    <string name="favorite">Favorite</string>
-    <string name="unfavorite">Unfavorite</string>
-    <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
-    <string name="settings_app_theme_title">Dynamic Theming</string>
-    <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_donate_desc">❤️   Support my work by donating   ❤️</string>
-    <string name="settings_clear_cache_title">Clear cache</string>
-    <string name="settings_clear_cache_desc">Clear saved settings, texts and images</string>
-    <string name="affirmative_text">Thanks!</string>
-    <string name="read_changelog">Read the changelog</string>
-    <string name="no_data_found">No data found…</string>
-    <string name="search_vehicle">Search vehicle</string>
-    <string name="search_here">Search here…</string>
-    <string name="clear_search">Clear search</string>
-    <string name="settings_discord_title">Join the ThunderDex Discord group</string>
-    <string name="settings_discord_body"><i>Be part of something amazing.</i></string>
-    <string name="usage_in_battles">Usage in battles:</string>
+    <string name="planes">Flugzeuge</string>
+    <string name="helicopters">Helicopter</string>
+    <string name="tanks">Panzer</string>
+    <string name="ships">Shiffes</string>
+    <string name="favorite">Als Favorit Markieren</string>
+    <string name="unfavorite">Als Favorit Aufheben</string>
+    <string name="donate_dialog_title"><b>❤️   • SPENDEN •   ❤️</b></string>
+    <string name="settings_app_theme_title">Dynamisches Theming</string>
+    <string name="settings_app_theme_desc">Aktiviere dynamisches theming für %s</string>
+    <string name="settings_donate_desc">❤️   Unterstütze meine Arbeit, indem du spendest   ❤️</string>
+    <string name="settings_clear_cache_title">Cache Leeren</string>
+    <string name="settings_clear_cache_desc">Gespeicherte Einstellungen, Texte und Bilder löschen</string>
+    <string name="affirmative_text">Danke!</string>
+    <string name="read_changelog">Lese den changelog</string>
+    <string name="no_data_found">Keine daten gefunden…</string>
+    <string name="search_vehicle">Suche Fahrzeug</string>
+    <string name="search_here">Search hier…</string>
+    <string name="clear_search">Suche Leeren</string>
+    <string name="settings_discord_title">Treten sie den ThunderDex Discord group bei!</string>
+    <string name="settings_discord_body"><i>Seien Sie Teil von etwas Erstaunlichem!</i></string>
+    <string name="usage_in_battles">Einsatz in Gefechten:</string>
     <string name="wiki">Wiki</string>
     <string name="about_app">War Thunder Wiki Client</string>
-    <string name="reddit_title">Join the ThunderDex subreddit!</string>
-    <string name="reddit_summary">Click here to join the ThunderDex subreddit! 😁</string>
-    <string name="upcoming_features_summary">Check out the cool features planned for 2024</string>
-    <string name="upcoming_features_summary_alt">Features &amp; plans for %s in 2024</string>
-    <string name="upcoming_features">Upcoming ThunderDex Features</string>
-    <string name="about_app_summary">ThunderDex was initially conceived in 2023.\nI was a frequent user of the War Thunder Wiki and got tired of using it on my browser.\nWith 10+ years of coding knowledge, I developed this app in a few months and decided to release it to everyone for FREE!\n\nI really hope you enjoy the app! - HiFii</string>
-    <string name="about_contribute_header_text">How do I contribute?</string>
-    <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
-    <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian translations)</b></string>
-    <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian translations)</b></string>
-
+    <string name="reddit_title">Treten sie den ThunderDex subreddit bei!</string>
+    <string name="reddit_summary">Drücke hier, um den ThunderDex subreddit beizutreten! 😁</string>
+    <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2024 geplant sind</string>
+    <string name="upcoming_features_summary_alt">Funktionen &amp; pläne für %s 2024</string>
+    <string name="upcoming_features">Kommende ThunderDex Funktionen</string>
+    <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 konzipiert.\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit 10+ Jahren Programmierkenntnissen habe ich diese App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS freizugeben!\n\nIch hoffe wirklich, dass Ihnen die App gefällt! - HiFii</string>
+    <string name="about_contribute_header_text">Wie trage ich bei?</string>
+    <string name="about_thunderdex_contributors">ThunderDex Beiträger</string>
+    <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische übersetzungen)</b></string>
+    <string name="about_contributor_two"><b>Theslimyboi</b> auf Discord <b>(Litauische übersetzungen)</b></string>
+    <string name="about_contributor_three"><b>proxima.cc</b> auf Discord <b>(Deutsche übersetzungen)</b></string>
     <!-- Google Pay -->
-    <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
-    <string name="gpay_donation_dialog_body">Thank you for considering a donation!\n\nSend the payment to mbqonxda@gmail.com</string>
-    <string name="gpay_dialog_confirm">Open Google Pay</string>
-    <string name="gpay_dialog_negative">Copy Email address</string>
-    <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
+    <string name="gpay_donation_dialog_title"><b>Spenden mit Google Pay</b></string>
+    <string name="gpay_donation_dialog_body">Vielen Dank, dass Sie eine Spende in Betracht ziehen!\n\nSenden Sie die Zahlung an mbqonxda@gmail.com</string>
+    <string name="gpay_dialog_confirm">Öffnen Sie Google Pay</string>
+    <string name="gpay_dialog_negative">Email Addresse Kopieren</string>
+    <string name="error_gpay_not_installed">Google Pay nicht installiert! Google Play Store startet…</string>
     <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
+    <string name="gpay_clipboard_label">Google Pay Email Kopiert</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
 
     <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
+    <string name="upcoming_feature_one">• Zusätzliche Anpassungsoptionen hinzufügen (Fahrzeugbildgröße usw.))</string>
+    <string name="upcoming_feature_four">• Verbesserungen am Fahrzeugbildbetrachter</string>
+    <string name="upcoming_feature_six">• Weitere Übersetzungen hinzufügen</string>
+    <string name="upcoming_feature_seven">• Sobald genügend Sprachen hinzugefügt wurden, erstellen Sie eine Sprachauswahloption</string>
+    <string name="upcoming_feature_eight">• Noch mehr Lade- und Leistungsverbesserungen</string>
+    <string name="upcoming_feature_nine">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
+    <string name="upcoming_feature_ten">• Fügen Sie einen War Thunder-Hintergrundbildbereich mit einer Download-Möglichkeit von der Website hinzu</string>
 
     <!-- Sort by strings -->
-    <string name="sort_by">Sort by</string>
-    <string name="filter_list">Filter list</string>
-    <string name="sort_alphabetically">Alphabetically</string>
-    <string name="sort_rank_ascending">Rank (Ascending)</string>
-    <string name="sort_rank_descending">Rank (Descending)</string>
+    <string name="sort_by">Sortieren nach</string>
+    <string name="filter_list">Filter liste</string>
+    <string name="sort_alphabetically">Alphabetisch</string>
+    <string name="sort_rank_ascending">Rang (Aufsteigend)</string>
+    <string name="sort_rank_descending">Rang (Absteigend)</string>
 
     <!-- Image download -->
-    <string name="image_save_success">Image saved to Gallery</string>
-    <string name="image_save_fail">Failed to save image</string>
-    <string name="image_load_fail">Failed to load image</string>
+    <string name="image_save_success">Das Bild wurde in deiner Galerie gespeichert</string>
+    <string name="image_save_fail">Fehler beim Speichern des Bildes</string>
+    <string name="image_load_fail">Fehler beim Laden des Bildes</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
 
     <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog</string>
+    <string name="changelog">Änderungsprotokoll</string>
 
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
     <string name="cash_app_link">https://cash.app/$hifii</string>
     <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
-    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
+    <string name="discord_invite_link">https://dsc.gg/hifii</string>
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->
 </resources>
