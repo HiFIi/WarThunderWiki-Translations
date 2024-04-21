@@ -38,7 +38,7 @@
     <string name="settings_clear_cache_desc">Elmentett beállítások, szövegek és képek törlése </string>
     <string name="affirmative_text">Köszönöm!</string>
     <string name="read_changelog">Olvasd el a változási naplót</string>
-    <string name="no_data_found">Nincs adat találva...</string>
+    <string name="no_data_found">Nem található adat...</string>
     <string name="search_vehicle">Jármű keresése</string>
     <string name="search_here">Keress itt...</string>
     <string name="clear_search">Keresés törlése</string>
