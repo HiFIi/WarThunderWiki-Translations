@@ -57,6 +57,8 @@
     <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian translations)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian translations)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(German translations)</b></string>
+    <string name="about">About</string>
 
     <!-- Google Pay -->
     <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
@@ -95,7 +97,7 @@
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
 
     <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog</string>
+    <string name="changelog">Changelog History</string>
 
     <!-- And these...-->
     <string name="paypal_link">https://paypal.me/hifii</string>
