@@ -38,7 +38,7 @@
     <string name="settings_clear_cache_desc">Elmentett beállítások, szövegek és képek törlése </string>
     <string name="affirmative_text">Köszönöm!</string>
     <string name="read_changelog">Olvasd el a változási naplót</string>
-    <string name="no_data_found">Nincs adat találva...</string>
+    <string name="no_data_found">Nem található adat...</string>
     <string name="search_vehicle">Jármű keresése</string>
     <string name="search_here">Keress itt...</string>
     <string name="clear_search">Keresés törlése</string>
@@ -57,7 +57,7 @@
     <string name="about_thunderdex_contributors">ThunderDex Hozzájárulók</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> Discordon <b>(Magyar fordítások)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> Discordon <b>(Litván fordítások)</b></string>
-    <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(German translations)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> Discordon <b>(Német fordítások)</b></string>
     <string name="about">About</string>
 
     <!-- Google Pay -->
