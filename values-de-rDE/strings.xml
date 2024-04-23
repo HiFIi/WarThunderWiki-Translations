@@ -73,12 +73,12 @@
 
     <!-- Upcoming Features strings -->
     <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_four">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_eight">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_nine">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_ten">• Add a War Thunder wallpaper section with a download ability from the site</string>
+    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
+    <string name="upcoming_feature_three">• Add more translations</string>
+    <string name="upcoming_feature_four">• Once enough languages are added, create a language chooser option</string>
+    <string name="upcoming_feature_five">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_six">• Adding more information and user requested information too</string>
+    <string name="upcoming_feature_seven">• Add a War Thunder wallpaper section with a download ability from the site</string>
 
     <!-- Sort by strings -->
     <string name="sort_by">Sort by</string>

@@ -73,12 +73,12 @@
 
     <!-- Upcoming Features strings -->
     <string name="upcoming_feature_one">• Több testreszabhatósági lehetőség  (jármű képének merete, stb.)</string>
-    <string name="upcoming_feature_four">• Fejlesztések a jármű képnézegetőhöz</string>
-    <string name="upcoming_feature_six">• Több fordítás</string>
-    <string name="upcoming_feature_seven">• Elegendő fordítás után, nyelvválasztási opció</string>
-    <string name="upcoming_feature_eight">• Még több fejlesztés a teljesítményhez és a betöltési sebességhez</string>
-    <string name="upcoming_feature_nine">• Több információ és felhasználók álltal kért információk</string>
-    <string name="upcoming_feature_ten">• War Thunder háttér szekció, az oldalról való letöltési lehetőséggel</string>
+    <string name="upcoming_feature_two">• Fejlesztések a jármű képnézegetőhöz</string>
+    <string name="upcoming_feature_three">• Több fordítás</string>
+    <string name="upcoming_feature_four">• Elegendő fordítás után, nyelvválasztási opció</string>
+    <string name="upcoming_feature_five">• Még több fejlesztés a teljesítményhez és a betöltési sebességhez</string>
+    <string name="upcoming_feature_six">• Több információ és felhasználók álltal kért információk</string>
+    <string name="upcoming_feature_seven">• War Thunder háttér szekció, az oldalról való letöltési lehetőséggel</string>
 
 
     <!-- Sort by strings -->
