@@ -66,7 +66,7 @@
     <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
     <string name="blank" translatable="false"> </string>
-    <string name="about_contribute_header_text">How do I contribute?</string>
+    <string name="about_contribute_header_text">मैं कैसे योगदान करूँ?</string>
     <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian Translations)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian Translations)</b></string>
@@ -119,7 +119,7 @@
     <string name="sort_rank_descending">रैंक (अवरोही क्रम)</string>
 
     <!-- Image download -->
-    <string name="image_save_success">Image saved to "/sdcard/Pictures"</string>
-    <string name="image_save_fail">Failed to save image!</string>
-    <string name="image_load_fail">Failed to load image!</string>
+    <string name="image_save_success">छवि को सहेजा गया "/sdcard/Pictures"</string>
+    <string name="image_save_fail">छवि सहेजने में विफल!</string>
+    <string name="image_load_fail">छवि लोड करने में विफल!</string>
 </resources>
