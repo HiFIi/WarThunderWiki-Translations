@@ -2,9 +2,9 @@
 
 Updated 2024 Android translations folders
 
-   <locale android:name="af"/> <!-- Afrikaans -->
-   <locale android:name="am"/> <!-- Amharic -->
-   <locale android:name="ar"/> <!-- Arabic -->
+<locale android:name="af"/> <!-- Afrikaans -->
+<locale android:name="am"/> <!-- Amharic -->
+<locale android:name="ar"/> <!-- Arabic -->
    <locale android:name="as"/> <!-- Assamese -->
    <locale android:name="az"/> <!-- Azerbaijani -->
    <locale android:name="be"/> <!-- Belarusian -->
