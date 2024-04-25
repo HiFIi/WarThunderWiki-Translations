@@ -3,62 +3,62 @@
     <string name="app_name" translatable="false">ThunderDex</string>
     <!-- DO NOT TRANSLATE -->
 
-    <string name="news">Latest War Thunder News</string>
-    <string name="updates">Latest Updates</string>
-    <string name="vehicle_types">Vehicles</string>
+    <string name="news">नवीनतम War Thunder समाचार</string>
+    <string name="updates">नवीनतम अपडेट</string>
+    <string name="vehicle_types">वाहनों</string>
     <string name="favorite_vehicles">Favorite(d) Vehicles</string>
-    <string name="settings">Settings</string>
-    <string name="battle_rating">Battle Rating:</string>
-    <string name="battle_rating_ab">AB</string>
-    <string name="battle_rating_rb">RB</string>
-    <string name="battle_rating_sb">SB</string>
-    <string name="not_available">N/A</string>
-    <string name="research">Research:</string>
-    <string name="purchase">Purchase:</string>
-    <string name="bundle_or_gift">Bundle or Gift</string>
-    <string name="description">Description:</string>
-    <string name="general_info">General Information:</string>
-    <string name="pros_and_cons">Pros and Cons:</string>
-    <string name="pros">Pros:</string>
-    <string name="cons">Cons:</string>
-    <string name="empty_list">Empty list</string>
-    <string name="loading">Loading…</string>
-    <string name="please_wait">Please wait…</string>
-    <string name="connection_error">Could not connect to server</string>m
-    <string name="something_went_wrong">Error: Something went wrong</string>
-    <string name="about">About</string>
-    <string name="home">Home</string>
-    <string name="planes">Aircraft</string>
-    <string name="helicopters">Helicopters</string>
-    <string name="tanks">Tanks</string>
-    <string name="ships">Ships</string>
-    <string name="favorite">Favorite</string>
-    <string name="unfavorite">Unfavorite</string>
-    <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
-    <string name="settings_app_theme_title">Dynamic Theming</string>
-    <string name="settings_app_theme_desc">Enable dynamic theming for %s</string>
-    <string name="settings_donate_desc">❤️   Support my work by donating!!   ❤️</string>
-    <string name="settings_clear_cache_title">Clear cache</string>
-    <string name="settings_clear_cache_desc">Clear your saved settings, texts and images</string>
-    <string name="affirmative_text">Thanks!</string>
-    <string name="read_changelog">Read the latest changelog</string>
-    <string name="no_data_found">No data found…</string>
-    <string name="search_vehicle">Search vehicle</string>
-    <string name="search_here">Search here…</string>
-    <string name="clear_search">Clear search</string>
-    <string name="settings_discord_title">Join the ThunderDex Discord group</string>
-    <string name="settings_discord_body"><i>Be part of something amazing…</i></string>
-    <string name="usage_in_battles">Usage in battles:</string>
+    <string name="settings">समायोजन</string>
+    <string name="battle_rating">लड़ाई की रेटिंग:</string>
+    <string name="battle_rating_ab">आर्केड</string>
+    <string name="battle_rating_rb">वास्तविक</string>
+    <string name="battle_rating_sb">सिम्युलेटर</string>
+    <string name="not_available">उपलब्ध नहीं है</string>
+    <string name="research">अनुसंधान:</string>
+    <string name="purchase">खरीदना:</string>
+    <string name="bundle_or_gift">बंडल या उपहार</string>
+    <string name="description">विवरण:</string>
+    <string name="general_info">सामान्य जानकारी:</string>
+    <string name="pros_and_cons">पक्ष - विपक्ष:</string>
+    <string name="pros">पक्ष:</string>
+    <string name="cons">विपक्ष:</string>
+    <string name="empty_list">खाली सूची</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="connection_error">सर्वर से कनेक्ट नहीं कर सका</string>m
+    <string name="something_went_wrong">त्रुटि: कुछ गलत हो गया</string>
+    <string name="about">बारे में</string>
+    <string name="home">मुखपृष्ठ</string>
+    <string name="planes">हवाई जहाज</string>
+    <string name="helicopters">हेलीकाप्टर</string>
+    <string name="tanks">टैंक</string>
+    <string name="ships">जहाजों</string>
+    <string name="favorite">पसंदीदा</string>
+    <string name="unfavorite">नापसंद करें</string>
+    <string name="donate_dialog_title"><b>❤️   • दान •   ❤️</b></string>
+    <string name="settings_app_theme_title">गतिशील थीमिंग</string>
+    <string name="settings_app_theme_desc">के लिए डायनामिक थीमिंग सक्षम करें %s</string>
+    <string name="settings_donate_desc">❤️   दान देकर मेरे काम का समर्थन करें!!   ❤️</string>
+    <string name="settings_clear_cache_title">कैश को साफ़ करें</string>
+    <string name="settings_clear_cache_desc">अपनी सहेजी गई सेटिंग्स, टेक्स्ट और छवियां साफ़ करें</string>
+    <string name="affirmative_text">धन्यवाद!</string>
+    <string name="read_changelog">नवीनतम चेंजलॉग पढ़ें</string>
+    <string name="no_data_found">डाटा प्राप्त नहीं हुआ…</string>
+    <string name="search_vehicle">वाहन खोजें</string>
+    <string name="search_here">यहां तलाश करो…</string>
+    <string name="clear_search">स्पष्ट खोज</string>
+    <string name="settings_discord_title">ThunderDex Discord समूह में शामिल हों </string>
+    <string name="settings_discord_body"><i>किसी अद्भुत चीज़ का हिस्सा बनें…</i></string>
+    <string name="usage_in_battles">युद्धों में उपयोग:</string>
     <string name="wiki">Wiki</string>
-    <string name="about_app">The <b>BEST</b> War Thunder Wikipedia app.</string>
-    <string name="reddit_title">Join the ThunderDex Subreddit</string>
-    <string name="reddit_summary">Click here to join the ThunderDex subreddit 😁</string>
-    <string name="upcoming_features_summary">Features &amp; plans for 2024</string>
-    <string name="upcoming_features_summary_alt">2024 ThunderDex Plans</string>
-    <string name="upcoming_features">Preview upcoming app features</string>
+    <string name="about_app"><b>सर्वश्रेष्ठ</b>सर्वश्रेष्ठ वॉर थंडर विकिपीडिया ऐप।.</string>
+    <string name="reddit_title">शामिल होना ThunderDex Subreddit में</string>
+    <string name="reddit_summary">शामिल होने के लिए यहां क्लिक करें ThunderDex subreddit 😁</string>
+    <string name="upcoming_features_summary">विशेषताएँ &amp;2024 की योजना</string>
+    <string name="upcoming_features_summary_alt">2024 ThunderDex योजना</string>
+    <string name="upcoming_features">आगामी ऐप सुविधाओं का पूर्वावलोकन करें</string>
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
-    <string name="about_app_summary">ThunderDex was initially conceived in 2023.\nI was a frequent user of the War Thunder Wiki and got tired of using it on my browser.\nWith 10+ years of coding knowledge, I developed this app in a few months and decided to release it to everyone for FREE!\n\nI really hope you enjoy the app! - HiFii</string>
+    <string name="about_app_summary">ThunderDex की शुरुआत 2023 में की गई थी.\nमैं War Thunder Wiki का लगातार उपयोगकर्ता था और अपने ब्राउज़र पर इसका उपयोग करते-करते थक गया था.\n 10+ वर्षों के कोडिंग ज्ञान के साथ, मैंने कुछ महीनों में इस ऐप को विकसित किया और इसे सभी के लिए मुफ़्त में जारी करने का निर्णय लिया!\n\nमुझे सचमुच उम्मीद है कि आप ऐप का आनंद लेंगे! - HiFii</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
@@ -66,7 +66,7 @@
     <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
     <string name="blank" translatable="false"> </string>
-    <string name="about_contribute_header_text">How do I contribute?</string>
+    <string name="about_contribute_header_text">मैं कैसे योगदान करूँ?</string>
     <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian Translations)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian Translations)</b></string>
@@ -75,13 +75,13 @@
 
 
     <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Add extra customization options (vehicle image size, etc)</string>
-    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_three">• Add more translations</string>
-    <string name="upcoming_feature_four">• Once enough languages are added, create a language chooser option</string>
-    <string name="upcoming_feature_five">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_six">• Adding more information and user requested information too</string>
-    <string name="upcoming_feature_seven">• Add a War Thunder wallpaper section with a download ability from the site</string>
+    <string name="upcoming_feature_one">• अतिरिक्त अनुकूलन विकल्प जोड़ें (वाहन छवि आकार, आदि)</string>
+    <string name="upcoming_feature_two">• वाहन छवि दर्शक में सुधार</string>
+    <string name="upcoming_feature_three">• अधिक अनुवाद जोड़ें</string>
+    <string name="upcoming_feature_four">• एक बार पर्याप्त भाषाएँ जुड़ जाने पर, एक भाषा चयनकर्ता विकल्प बनाएँ</string>
+    <string name="upcoming_feature_five">• लोडिंग और प्रदर्शन में और भी अधिक सुधार</string>
+    <string name="upcoming_feature_six">• अधिक जानकारी और उपयोगकर्ता द्वारा अनुरोधित जानकारी भी जोड़ रहा हूँ</string>
+    <string name="upcoming_feature_seven">• साइट से डाउनलोड क्षमता के साथ War Thunder वॉलपेपर अनुभाग जोड़ें</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog History</string>
@@ -112,14 +112,14 @@
     <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
 
     <!-- Sort by strings -->
-    <string name="sort_by">Sort by</string>
-    <string name="filter_list">Filter List</string>
-    <string name="sort_alphabetically">Alphabetically</string>
-    <string name="sort_rank_ascending">Rank (Ascending Order)</string>
-    <string name="sort_rank_descending">Rank (Descending Order)</string>
+    <string name="sort_by">इसके अनुसार क्रमबद्ध करें</string>
+    <string name="filter_list">फ़िल्टर सूची</string>
+    <string name="sort_alphabetically">वर्णक्रम</string>
+    <string name="sort_rank_ascending">रैंक (आरोही क्रम)</string>
+    <string name="sort_rank_descending">रैंक (अवरोही क्रम)</string>
 
     <!-- Image download -->
-    <string name="image_save_success">Image saved to "/sdcard/Pictures"</string>
-    <string name="image_save_fail">Failed to save image!</string>
-    <string name="image_load_fail">Failed to load image!</string>
+    <string name="image_save_success">छवि को सहेजा गया "/sdcard/Pictures"</string>
+    <string name="image_save_fail">छवि सहेजने में विफल!</string>
+    <string name="image_load_fail">छवि लोड करने में विफल!</string>
 </resources>
