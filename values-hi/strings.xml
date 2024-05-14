@@ -59,6 +59,10 @@
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
     <string name="about_app_summary">ThunderDex की शुरुआत 2023 में की गई थी.\nमैं War Thunder Wiki का लगातार उपयोगकर्ता था और अपने ब्राउज़र पर इसका उपयोग करते-करते थक गया था.\n 10+ वर्षों के कोडिंग ज्ञान के साथ, मैंने कुछ महीनों में इस ऐप को विकसित किया और इसे सभी के लिए मुफ़्त में जारी करने का निर्णय लिया!\n\nमुझे सचमुच उम्मीद है कि आप ऐप का आनंद लेंगे! - HiFii</string>
+    <string name="contribute_translations">Contribute Translations</string>
+    <string name="contribute_translations_button_text">Click here to learn how!</string>
+    <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
+    <string name="title_about_thunderdex">About ThunderDex</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
@@ -70,8 +74,9 @@
     <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian Translations)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian Translations)</b></string>
-    <string name="about_contributor_three_og" translatable="false"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
+    <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
 
 
     <!-- Upcoming Features strings -->
