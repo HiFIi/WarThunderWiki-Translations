@@ -54,17 +54,11 @@
     <string name="upcoming_features_summary_alt">Features &amp; plans for %s in 2024</string>
     <string name="upcoming_features">Upcoming ThunderDex Features</string>
     <string name="about_app_summary">ThunderDex was initially conceived in 2023.\nI was a frequent user of the War Thunder Wiki and got tired of using it on my browser.\nWith 10+ years of coding knowledge, I developed this app in a few months and decided to release it to everyone for FREE!\n\nI really hope you enjoy the app! - HiFii</string>
-    <string name="contribute_translations">Contribute Translations</string>
     <string name="about_contribute_header_text">How do I contribute?</string>
     <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian translations)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian translations)</b></string>
-    <string name="about_contributor_three_og"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
-    <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
-    <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
-    <string name="contribute_translations_button_text">Click here to learn how!</string>
-    <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
-    <string name="title_about_thunderdex">About ThunderDex</string>
+    <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(German translations)</b></string>
 
     <!-- Google Pay -->
     <string name="gpay_donation_dialog_title"><b>Donate with Google Pay</b></string>
