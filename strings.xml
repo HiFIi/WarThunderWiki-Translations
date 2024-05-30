@@ -3,8 +3,8 @@
     <string name="app_name" translatable="false">ThunderDex</string>
     <!-- DO NOT TRANSLATE -->
 
-    <string name="news">Latest Game News</string>
-    <string name="updates">Latest Game Updates</string>
+    <string name="news">Game News</string>
+    <string name="updates">Game Updates</string>
     <string name="vehicle_types">Vehicles</string>
     <string name="favorite_vehicles">Favorite Vehicles</string>
     <string name="settings">Settings</string>
@@ -13,9 +13,9 @@
     <string name="battle_rating_rb">RB</string>
     <string name="battle_rating_sb">SB</string>
     <string name="not_available">Not Available</string>
-    <string name="research">Research:</string>
-    <string name="purchase">Purchase:</string>
-    <string name="bundle_or_gift">Purchased via Bundle or Gift in the Store</string>
+    <string name="research">Research cost:</string>
+    <string name="purchase">Purchase cost:</string>
+    <string name="bundle_or_gift">Purchased via a Bundle, or Gift in the Store</string>
     <string name="description">Description:</string>
     <string name="general_info">General Info:</string>
     <string name="pros_and_cons">Pros &amp; Cons:</string>
@@ -24,7 +24,7 @@
     <string name="empty_list">Empty List</string>
     <string name="loading">Loading…</string>
     <string name="please_wait">Please wait…</string>
-    <string name="connection_error">Could not connect to server</string>m
+    <string name="connection_error">Could not connect to server</string>
     <string name="something_went_wrong">Error: Something went wrong</string>
     <string name="about">About</string>
     <string name="home">Home</string>
@@ -33,14 +33,14 @@
     <string name="tanks">Tanks</string>
     <string name="ships">Ships</string>
     <string name="favorite">Favorite</string>
-    <string name="unfavorite">UnFavorite</string>
+    <string name="unfavorite">Unfavorite</string>
     <string name="donate_dialog_title"><b>❤️   • DONATIONS •   ❤️</b></string>
     <string name="settings_app_theme_title">Dynamic Theming</string>
-    <string name="settings_app_theme_desc">Enable Dynamic App Theming</string>
+    <string name="settings_app_theme_desc">Enable Dynamic App Colors</string>
     <string name="settings_donate_desc">❤️   Support my work by donating!!   ❤️</string>
-    <string name="settings_clear_cache_title">Clear cache</string>
-    <string name="settings_clear_cache_desc">Clear saved Settings, Texts &amp; Images from the app</string>
-    <string name="affirmative_text">Thanks</string>
+    <string name="settings_clear_cache_title">Clear app cache and data</string>
+    <string name="settings_clear_cache_desc">Clears the saved Settings, Texts &amp; Images from the app</string>
+    <string name="affirmative_text">Done</string>
     <string name="read_changelog">Read the latest changelog</string>
     <string name="no_data_found">No data found…</string>
     <string name="search_vehicle">Search vehicle</string>
@@ -61,6 +61,15 @@
     <string name="contribute_translations_button_text">Click here to learn how!</string>
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
     <string name="title_about_thunderdex">About ThunderDex</string>
+    <string name="vehicle_added_favorites">added to Favorites</string>
+    <string name="vehicle_removed_favorites">removed from Favorites</string>
+    <string name="version_codes" translatable="false"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
+    <string name="version_codes__one_line_plus_double_slash" translatable="false"><b>App Version: </b>%s   //   <b>Version Code: </b>#%d</string>
+    <string name="version_code" translatable="false">#47</string>
+    <string name="build_number" translatable="false">4.0.0</string>
+    <string name="a" translatable="false">A</string>
+    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_code_text">Version Code:</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
@@ -93,20 +102,8 @@
     <string name="upcoming_feature_six">• Adding more information and user requested information too</string>
     <string name="upcoming_feature_seven">• Add a War Thunder wallpaper section with a download ability from the site</string>
 
-    <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog History</string>
-    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>3.6.0:</b>\n• Redesigned and improved the About section\n• Show a Toast Notification when applying Dynamic Theming before the app restarts\n• Animate the Vehicle Images in the Wiki Tab\n• Enable the title on toolbar in some Fragments\n• Allow dismissing the Changelog Dialog without pressing Okay\n• Added a 0.95 alpha to some TextViews\n• Replaced the 20% black button BG with ripple in About\n• Changed lots of wording in the app\n• Minor fixes and improvements\n\n<b>3.5.6:</b>\n• Included original German Translation credits\n• Updated Hungarian translations\n• Fixed "upcoming features" animated background not being full screen\n• Misc. small fixes\n• Updated Gradle and Libraries\n\n<b>3.5.5:</b>\n• Slightly reduced app size again by a couple hundred kilobytes\n• When you download a vehicle image, it now outputs a file with the vehicles name instead of random numbers\n• Fixed splash screen icon\n• Reintroduce "Upcoming Features" in the "About" section of the app\n• Included all app changelogs from 2.0.0 to the newest version, if you want to look back on updates (scroll down for updates)\n• Fixed splashscreen\n• Add German translation credits\n\n<b>3.5.1:</b>\n• Misc. small changes\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added the ability to navigate back in the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0 (big update):</b>\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference\n\n<b>3.2.4:</b>\n• Adjust vehicle image height \n• Updated Android AGP\n• Library updates\n\n<b>3.2.3:</b>\n• Added Android 9 support\n• Change text in a Dialog\n\n<b>3.2.2:</b>\n• Adjusted vehicle image height... no more scrolling in the "wiki" tab.. :)\n• Fix changelog typo from 3.2.1\n• Bug fixes\n\n<b>3.2.1:</b>\n• Fixed Google Pay not launching on older devices\n• Added an option to copy the Google Pay Email in the dialog\n\n<b>3.2.0:</b>\n• Added cash app donation option\n• Added google pay donation option\n• Fixed up some code with the code analyzer\n• Changed the "Latest Updates" tab to "Latest Game Updates"\n• Lots of small text adjustments that you may or may not notice\n• Fixed all Java issues in the app\n• Further tweaks to elements in the app such as header height and image height\n\n<b>3.1.3:</b>\n• Fix changelog not being up to date\n\n<b>3.1.2:</b>\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app\n• Updated a library\n• Updated Build Tools\n• Updated Gradle\n\n<b>3.1.1:</b>\n• Added Lithuanian and Hungarian translations (thanks to theslimyboi  and Tdikristof_ on Discord for the translations)\n• Further reduced app size ;)\n• Made "ThunderDex" Header text slightly smaller\n• Removed some unused resources\n• Expanded the height of the ThunderDex Header box\n• Expanded the height of Vehicle Images\n• Updated some of the internal structuring of the apps gradle file \n\n<b>3.1.0:</b>\n• *** Decreased app size by ~4MB ***\n• Small text changes\n• Adjusted some UI elements\n• Cleaned up code\n• Removed unused resources\n• Cleaned up some backend code for the app\n\n<b>3.0.1:</b>\n• Fix changelog typo\n• Small string adjustments\n• Removed unused drawables\n\n<b>3.0.0:</b>\n• BRAND NEW DESIGN!\n• Cleaned up the user interface\n• Added my ThunderDexApp subreddit\n• planes / jets has been changed to Aircraft\n• Add blurred searchview\n• Fix toolbar glitching while collapsiing\n• Remove special star character from vehicle info\n• Removed translations setting\n• Removed request a feature activity \n\n<b>2.5.2:</b>\n• Permanent discord link added! Please join the discord group (settings > discord)\n• Made image gradient slightly darker\n• Fixed the bug where the toolbar would include the gradient \n\n<b>2.5.1:</b>\n• Update the discord invite link\n\n<b>2.5.0:</b>\n• Added the "usage in battles" section for vehicles\n• Vehicle images are now larger! :)\n• Vehicle image gradient fixed and adjusted
-• Slight UI adjustments\n• Removed translations again for now\n• cleaned up code via suggestions from the android studio code analyzer\n• Updated Gradle and AGP\n• Reduce app size (it;s now under 10mb)\n\n<b>2.0.0:</b>\n• VEHICLE SEARCH ADDED\n• Further reduce app size\n• Prevent Dialog from being closed when touched outside :)\n• Added a nice gradient for the vehicle images</string>
-
-    <!-- Links -->
-    <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
-    <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
-    <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
-    <!--       Permanent Discord link, DO NOT CHANGE       -->
-    <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
-    <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
-    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
-    <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
+    <!-- Misc. -->
+    <string name="apostrophe" translatable="false">\'</string>
 
     <!-- UNUSED FOR NOW: Google Pay -->
     <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
@@ -129,7 +126,26 @@
     <string name="sort_rank_descending">Rank (Descending Order)</string>
 
     <!-- Image download -->
-    <string name="image_save_success">Image saved to "/sdcard/Pictures"</string>
-    <string name="image_save_fail">Failed to save image!</string>
-    <string name="image_load_fail">Failed to load image!</string>
+    <string name="image_saved">Image saved to /sdcard/pictures/</string>
+    <string name="image_save_fail">Failed to save image</string>
+    <string name="image_load_fail">Failed to load image</string>
+    <string name="cache_cleared_toast_message"><![CDATA[Cleared App Data & Cache]]></string>
+
+    <!-- Please always leave these strings at the bottom -->
+    <string name="changelog">Changelog History</string>
+    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>4.0.0:</b>\n• Fixed a long standing and critical issue for samsung devices that caused the app to close instantly. It is confirmed to be fixed.\n• Redesigned the vehicle info page [Added proper research icon, silver lion icon, enlarged the text, changed the text color, improved vehicle zoom]\n• Redesigned the home screen. [new header font, new header text animation, adjusted dimensions, adjusted theme]\n• Improved the design of the BottomNavigationBar\n• in the vehicle info section, numbers now have commas (example: 500 000 is now 500,000)\n• Adjusted some app colors\n• A Toast (popup message) now appears when you favorite/unfavorite a vehicle\n• Adjusted Dialog colors\n• Updated libraries, AGP, and Gradle\n• Various strings have been updated\n• Added Google Firebase libraries to track app performance, crashes and statistics (NO USER DATA IS COLLECTED)\n• Added more aggressive build optimizations\n• Enabled MultiDex to increase app launch speed and reduce size\n• Added the Build Number and Version Code in the "About" section
+\n\n<b>3.6.0:</b>\n• Redesigned and improved the About section\n• Show a Toast Notification when applying Dynamic Theming before the app restarts\n• Animate the Vehicle Images in the Wiki Tab\n• Enable the title on toolbar in some Fragments\n• Allow dismissing the Changelog Dialog without pressing Okay\n• Added a 0.95 alpha to some TextViews\n• Replaced the 20% black button BG with ripple in About\n• Changed lots of wording in the app\n• Minor fixes and improvements\n\n<b>3.5.6:</b>\n• Included original German Translation credits\n• Updated Hungarian translations\n• Fixed "upcoming features" animated background not being full screen\n• Misc. small fixes\n• Updated Gradle and Libraries\n\n<b>3.5.5:</b>\n• Slightly reduced app size again by a couple hundred kilobytes\n• When you download a vehicle image, it now outputs a file with the vehicles name instead of random numbers\n• Fixed splash screen icon\n• Reintroduce "Upcoming Features" in the "About" section of the app\n• Included all app changelogs from 2.0.0 to the newest version, if you want to look back on updates (scroll down for updates)\n• Fixed splashscreen\n• Add German translation credits\n\n<b>3.5.1:</b>\n• Misc. small changes\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added the ability to navigate back in the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0 (big update):</b>\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference\n\n<b>3.2.4:</b>\n• Adjust vehicle image height \n• Updated Android AGP\n• Library updates\n\n<b>3.2.3:</b>\n• Added Android 9 support\n• Change text in a Dialog\n\n<b>3.2.2:</b>\n• Adjusted vehicle image height... no more scrolling in the "wiki" tab.. :)\n• Fix changelog typo from 3.2.1\n• Bug fixes\n\n<b>3.2.1:</b>\n• Fixed Google Pay not launching on older devices\n• Added an option to copy the Google Pay Email in the dialog\n\n<b>3.2.0:</b>\n• Added cash app donation option\n• Added google pay donation option\n• Fixed up some code with the code analyzer\n• Changed the "Latest Updates" tab to "Latest Game Updates"\n• Lots of small text adjustments that you may or may not notice\n• Fixed all Java issues in the app\n• Further tweaks to elements in the app such as header height and image height\n\n<b>3.1.3:</b>\n• Fix changelog not being up to date\n\n<b>3.1.2:</b>\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app\n• Updated a library\n• Updated Build Tools\n• Updated Gradle\n\n<b>3.1.1:</b>\n• Added Lithuanian and Hungarian translations (thanks to theslimyboi  and Tdikristof_ on Discord for the translations)\n• Further reduced app size ;)\n• Made "ThunderDex" Header text slightly smaller\n• Removed some unused resources\n• Expanded the height of the ThunderDex Header box\n• Expanded the height of Vehicle Images\n• Updated some of the internal structuring of the apps gradle file \n\n<b>3.1.0:</b>\n• *** Decreased app size by ~4MB ***\n• Small text changes\n• Adjusted some UI elements\n• Cleaned up code\n• Removed unused resources\n• Cleaned up some backend code for the app\n\n<b>3.0.1:</b>\n• Fix changelog typo\n• Small string adjustments\n• Removed unused drawables\n\n<b>3.0.0:</b>\n• BRAND NEW DESIGN!\n• Cleaned up the user interface\n• Added my ThunderDexApp subreddit\n• planes / jets has been changed to Aircraft\n• Add blurred searchview\n• Fix toolbar glitching while collapsiing\n• Remove special star character from vehicle info\n• Removed translations setting\n• Removed request a feature activity \n\n<b>2.5.2:</b>\n• Permanent discord link added! Please join the discord group (settings > discord)\n• Made image gradient slightly darker\n• Fixed the bug where the toolbar would include the gradient \n\n<b>2.5.1:</b>\n• Update the discord invite link\n\n<b>2.5.0:</b>\n• Added the "usage in battles" section for vehicles\n• Vehicle images are now larger! :)\n• Vehicle image gradient fixed and adjusted
+• Slight UI adjustments\n• Removed translations again for now\n• cleaned up code via suggestions from the android studio code analyzer\n• Updated Gradle and AGP\n• Reduce app size (it;s now under 10mb)\n\n<b>2.0.0:</b>\n• VEHICLE SEARCH ADDED\n• Further reduce app size\n• Prevent Dialog from being closed when touched outside :)\n• Added a nice gradient for the vehicle images</string>
+
+    <!-- Links -->
+    <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
+    <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
+    <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
+    <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
+
+    <!--       Permanent Discord link, DO NOT CHANGE       -->
+    <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
+    <string name="default_web_client_id" translatable="false">AIzaSyCMxbHBPsp-Eb7Hn7C4Y77AzBNmpLHznUE</string>
+    <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
 </resources>

@@ -63,6 +63,8 @@
     <string name="contribute_translations_button_text">Click here to learn how!</string>
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
     <string name="title_about_thunderdex">About ThunderDex</string>
+    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_code_text">Version Code:</string>
 
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"Restarting ThunderDex in "</string>
