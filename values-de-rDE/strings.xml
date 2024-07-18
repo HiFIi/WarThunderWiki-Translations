@@ -1,5 +1,8 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- DO NOT TRANSLATE -->
     <string name="app_name" translatable="false">ThunderDex</string>
+    <!-- DO NOT TRANSLATE -->
+
     <string name="news">War Thunder Neuigkeiten</string>
     <string name="updates">Updates</string>
     <string name="vehicle_types">Fahrzeuge</string>
@@ -23,85 +26,160 @@
     <string name="please_wait">Bitte Warten…</string>
     <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden</string>
     <string name="something_went_wrong">Fehler: Etwas ist schiefgelaufen</string>
-    <string name="home">Home</string>
+    <string name="about">Über</string>
+    <string name="home">Startseite</string>
     <string name="planes">Flugzeuge</string>
-    <string name="helicopters">Helicopter</string>
+    <string name="helicopters">Helikopter</string>
     <string name="tanks">Panzer</string>
-    <string name="ships">Shiffes</string>
-    <string name="favorite">Als Favorit Markieren</string>
-    <string name="unfavorite">Als Favorit Aufheben</string>
+    <string name="ships">Marine</string>
+    <string name="favorite">Favorit hinzufügen</string>
+    <string name="unfavorite">Favorit entfernen</string>
     <string name="donate_dialog_title"><b>❤️   • SPENDEN •   ❤️</b></string>
-    <string name="settings_app_theme_title">Dynamisches Theming</string>
-    <string name="settings_app_theme_desc">Aktiviere dynamisches theming für %s</string>
-    <string name="settings_donate_desc">❤️   Unterstütze meine Arbeit, indem du spendest   ❤️</string>
+    <string name="settings_donate_desc">❤️   Unterstütze meine Arbeit, indem du spendest!!   ❤️</string>
     <string name="settings_clear_cache_title">Cache Leeren</string>
-    <string name="settings_clear_cache_desc">Gespeicherte Einstellungen, Texte und Bilder löschen</string>
-    <string name="affirmative_text">Danke!</string>
-    <string name="read_changelog">Lese den changelog</string>
-    <string name="no_data_found">Keine daten gefunden…</string>
-    <string name="search_vehicle">Suche Fahrzeug</string>
-    <string name="search_here">Search hier…</string>
+    <string name="settings_clear_cache_desc">Löscht temporäre App Daten</string>
+    <string name="affirmative_text">Fertig!</string>
+    <string name="read_changelog">Lese den neusten Changelog</string>
+    <string name="no_data_found">Keine Daten gefunden…</string>
+    <string name="search_vehicle">Nach Fahrzeug suchen</string>
+    <string name="search_here">Hier suchen…</string>
     <string name="clear_search">Suche Leeren</string>
-    <string name="settings_discord_title">Treten sie den ThunderDex Discord group bei!</string>
+    <string name="settings_discord_title">Treten sie dem ThunderDex Discord bei!</string>
     <string name="settings_discord_body"><i>Seien Sie Teil von etwas Erstaunlichem!</i></string>
     <string name="usage_in_battles">Einsatz in Gefechten:</string>
     <string name="wiki">Wiki</string>
-    <string name="about_app">War Thunder Wiki Client</string>
-    <string name="reddit_title">Treten sie den ThunderDex subreddit bei!</string>
+    <string name="about_app">Die <i><b>BESTE</b></i> War Thunder Wikipedia App.</string>
+    <string name="reddit_title">Treten sie dem ThunderDex Subreddit bei!</string>
     <string name="reddit_summary">Drücke hier, um den ThunderDex subreddit beizutreten! 😁</string>
-    <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2024 geplant sind</string>
     <string name="upcoming_features_summary_alt">Funktionen &amp; pläne für %s 2024</string>
-    <string name="upcoming_features">Kommende ThunderDex Funktionen</string>
-    <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 konzipiert.\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit 10+ Jahren Programmierkenntnissen habe ich diese App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS freizugeben!\n\nIch hoffe wirklich, dass Ihnen die App gefällt! - HiFii</string>
-    <string name="about_contribute_header_text">Wie trage ich bei?</string>
-    <string name="about_thunderdex_contributors">ThunderDex Beiträger</string>
-    <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische übersetzungen)</b></string>
-    <string name="about_contributor_two"><b>Theslimyboi</b> auf Discord <b>(Litauische übersetzungen)</b></string>
-    <string name="about_contributor_three"><b>proxima.cc</b> auf Discord <b>(Deutsche übersetzungen)</b></string>
-    <!-- Google Pay -->
-    <string name="gpay_donation_dialog_title"><b>Spenden mit Google Pay</b></string>
-    <string name="gpay_donation_dialog_body">Vielen Dank, dass Sie eine Spende in Betracht ziehen!\n\nSenden Sie die Zahlung an mbqonxda@gmail.com</string>
-    <string name="gpay_dialog_confirm">Öffnen Sie Google Pay</string>
-    <string name="gpay_dialog_negative">Email Addresse Kopieren</string>
-    <string name="error_gpay_not_installed">Google Pay nicht installiert! Google Play Store startet…</string>
-    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_clipboard_label">Google Pay Email Kopiert</string>
-    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2024 geplant sind</string>
+    <string name="upcoming_features">Sieh dir kommende App Funktionen an</string>
+    <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 konzipiert.\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit über 10 Jahren Programmiererfahrung habe ich die App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS zu machen!\n\nIch hoffe wirklich, dass Ihnen die App gefällt! - HiFii</string>
+    <string name="about_contribute_header_text">Wie kann ich helfen?</string>
+    <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
+    <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
+    <string name="title_about_thunderdex">Über ThunderDex</string>
+    <string name="vehicle_added_favorites">Zu Favoriten hunzugefügt</string>
+    <string name="vehicle_removed_favorites">Aus Favoriten enternt</string>
+    <string name="version_codes" translatable="false"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
+    <string name="version_codes__one_line_plus_double_slash" translatable="false"><b>Version: </b>%s   ||   <b>Build: </b>#%d</string>
+    <string name="a" translatable="false">A</string>
+    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_code_text">Version Code:</string>
+    <string name="restarting_text">ThunderDex startet neu…</string>
+    <string name="flappydex">FlappyDex</string>
+    <string name="easter_egg_found_message">🍦 Minispiel Easter Egg startet!\nGlückwunsch zum finden. 🍦</string>
+    <string name="settings_translate">Übersetze ThunderDex!</string>
+
+    <!-- THEMES -->
+    <string name="app_themes__experimental_warning">Beim Abstruz der App, einfach neu öffnen</string>
+    <string name="enable_monet_theming">Dynamische Farben aktivieren</string>
+    <string name="enable_black_theme">Schwarzes AMOLED Farbschema</string>
+    <string name="enable_almost_black_theme">\"Almost Black\"(Fast Schwraz) Farbschema</string>
+    <string name="enable_lyft_grey_theme">\"Lyft Grey\"(Lyft Grau) Farbschema</string>
+    <string name="enable_slate_grey_theme">Schiefer Graues Farbschema</string>
+    <string name="enable_thunderteal_theme">\"ThunderTeal\"(Graustufen) Farbschema</string> 
+    <string name="enable_royal_purple_theme">\"Royal Purple\"(Königliches Lila) Farbschema</string>
+    <string name="enable_wtr_assistant_theme">\"War Thunder Assistant\"(Grautöne der WT Assistant App) Farbschema</string>
+    <string name="enable_wtr_blue_theme">\"War Thunder Blue\"(Grautöne mit Blaustufen) Farbschema</string>
+    <string name="dull_blue_theme">Dumpf Blaues Farbschema</string>
+    <string name="space_cadet_theme">\"Space Cadet\"(Lila-blau töne) Farbschema</string>
+    <string name="paid_themes_warning_info_testing_info">Farbschemen werden irgendwann ein <b>KOSTENPFLICHTIGES</b> Feature.\n\n Farbschemen sind noch in der Testphase und könnnen noch fehlerhaft sein oder die App zum Absturz bringen\n\nSollte sie Abstürzen, einfach die App neu öffnen.\nEs wird kostenlose Farbschemen geben.\n\nIch kann es kaum erwarten euch zu zeigen was ich noch für die App in 2024 geplannt habe.</string>
+    <string name="warning">Warnung</string>
+    <string name="themes_confirm">Verstanden. Danke!</string>
+    <string name="warning_title">⭐ <b>WARNUNG</b> ⭐</string>
+    <string name="alt_warning_title"><b>*** ↓ ACHTUNG ↓ ***</b></string>
+    <string name="warning_body">Im Moment müsst ihr noch, Themes manuell aktivieren und deaktivieren das sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIE?T ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
+
+    <!-- Countdown Dialog Strings -->
+    <string name="countdown_start_text">"ThunderDex starte neu in "</string>
+    <string name="countdown_text_seconds">" Sekunden"</string>
+    <string name="countdown_text_one_second">1 Sekunde</string>
+    <string name="countdown_dialog_zero_text">0 Skeunden</string>
 
     <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Zusätzliche Anpassungsoptionen hinzufügen (Fahrzeugbildgröße usw.))</string>
-    <string name="upcoming_feature_four">• Verbesserungen am Fahrzeugbildbetrachter</string>
-    <string name="upcoming_feature_six">• Weitere Übersetzungen hinzufügen</string>
-    <string name="upcoming_feature_seven">• Sobald genügend Sprachen hinzugefügt wurden, erstellen Sie eine Sprachauswahloption</string>
-    <string name="upcoming_feature_eight">• Noch mehr Lade- und Leistungsverbesserungen</string>
+    <string name="upcoming_feature_one">• Zusätzliche Anpassungsoptionen</string>
+    <string name="upcoming_feature_two">• Verbesserungen am Fahrzeugbildanzeige</string>
+    <string name="upcoming_feature_three">• Hinzufügen neuer Übersetzungen</string>
+    <string name="upcoming_feature_four">• Erstellen einer Sprachauswahl, sobald genügend Sprachen hinzugefügt wurden</string>
+    <string name="upcoming_feature_five">• Mehr Verbesserungen zur Ladegeschwindigkeit und genereller Leistung</string>
+    <string name="upcoming_feature_six">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
+    <string name="upcoming_feature_seven">• Hinzufügen eines Bereiches für das Downloaden von War Thunder-Hintergrundbildern direkt von der Webseite</string>
+    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbschemen. (Dark themes only), check the Discord for more info (Join in the Settings)</string>
     <string name="upcoming_feature_nine">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
-    <string name="upcoming_feature_ten">• Fügen Sie einen War Thunder-Hintergrundbildbereich mit einer Download-Möglichkeit von der Website hinzu</string>
+    <string name="upcoming_feature_ten">• Hinzufügen neuer Übersetzungen</string>
+    <string name="upcoming_feature_eleven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, insofern verfügbar</string>
+
+    <!-- App Themes -->
+    <string name="themes_toolbar_title">Farbschemen</string>
+    <string name="settings_app_theme_title">Dynamische App Farbschemen</string>
+    <string name="settings_app_theme_desc">BIS DATO UNBENUTZT</string>
+
+    <!-- Misc. -->
+    <string name="apostrophe" translatable="false">\'</string>
 
     <!-- Sort by strings -->
     <string name="sort_by">Sortieren nach</string>
-    <string name="filter_list">Filter liste</string>
+    <string name="filter_list">Filter Liste</string>
     <string name="sort_alphabetically">Alphabetisch</string>
     <string name="sort_rank_ascending">Rang (Aufsteigend)</string>
     <string name="sort_rank_descending">Rang (Absteigend)</string>
 
     <!-- Image download -->
-    <string name="image_save_success">Das Bild wurde in deiner Galerie gespeichert</string>
+    <string name="image_saved">Das Bild wurde in /sdcard/pictrues/ gespeichert!</string> <!-- Das Bild wurde erfolgreich in deiner Galerie gespeichert-->
     <string name="image_save_fail">Fehler beim Speichern des Bildes</string>
     <string name="image_load_fail">Fehler beim Laden des Bildes</string>
-
-    <!-- DO NOT TRANSLATE THESE!!!! -->
-    <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="cache_cleared_toast_message">Daten &amp; Chache geleert</string>
 
     <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Änderungsprotokoll</string>
+    <string name="changelog">Änderungsprotokoll Historie</string>
+    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>4.2.0:</b>\n• Fixed themed header not applying everywhere\n• Added "War Thunder Assistant" and "War Thunder Blue" themes\n• Updated vehicle group images\n• Added a ScrollView to themes finally\n• Fade out the ThunderDex TextView in the Header\n• Removed the annoying "paid themes" dialog\n• Unified ThunderDex Header text top padding, now consistent across all screens\n• Improved ThunderDex header Text Top Margins, now it doesnt sit so close to your status bar\n• Added code from the Home section that sets the colored Header on smaller screens to the Vehicle Group, Vehicle List and Settings\n• Adjusted Dull blue theme color and header via user suggestion\n• Adjusted Space cadet Theme color and header via user suggestion\n• UI adjustments\n• Simplify Settings\n• Added a button to help contribute translations to the app via Crowdin\n• Added Themed header to the Settings\n• improvement: add a fadeout to the text before disappearing in the themes section\n• Updated some libraries\n• Updated Gradle to 8.9 (stable)\n• <b>Easter Egg hint:</b> <i>Hold the button in the About section</i>\n\n<b>4.1.5:</b>\n• <b>All Themes now have a Textured Header!! (looks nice)</b>\n• Added "Space Cadet" Theme 😊\n• Fixed Game News / Game Updates tab overlapping ThunderDex Header text on devices ike the Pixel 7 Pro\n• Fixed the Header text being (uncomfortably) close to the StatusBar\n• Add Spanish translations via user request\n• Fixed Easter Egg crashing on launch (oops)\n• Updated Gradle\n• Fixed up some code warnings via the analyzer (code improvement)\n• Updated Gradle\n• Added back German translations\n• Improve Themes section UI\n• Add Firebase App tracking to the Themes section for research purposes\n• <b>Easter Egg hint:</b> <i>Hold the button in the About section</i>\n\n<b>4.1.4:</b>\n• Add "ThunderTeal" and Slate Grey" Themes 😊\n• programmatically measure users StatusBar height and apply it towards the Headers Text top margin (fixes uncommon UI bug)\n• Adjusted App Themes UI, work in progress (it is to ensure users are able to select all Themes, will add scrolling ability soon)\n• Fix Vehicle Group Fragment missing colored Header on smaller devices\n• Localize dimensions (performance improvement)\n• Update Libraries and AGP\n• Update Gradle to 8.9-rc-1\n• Fix helicopter black border width thickness\n• Changed some values in the easter egg\n• Easter Egg hint: Hold the button in the About section\n\n\n<b>4.1.3:</b>\n• Fix helicopter black border width thickness\n• Update AGP\n• Fix major app crash making it impossible to view vehicle info\n\n<b>4.1.2:</b>\n• SDK 35 (Android 15 Beta 3+) compatibility for real this time\n• Double the disappearing text length in Themes\n• <b>Easter Egg hint: Hold the button in the About section</b>\n• Fix Theme not applied in some places\n• Added a Forest Green, Dark Red, Dull Blue and Darkish Blue Theme\n• Fix up Theme logic, dynamic app color shouldn\'t auto apply\n• Theme warning text disappears after two seconds, ensuring users can select all themes\n\n<b>4.1.1:</b>\n• Fix vehicles at the bottom of the list being unclickable\n• Adjusted the "Almost Black" theme color (Made it a little bit lighter, #10101C to #212121 Hex code)\n• Removed AMOLED Black Theme for now\n• Themes now have a colored Header instead the image!\n\n<b>4.1.0:</b>\n• THEMES ARE HERE! Introducing a Grey theme, an Almost Black theme and an AMOLED Black Theme\n• Themes are a work in progress and eventually will cost money to have\n• Add some more performance tracking for the app\n• Speed up the gradient animation in About\n• Replace the Dialog popup with a Toast when switching to Dynamic Theming\n• Added more planned features / reduced text size and changed font (Settings > About > Upcoming Features)\n• Removed unused sources and reduced the app size by 300kb\n• Small user interface adjustments• Added an Easter Egg in the app. ;)\n• Finally updated the Shimmer library\n• Fixed content loading shimmer having strange sharp edges\n• Fixed missing translations in the app\n\n<b>4.0.2:</b>\n• Add more planned features (see About in the Settings for more)\n• Fixed ThunderDex Header text being too close to the top near your status bar\n• Bug fixes\n• Updated AGP, Gradle, and app Libraries\n• Updated the design of the Upcoming Features section slightly (adjusted text font, added top margins to space out the text a little bit)\n• Adjusted background animation time in the Upcoming Features section in About\n• Adjusted the alpha (opacity) of the Splash Screen logo and circular loading animation\n\n<b>OLDER:</b>\n<b>4.0.0:</b>\n• Fixed a crash detected by google crashlytics on some devices\n• Fixed a long standing and critical issue for samsung devices that caused the app to close instantly. It is confirmed to be fixed.\n• Redesigned the vehicle info page [Added proper research icon, silver lion icon, enlarged the text, changed the text color, improved vehicle zoom]\n• Redesigned the home screen. [new header font, new header text animation, adjusted dimensions, adjusted theme]\n• Improved the design of the BottomNavigationBar\n• in the vehicle info section, numbers now have commas (example: 500 000 is now 500,000)\n• Adjusted some app colors\n• A Toast (popup message) now appears when you favorite/unfavorite a vehicle\n• Adjusted Dialog colors\n• Updated libraries, AGP, and Gradle\n• Various strings have been updated\n• Added Google Firebase libraries to track app performance, crashes and statistics (NO USER DATA IS COLLECTED)\n• Added more aggressive build optimizations\n• Enabled MultiDex to increase app launch speed and reduce size\n• Added the Build Number and Version Code in the "About" section
+\n\n<b>3.6.0:</b>\n• Redesigned and improved the About section\n• Show a Toast Notification when applying Dynamic Theming before the app restarts\n• Animate the Vehicle Images in the Wiki Tab\n• Enable the title on toolbar in some Fragments\n• Allow dismissing the Changelog Dialog without pressing Okay\n• Added a 0.95 alpha to some TextViews\n• Replaced the 20% black button BG with ripple in About\n• Changed lots of wording in the app\n• Minor fixes and improvements\n\n<b>3.5.6:</b>\n• Included original German Translation credits\n• Updated Hungarian translations\n• Fixed "upcoming features" animated background not being full screen\n• Misc. small fixes\n• Updated Gradle and Libraries\n\n<b>3.5.5:</b>\n• Slightly reduced app size again by a couple hundred kilobytes\n• When you download a vehicle image, it now outputs a file with the vehicles name instead of random numbers\n• Fixed splash screen icon\n• Reintroduce "Upcoming Features" in the "About" section of the app\n• Included all app changelogs from 2.0.0 to the newest version, if you want to look back on updates (scroll down for updates)\n• Fixed splashscreen\n• Add German translation credits\n\n<b>3.5.1:</b>\n• Misc. small changes\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added the ability to navigate back in the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0 (big update):</b>\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference\n\n<b>3.2.4:</b>\n• Adjust vehicle image height \n• Updated Android AGP\n• Library updates\n\n<b>3.2.3:</b>\n• Added Android 9 support\n• Change text in a Dialog\n\n<b>3.2.2:</b>\n• Adjusted vehicle image height... no more scrolling in the "wiki" tab.. :)\n• Fix changelog typo from 3.2.1\n• Bug fixes\n\n<b>3.2.1:</b>\n• Fixed Google Pay not launching on older devices\n• Added an option to copy the Google Pay Email in the dialog\n\n<b>3.2.0:</b>\n• Added cash app donation option\n• Added google pay donation option\n• Fixed up some code with the code analyzer\n• Changed the "Latest Updates" tab to "Latest Game Updates"\n• Lots of small text adjustments that you may or may not notice\n• Fixed all Java issues in the app\n• Further tweaks to elements in the app such as header height and image height\n\n<b>3.1.3:</b>\n• Fix changelog not being up to date\n\n<b>3.1.2:</b>\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app\n• Updated a library\n• Updated Build Tools\n• Updated Gradle\n\n<b>3.1.1:</b>\n• Added Lithuanian and Hungarian translations (thanks to theslimyboi  and Tdikristof_ on Discord for the translations)\n• Further reduced app size ;)\n• Made "ThunderDex" Header text slightly smaller\n• Removed some unused resources\n• Expanded the height of the ThunderDex Header box\n• Expanded the height of Vehicle Images\n• Updated some of the internal structuring of the apps gradle file \n\n<b>3.1.0:</b>\n• *** Decreased app size by ~4MB ***\n• Small text changes\n• Adjusted some UI elements\n• Cleaned up code\n• Removed unused resources\n• Cleaned up some backend code for the app\n\n<b>3.0.1:</b>\n• Fix changelog typo\n• Small string adjustments\n• Removed unused drawables\n\n<b>3.0.0:</b>\n• BRAND NEW DESIGN!\n• Cleaned up the user interface\n• Added my ThunderDexApp subreddit\n• planes / jets has been changed to Aircraft\n• Add blurred searchview\n• Fix toolbar glitching while collapsiing\n• Remove special star character from vehicle info\n• Removed translations setting\n• Removed request a feature activity \n\n<b>2.5.2:</b>\n• Permanent discord link added! Please join the discord group (settings > discord)\n• Made image gradient slightly darker\n• Fixed the bug where the toolbar would include the gradient \n\n<b>2.5.1:</b>\n• Update the discord invite link\n\n<b>2.5.0:</b>\n• Added the "usage in battles" section for vehicles\n• Vehicle images are now larger! :)\n• Vehicle image gradient fixed and adjusted
+• Slight UI adjustments\n• Removed translations again for now\n• cleaned up code via suggestions from the android studio code analyzer\n• Updated Gradle and AGP\n• Reduce app size (it;s now under 10mb)\n\n<b>2.0.0:</b>\n• VEHICLE SEARCH ADDED\n• Further reduce app size\n• Prevent Dialog from being closed when touched outside :)\n• Added a nice gradient for the vehicle images</string>
 
-    <!-- And these...-->
-    <string name="paypal_link">https://paypal.me/hifii</string>
-    <string name="cash_app_link">https://cash.app/$hifii</string>
-    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
-    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
-    <!-- ^^^^^ Permanent Discord link ^^^^^ -->
+    <!-- Links -->
+    <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
+    <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
+    <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
+    <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
 
+    <!-- DO NOT TRANSLATE THESE!!!! -->
+    <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
+
+    <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
+    <string name="settings_donate_title_paypal" translatable="false"><i>Support me on PayPal</i></string>
+    <string name="settings_donate_title_cash_app" translatable="false"><i>Support me on Cash App</i></string>
+    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="blank" translatable="false"> </string>
+    <string name="about_contribute_header_text">Wie kann ich helfen?</string>
+    <string name="about_thunderdex_contributors">ThunderDexs Mithelfende</string>
+    <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische Übersetzung)</b></string>
+    <string name="about_contributor_two"><b>Theslimyboi</b> auf Discord <b>(Litauische Übersetzung)</b></string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Unrsprünglische Deutsche Übersetzung)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Upgedatete Deutsche Übersetzung)</b></string>
+    <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
+    <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
+
+    <!--       Permanent Discord link, DO NOT CHANGE       -->
+    <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
+    <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
+
+    <!-- DO NOT UPLOAD To https://github.com/HiFIi/WarThunderWiki-Translations -->
+    <string name="default_web_client_id" translatable="false">PRIVATE</string>
+
+    <!-- UNUSED -->
+    <!-- Google Pay -->
+    <string name="gpay_donation_dialog_title"><b>Spenden mit Google Pay</b></string>
+    <string name="gpay_donation_dialog_body">Vielen Dank, dass Sie eine Spende in Betracht ziehen!\n\nSenden Sie die Zahlung an mbqonxda@gmail.com</string>
+    <string name="gpay_dialog_confirm">Öffnen Sie Google Pay</string>
+    <string name="gpay_dialog_negative">Email Addresse kopieren</string>
+    <string name="error_gpay_not_installed">Google Pay nicht installiert! Google Play Store startet…</string>
+    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_clipboard_label">Google Pay Email Kopiert</string>
+    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <string name="settings_donate_title_google_pay" translatable="false"><i>Support me on Google Pay</i></string>
+    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
 </resources>
