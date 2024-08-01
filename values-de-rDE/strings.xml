@@ -146,7 +146,7 @@
     <string name="sort_rank_descending">Rang (Absteigend)</string>
 
     <!-- Image download -->
-    <string name="image_saved">Das Bild wurde in /sdcard/pictrues/ gespeichert!</string> <!-- Das Bild wurde erfolgreich in deiner Galerie gespeichert-->
+    <string name="image_saved">Das Bild wurde erfolgreich in deiner Galerie gespeichert</string> <!-- Alternativly this translation fits more to the original: Das Bild wurde in /sdcard/pictrues/ gespeichert!-->
     <string name="image_save_fail">Fehler beim Speichern des Bildes</string>
     <string name="image_load_fail">Fehler beim Laden des Bildes</string>
     <string name="cache_cleared_toast_message">Daten &amp; Chache geleert</string>
