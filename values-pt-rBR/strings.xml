@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- DO NOT TRANSLATE -->
+    <!-- DO NOT TRANSLATE -->
+    <string name="news">Novidades do Jogo</string>
+    <string name="updates">Atualizações do Jogo</string>
+    <string name="vehicle_types">Veículos</string>
+    <string name="favorite_vehicles">Veículos Favoritos</string>
+    <string name="settings">Configurações</string>
+    <string name="battle_rating">Classificação de Batalha:</string>
+    <string name="battle_rating_ab">AB</string>
+    <string name="battle_rating_rb">RB</string>
+    <string name="battle_rating_sb">SB</string>
+    <string name="not_available">Não Disponível</string>
+    <string name="research">Custo de pesquisa:</string>
+    <string name="purchase">Custo de aquisição:</string>
+    <string name="bundle_or_gift">Obtenível através de Pacotes ou Presentes na Loja</string>
+    <string name="description">Descrição:</string>
+    <string name="general_info">Informações Gerais:</string>
+    <string name="pros_and_cons">Prós &amp; contras:</string>
+    <string name="pros">Prós:</string>
+    <string name="cons">Contras:</string>
+    <string name="empty_list">Lista vazia</string>
+    <string name="loading">Carregando…</string>
+    <string name="please_wait">Por favor, aguarde…</string>
+    <string name="connection_error">Não foi possível conectar ao servidor</string>
+    <string name="something_went_wrong">Erro: Algo deu errado</string>
+    <string name="about">Sobre</string>
+    <string name="home">Tela inicial</string>
+    <string name="planes">Aeronaves</string>
+    <string name="helicopters">Helicópteros</string>
+    <string name="tanks">Tanques</string>
+    <string name="ships">Navios</string>
+    <string name="favorite">Adicionar aos favoritos</string>
+    <string name="unfavorite">Remover dos favoritos</string>
+    <string name="donate_dialog_title"><b>❤️ • DOAÇÕES • ❤️</b></string>
+    <string name="settings_app_theme_title">Temas Dinâmicos</string>
+    <string name="settings_app_theme_desc">Habilitar Cores Dinâmicas do Aplicativo</string>
+    <string name="settings_donate_desc">❤️ Apoie meu trabalho doando! ❤️</string>
+    <string name="settings_clear_cache_title">Limpar memória transitória e dados</string>
+    <string name="settings_clear_cache_desc">Limpa as Configurações salvas, Textos &amp; Imagens do aplicativo</string>
+    <string name="affirmative_text">Concluído</string>
+    <string name="read_changelog">Leia registro de mudanças recente</string>
+    <string name="no_data_found">Informação não encontrada…</string>
+    <string name="search_vehicle">Pesquisar veículo</string>
+    <string name="search_here">Pesquise…</string>
+    <string name="clear_search">Limpar Pesquisa</string>
+    <string name="settings_discord_title">Junte-se ao grupo do Discord do ThunderDex</string>
+    <string name="settings_discord_body"><i>Seja parte de algo incrível!</i></string>
+    <string name="usage_in_battles">Uso em batalhas:</string>
+    <string name="wiki">Wiki</string>
+    <string name="about_app">A <i><b>MELHOR</b></i> Wikipedia para War Thunder.</string>
+    <string name="reddit_title">Junte-se ao Subreddit do ThunderDex</string>
+    <string name="reddit_summary">Clique aqui para se juntar ao subreddit do ThunderDex 😁</string>
+    <string name="upcoming_features_summary">Recursos &amp; planos para 2024</string>
+    <string name="upcoming_features_summary_alt">Planos de 2024 para o ThunderDex</string>
+    <string name="upcoming_features">Visualizar futuros recursos do aplicativo</string>
+    <string name="about_app_summary">ThunderDex foi inicialmente concebido em 2023.\nEu usava a Wiki do War Thunder constantemente e fiquei cansado de ter que utilizar meu navegador.\nCom mais de 10 anos de conhecimento em programação, eu desenvolvi esse aplicativo em alguns meses e decidi publicar para todos GRATUITAMENTE!\n\nEu realmente espero que você aproveite o aplicativo! - HiFii</string>
+    <string name="contribute_translations">Contribuir com traduções</string>
+    <string name="contribute_translations_button_text">Clique aqui para saber como!</string>
+    <string name="translations_clickable_link">Clique em <a href="https://github.com/hifii/warthunderwiki-translations">aqui</a> para visitar o link.</string>
+    <string name="title_about_thunderdex">Sobre ThunderDex</string>
+    <string name="vehicle_added_favorites">Adicionado aos Favoritos</string>
+    <string name="vehicle_removed_favorites">Removido dos favoritos</string>
+    <string name="version_code_text">Código da versão:</string>
+    <!-- DO NOT TRANSLATE THESE!!!! -->
+    <string name="upcoming_features_list">Adicionar opções de personalização (tamanho da imagem do veículo, etc.)\n\nFiltro de ordem de veículos por Ranque ao invés de Alfabeticamente\n\nAdicionar opção de como um veículo deve ser filtrado\n\nOtimização para a visualização do veículo\n\nAdicionar opção para baixar imagens o veículo selecionado\n\nAdicionar mais traduções\n\nAssim que um número de traduções forem adicionados, será criado uma opção para selecionar idiomas\n\nMelhor otimização para carregar informações e para performance\n\nAdicionar mais informações gerais e do usuário requisitadas\n\nAdicionar uma sessão para baixar papéis de parede do War Thunder!</string>
+    <string name="about_contribute_header_text">Como eu posso contribuir?</string>
+    <string name="about_thunderdex_contributors">Contribuidores do ThunderDex</string>
+    <string name="about_contributor_one"><b>Tdikristof_</b> no Discord <b>(Tradução para húngaro)</b></string>
+    <string name="about_contributor_two"><b>Theslimyboi</b> no Discord <b>(Tradução para lituano)</b></string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> no Discord <b>(Tradução para alemão, originais)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> no Discord <b>(Tradução para alemão, atualizadas)</b></string>
+    <string name="about_contributor_four"><b>Cosmicweb08</b> no Discord <b>(Tradução para hindu)</b></string>
+    <!-- Countdown Dialog Strings -->
+    <string name="countdown_start_text">"Reiniciando ThunderDex em "</string>
+    <string name="countdown_text_seconds">" segundos"</string>
+    <string name="countdown_text_one_second">format@@0number@@1format@@2 segundos</string>
+    <string name="countdown_dialog_zero_text">0 segundos</string>
+    <!-- Upcoming Features strings -->
+    <string name="upcoming_feature_one">• Adicionar mais opções de personalização</string>
+    <string name="upcoming_feature_two">• Otimização para o visualizador de imagem de veículo</string>
+    <string name="upcoming_feature_three">• Adicionar mais traduções</string>
+    <string name="upcoming_feature_four">• Quando um número suficiente de idiomas forem adicionados, crie uma opção de mudança de idioma</string>
+    <string name="upcoming_feature_five">• Ainda mais melhorias no carregamento e desempenho</string>
+    <string name="upcoming_feature_six">• Adicionar mais informações gerais e do usuário</string>
+    <string name="upcoming_feature_seven">• Adicionar uma sessão para baixar papéis de parede do War Thunder</string>
+    <!-- Misc. -->
+    <!-- UNUSED FOR NOW: Google Pay -->
+    <string name="gpay_donation_dialog_title">Doar usando o Google Pay</string>
+    <string name="gpay_donation_dialog_body"><i>Obrigado por considerar uma doação!</i>\n\n\n<b> Envie o pagamento para mbqonxda@gmail.com ou selecione \"Copiar E-mail\" na caixa de diálogo</b></string>
+    <string name="gpay_dialog_confirm">Abrir Google Pay</string>
+    <string name="gpay_dialog_negative">Copiar endereço de E-mail</string>
+    <string name="error_gpay_not_installed">Google Pay não instalado! Iniciando a Google Play Store…</string>
+    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_clipboard_label">E-mail para Google Pay copiado</string>
+    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <!-- Sort by strings -->
+    <string name="sort_by">Ordenar por</string>
+    <string name="filter_list">Filtrar Lista</string>
+    <string name="sort_alphabetically">Em ordem alfabética</string>
+    <string name="sort_rank_ascending">Ranque (ordem crescente)</string>
+    <string name="sort_rank_descending">Ranque (Ordem decrescente)</string>
+    <!-- Image download -->
+    <string name="image_saved">Imagem salva em /sdcard/imagens/</string>
+    <string name="image_save_fail">Falha ao salvar a imagem</string>
+    <string name="image_load_fail">Falha ao carregar imagem</string>
+    <string name="cache_cleared_toast_message">Dados e Memória transitória do aplicativo apagados</string>
+    <!-- Please always leave these strings at the bottom -->
+    <string name="changelog">Histórico de Registro de mudanças</string>
+    <!-- Links -->
+    <!--       Permanent Discord link, DO NOT CHANGE       -->
+    <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
+</resources>
