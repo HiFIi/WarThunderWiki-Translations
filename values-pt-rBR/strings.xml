@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- DO NOT TRANSLATE -->
-    <!-- DO NOT TRANSLATE -->
+<resources>
     <string name="news">Novidades do Jogo</string>
     <string name="updates">Atualizações do Jogo</string>
     <string name="vehicle_types">Veículos</string>
@@ -107,9 +105,51 @@
     <string name="image_save_fail">Falha ao salvar a imagem</string>
     <string name="image_load_fail">Falha ao carregar imagem</string>
     <string name="cache_cleared_toast_message">Dados e Memória transitória do aplicativo apagados</string>
+
+    <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
+
+    <string name="theme_already_applied_warning"> is already applied</string>
+
     <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Histórico de Registro de mudanças</string>
-    <!-- Links -->
-    <!--       Permanent Discord link, DO NOT CHANGE       -->
-    <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
+    <string name="changelog">Changelog</string>
+
+    <!-- RADAR TITLE STRINGS.
+    You can find the radar body strings in radar_strings.xml -->
+    <string name="radar_ui_title">Radar UI</string>
+    <string name="basic_user_interface_title">Basic User Interface</string>
+    <string name="radar_display_types_title">Radar Display Types</string>
+    <string name="plan_position_indicator_ppi_title">Plan Position Indicator (PPI)</string>
+    <string name="radar_modes_title">Radar Modes</string>
+    <string name="src_title">SRC</string>
+    <string name="src_pd_title">SRC PD</string>
+    <string name="src_pd_hdn_title">SRC PD HDN</string>
+    <string name="src_pdv_hdn_title">SRC PDV HDN</string>
+    <string name="src_mti_title">SRC MTI</string>
+    <string name="tws_title">TWS (Track While Scanning)</string>
+    <string name="tws_hdn_title">TWS HDN</string>
+    <string name="notching_title">Notching a Pulse-Doppler radar</string>
+    <string name="radar_clutter_title">Radar Clutter</string>
+    <string name="radar_tricks_and_tips_title">Radar tricks and tips</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
+
+    <!-- FOR PUSH NOTIFICATIONS THROUGH GOOGLE FIREBASE -->
+    <string name="msg_subscribed">Subscribed to ThunderDex topic</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">ThunderDex Notifications</string>
+    <!-- [END fcm_default_icon_string] -->
+    <string name="msg_subscribe_failed">Failed to subscribe to topic</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="notifications_permission_granted">Notification permission granted</string>
+    <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
+    <string name="cloud_messaging_token_retrieval_failed">Fetching FCM registration token failed</string>
+    <string name="app_cache_size_title">App Cache Size:</string>
+    <string name="app_theme_setting">App Themes</string>
+    <string name="invalid_value_error_text">"Invalid value: "</string>
+    <string name="image_save_success">Image saved successfully!</string>
 </resources>

@@ -70,23 +70,25 @@
     <string name="flappydex">FlappyDex</string>
     <string name="easter_egg_found_message">🍦 Launching the Easter Egg!\nCongrats on discovering it. 🍦</string>
     <string name="settings_translate">Translate ThunderDex!</string>
+    <string name="app_theme_setting">App Themes</string>
 
     <!-- THEMES -->
     <string name="app_themes__experimental_warning">If the app crashes, just re-open it</string>
-    <string name="enable_monet_theming">Enable Dynamic Colors</string>
-    <string name="enable_black_theme">AMOLED Black theme</string>
-    <string name="enable_almost_black_theme">\"Almost Black\" Theme</string>
-    <string name="enable_lyft_grey_theme">\"Lyft Grey\" Theme</string>
-    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
-    <string name="enable_thunderteal_theme">\"ThunderTeal\" Theme</string>
-    <string name="enable_royal_purple_theme">\"Royal Purple\" Theme</string>
-    <string name="enable_wtr_assistant_theme">\"WT Assistant\" Theme</string>
-    <string name="enable_wtr_blue_theme">\"Thunder Blues\" Theme</string>
     <string name="dull_blue_theme">Barely Blue Theme</string>
-    <string name="space_cadet_theme">\"Space Cadet\" Theme</string>
     <string name="dark_red_theme">Dark Red Theme</string>
     <string name="darkish_blue_theme">Darkish Blue Theme</string>
+    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
+    <string name="enable_black_theme">AMOLED Black theme</string>
     <string name="forest_green_theme">Forest Green Theme</string>
+    <string name="enable_monet_theming">Enable Dynamic Colors</string>
+    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
+    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
+    <string name="space_cadet_theme">"Space Cadet" Theme</string>
+    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
+    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
+    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
+    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
+
     <string name="paid_themes_warning_info_testing_info">Themes will end up being a <b>PAID</b> feature.\n\nThemes are currently being tested, may not work properly or cause the app to crash\n\nIf that happens, just re-launch the app.\nI will also be including some free themes.\n\nCan\'t wait to show you what else the app has in store for 2024.</string>
     <string name="warning">Warning</string>
     <string name="themes_confirm">Understood. Thanks!</string>
@@ -100,7 +102,6 @@
     <!-- FOR PUSH NOTIFICATIONS THROUGH GOOGLE FIREBASE -->
     <string name="msg_subscribed">Subscribed to ThunderDex topic</string>
     <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
-
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
     <!--
         This is the name that users will see when interacting with this channel.
@@ -111,6 +112,10 @@
     <!-- [END fcm_default_icon_string] -->
     <string name="msg_subscribe_failed">Failed to subscribe to topic</string>
     <string name="fcm_message">FCM Message</string>
+    <string name="notifications_permission_granted">Notification permission granted</string>
+    <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
+    <string name="cloud_messaging_token_retrieval_failed">Fetching FCM registration token failed</string>
+
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"Restarting ThunderDex in "</string>
     <string name="countdown_text_seconds">" seconds"</string>
@@ -130,10 +135,13 @@
     <string name="upcoming_feature_ten">• Add more translations</string>
     <string name="upcoming_feature_eleven">• Switch vehicle info language based on user language if supported</string>
 
+    <string name="invalid_value_error_text">"Invalid value: "</string>
+
     <!-- App Themes -->
     <string name="themes_toolbar_title">Themes</string>
     <string name="settings_app_theme_title">Dynamic App Colors</string>
     <string name="settings_app_theme_desc">UNUSED FOR NOW</string>
+    <string name="theme_already_applied_warning"> is already applied</string>
 
     <!-- Misc. -->
     <string name="apostrophe" translatable="false">\'</string>
@@ -146,23 +154,44 @@
     <string name="sort_rank_descending">Rank (Descending Order)</string>
 
     <!-- Image download -->
-    <string name="image_saved">Image saved to /sdcard/pictures/!</string>
+    <string name="image_saved">Image saved to /sdcard/pictures/</string>
+    <string name="image_save_success">Image saved successfully</string>
     <string name="image_save_fail">Failed to save image</string>
     <string name="image_load_fail">Failed to load image</string>
     <string name="cache_cleared_toast_message">Cleared Data &amp; Cache</string>
 
-    <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog History</string>
-    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>4.3.0:</b>\n• New header image (it is really nice)• new "almost black" theme header image\n• Improved the design and performance of the "News and Updates" section on the Home page\n• Made the UI nicer (news/updates card redesigned, streamlined and improved header text size and margins\n• Fixed the wrong Dialog background from 4.2.2\n• Fixed dynamic app colors theme switch not working\n• Drastically improved in-app web browsing experience (fixed web page bleeding into status bar, added ability to navigate back Home + added the ability to go back a page in the browser, added javascript support, built in zoom, and made browsing faster / smoother by implementing Chrome Client)\n• Improved Themes section, Added 2 categories, added animated fading warning text and organized theme names alphabetically\n• Enabled Google Cloud Messaging in the app, allowing me to send notifications to all users. This will be rarely used and will serve as an emergency-use only for the most part if a major crash is detected, etc.\n• Improved navigation throughout the app\n• Improved Proguard and gradle properties to increase app performance and reduce size\n• Changed a few theme names\n• Improved the performance in the app. Let me know if you see a difference too\n• Optimized several parts of the app\n• Updated app libraries and AGP\n• improved error handling in the app\n• <b>Easter Egg hint:</b> <i>Hold the button in the About section</i>\n\n\n<b>4.2.2:</b>\n• Fixed crashes on samsung devices that got introduced from the last update\n• New header image.. :)\n• ALL NEW vehicle group images! (planes, tanks, helis, naval)\n• Updated German translations (HUGE thanks to Flitzepipe on GitHub / Discord)\n• Fixed a bug in the "About" section -- converted Fragment to Activity\n• Adjusted the following dimensions: Vehicle Image size, header textview size, navigation size, and header image height)\n• Adjusted header text fade out time to 9.5 seconds\n• Updated AGP\n• Added a fade animation to some text elements\n• Reduce app size by 0.5MB!\n• Simplify Settings\n• UI changes\n• Fixed colored header not applying in certain sections for smaller devices\n• <b>Easter Egg hint:</b> <i>Hold the button in the About section</i>\n\n\n<b><i>OLDER:</i></b>\n\n<b>4.2.1:</b>\n• Fixed 2 MAJOR crashes on samsung devices (sorry)\n\n<b>4.2.0:</b>\n• Fixed themed header not applying everywhere\n• Added "War Thunder Assistant" and "War Thunder Blue" themes\n• Updated vehicle group images\n• Added a ScrollView to themes finally\n• Fade out the ThunderDex TextView in the Header\n• Removed the annoying "paid themes" dialog\n• Unified ThunderDex Header text top padding, now consistent across all screens\n• Improved ThunderDex header Text Top Margins, now it doesnt sit so close to your status bar\n• Added code from the Home section that sets the colored Header on smaller screens to the Vehicle Group, Vehicle List and Settings\n• Adjusted Dull blue theme color and header via user suggestion\n• Adjusted Space cadet Theme color and header via user suggestion\n• UI adjustments\n• Simplify Settings\n• Added a button to help contribute translations to the app via Crowdin\n• Added Themed header to the Settings\n• improvement: add a fadeout to the text before disappearing in the themes section\n• Updated some libraries\n• Updated Gradle to 8.9 (stable)\n• <b>Easter Egg hint:</b> <i>Hold the button in the About section</i>\n\n<b>4.1.5:</b>\n• <b>All Themes now have a Textured Header!! (looks nice)</b>\n• Added "Space Cadet" Theme 😊\n• Fixed Game News / Game Updates tab overlapping ThunderDex Header text on devices ike the Pixel 7 Pro\n• Fixed the Header text being (uncomfortably) close to the StatusBar\n• Add Spanish translations via user request\n• Fixed Easter Egg crashing on launch (oops)\n• Updated Gradle\n• Fixed up some code warnings via the analyzer (code improvement)\n• Updated Gradle\n• Added back German translations\n• Improve Themes section UI\n• Add Firebase App tracking to the Themes section for research purposes\n• <b>Easter Egg hint:</b> <i>Hold the button in the About section</i>\n\n<b>4.1.4:</b>\n• Add "ThunderTeal" and Slate Grey" Themes 😊\n• programmatically measure users StatusBar height and apply it towards the Headers Text top margin (fixes uncommon UI bug)\n• Adjusted App Themes UI, work in progress (it is to ensure users are able to select all Themes, will add scrolling ability soon)\n• Fix Vehicle Group Fragment missing colored Header on smaller devices\n• Localize dimensions (performance improvement)\n• Update Libraries and AGP\n• Update Gradle to 8.9-rc-1\n• Fix helicopter black border width thickness\n• Changed some values in the easter egg\n• Easter Egg hint: Hold the button in the About section\n\n\n<b>4.1.3:</b>\n• Fix helicopter black border width thickness\n• Update AGP\n• Fix major app crash making it impossible to view vehicle info\n\n<b>4.1.2:</b>\n• SDK 35 (Android 15 Beta 3+) compatibility for real this time\n• Double the disappearing text length in Themes\n• <b>Easter Egg hint: Hold the button in the About section</b>\n• Fix Theme not applied in some places\n• Added a Forest Green, Dark Red, Dull Blue and Darkish Blue Theme\n• Fix up Theme logic, dynamic app color shouldn\'t auto apply\n• Theme warning text disappears after two seconds, ensuring users can select all themes\n\n<b>4.1.1:</b>\n• Fix vehicles at the bottom of the list being unclickable\n• Adjusted the "Almost Black" theme color (Made it a little bit lighter, #10101C to #212121 Hex code)\n• Removed AMOLED Black Theme for now\n• Themes now have a colored Header instead the image!\n\n<b>4.1.0:</b>\n• THEMES ARE HERE! Introducing a Grey theme, an Almost Black theme and an AMOLED Black Theme\n• Themes are a work in progress and eventually will cost money to have\n• Add some more performance tracking for the app\n• Speed up the gradient animation in About\n• Replace the Dialog popup with a Toast when switching to Dynamic Theming\n• Added more planned features / reduced text size and changed font (Settings > About > Upcoming Features)\n• Removed unused sources and reduced the app size by 300kb\n• Small user interface adjustments• Added an Easter Egg in the app. ;)\n• Finally updated the Shimmer library\n• Fixed content loading shimmer having strange sharp edges\n• Fixed missing translations in the app\n\n<b>4.0.2:</b>\n• Add more planned features (see About in the Settings for more)\n• Fixed ThunderDex Header text being too close to the top near your status bar\n• Bug fixes\n• Updated AGP, Gradle, and app Libraries\n• Updated the design of the Upcoming Features section slightly (adjusted text font, added top margins to space out the text a little bit)\n• Adjusted background animation time in the Upcoming Features section in About\n• Adjusted the alpha (opacity) of the Splash Screen logo and circular loading animation\n\n<b>OLDER:</b>\n<b>4.0.0:</b>\n• Fixed a crash detected by google crashlytics on some devices\n• Fixed a long standing and critical issue for samsung devices that caused the app to close instantly. It is confirmed to be fixed.\n• Redesigned the vehicle info page [Added proper research icon, silver lion icon, enlarged the text, changed the text color, improved vehicle zoom]\n• Redesigned the home screen. [new header font, new header text animation, adjusted dimensions, adjusted theme]\n• Improved the design of the BottomNavigationBar\n• in the vehicle info section, numbers now have commas (example: 500 000 is now 500,000)\n• Adjusted some app colors\n• A Toast (popup message) now appears when you favorite/unfavorite a vehicle\n• Adjusted Dialog colors\n• Updated libraries, AGP, and Gradle\n• Various strings have been updated\n• Added Google Firebase libraries to track app performance, crashes and statistics (NO USER DATA IS COLLECTED)\n• Added more aggressive build optimizations\n• Enabled MultiDex to increase app launch speed and reduce size\n• Added the Build Number and Version Code in the "About" section
-\n\n<b>3.6.0:</b>\n• Redesigned and improved the About section\n• Show a Toast Notification when applying Dynamic Theming before the app restarts\n• Animate the Vehicle Images in the Wiki Tab\n• Enable the title on toolbar in some Fragments\n• Allow dismissing the Changelog Dialog without pressing Okay\n• Added a 0.95 alpha to some TextViews\n• Replaced the 20% black button BG with ripple in About\n• Changed lots of wording in the app\n• Minor fixes and improvements\n\n<b>3.5.6:</b>\n• Included original German Translation credits\n• Updated Hungarian translations\n• Fixed "upcoming features" animated background not being full screen\n• Misc. small fixes\n• Updated Gradle and Libraries\n\n<b>3.5.5:</b>\n• Slightly reduced app size again by a couple hundred kilobytes\n• When you download a vehicle image, it now outputs a file with the vehicles name instead of random numbers\n• Fixed splash screen icon\n• Reintroduce "Upcoming Features" in the "About" section of the app\n• Included all app changelogs from 2.0.0 to the newest version, if you want to look back on updates (scroll down for updates)\n• Fixed splashscreen\n• Add German translation credits\n\n<b>3.5.1:</b>\n• Misc. small changes\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added the ability to navigate back in the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0 (big update):</b>\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference\n\n<b>3.2.4:</b>\n• Adjust vehicle image height \n• Updated Android AGP\n• Library updates\n\n<b>3.2.3:</b>\n• Added Android 9 support\n• Change text in a Dialog\n\n<b>3.2.2:</b>\n• Adjusted vehicle image height... no more scrolling in the "wiki" tab.. :)\n• Fix changelog typo from 3.2.1\n• Bug fixes\n\n<b>3.2.1:</b>\n• Fixed Google Pay not launching on older devices\n• Added an option to copy the Google Pay Email in the dialog\n\n<b>3.2.0:</b>\n• Added cash app donation option\n• Added google pay donation option\n• Fixed up some code with the code analyzer\n• Changed the "Latest Updates" tab to "Latest Game Updates"\n• Lots of small text adjustments that you may or may not notice\n• Fixed all Java issues in the app\n• Further tweaks to elements in the app such as header height and image height\n\n<b>3.1.3:</b>\n• Fix changelog not being up to date\n\n<b>3.1.2:</b>\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app\n• Updated a library\n• Updated Build Tools\n• Updated Gradle\n\n<b>3.1.1:</b>\n• Added Lithuanian and Hungarian translations (thanks to theslimyboi  and Tdikristof_ on Discord for the translations)\n• Further reduced app size ;)\n• Made "ThunderDex" Header text slightly smaller\n• Removed some unused resources\n• Expanded the height of the ThunderDex Header box\n• Expanded the height of Vehicle Images\n• Updated some of the internal structuring of the apps gradle file \n\n<b>3.1.0:</b>\n• *** Decreased app size by ~4MB ***\n• Small text changes\n• Adjusted some UI elements\n• Cleaned up code\n• Removed unused resources\n• Cleaned up some backend code for the app\n\n<b>3.0.1:</b>\n• Fix changelog typo\n• Small string adjustments\n• Removed unused drawables\n\n<b>3.0.0:</b>\n• BRAND NEW DESIGN!\n• Cleaned up the user interface\n• Added my ThunderDexApp subreddit\n• planes / jets has been changed to Aircraft\n• Add blurred searchview\n• Fix toolbar glitching while collapsiing\n• Remove special star character from vehicle info\n• Removed translations setting\n• Removed request a feature activity \n\n<b>2.5.2:</b>\n• Permanent discord link added! Please join the discord group (settings > discord)\n• Made image gradient slightly darker\n• Fixed the bug where the toolbar would include the gradient \n\n<b>2.5.1:</b>\n• Update the discord invite link\n\n<b>2.5.0:</b>\n• Added the "usage in battles" section for vehicles\n• Vehicle images are now larger! :)\n• Vehicle image gradient fixed and adjusted
-• Slight UI adjustments\n• Removed translations again for now\n• cleaned up code via suggestions from the android studio code analyzer\n• Updated Gradle and AGP\n• Reduce app size (it;s now under 10mb)\n\n<b>2.0.0:</b>\n• VEHICLE SEARCH ADDED\n• Further reduce app size\n• Prevent Dialog from being closed when touched outside :)\n• Added a nice gradient for the vehicle images</string>
+    <string name="app_cache_size_title">App Cache Size:</string>
 
-    <!-- Links -->
+    <!-- Please always leave these strings at the bottom -->
+    <string name="changelog">Changelog</string>
+    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>4.5.0:</b>\n• <b>Improved app performance</b>\n<i>(app performance is already 7 percent faster than it was the last update)\n\n• Fix Airborne Radar SRC PD HDN duplicate title</i>\n\n• Navigation tabs: Change animation mode to Linear and made the tab strip fullWidth, adjust height\n\n• Navigation tabs: adjust scrolling behavior. (introduce parallax scrolling, show tabs when you navigate up)\n\n• Improved theme dialog (it is now themed with the rest of the app, text is now visible and customized the font)\n\n• Theme Dialog: Fixed wrong title text\n\n• Fixed a rare potential crash when launching the Easter Egg, but then navigating back before it launches\n\n• Settings: show a warning if the user tries to set the (already) applied theme\n\n• Don\'t hide the SystemUI (status bar and navigation bar) in the Home Fragment\n\n• Fix Dynamic Theming, the blue header image is now replaced by your system color\n\n• About: Slightly redesigned the features and plans button\n\n• About: Added some transparency to Developer image and social buttons\n\n• About: hide the navigation bar, improve the gradient, reduce gradient animation time, set new margins for the upcoming features button now that the bottom nav bar isnt in the way\n\n• Add logging to retrieve the users Theme choice. Trying to see what is most popular\n\n• Updated some android libraries and AGP\n\n\n<i><b>Previous update:</b></i>\n\n• NEW! Airborne Radar section\n\n• New Themes UI\n\n• Added back AMOLED theme\n\n• Added some vibrations for some app elements\n\n• Fixed a crash when navigating back from a webpage\n\n• Added Portuguese-Brazilian translations (Thanks viispy on Discord)\n\n• Notification permission pops up on Home instead of app launch\n\n• Adjusted "Dark Red" theme\n\n• Redesigned the Bottom Navigation View\n\n• Redesigned vehicle group tab\n\n• Bottom Bar now hides when reading about vehicle\n\n</string>    <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
     <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
     <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
     <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
+
+    <string name="exiting_app_text">Exiting</string>
+    <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
+
+    <!-- RADAR TITLE STRINGS.
+    You can find the radar body strings in radar_strings.xml -->
+    <string name="radar_ui_title">Radar UI</string>
+    <string name="basic_user_interface_title">Basic User Interface</string>
+    <string name="radar_display_types_title">Radar Display Types</string>
+    <string name="plan_position_indicator_ppi_title">Plan Position Indicator (PPI)</string>
+    <string name="radar_modes_title">Radar Modes</string>
+    <string name="src_title">SRC</string>
+    <string name="src_pd_title">SRC PD</string>
+    <string name="src_pd_hdn_title">SRC PD HDN</string>
+    <string name="src_pdv_hdn_title">SRC PDV HDN</string>
+    <string name="src_mti_title">SRC MTI</string>
+    <string name="tws_title">TWS (Track While Scanning)</string>
+    <string name="tws_hdn_title">TWS HDN</string>
+    <string name="notching_title">Notching a Pulse-Doppler radar</string>
+    <string name="radar_clutter_title">Radar Clutter</string>
+    <string name="radar_tricks_and_tips_title">Radar tricks and tips</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
 
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
@@ -179,6 +208,7 @@
     <string name="about_contributor_three_og"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
+    <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portuguese-Brazilian Translations)</b></string>
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
 
