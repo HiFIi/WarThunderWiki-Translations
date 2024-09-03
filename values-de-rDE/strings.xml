@@ -72,6 +72,9 @@
     <string name="easter_egg_found_message">🍦 Minispiel Easter Egg startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="settings_translate">Übersetze ThunderDex!</string>
     <string name="app_theme_setting">App Themes</string>
+    <string name="gradient_in_testing_title">Visible in Debug builds only</string>
+    <string name="gradient_in_testing_summary">Gradient Test Fragment</string>
+    <string name="settings_about_title">About ThunderDex</string>
 
     <string name="invalid_value_error_text">"Invalid value: "</string>
 
@@ -91,6 +94,8 @@
     <string name="notifications_permission_granted">Notification permission granted</string>
     <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
     <string name="cloud_messaging_token_retrieval_failed">Fetching FCM registration token failed</string>
+
+    <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
 
     <!-- THEMES -->
     <string name="app_themes__experimental_warning">Beim Abstruz der App, einfach neu öffnen</string>
@@ -118,6 +123,8 @@
     <string name="themes_category_misc_experimental">Misc. &amp; Experimental</string>
     <string name="themes_category_war_thunder">War Thunder Themes</string>
     <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
+    <string name="fragment_not_attached_error">Fragment is not attached, cannot launch activity.</string>
+    <string name="fcm_short_task">Short lived task is done.</string>
 
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"ThunderDex starte neu in "</string>
