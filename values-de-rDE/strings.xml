@@ -16,9 +16,9 @@
     <string name="not_available">N/A</string>
     <string name="research">Forschung:</string>
     <string name="purchase">Kaufen:</string>
-    <string name="bundle_or_gift">Bundle oder Geschenk</string>
+    <string name="bundle_or_gift">Paket oder Geschenk</string>
     <string name="description">Beschreibung:</string>
-    <string name="general_info">Generelles:</string>
+    <string name="general_info">Grundlegendes:</string>
     <string name="pros_and_cons">Vor- und Nachteile:</string>
     <string name="pros">Vorteile:</string>
     <string name="cons">Nachteile:</string>
@@ -52,10 +52,10 @@
     <string name="about_app">Die <i><b>BESTE</b></i> War Thunder Wikipedia App.</string>
     <string name="reddit_title">Treten sie dem ThunderDex Subreddit bei!</string>
     <string name="reddit_summary">Drücke hier, um den ThunderDex subreddit beizutreten! 😁</string>
-    <string name="upcoming_features_summary_alt">Funktionen &amp; pläne für %s 2024</string>
+    <string name="upcoming_features_summary_alt">Funktionen &amp; Pläne für 2024</string>
     <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2024 geplant sind</string>
     <string name="upcoming_features">Sieh dir kommende App Funktionen an</string>
-    <string name="about_app_summary">ThunderDex was initially conceived in 2023.\nI was a frequent user of the War Thunder Wiki and got tired of using it on my browser.\nWith 10+ years of coding knowledge, I developed this app in a few months and decided to release it to everyone for FREE!</string>
+    <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 konzipiert.\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit über 10 Jahren Programmiererfahrung habe ich die App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS zu machen!</string>
     <string name="about_contribute_header_text">Wie kann ich helfen?</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
@@ -71,14 +71,14 @@
     <string name="flappydex">FlappyDex</string>
     <string name="easter_egg_found_message">🍦 Minispiel Easter Egg startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="settings_translate">Übersetze ThunderDex!</string>
-    <string name="app_theme_setting">App Themes</string>
-    <string name="gradient_in_testing_title">Visible in Debug builds only</string>
-    <string name="gradient_in_testing_summary">Gradient Test Fragment</string>
+    <string name="app_theme_setting">Farbschemen</string>
+    <string name="gradient_in_testing_title">Nur in Debug Versionen sichtbar </string>
+    <string name="gradient_in_testing_summary">Gradient Test Fragmente</string>
     <string name="settings_about_title">About ThunderDex</string>
 
-    <string name="invalid_value_error_text">"Invalid value: "</string>
+    <string name="invalid_value_error_text">"Ungürliger Eingabewert: "</string>
 
-    <string name="msg_subscribed">Subscribed to ThunderDex topic</string>
+    <string name="msg_subscribed">ThunderDex Thema abonniert</string>
     <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
 
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
@@ -87,44 +87,44 @@
         It should describe the category of notifications that will be sent through this channel
      -->
     <!-- [START fcm_default_icon_string] -->
-    <string name="default_notification_channel_name" translatable="true">ThunderDex Notifications</string>
+    <string name="default_notification_channel_name" translatable="true">ThunderDex Benachrichtigungen</string>
     <!-- [END fcm_default_icon_string] -->
-    <string name="msg_subscribe_failed">Failed to subscribe to topic</string>
-    <string name="fcm_message">FCM Message</string>
-    <string name="notifications_permission_granted">Notification permission granted</string>
-    <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
-    <string name="cloud_messaging_token_retrieval_failed">Fetching FCM registration token failed</string>
+    <string name="msg_subscribe_failed">Abonnieren des Themas fehlgeschlagen</string>
+    <string name="fcm_message">FCM Nachricht</string>
+    <string name="notifications_permission_granted">Benarichtigungen wurden zugelassen</string>
+    <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
+    <string name="cloud_messaging_token_retrieval_failed">Beantragen von Benachrichtigungen fehlgeschlagen</string>
 
     <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
 
     <!-- THEMES -->
-    <string name="app_themes__experimental_warning">Beim Abstruz der App, einfach neu öffnen</string>
+    <string name="app_themes__experimental_warning">Bei Abstruz der App, einfach neu öffnen</string>
     <string name="enable_monet_theming">Dynamische Farben aktivieren</string>
     <string name="enable_black_theme">Schwarzes AMOLED Farbschema</string>
-    <string name="enable_almost_black_theme">\"Almost Black\"(Fast Schwraz) Farbschema</string>
-    <string name="enable_lyft_grey_theme">\"Lyft Grey\"(Lyft Grau) Farbschema</string>
-    <string name="enable_slate_grey_theme">Schiefer Graues Farbschema</string>
-    <string name="enable_thunderteal_theme">\"ThunderTeal\"(Graustufen) Farbschema</string>
-    <string name="enable_royal_purple_theme">\"Royal Purple\"(Königliches Lila) Farbschema</string>
-    <string name="enable_wtr_assistant_theme">\"WT Assistant\" Theme</string>
-    <string name="enable_wtr_blue_theme">\"Thunder Blues\" Theme</string>
-    <string name="dull_blue_theme">Barely Blue Theme</string>
-    <string name="dark_red_theme">Dark Red Theme</string>
-    <string name="darkish_blue_theme">Darkish Blue Theme</string>
-    <string name="forest_green_theme">Forest Green Theme</string>
-    <string name="space_cadet_theme">\"Space Cadet\"(Lila-blau töne) Farbschema</string>
+    <string name="enable_almost_black_theme">\"Almost Black\" Farbpalette</string>
+    <string name="enable_lyft_grey_theme">\"Lyft Grey\" Farbpalette</string>
+    <string name="enable_slate_grey_theme">Schiefer Graue Farbpalette</string>
+    <string name="enable_thunderteal_theme">\"ThunderTeal\" Farbpalette</string>
+    <string name="enable_royal_purple_theme">\"Royal Purple\" Farbpalette</string>
+    <string name="enable_wtr_assistant_theme">\"WT Assistant\" Farbpalette</string>
+    <string name="enable_wtr_blue_theme">\"Thunder Blues\" Farbpalette</string>
+    <string name="dull_blue_theme">Nahezu Blaue Farbpalette</string>
+    <string name="dark_red_theme">Dunkelrote Farbpalette</string>
+    <string name="darkish_blue_theme">Dunkler Blaue Farbpalette</string>
+    <string name="forest_green_theme">Waldgrüne Farbpalette</string>
+    <string name="space_cadet_theme">\"Space Cadet\" Farbpalette</string>
     <string name="paid_themes_warning_info_testing_info">Farbschemen werden irgendwann ein <b>KOSTENPFLICHTIGES</b> Feature.\n\n Farbschemen sind noch in der Testphase und könnnen noch fehlerhaft sein oder die App zum Absturz bringen\n\nSollte sie Abstürzen, einfach die App neu öffnen.\nEs wird kostenlose Farbschemen geben.\n\nIch kann es kaum erwarten euch zu zeigen was ich noch für die App in 2024 geplannt habe.</string>
     <string name="warning">Warnung</string>
     <string name="themes_confirm">Verstanden. Danke!</string>
     <string name="warning_title">⭐ <b>WARNUNG</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ ACHTUNG ↓ ***</b></string>
     <string name="warning_body">Im Moment müsst ihr noch, Themes manuell aktivieren und deaktivieren das sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIE?T ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
-    <string name="themes_category_dark_colors">Dark Colors</string>
-    <string name="themes_category_misc_experimental">Misc. &amp; Experimental</string>
-    <string name="themes_category_war_thunder">War Thunder Themes</string>
-    <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
-    <string name="fragment_not_attached_error">Fragment is not attached, cannot launch activity.</string>
-    <string name="fcm_short_task">Short lived task is done.</string>
+    <string name="themes_category_dark_colors">Dunkle Farben</string>
+    <string name="themes_category_misc_experimental">Sonstige &amp; Experimentelle</string>
+    <string name="themes_category_war_thunder">War Thunder Farbpaletten</string>
+    <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt /nMinispiel konnte nicht gestarte werden</string>
+    <string name="fragment_not_attached_error">Fragment nicht angehängt, Aktivität konnte nicht gestartet werden.</string>
+    <string name="fcm_short_task">Kurze Anfrage fertiggestellt.</string>
 
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"ThunderDex starte neu in "</string>
@@ -140,18 +140,18 @@
     <string name="upcoming_feature_five">• Mehr Verbesserungen zur Ladegeschwindigkeit und genereller Leistung</string>
     <string name="upcoming_feature_six">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_seven">• Hinzufügen eines Bereiches für das Downloaden von War Thunder-Hintergrundbildern direkt von der Webseite</string>
-    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbschemen. (Dark themes only), check the Discord for more info (Join in the Settings)</string>
+    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbpaletten. (Nur dunkle Paletten), auf dem Discord Server fidnen sie für mehr Info's (Beitritt in the Einstellungne möglich)</string>
     <string name="upcoming_feature_nine">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_ten">• Hinzufügen neuer Übersetzungen</string>
     <string name="upcoming_feature_eleven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, insofern verfügbar</string>
 
     <!-- App Themes -->
-    <string name="themes_toolbar_title">Farbschemen</string>
-    <string name="settings_app_theme_title">Dynamische App Farbschemen</string>
+    <string name="themes_toolbar_title">Farbpaletten</string>
+    <string name="settings_app_theme_title">Dynamische App Farbpalette</string>
     <string name="settings_app_theme_desc">BIS DATO UNBENUTZT</string>
-    <string name="theme_already_applied_warning"> is already applied</string>
+    <string name="theme_already_applied_warning"> wird bereits angewendet</string>
 
-    <string name="app_cache_size_title">App Cache Size:</string>
+    <string name="app_cache_size_title">App-Cache größe:</string>
 
     <!-- Misc. -->
     <string name="apostrophe" translatable="false">\'</string>
@@ -164,8 +164,8 @@
     <string name="sort_rank_descending">Rang (Absteigend)</string>
 
     <!-- Image download -->
-    <string name="image_saved">Das Bild wurde in /sdcard/pictrues/ gespeichert!</string> <!-- Das Bild wurde erfolgreich in deiner Galerie gespeichert-->
-    <string name="image_save_success">Image saved successfully!</string>
+    <string name="image_saved">Das Bild wurde in deiner Galerie gespeichert</string> <!-- Alternativly this translation fits more to the original: Das Bild wurde in /sdcard/pictrues/ gespeichert!-->
+    <string name="image_save_success">Bild wurde erfolgreich gespeichert!</string>
     <string name="image_save_fail">Fehler beim Speichern des Bildes</string>
     <string name="image_load_fail">Fehler beim Laden des Bildes</string>
     <string name="cache_cleared_toast_message">Daten &amp; Chache geleert</string>
@@ -174,20 +174,20 @@
     You can find the radar body strings in radar_strings.xml -->
     <string name="radar_viewpager_tab_title">Radar</string>
     <string name="radar_ui_title">Radar UI</string>
-    <string name="basic_user_interface_title">Basic User Interface</string>
-    <string name="radar_display_types_title">Radar Display Types</string>
-    <string name="plan_position_indicator_ppi_title">Plan Position Indicator (PPI)</string>
-    <string name="radar_modes_title">Radar Modes</string>
-    <string name="src_title">SRC</string>
-    <string name="src_pd_title">SRC PD</string>
-    <string name="src_pd_hdn_title">SRC PD HDN</string>
-    <string name="src_pdv_hdn_title">SRC PDV HDN</string>
-    <string name="src_mti_title">SRC MTI</string>
-    <string name="tws_title">TWS (Track While Scanning)</string>
-    <string name="tws_hdn_title">TWS HDN</string>
-    <string name="notching_title">Notching a Pulse-Doppler radar</string>
-    <string name="radar_clutter_title">Radar Clutter</string>
-    <string name="radar_tricks_and_tips_title">Radar tricks and tips</string>
+    <string name="basic_user_interface_title">Grundlegende Benutzeroberfläche</string>
+    <string name="radar_display_types_title">Radaroberfläche</string>
+    <string name="plan_position_indicator_ppi_title">PPI-Sichtgerät(Plan-Position-Indicator)</string>
+    <string name="radar_modes_title">Radar Modi</string>
+    <string name="src_title">SRC (Suche)</string>
+    <string name="src_pd_title">SRC PD (Suche Puls-Doppler)</string>
+    <string name="src_pd_hdn_title">SRC PD HDN (Suche Puls-Doppler Entgegenkommend)</string>
+    <string name="src_pdv_hdn_title">SRC PDV HDN (Suche Puls-Doppler-Geschwindigkeit Entgegenkommend)</string>
+    <string name="src_mti_title">SRC MTI (Suche Bewegungednder Ziele)</string>
+    <string name="tws_title">TWS (Aufschalten und Scannen)</string>
+    <string name="tws_hdn_title">TWS HDN (Aufschalten und Scannen Entgegenkommend)</string>
+    <string name="notching_title">Ausweichen eines Puls-Doppler Radars</string>
+    <string name="radar_clutter_title">Radarstörungen</string>
+    <string name="radar_tricks_and_tips_title">Radar Tipps &amp; tricks</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Änderungsprotokoll</string>
@@ -209,9 +209,10 @@
     <string name="about_thunderdex_contributors">ThunderDexs Mithelfende</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische Übersetzung)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> auf Discord <b>(Litauische Übersetzung)</b></string>
-    <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Unrsprünglische Deutsche Übersetzung)</b></string>
-    <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Upgedatete Deutsche Übersetzung)</b></string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Deutsche Übersetzung)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Geholfen bei Deutscher Übersetzungs)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
+    <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portugiesisch-brasilianische Übersetzung)</b></string>
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
 
