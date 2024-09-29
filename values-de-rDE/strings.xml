@@ -4,61 +4,102 @@
     <string name="app_name" translatable="false">ThunderDex</string>
     <!-- DO NOT TRANSLATE -->
 
+    <!-- News and Updates -->
     <string name="news">War Thunder Neuigkeiten</string>
     <string name="updates">Updates</string>
+
+    <!-- Vehicle Information -->
     <string name="vehicle_types">Fahrzeuge</string>
     <string name="favorite_vehicles">Lieblingsfahrzeuge</string>
+
+    <!-- Settings -->
     <string name="settings">Einstellungen</string>
+
+    <!-- Battle Rating -->
     <string name="battle_rating">Battle Rating:</string>
     <string name="battle_rating_ab">AB</string>
     <string name="battle_rating_rb">RB</string>
     <string name="battle_rating_sb">SB</string>
     <string name="not_available">N/A</string>
+
+    <!-- Purchase Information -->
     <string name="research">Forschung:</string>
     <string name="purchase">Kaufen:</string>
     <string name="bundle_or_gift">Paket oder Geschenk</string>
+
+    <!-- Descriptions and Details -->
     <string name="description">Beschreibung:</string>
     <string name="general_info">Grundlegendes:</string>
     <string name="pros_and_cons">Vor- und Nachteile:</string>
     <string name="pros">Vorteile:</string>
     <string name="cons">Nachteile:</string>
+
+    <!-- Empty and Loading States -->
     <string name="empty_list">Leere Liste</string>
     <string name="loading">Laden…</string>
     <string name="please_wait">Bitte Warten…</string>
     <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden</string>
     <string name="something_went_wrong">Fehler: Etwas ist schiefgelaufen</string>
+
+    <!-- Navigation Labels -->
     <string name="about">Über</string>
     <string name="home">Startseite</string>
+
+    <!-- Vehicle Categories -->
     <string name="planes">Flugzeuge</string>
     <string name="helicopters">Helikopter</string>
     <string name="tanks">Panzer</string>
-    <string name="ships">Marine</string>
+    <string name="ships">Naval</string>
+
+    <!-- Favorite Actions -->
     <string name="favorite">Favorit hinzufügen</string>
     <string name="unfavorite">Favorit entfernen</string>
+
+    <!-- Donation -->
     <string name="donate_dialog_title"><b>❤️   • SPENDEN •   ❤️</b></string>
     <string name="settings_donate_desc">❤️   Unterstütze meine Arbeit, indem du spendest!!   ❤️</string>
+
+    <!-- Settings Options -->
     <string name="settings_clear_cache_title">Cache Leeren</string>
     <string name="settings_clear_cache_desc">Löscht temporäre App Daten</string>
+
+    <!-- Affirmations and Actions -->
     <string name="affirmative_text">Fertig!</string>
-    <string name="read_changelog">Lese den neusten Changelog</string>
+
+    <!-- Search -->
     <string name="no_data_found">Keine Daten gefunden…</string>
     <string name="search_vehicle">Nach Fahrzeug suchen</string>
     <string name="search_here">Hier suchen…</string>
     <string name="clear_search">Suche Leeren</string>
+
+    <!-- Community Features -->
     <string name="settings_discord_title">Treten sie dem ThunderDex Discord bei!</string>
     <string name="settings_discord_body"><i>Seien Sie Teil von etwas Erstaunlichem!</i></string>
+
+    <!-- Usage and Miscellaneous -->
     <string name="usage_in_battles">Einsatz in Gefechten:</string>
     <string name="wiki">Wiki</string>
     <string name="about_app">Die <i><b>BESTE</b></i> War Thunder Wikipedia App.</string>
+
+    <!-- Reddit -->
     <string name="reddit_title">Treten sie dem ThunderDex Subreddit bei!</string>
     <string name="reddit_summary">Drücke hier, um den ThunderDex subreddit beizutreten! 😁</string>
+
+    <!-- Upcoming Features -->
     <string name="upcoming_features_summary_alt">Funktionen &amp; Pläne für 2024</string>
     <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2024 geplant sind</string>
     <string name="upcoming_features">Sieh dir kommende App Funktionen an</string>
+
+    <!-- About the App -->
     <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 konzipiert.\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit über 10 Jahren Programmiererfahrung habe ich die App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS zu machen!</string>
+
+    <!-- Contribution -->
     <string name="about_contribute_header_text">Wie kann ich helfen?</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
+    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
+
+    <!-- App Information -->
     <string name="title_about_thunderdex">Über ThunderDex</string>
     <string name="vehicle_added_favorites">Zu Favoriten hunzugefügt</string>
     <string name="vehicle_removed_favorites">Aus Favoriten enternt</string>
@@ -68,63 +109,89 @@
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Version Code:</string>
     <string name="restarting_text">ThunderDex startet neu…</string>
+
+    <!-- Easter Eggs -->
     <string name="flappydex">FlappyDex</string>
     <string name="easter_egg_found_message">🍦 Minispiel Easter Egg startet!\nGlückwunsch zum finden. 🍦</string>
+
+    <!-- Theme and Debug Options -->
     <string name="settings_translate">Übersetze ThunderDex!</string>
     <string name="app_theme_setting">Farbschemen</string>
-    <string name="gradient_in_testing_title">Nur in Debug Versionen sichtbar </string>
+    <string name="gradient_in_testing_title">Nur in Debug Versionen sichtbar</string>
     <string name="gradient_in_testing_summary">Gradient Test Fragmente</string>
+
+    <!-- About Settings -->
     <string name="settings_about_title">About ThunderDex</string>
 
+    <!-- Error and Validation -->
     <string name="invalid_value_error_text">"Ungürliger Eingabewert: "</string>
 
+    <!-- Messaging and Subscription -->
     <string name="msg_subscribed">ThunderDex Thema abonniert</string>
     <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+    <string name="msg_subscribe_failed">Abonnieren des Themas fehlgeschlagen</string>
+    <string name="fcm_message">FCM Nachricht</string>
+    <string name="cloud_messaging_token_retrieval_failed">Beantragen von Benachrichtigungen fehlgeschlagen</string>
 
+    <!-- Notification Channels -->
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
     <!--
         This is the name that users will see when interacting with this channel.
-        It should describe the category of notifications that will be sent through this channel
-     -->
-    <!-- [START fcm_default_icon_string] -->
+        It should describe the category of notifications that will be sent through this channel.
+    -->
     <string name="default_notification_channel_name" translatable="true">ThunderDex Benachrichtigungen</string>
-    <!-- [END fcm_default_icon_string] -->
-    <string name="msg_subscribe_failed">Abonnieren des Themas fehlgeschlagen</string>
-    <string name="fcm_message">FCM Nachricht</string>
-    <string name="notifications_permission_granted">Benarichtigungen wurden zugelassen</string>
-    <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
-    <string name="cloud_messaging_token_retrieval_failed">Beantragen von Benachrichtigungen fehlgeschlagen</string>
 
+    <!-- Notification Permissions -->
+    <string name="notifications_permission_granted">Benachrichtigungen wurden zugelassen</string>
+    <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
+
+    <!-- Dynamic Colors and Device Compatibility -->
     <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
 
-    <!-- THEMES -->
-    <string name="app_themes__experimental_warning">Bei Abstruz der App, einfach neu öffnen</string>
+    <!-- Themes -->
+    <string name="app_themes__experimental_warning">Bei Absturz der App, einfach neu öffnen</string>
     <string name="enable_monet_theming">Dynamische Farben aktivieren</string>
     <string name="enable_black_theme">Schwarzes AMOLED Farbschema</string>
-    <string name="enable_almost_black_theme">\"Almost Black\" Farbpalette</string>
-    <string name="enable_lyft_grey_theme">\"Lyft Grey\" Farbpalette</string>
+    <string name="enable_almost_black_theme">"Almost Black" Farbpalette</string>
+    <string name="enable_lyft_grey_theme">"Lyft Grey" Farbpalette</string>
     <string name="enable_slate_grey_theme">Schiefer Graue Farbpalette</string>
-    <string name="enable_thunderteal_theme">\"ThunderTeal\" Farbpalette</string>
-    <string name="enable_royal_purple_theme">\"Royal Purple\" Farbpalette</string>
-    <string name="enable_wtr_assistant_theme">\"WT Assistant\" Farbpalette</string>
-    <string name="enable_wtr_blue_theme">\"Thunder Blues\" Farbpalette</string>
+    <string name="enable_thunderteal_theme">"ThunderTeal" Farbpalette</string>
+    <string name="enable_royal_purple_theme">"Royal Purple" Farbpalette</string>
+    <string name="enable_wtr_assistant_theme">"WT Assistant" Farbpalette</string>
+    <string name="enable_wtr_blue_theme">"Thunder Blues" Farbpalette</string>
     <string name="dull_blue_theme">Nahezu Blaue Farbpalette</string>
     <string name="dark_red_theme">Dunkelrote Farbpalette</string>
     <string name="darkish_blue_theme">Dunkler Blaue Farbpalette</string>
     <string name="forest_green_theme">Waldgrüne Farbpalette</string>
-    <string name="space_cadet_theme">\"Space Cadet\" Farbpalette</string>
-    <string name="paid_themes_warning_info_testing_info">Farbschemen werden irgendwann ein <b>KOSTENPFLICHTIGES</b> Feature.\n\n Farbschemen sind noch in der Testphase und könnnen noch fehlerhaft sein oder die App zum Absturz bringen\n\nSollte sie Abstürzen, einfach die App neu öffnen.\nEs wird kostenlose Farbschemen geben.\n\nIch kann es kaum erwarten euch zu zeigen was ich noch für die App in 2024 geplannt habe.</string>
+    <string name="space_cadet_theme">"Space Cadet" Farbpalette</string>
+
+    <!-- Themes Warnings -->
+    <string name="paid_themes_warning_info_testing_info">Farbschemen werden irgendwann ein <b>KOSTENPFLICHTIGES</b> Feature.\n\nFarbschemen sind noch in der Testphase und können noch fehlerhaft sein oder die App zum Absturz bringen.\n\nSollte sie Abstürzen, einfach die App neu öffnen.\nEs wird kostenlose Farbschemen geben.\n\nIch kann es kaum erwarten, euch zu zeigen, was ich noch für die App in 2024 geplant habe.</string>
     <string name="warning">Warnung</string>
     <string name="themes_confirm">Verstanden. Danke!</string>
     <string name="warning_title">⭐ <b>WARNUNG</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ ACHTUNG ↓ ***</b></string>
-    <string name="warning_body">Im Moment müsst ihr noch, Themes manuell aktivieren und deaktivieren das sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIE?T ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
+    <string name="warning_body">Im Moment müsst ihr noch Themes manuell aktivieren und deaktivieren, damit sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIE?T ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
+
+    <!-- Theme Categories -->
     <string name="themes_category_dark_colors">Dunkle Farben</string>
     <string name="themes_category_misc_experimental">Sonstige &amp; Experimentelle</string>
     <string name="themes_category_war_thunder">War Thunder Farbpaletten</string>
-    <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt /nMinispiel konnte nicht gestarte werden</string>
+
+    <!-- Easter Eggs -->
+    <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt.\nMinispiel konnte nicht gestartet werden</string>
+
+    <!-- Fragment Errors -->
     <string name="fragment_not_attached_error">Fragment nicht angehängt, Aktivität konnte nicht gestartet werden.</string>
+
+    <!-- FCM Tasks -->
     <string name="fcm_short_task">Kurze Anfrage fertiggestellt.</string>
+
+    <!-- Changelog -->
+    <string name="changelog">Änderungsprotokoll</string>
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
+    <string name="read_changelog">Lese den neusten Changelog</string>
 
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"ThunderDex starte neu in "</string>
@@ -140,7 +207,7 @@
     <string name="upcoming_feature_five">• Mehr Verbesserungen zur Ladegeschwindigkeit und genereller Leistung</string>
     <string name="upcoming_feature_six">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_seven">• Hinzufügen eines Bereiches für das Downloaden von War Thunder-Hintergrundbildern direkt von der Webseite</string>
-    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbpaletten. (Nur dunkle Paletten), auf dem Discord Server fidnen sie für mehr Info's (Beitritt in the Einstellungne möglich)</string>
+    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbpaletten. (Nur dunkle Paletten), auf dem Discord Server fidnen sie für mehr Info\'s (Beitritt in the Einstellungne möglich)</string>
     <string name="upcoming_feature_nine">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_ten">• Hinzufügen neuer Übersetzungen</string>
     <string name="upcoming_feature_eleven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, insofern verfügbar</string>
@@ -188,9 +255,8 @@
     <string name="notching_title">Ausweichen eines Puls-Doppler Radars</string>
     <string name="radar_clutter_title">Radarstörungen</string>
     <string name="radar_tricks_and_tips_title">Radar Tipps &amp; tricks</string>
+    <string name="expandable_radar_overview_title">Radar Overview</string>
 
-    <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Änderungsprotokoll</string>
     <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>

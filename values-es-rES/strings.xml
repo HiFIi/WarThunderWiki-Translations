@@ -30,7 +30,7 @@
     <string name="planes">Aviones</string>
     <string name="helicopters">Helicópteros</string>
     <string name="tanks">Tanques</string>
-    <string name="ships">Naves</string>
+    <string name="ships">Naval</string>
     <string name="favorite">Favoritos</string>
     <string name="unfavorite">Eliminar favorito</string>
     <string name="donate_dialog_title"><b>❤️ • DONACIONES • ❤️</b></string>
@@ -58,6 +58,7 @@
     <string name="about_app_summary">ThunderDex fue concebido inicialmente en 2023.\nEra un usuario frecuente de la Wiki de War Thunder y me cansé de usarlo en mi navegador.\nCon más de 10 años de conocimiento en programación, desarrollé esta aplicación en unos pocos meses y decidí lanzarla para todos de forma GRATUITA!\n\nEspero de verdad que disfrutes la aplicación! - HiFii</string>
     <string name="contribute_translations">Contribuir con traducciones</string>
     <string name="contribute_translations_button_text">¡Haz clic aquí para aprender cómo!</string>
+    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
     <string name="translations_clickable_link">Haga clic <a href="https://github.com/hifii/warthunderwiki-translations">aquí</a> para visitar el enlace.</string>
     <string name="title_about_thunderdex">Acerca de ThunderDex</string>
     <string name="vehicle_added_favorites">añadido a Favoritos</string>
@@ -77,6 +78,9 @@
     <string name="countdown_text_seconds">" segundos"</string>
     <string name="countdown_text_one_second">1 segundo</string>
     <string name="countdown_dialog_zero_text">0 segundos</string>
+    <!-- Radar -->
+    <string name="expandable_radar_overview_title">Radar Overview</string>
+
     <!-- Upcoming Features strings -->
     <string name="upcoming_feature_one">• Añadir opciones extra de personalización (tamaño de imagen del vehículo, etc.)</string>
     <string name="upcoming_feature_two">• Mejoras para el visor de imágenes del vehículo</string>
@@ -109,7 +113,6 @@
     <string name="cache_cleared_toast_message"><![CDATA[Limpiar datos y caché de aplicaciones]]></string>
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>
-    <!-- Links -->
-    <!--       Permanent Discord link, DO NOT CHANGE       -->
-    <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
 </resources>

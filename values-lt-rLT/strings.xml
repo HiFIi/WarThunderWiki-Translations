@@ -27,7 +27,7 @@
     <string name="planes">Lėktuvai</string>
     <string name="helicopters">Sraigtasparniai</string>
     <string name="tanks">Tankai</string>
-    <string name="ships">Laivai</string>
+    <string name="ships">Naval</string>
     <string name="favorite">Mėgstamiausi</string>
     <string name="unfavorite">Nemėgstamas</string>
     <string name="donate_dialog_title"><b>❤️   • AUKA •   ❤️</b></string>
@@ -64,9 +64,15 @@
     <string name="contribute_translations">Contribute Translations</string>
     <string name="contribute_translations_button_text">Click here to learn how!</string>
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
+    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
     <string name="title_about_thunderdex">About ThunderDex</string>
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Version Code:</string>
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
+
+    <!-- Radar -->
+    <string name="expandable_radar_overview_title">Radar Overview</string>
 
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"Restarting ThunderDex in "</string>
@@ -117,6 +123,8 @@
     <string name="paypal_link">https://paypal.me/hifii</string>
     <string name="cash_app_link">https://cash.app/$hifii</string>
     <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
+
+
     <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
     <!-- ^^^^^ Permanent Discord link ^^^^^ -->
 </resources>
