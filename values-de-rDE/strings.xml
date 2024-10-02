@@ -49,7 +49,7 @@
     <string name="planes">Flugzeuge</string>
     <string name="helicopters">Helikopter</string>
     <string name="tanks">Panzer</string>
-    <string name="ships">Naval</string>
+    <string name="ships">Marine</string>
 
     <!-- Favorite Actions -->
     <string name="favorite">Favorit hinzufügen</string>
@@ -97,7 +97,7 @@
     <string name="about_contribute_header_text">Wie kann ich helfen?</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
-    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
+    <string name="translations_coming_soon_teaser">Wird balötig wiederkehrern!\nEin neues Design is gerade in Entwicklung</string>
 
     <!-- App Information -->
     <string name="title_about_thunderdex">Über ThunderDex</string>
@@ -151,7 +151,7 @@
     <!-- Themes -->
     <string name="app_themes__experimental_warning">Bei Absturz der App, einfach neu öffnen</string>
     <string name="enable_monet_theming">Dynamische Farben aktivieren</string>
-    <string name="enable_black_theme">Schwarzes AMOLED Farbschema</string>
+    <string name="enable_black_theme">Schwarzes AMOLED Farbparlette</string>
     <string name="enable_almost_black_theme">"Almost Black" Farbpalette</string>
     <string name="enable_lyft_grey_theme">"Lyft Grey" Farbpalette</string>
     <string name="enable_slate_grey_theme">Schiefer Graue Farbpalette</string>
@@ -168,10 +168,10 @@
     <!-- Themes Warnings -->
     <string name="paid_themes_warning_info_testing_info">Farbschemen werden irgendwann ein <b>KOSTENPFLICHTIGES</b> Feature.\n\nFarbschemen sind noch in der Testphase und können noch fehlerhaft sein oder die App zum Absturz bringen.\n\nSollte sie Abstürzen, einfach die App neu öffnen.\nEs wird kostenlose Farbschemen geben.\n\nIch kann es kaum erwarten, euch zu zeigen, was ich noch für die App in 2024 geplant habe.</string>
     <string name="warning">Warnung</string>
-    <string name="themes_confirm">Verstanden. Danke!</string>
+    <string name="themes_confirm">Alles Klar!</string>
     <string name="warning_title">⭐ <b>WARNUNG</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ ACHTUNG ↓ ***</b></string>
-    <string name="warning_body">Im Moment müsst ihr noch Themes manuell aktivieren und deaktivieren, damit sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIE?T ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
+    <string name="warning_body">Im Moment müsst ihr noch Themes manuell aktivieren und deaktivieren, damit sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIEßT ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
 
     <!-- Theme Categories -->
     <string name="themes_category_dark_colors">Dunkle Farben</string>
@@ -189,9 +189,9 @@
 
     <!-- Changelog -->
     <string name="changelog">Änderungsprotokoll</string>
-    <string name="view_older_changelogs">View older changelogs</string>
-    <string name="older_changelogs_title">Older Changelogs</string>
-    <string name="read_changelog">Lese den neusten Changelog</string>
+    <string name="view_older_changelogs">Sieh dir ältere Änderungsprotokoll an</string>
+    <string name="older_changelogs_title">Alte Änderungsprotokoll</string>
+    <string name="read_changelog">Lies den neusten Changelog</string>
 
     <!-- Countdown Dialog Strings -->
     <string name="countdown_start_text">"ThunderDex starte neu in "</string>
@@ -207,7 +207,7 @@
     <string name="upcoming_feature_five">• Mehr Verbesserungen zur Ladegeschwindigkeit und genereller Leistung</string>
     <string name="upcoming_feature_six">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_seven">• Hinzufügen eines Bereiches für das Downloaden von War Thunder-Hintergrundbildern direkt von der Webseite</string>
-    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbpaletten. (Nur dunkle Paletten), auf dem Discord Server fidnen sie für mehr Info\'s (Beitritt in the Einstellungne möglich)</string>
+    <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbpaletten. (Nur dunkle Paletten), auf dem Discord Server fidnen sie für mehr Infos (Beitritt in the Einstellungne möglich)</string>
     <string name="upcoming_feature_nine">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_ten">• Hinzufügen neuer Übersetzungen</string>
     <string name="upcoming_feature_eleven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, insofern verfügbar</string>
@@ -255,7 +255,7 @@
     <string name="notching_title">Ausweichen eines Puls-Doppler Radars</string>
     <string name="radar_clutter_title">Radarstörungen</string>
     <string name="radar_tricks_and_tips_title">Radar Tipps &amp; tricks</string>
-    <string name="expandable_radar_overview_title">Radar Overview</string>
+    <string name="expandable_radar_overview_title">Radar Überblick</string>
 
     <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
@@ -278,7 +278,8 @@
     <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Deutsche Übersetzung)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Geholfen bei Deutscher Übersetzungs)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
-    <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portugiesisch-brasilianische Übersetzung)</b></string>
+    <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
+    <!-- <string name="about_contributor_six"><b>Dutch_lion</b> auf Discord <b>(Niederländische Übersetzung)</b></string> A Comment untill dutch translation fully added -->
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
 
