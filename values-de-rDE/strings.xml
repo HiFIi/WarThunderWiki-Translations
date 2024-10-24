@@ -10,7 +10,7 @@
 
     <!-- Vehicle Information -->
     <string name="vehicle_types">Fahrzeuge</string>
-    <string name="favorite_vehicles">Lieblingsfahrzeuge</string>
+    <string name="favorite_vehicles">Favoriten</string>
 
     <!-- Settings -->
     <string name="settings">Einstellungen</string>
@@ -125,6 +125,8 @@
 
     <!-- Error and Validation -->
     <string name="invalid_value_error_text">"Ungürliger Eingabewert: "</string>
+    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
 
     <!-- Messaging and Subscription -->
     <string name="msg_subscribed">ThunderDex Thema abonniert</string>
@@ -132,7 +134,6 @@
     <string name="msg_subscribe_failed">Abonnieren des Themas fehlgeschlagen</string>
     <string name="fcm_message">FCM Nachricht</string>
     <string name="cloud_messaging_token_retrieval_failed">Beantragen von Benachrichtigungen fehlgeschlagen</string>
-
     <!-- Notification Channels -->
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
     <!--
@@ -140,10 +141,16 @@
         It should describe the category of notifications that will be sent through this channel.
     -->
     <string name="default_notification_channel_name" translatable="true">ThunderDex Benachrichtigungen</string>
-
     <!-- Notification Permissions -->
     <string name="notifications_permission_granted">Benachrichtigungen wurden zugelassen</string>
     <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
+    <!-- Notification Permission Rationale -->
+    <string name="notification_permission_rationale">"To enhance your experience, %1$s would like to send you notifications regarding important updates &amp; alerts.\n\nPlease grant this permission to allow notifications."</string>
+    <!-- Grant Permission Button Text -->
+    <string name="grant_permission">Grant Permission</string>
+    <!-- Skip Permission Button Text -->
+    <string name="skip_permission">Skip for Now</string>
+    <string name="notif_perm_unsupported_device">Notification permissions are not required on this version.</string>
 
     <!-- Dynamic Colors and Device Compatibility -->
     <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
@@ -257,6 +264,10 @@
     <string name="radar_tricks_and_tips_title">Radar Tipps &amp; tricks</string>
     <string name="expandable_radar_overview_title">Radar Überblick</string>
 
+    <string name="support_the_developer">Support the Developer</string>
+    <string name="thunderdex_social">Thunderdex Social</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord</string>
+
     <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
@@ -264,7 +275,6 @@
     <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
     <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
 
-    <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
 
     <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>

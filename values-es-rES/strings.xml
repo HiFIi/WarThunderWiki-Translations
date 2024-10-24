@@ -64,6 +64,8 @@
     <string name="vehicle_added_favorites">añadido a Favoritos</string>
     <string name="vehicle_removed_favorites">eliminado de Favoritos</string>
     <string name="version_code_text">Código de versión:</string>
+    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="upcoming_features_list">Añadir opciones extra de personalización (tamaño de imagen del vehículo, etc)\n\nFiltrar vehículos por rango en lugar de alfabeticamente\n\nAñadir opción para elegir cómo se filtran los vehículos\n\nMejoras al visor de imágenes de vehículo\n\nAñadir una opción para descargar imágenes de vehículo seleccionadas\n\nAñadir más traducciones\n\nUna vez que se añadan suficientes idiomas, crear la opción de selección de idioma\n\nMejoras aún más en la carga y el rendimiento\n\nAñadiendo más información y también información solicitada por el usuario\n\n¡Añadir una sección de fondo de pantalla con la habilidad de descarga! (desde el sitio web de fondos de pantalla de Wikipedia de War Thunder)</string>
     <string name="about_contribute_header_text">¿Cómo contribuir?</string>

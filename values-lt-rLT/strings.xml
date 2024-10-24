@@ -70,6 +70,8 @@
     <string name="version_code_text">Version Code:</string>
     <string name="view_older_changelogs">View older changelogs</string>
     <string name="older_changelogs_title">Older Changelogs</string>
+    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
 
     <!-- Radar -->
     <string name="expandable_radar_overview_title">Radar Overview</string>

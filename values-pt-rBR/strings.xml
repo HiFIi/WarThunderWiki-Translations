@@ -28,7 +28,7 @@
     <string name="planes">Aeronaves</string>
     <string name="helicopters">Helicópteros</string>
     <string name="tanks">Tanques</string>
-    <string name="ships">Navios</string>
+    <string name="ships">Naval</string>
     <string name="favorite">Adicionar aos favoritos</string>
     <string name="unfavorite">Remover dos favoritos</string>
     <string name="donate_dialog_title"><b>❤️ • DOAÇÕES • ❤️</b></string>
@@ -57,10 +57,22 @@
     <string name="contribute_translations">Contribuir com traduções</string>
     <string name="contribute_translations_button_text">Clique aqui para saber como!</string>
     <string name="translations_clickable_link">Clique em <a href="https://github.com/hifii/warthunderwiki-translations">aqui</a> para visitar o link.</string>
+    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
     <string name="title_about_thunderdex">Sobre ThunderDex</string>
     <string name="vehicle_added_favorites">Adicionado aos Favoritos</string>
     <string name="vehicle_removed_favorites">Removido dos favoritos</string>
     <string name="version_code_text">Código da versão:</string>
+    <string name="gradient_in_testing_title">Visible in Debug builds only</string>
+    <string name="gradient_in_testing_summary">Gradient Test Fragment</string>
+    <string name="settings_about_title">About ThunderDex</string>
+    <string name="fragment_not_attached_error">Fragment is not attached, cannot launch activity.</string>
+    <string name="fcm_short_task">Short lived task is done.</string>
+    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
+
     <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="upcoming_features_list">Adicionar opções de personalização (tamanho da imagem do veículo, etc.)\n\nFiltro de ordem de veículos por Ranque ao invés de Alfabeticamente\n\nAdicionar opção de como um veículo deve ser filtrado\n\nOtimização para a visualização do veículo\n\nAdicionar opção para baixar imagens o veículo selecionado\n\nAdicionar mais traduções\n\nAssim que um número de traduções forem adicionados, será criado uma opção para selecionar idiomas\n\nMelhor otimização para carregar informações e para performance\n\nAdicionar mais informações gerais e do usuário requisitadas\n\nAdicionar uma sessão para baixar papéis de parede do War Thunder!</string>
     <string name="about_contribute_header_text">Como eu posso contribuir?</string>
@@ -94,6 +106,8 @@
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">E-mail para Google Pay copiado</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <!-- Radar -->
+    <string name="expandable_radar_overview_title">Radar Overview</string>
     <!-- Sort by strings -->
     <string name="sort_by">Ordenar por</string>
     <string name="filter_list">Filtrar Lista</string>
@@ -109,6 +123,8 @@
     <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
 
     <string name="theme_already_applied_warning"> is already applied</string>
+
+    <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
 
     <!-- Please always leave these strings at the bottom -->
     <string name="changelog">Changelog</string>

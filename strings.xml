@@ -1,6 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Section: App name -->
     <string name="app_name" translatable="false">ThunderDex</string>
+    <string name="header_title" translatable="false">" ThunderDex "</string>
+    <string name="settings_title" translatable="false">" Settings "</string>
 
     <!-- Section: Main Menu and Navigation -->
     <string name="news">Game News</string>
@@ -50,6 +52,7 @@
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Version Code:</string>
 
+
     <!-- Section: Error and Connection Handling -->
     <string name="connection_error">Could not connect to server</string>
     <string name="something_went_wrong">Error: Something went wrong</string>
@@ -65,6 +68,9 @@
     <string name="settings_translate">Help translate ThunderDex</string>
     <string name="settings_about_title">About ThunderDex</string>
     <string name="app_theme_setting">App Themes</string>
+    <string name="support_the_developer">Support the Developer</string>
+    <string name="thunderdex_social">Thunderdex Social</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord</string>
 
     <!-- Section: About ThunderDex -->
     <string name="about_app">The <i><b>BEST</b></i> War Thunder Wikipedia App.</string>
@@ -95,7 +101,7 @@
     <string name="gradient_in_testing_title">Visible in Debug builds only</string>
     <string name="gradient_in_testing_summary">Gradient Test Fragment</string>
 
-    <!-- Section: Social Media Links -->
+    <!-- Section: Reddit -->
     <string name="reddit_title">ThunderDex Subreddit</string>
     <string name="reddit_summary">Click here to join the ThunderDex subreddit 😁</string>
 
@@ -108,20 +114,25 @@
     <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
     <string name="settings_app_theme_desc">UNUSED FOR NOW</string>
     <string name="theme_already_applied_warning"> is already applied</string>
-    <string name="dull_blue_theme">Barely Blue Theme</string>
-    <string name="dark_red_theme">Dark Red Theme</string>
-    <string name="darkish_blue_theme">Darkish Blue Theme</string>
-    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
-    <string name="enable_black_theme">AMOLED Black theme</string>
-    <string name="forest_green_theme">Forest Green Theme</string>
+    <string name="default_theme">Default</string>
+    <string name="dynamic_colors_theme">Dynamic Colors</string>
+    <string name="app_themes__experimental_warning">If the app crashes, just re-open it</string>
     <string name="enable_monet_theming">Enable Dynamic Colors</string>
-    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
-    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
-    <string name="space_cadet_theme">"Space Cadet" Theme</string>
+    <string name="enable_black_theme">AMOLED Black theme</string>
+    <string name="enable_almost_black_theme">\"Almost Black\" Theme</string>
+    <string name="enable_lyft_grey_theme">\"Lyft Grey\" Theme</string>
     <string name="enable_slate_grey_theme">Slate Grey Theme</string>
-    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
-    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
-    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
+    <string name="enable_thunderteal_theme">\"ThunderTeal\" Theme</string>
+    <string name="enable_royal_purple_theme">\"Royal Purple\" Theme</string>
+    <string name="enable_wtr_assistant_theme">\"WT Assistant\" Theme</string>
+    <string name="enable_wtr_blue_theme">\"Thunder Blues\" Theme</string>
+    <string name="enable_dull_blue_theme">Barely Blue Theme</string>
+    <string name="enable_space_cadet_theme">\"Space Cadet\" Theme</string>
+    <string name="enable_dark_red_theme">Dark Red Theme</string>
+    <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
+    <string name="enable_forest_green_theme">Forest Green Theme</string>
+    <string name="enable_halloween_theme">Halloween</string>
+    <string name="halloween_theme_pumpkin_for_header">" 🎃 "</string>
 
     <!-- Section: Theme Warnings and Info -->
     <string name="paid_themes_warning_info_testing_info">Themes will end up being a <b>PAID</b> feature.\n\nThemes are currently being tested, may not work properly or cause the app to crash\n\nIf that happens, just re-launch the app.\nI will also be including some free themes.\n\nCan\'t wait to show you what else the app has in store for 2024.</string>
@@ -130,6 +141,9 @@
     <string name="warning_title">⭐ <b>WARNING</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ CAUTION ↓ ***</b></string>
     <string name="warning_body">For the time being, you need to manually check, and uncheck the Theme that you want to properly disable it. Will be fixed soon.\n\n<b>IF THE APP CRASHES OR CLOSES, RE-OPEN IT!</b></string>
+    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+
 
     <!-- Section: Theme Categories -->
     <string name="themes_category_dark_colors">Dark Colors</string>
@@ -144,6 +158,14 @@
     <string name="msg_subscribed">Subscribed to ThunderDex topic</string>
     <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!-- Notification Permission Rationale -->
+    <string name="notification_permission_rationale">"To enhance your experience, ThunderDex would like to send you notifications regarding important updates &amp; alerts.\n\nPlease grant this permission to allow notifications."</string>
+    <!-- Grant Permission Button Text -->
+    <string name="grant_permission">Grant Permission</string>
+    <!-- Skip Permission Button Text -->
+    <string name="skip_permission">Skip for Now</string>
+    <string name="notif_perm_unsupported_device">Notification permissions are not required on this version.</string>
+
     <!--
         This is the name that users will see when interacting with this channel.
         It should describe the category of notifications that will be sent through this channel
@@ -153,7 +175,7 @@
     <!-- [END fcm_default_icon_string] -->
     <string name="msg_subscribe_failed">Failed to subscribe to topic</string>
     <string name="fcm_message">FCM Message</string>
-    <string name="notifications_permission_granted">Notification permission granted</string>
+    <string name="notifications_permission_granted">Thanks!\nLaunching the Changelog.</string>
     <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
     <string name="cloud_messaging_token_retrieval_failed">Fetching FCM registration token failed</string>
 
@@ -198,14 +220,11 @@
     <string name="app_cache_size_title">App Cache Size:</string>
 
     <!-- Please, always leave these strings at the bottom -->
-
     <!-- Section: Changelog-related Strings-->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.1.0:</b>\n• <b>NEW!</b> image group images (helis, planes, tanks, ships)\n• <b>NEW!</b> "View Older Changelogs" in Settings > About\n• Fixed dynamic color theme not fully applying\n• Reduced app size\n• Force-apply dynamic theming for android 12+\n- Thunderdex default theme is now dynamic for android 12+ devices \n• Improved airborne radar UI, add dynamic theming elements for android 12+ and improve back navigation\n• Drastically improved the Vehicle Groups section (new images, improved zoom, slight redesigns and improvements, better Blur)\n• Bottom Navigation is now easier to see, increased visibility via user suggestion\n• Removed the textured background for the Home and Vehicle Information section\n• Updated and improved German translations (Thanks to Flitzepipe from Discord)\n• Updated 10 app libraries,, you may notice better performance\n• Updated animations again in the app, you should notice them\n• Updated Android Libraries and AGP\n• Fixed changelog in the app update being unscrollable, thanks to users who reported it</string>
-    <!-- Older changelog for Activity -->
+    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.5.0</b>\n• New feature: Added an "Aircraft Cannons" and "Aircraft Machine Guns" sections(wiki > weaponry)\n• Instantly load news and updates\n• NEW! Bottom navigation UI with blur\n• NEW! in-app notifications permissions screen\n• New Theme: Halloween\n• Changed Slate Grey theme to just Grey\n• Grey theme: New colors\n• Fixed some Theme colors\n• Fixed themes issues\n• New and improved app icons\n• Sort news and updates by time, no more out of order news\n• Improved restart on theme apply\n• Improved logic for themes\n• Improved vehicle zoom animation\n• When the user denies the Notification permission, only show the message once instead of upon every launch\n• Improved Settings UI\n• Fixed airborne radar force close on android 9-11 (thanks bearcat29 on discord)\n• Make the airborne radar section background theme-compliant\n• Airborne Radar: dynamically set the expandable cardview background with material design for android 12+\n• Airborne Radar: change logic on how dynamic color is set for the expandable cardview\n• vehicle list: Fixed the bottom app bar overlapping the vehicles at the bottom (thanks bearcat29 on discord)\n• Fix Golden Eagle icon on dark themes\n• Update german translations (thanks flitzepipe on discord)\n• Fix header text glow cutoff\n• Update favorite vehicles instantly\n• Fixed weird characters in the app</string>
     <string name="older_changelogs_title">Older Changelogs</string>
-    <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.0.0:</b>\n• Completely redesigned app! New animations, layouts, design, and more. App performance has been improved too\n• redesigned the home page and vehicle info page, vehicle group page, and vehicle list page\n- Expanding on the info above, the news and updates now show 3 lines of text, and have a fading effect, as well as a slightly textured background\n- Expanding on the info above,  The vehicle info page has all new fonts, different fonts, a new layout, improved zoom, a darkened background animation, new gradient for the vehicle image, and a textured background\n- Expanding on the info above, the vehicle group page hs been redesigned. The vehicle type (regular, premium, squad) color now covers the entire square layout, I changed the rounded corners for all 4 edges resulting in more of a square shape, and added an outline to the cards as well with a minimal shadow. Looks very nice with the different themes, especially the AMOLED black\n- Expanding on the info above,  The vehicle list page now has an animation that lightens the background\n• improved the about section and added shared transitions\n• Fixed the Settings header, now it looks boring but not buggy\n• Animations are now much smoother. Before, I applied a delay method to delay animations and stagger them or hold them off momentarily as content loaded. That has been removed resulting in smoother animations throughout the app\n• Improved all themes\n• Added new textured backgrounds for themes\n• Added back any missing themes\n• Fixed some themes not applying\n• in-app updates through the play store to make updates easier\n- Expanding on the info above, the app will now prompt you upon launch to update the app, and will self-update to make it easier\n• brand new animations\n• new animations throughout the app\n• improved app performance\n• improved app memory usage\n• improved app stability\n• much, much more\n\n<b>4.5.1:</b>\n• Android 9-11: added back changelog, fixed crash \n• You can view the changelog in the About section now\n\n<b>4.5.0:</b>\n• <b>Improved app performance</b>\n<i>(app performance is already 7 percent faster than it was the last update)\n• Fix Airborne Radar SRC PD HDN duplicate title</i>\n• Navigation tabs: Change animation mode to Linear and made the tab strip fullWidth, adjust height\n• Navigation tabs: adjust scrolling behavior. (introduce parallax scrolling, show tabs when you navigate up)\n• Improved theme dialog (it is now themed with the rest of the app, text is now visible and customized the font)\n• Theme Dialog: Fixed wrong title text\n• Fixed a rare potential crash when launching the Easter Egg, but then navigating back before it launches\n• Settings: show a warning if the user tries to set the (already) applied theme\n• Don\'t hide the SystemUI (status bar and navigation bar) in the Home Fragment\n• Fix Dynamic Theming, the blue header image is now replaced by your system color\n• About: Slightly redesigned the features and plans button\n• About: Added some transparency to Developer image and social buttons\n• About: hide the navigation bar, improve the gradient, reduce gradient animation time, set new margins for the upcoming features button now that the bottom nav bar isnt in the way\n• Add logging to retrieve the users Theme choice. Trying to see what is most popular\n• Updated some android libraries and AGP\n\n<i><b>Previous updates:</b></i>\n• Added the Airborne Radar section\n• New Themes UI\n• Added back AMOLED theme\n• Added some vibrations for some app elements\n• Fixed a crash when navigating back from a webpage\n• Added Portuguese-Brazilian translations (Thanks viispy on Discord)\n• Notification permission pops up on Home instead of app launch\n• Adjusted "Dark Red" theme\n• Redesigned the Bottom Navigation View\n• Redesigned vehicle group tab\n• Bottom Bar now hides when reading about vehicle\n</string>
-
+    <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.1.0</b>\n• <b>NEW!</b> image group images (helis, planes, tanks, ships)\n• <b>NEW!</b> "View Older Changelogs" in Settings > About\n• Fixed dynamic color theme not fully applying\n• Reduced app size\n• Force-apply dynamic theming for android 12+\n- Thunderdex default theme is now dynamic for android 12+ devices \n• Improved airborne radar UI, add dynamic theming elements for android 12+ and improve back navigation\n• Drastically improved the Vehicle Groups section (new images, improved zoom, slight redesigns and improvements, better Blur)\n• Bottom Navigation is now easier to see, increased visibility via user suggestion\n• Removed the textured background for the Home and Vehicle Information section\n• Updated and improved German translations (Thanks to Flitzepipe from Discord)\n• Updated 10 app libraries,, you may notice better performance\n• Updated animations again in the app, you should notice them\n• Updated Android Libraries and AGP\n• Fixed changelog in the app update being unscrollable, thanks to users who reported it\n\n<b>5.0.0:</b>\n• Completely redesigned app! New animations, layouts, design, and more. App performance has been improved too\n• redesigned the home page and vehicle info page, vehicle group page, and vehicle list page\n- Expanding on the info above, the news and updates now show 3 lines of text, and have a fading effect, as well as a slightly textured background\n- Expanding on the info above,  The vehicle info page has all new fonts, different fonts, a new layout, improved zoom, a darkened background animation, new gradient for the vehicle image, and a textured background\n- Expanding on the info above, the vehicle group page hs been redesigned. The vehicle type (regular, premium, squad) color now covers the entire square layout, I changed the rounded corners for all 4 edges resulting in more of a square shape, and added an outline to the cards as well with a minimal shadow. Looks very nice with the different themes, especially the AMOLED black\n- Expanding on the info above,  The vehicle list page now has an animation that lightens the background\n• improved the about section and added shared transitions\n• Fixed the Settings header, now it looks boring but not buggy\n• Animations are now much smoother. Before, I applied a delay method to delay animations and stagger them or hold them off momentarily as content loaded. That has been removed resulting in smoother animations throughout the app\n• Improved all themes\n• Added new textured backgrounds for themes\n• Added back any missing themes\n• Fixed some themes not applying\n• in-app updates through the play store to make updates easier\n- Expanding on the info above, the app will now prompt you upon launch to update the app, and will self-update to make it easier\n• brand new animations\n• new animations throughout the app\n• improved app performance\n• improved app memory usage\n• improved app stability\n• much, much more\n\n<b>4.5.1:</b>\n• Android 9-11: added back changelog, fixed crash \n• You can view the changelog in the About section now</string>
     <!-- Section: Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
