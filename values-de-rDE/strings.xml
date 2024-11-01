@@ -126,7 +126,7 @@
     <!-- Error and Validation -->
     <string name="invalid_value_error_text">"Ungürliger Eingabewert: "</string>
     <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
-    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+    <string name="theme_not_available_on_your_device">"Diese Farbpalette unterstützt Geräte unter Adroid 12 nicht. /nIhr gerät hat Android "</string>
 
     <!-- Messaging and Subscription -->
     <string name="msg_subscribed">ThunderDex Thema abonniert</string>
@@ -145,19 +145,20 @@
     <string name="notifications_permission_granted">Benachrichtigungen wurden zugelassen</string>
     <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
     <!-- Notification Permission Rationale -->
-    <string name="notification_permission_rationale">"To enhance your experience, %1$s would like to send you notifications regarding important updates &amp; alerts.\n\nPlease grant this permission to allow notifications."</string>
+    <string name="notification_permission_rationale">"Um ihr Erlebnis zu er, würde ThudnerDex ihnen gerne Benachrichtigungen zu wichtigen Updated &amp; Ereignissen senden.\n\nBitte lassen sie Benachrichtigungen zu."</string>
     <!-- Grant Permission Button Text -->
-    <string name="grant_permission">Grant Permission</string>
+    <string name="grant_permission">Zulassen</string>
     <!-- Skip Permission Button Text -->
-    <string name="skip_permission">Skip for Now</string>
-    <string name="notif_perm_unsupported_device">Notification permissions are not required on this version.</string>
+    <string name="skip_permission">Vorerst Überspringen</string>
+    <string name="notif_perm_unsupported_device">Das zulassen, der Benachrichtigungen, ist in dieser Version nicht nötig</string>
 
     <!-- Dynamic Colors and Device Compatibility -->
-    <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
+    <string name="monet_theme_not_supported">Dynamische Farben werden auf ihrem Gerät nicht unterstützt</string>
 
     <!-- Themes -->
     <string name="app_themes__experimental_warning">Bei Absturz der App, einfach neu öffnen</string>
-    <string name="enable_monet_theming">Dynamische Farben aktivieren</string>
+    <string name="default_theme">Standart</string>
+    <string name="enable_monet_theming">Dynamische Farben</string>
     <string name="enable_black_theme">Schwarzes AMOLED Farbparlette</string>
     <string name="enable_almost_black_theme">"Almost Black" Farbpalette</string>
     <string name="enable_lyft_grey_theme">"Lyft Grey" Farbpalette</string>
@@ -208,7 +209,7 @@
 
     <!-- Upcoming Features strings -->
     <string name="upcoming_feature_one">• Zusätzliche Anpassungsoptionen</string>
-    <string name="upcoming_feature_two">• Verbesserungen am Fahrzeugbildanzeige</string>
+    <string name="upcoming_feature_two">• Verbesserungen am der Fahrzeugbildanzeige</string>
     <string name="upcoming_feature_three">• Hinzufügen neuer Übersetzungen</string>
     <string name="upcoming_feature_four">• Erstellen einer Sprachauswahl, sobald genügend Sprachen hinzugefügt wurden</string>
     <string name="upcoming_feature_five">• Mehr Verbesserungen zur Ladegeschwindigkeit und genereller Leistung</string>
@@ -217,7 +218,7 @@
     <string name="upcoming_feature_eight">• Hinzufügen weiterer Farbpaletten. (Nur dunkle Paletten), auf dem Discord Server fidnen sie für mehr Infos (Beitritt in the Einstellungne möglich)</string>
     <string name="upcoming_feature_nine">• Hinzufügen weiterer Informationen und vom Benutzer angeforderter Informationen</string>
     <string name="upcoming_feature_ten">• Hinzufügen neuer Übersetzungen</string>
-    <string name="upcoming_feature_eleven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, insofern verfügbar</string>
+    <string name="upcoming_feature_eleven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, sofern verfügbar</string>
 
     <!-- App Themes -->
     <string name="themes_toolbar_title">Farbpaletten</string>
@@ -264,9 +265,9 @@
     <string name="radar_tricks_and_tips_title">Radar Tipps &amp; tricks</string>
     <string name="expandable_radar_overview_title">Radar Überblick</string>
 
-    <string name="support_the_developer">Support the Developer</string>
-    <string name="thunderdex_social">Thunderdex Social</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord</string>
+    <string name="support_the_developer">Unterstütze den Entwickler</string>
+    <string name="thunderdex_social">Thunderdex Online</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Tritt dem ThunderDex Subreddit &amp; Discord server bei</string>
 
     <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
@@ -280,16 +281,15 @@
     <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
     <string name="settings_donate_title_paypal" translatable="false"><i>Support me on PayPal</i></string>
     <string name="settings_donate_title_cash_app" translatable="false"><i>Support me on Cash App</i></string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="upcoming_features_list">Zusätzliche Anpassungsoptione(Fahrzeugbildergröße, etc)\n\nFiltern von Fahrzeugen nach Rang und nicht Alphabetisch\n\nHinzufügen von Filteroptionswählfläche\n\nVerbesserungen an der Fahrzeugbildanzeige\n\n Hinzufügen eiener Option zum Herunterladen des ausgewählten Bildes\n\nHinzufügern von mehr Übersetzungen\n\nSobald genug Sprachen vorhanden sind, eine Sprachauswahloption kreieren\n\nNoch mehr Verbesserungen der Ladezeiten allgemeienen geschwindigkeiten\n\nHinzufügen von mehr Informationene, sowie von Nutzer angefragte informationen\n\nHinzufügen eines Bereiches für das Downloaden von War Thunder-Hintergrundbildern direkt von der Webseite</string>
     <string name="blank" translatable="false"> </string>
-    <string name="about_thunderdex_contributors">ThunderDexs Mithelfende</string>
+    <string name="about_thunderdex_contributors">ThunderDexs Mitwirkende</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische Übersetzung)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> auf Discord <b>(Litauische Übersetzung)</b></string>
     <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Deutsche Übersetzung)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Geholfen bei Deutscher Übersetzungs)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
     <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
-    <!-- <string name="about_contributor_six"><b>Dutch_lion</b> auf Discord <b>(Niederländische Übersetzung)</b></string> A Comment untill dutch translation fully added -->
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
 
