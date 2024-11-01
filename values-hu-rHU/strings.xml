@@ -68,6 +68,8 @@
     <string name="title_about_thunderdex">About ThunderDex</string>
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Version Code:</string>
+    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
 
     <string name="view_older_changelogs">View older changelogs</string>
     <string name="older_changelogs_title">Older Changelogs</string>
