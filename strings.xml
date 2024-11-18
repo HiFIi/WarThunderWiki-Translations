@@ -60,9 +60,10 @@
 
     <!-- Section: Settings -->
     <string name="settings_donate_desc">❤️   Support my work by donating!!   ❤️</string>
+    <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b></string>
     <string name="settings_clear_cache_title">Clear app cache and data</string>
     <string name="settings_clear_cache_desc">Clears the app data</string>
-    <string name="settings_donate_title"><b>❤️   • DONATIONS •   ❤️</b></string>
+    <string name="settings_donate_title">Buy me a Coffee! ☕</string>
     <string name="settings_discord_title">Join the Discord group</string>
     <string name="settings_discord_body"><i>Be part of something amazing!!!</i></string>
     <string name="settings_translate">Help translate ThunderDex</string>
@@ -70,7 +71,7 @@
     <string name="app_theme_setting">App Themes</string>
     <string name="support_the_developer">Support the Developer</string>
     <string name="thunderdex_social">Thunderdex Social</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord!</string>
 
     <!-- Section: About ThunderDex -->
     <string name="about_app">The <i><b>BEST</b></i> War Thunder Wikipedia App.</string>
@@ -219,10 +220,13 @@
     <string name="cache_cleared_toast_message">Cleared Data &amp; Cache</string>
     <string name="app_cache_size_title">App Cache Size:</string>
 
+    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
+    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
+
     <!-- Please, always leave these strings at the bottom -->
     <!-- Section: Changelog-related Strings-->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.5.0</b>\n• New feature: Added an "Aircraft Cannons" and "Aircraft Machine Guns" sections(wiki > weaponry)\n• Instantly load news and updates\n• NEW! Bottom navigation UI with blur\n• NEW! in-app notifications permissions screen\n• New Theme: Halloween\n• Changed Slate Grey theme to just Grey\n• Grey theme: New colors\n• Fixed some Theme colors\n• Fixed themes issues\n• New and improved app icons\n• Sort news and updates by time, no more out of order news\n• Improved restart on theme apply\n• Improved logic for themes\n• Improved vehicle zoom animation\n• When the user denies the Notification permission, only show the message once instead of upon every launch\n• Improved Settings UI\n• Fixed airborne radar force close on android 9-11 (thanks bearcat29 on discord)\n• Make the airborne radar section background theme-compliant\n• Airborne Radar: dynamically set the expandable cardview background with material design for android 12+\n• Airborne Radar: change logic on how dynamic color is set for the expandable cardview\n• vehicle list: Fixed the bottom app bar overlapping the vehicles at the bottom (thanks bearcat29 on discord)\n• Fix Golden Eagle icon on dark themes\n• Update german translations (thanks flitzepipe on discord)\n• Fix header text glow cutoff\n• Update favorite vehicles instantly\n• Fixed weird characters in the app</string>
+    <string name="changelog_dialog_body" translatable="false" tools:ignore="StringFormatInvalid"></string>
     <string name="older_changelogs_title">Older Changelogs</string>
     <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.1.0</b>\n• <b>NEW!</b> image group images (helis, planes, tanks, ships)\n• <b>NEW!</b> "View Older Changelogs" in Settings > About\n• Fixed dynamic color theme not fully applying\n• Reduced app size\n• Force-apply dynamic theming for android 12+\n- Thunderdex default theme is now dynamic for android 12+ devices \n• Improved airborne radar UI, add dynamic theming elements for android 12+ and improve back navigation\n• Drastically improved the Vehicle Groups section (new images, improved zoom, slight redesigns and improvements, better Blur)\n• Bottom Navigation is now easier to see, increased visibility via user suggestion\n• Removed the textured background for the Home and Vehicle Information section\n• Updated and improved German translations (Thanks to Flitzepipe from Discord)\n• Updated 10 app libraries,, you may notice better performance\n• Updated animations again in the app, you should notice them\n• Updated Android Libraries and AGP\n• Fixed changelog in the app update being unscrollable, thanks to users who reported it\n\n<b>5.0.0:</b>\n• Completely redesigned app! New animations, layouts, design, and more. App performance has been improved too\n• redesigned the home page and vehicle info page, vehicle group page, and vehicle list page\n- Expanding on the info above, the news and updates now show 3 lines of text, and have a fading effect, as well as a slightly textured background\n- Expanding on the info above,  The vehicle info page has all new fonts, different fonts, a new layout, improved zoom, a darkened background animation, new gradient for the vehicle image, and a textured background\n- Expanding on the info above, the vehicle group page hs been redesigned. The vehicle type (regular, premium, squad) color now covers the entire square layout, I changed the rounded corners for all 4 edges resulting in more of a square shape, and added an outline to the cards as well with a minimal shadow. Looks very nice with the different themes, especially the AMOLED black\n- Expanding on the info above,  The vehicle list page now has an animation that lightens the background\n• improved the about section and added shared transitions\n• Fixed the Settings header, now it looks boring but not buggy\n• Animations are now much smoother. Before, I applied a delay method to delay animations and stagger them or hold them off momentarily as content loaded. That has been removed resulting in smoother animations throughout the app\n• Improved all themes\n• Added new textured backgrounds for themes\n• Added back any missing themes\n• Fixed some themes not applying\n• in-app updates through the play store to make updates easier\n- Expanding on the info above, the app will now prompt you upon launch to update the app, and will self-update to make it easier\n• brand new animations\n• new animations throughout the app\n• improved app performance\n• improved app memory usage\n• improved app stability\n• much, much more\n\n<b>4.5.1:</b>\n• Android 9-11: added back changelog, fixed crash \n• You can view the changelog in the About section now</string>
     <!-- Section: Links -->
@@ -239,8 +243,8 @@
     <!-- Section: DO NOT TRANSLATE -->
     <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
     <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
-    <string name="settings_donate_title_paypal" translatable="false"><i>Support me on PayPal</i></string>
-    <string name="settings_donate_title_cash_app" translatable="false"><i>Support me on Cash App</i></string>
+    <string name="settings_donate_title_paypal">Donate through PayPal</string>
+    <string name="settings_donate_title_cash_app">Donate through Cash App</string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
     <string name="blank" translatable="false"> </string>
     <string name="about_contribute_header_text">How do I contribute?</string>
@@ -292,12 +296,13 @@
     <string name="radar_tricks_and_tips_title">Radar tricks and tips</string>
     <string name="radar_viewpager_tab_title">Radar</string>
     <string name="expandable_radar_overview_title">Radar Overview</string>
+    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
 
     <!-- Section: Private and Permanent
         + DO NOT UPLOAD KEY To WT Translations Github
          (https://github.com/HiFIi/WarThunderWiki-Translations)
     -->
-    <string name="default_web_client_id" translatable="false">PRIVATE</string>
+    <string name="default_web_client_id" translatable="false">AIzaSyCMxbHBPsp-Eb7Hn7C4Y77AzBNmpLHznUE</string>
 
     <!-- Dummy web client id (PRIVATE) -->
     <string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>

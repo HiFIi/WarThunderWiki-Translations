@@ -168,4 +168,9 @@
     <string name="app_theme_setting">App Themes</string>
     <string name="invalid_value_error_text">"Invalid value: "</string>
     <string name="image_save_success">Image saved successfully!</string>
+    <string name="dev_support_settings_body">Donate through PayPal or Cash App</string>
+    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
+    <string name="ballistic_computers_radar_fragment">Ballistic Computers</string>
+    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
+    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
 </resources>
