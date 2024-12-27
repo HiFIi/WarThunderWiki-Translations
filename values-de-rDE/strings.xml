@@ -56,9 +56,7 @@
     <string name="unfavorite">Favorit entfernen</string>
 
     <!-- Donation -->
-    <string name="settings_donate_title">Buy me a Coffee! ☕</string>
-    <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b></string>
-    <!-- Unused -->
+    <string name="donate_dialog_title"><b>❤️   • SPENDEN •   ❤️</b></string>
     <string name="settings_donate_desc">❤️   Unterstütze meine Arbeit, indem du spendest!!   ❤️</string>
 
     <!-- Settings Options -->
@@ -265,15 +263,10 @@
     <string name="radar_clutter_title">Radarstörungen</string>
     <string name="radar_tricks_and_tips_title">Radar Tipps &amp; tricks</string>
     <string name="expandable_radar_overview_title">Radar Überblick</string>
-    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
-
-    <string name="ballistic_computers_radar_fragment">Ballistic Computers</string>
-    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
-    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
 
     <string name="support_the_developer">Support the Developer</string>
     <string name="thunderdex_social">Thunderdex Social</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord!</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Join the Thunderdex Reddit &amp; Discord</string>
 
     <!-- Links -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
@@ -285,8 +278,8 @@
     <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
 
     <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
-    <string name="settings_donate_title_paypal">Donate through PayPal</string>
-    <string name="settings_donate_title_cash_app">Donate through Cash App</string>
+    <string name="settings_donate_title_paypal" translatable="false"><i>Support me on PayPal</i></string>
+    <string name="settings_donate_title_cash_app" translatable="false"><i>Support me on Cash App</i></string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
     <string name="blank" translatable="false"> </string>
     <string name="about_thunderdex_contributors">ThunderDexs Mithelfende</string>
