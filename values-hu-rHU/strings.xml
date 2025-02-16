@@ -1,10 +1,28 @@
 ﻿<resources>
+    <!-- DO NOT TRANSLATE -->
     <string name="app_name" translatable="false">ThunderDex</string>
-    <string name="news">War Thunder Hírek</string>
-    <string name="updates">Legutóbbi Frissítések</string>
-    <string name="vehicle_types">Járművek</string>
-    <string name="favorite_vehicles">Kedvenc Járművek</string>
+    <!-- DO NOT TRANSLATE -->
+
+    <!-- I. App Information & Core Functionality -->
+    <string name="about_app">War Thunder Wiki Kliens</string>
+    <string name="title_about_thunderdex">About ThunderDex</string>
+    <string name="about_app_summary">A ThunderDex alapvetően 2023-ban jött világra.\nÉn a War Thunder Wiki-t rendszeresen használtam és meguntam, hogy folyton a böngészőt kellett használni.\n Több mint 10 évnyi kódolási tudással, pár hónap alatt kifejlesztettem ezt az appot és úgy döntöttem, hogy mindenkinek elérhetővé teszem teljesen INGYEN!\n\nNagyon remélem hogy tetszik az app! - HiFii</string>
+    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_code_text">Version Code:</string>
+
+    <!-- II. Navigation & UI Labels -->
+    <string name="home">Kezdőlap</string>
     <string name="settings">Beállítások</string>
+    <string name="about">About</string>
+    <string name="affirmative_text">Köszönöm!</string>
+    <string name="read_changelog">Olvasd el a változási naplót</string>
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
+    <string name="hide_ui_string">HIDE UI FOR 1 MINUTE\n(to watch the animation)</string>
+    <string name="changelog">Changelog History</string>
+
+    <!-- III. Vehicle Data & Information -->
+    <string name="vehicle_types">Járművek</string>
     <string name="battle_rating">Battle Rating:</string>
     <string name="battle_rating_ab">Árkád</string>
     <string name="battle_rating_rb">Realisztikus</string>
@@ -12,47 +30,95 @@
     <string name="not_available">Nem elérhető</string>
     <string name="research">Fejlesztés:</string>
     <string name="purchase">Vásárlás:</string>
-    <string name="bundle_or_gift">Csomag vagy Ajándék</string>
+    <string name="bundle_or_gift">Purchased as part of a Bundle or as a Gift in the Store</string>
     <string name="description">Leírás:</string>
     <string name="general_info">Általános Információk:</string>
     <string name="pros_and_cons">Előnyök és Hátrányok:</string>
     <string name="pros">Előnyök:</string>
     <string name="cons">Hátrányok:</string>
-    <string name="empty_list">Üres lista</string>
-    <string name="loading">Betöltés...</string>
-    <string name="please_wait">Kérlek várj...</string>
-    <string name="connection_error">Nem sikerült csatlakozni a szerverhez</string>m
-    <string name="something_went_wrong">Hiba történt</string>
-    <string name="home">Kezdőlap</string>
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+
+    <!-- IV. Vehicle Categories -->
     <string name="planes">Légi erők</string>
     <string name="helicopters">Helikopterek</string>
     <string name="tanks">Szárazföldi erők</string>
     <string name="ships">Naval</string>
+
+    <!-- V. Favorite Functionality -->
+    <string name="favorite_vehicles">Kedvenc Járművek</string>
     <string name="favorite">A Kedvencekhez</string>
     <string name="unfavorite">Eltávolítás a kedvencek közül</string>
-    <string name="donate_dialog_title"><b>❤️   • TÁMOGATÁS •   ❤️</b></string>
-    <string name="settings_app_theme_title">Dinamikus Téma</string>
-    <string name="settings_app_theme_desc">Dinamikus Téma beállítása %s számára</string>
-    <string name="settings_donate_desc">❤️   Támogatsd a munkám   ❤️</string>
-    <string name="settings_clear_cache_title">Gyorsítótár törlése</string>
-    <string name="settings_clear_cache_desc">Elmentett beállítások, szövegek és képek törlése </string>
-    <string name="affirmative_text">Köszönöm!</string>
-    <string name="read_changelog">Olvasd el a változási naplót</string>
+
+    <!-- VI. Empty and Loading States -->
+    <string name="empty_list">Üres lista</string>
+    <string name="loading">Betöltés...</string>
+    <string name="please_wait">Kérlek várj...</string>
+    <string name="connection_error">Nem sikerült csatlakozni a szerverhez</string>
+    <string name="something_went_wrong">Hiba történt</string>
+
+    <!-- VII. Search Functionality -->
     <string name="no_data_found">Nem található adat...</string>
     <string name="search_vehicle">Jármű keresése</string>
     <string name="search_here">Keress itt...</string>
     <string name="clear_search">Keresés törlése</string>
+
+    <!-- VIII. Settings Screen -->
+    <string name="settings_app_theme_title">Dinamikus Téma</string>
+    <string name="settings_app_theme_desc">Dinamikus Téma beállítása %s számára</string>
+    <string name="settings_donate_desc">❤   Támogatsd a munkám   ❤</string>
+    <string name="settings_clear_cache_title">Gyorsítótár törlése</string>
+    <string name="settings_clear_cache_desc">Elmentett beállítások, szövegek és képek törlése </string>
     <string name="settings_discord_title">Csatlakozz a ThunderDex Discord csoporthoz</string>
     <string name="settings_discord_body"><i>Légy része valami csodálatosnak.</i></string>
-    <string name="usage_in_battles">Csatákban való használat:</string>
-    <string name="wiki">Wiki</string>
-    <string name="about_app">War Thunder Wiki Kliens</string>
     <string name="reddit_title">Csatlakozz a ThunderDex subreddithez!</string>
     <string name="reddit_summary">Itt csatlakozz a ThunderDex subreddithez! 😁</string>
-    <string name="upcoming_features_summary">Csekkold a tervben lévő menő funkciókat 2024-re</string>
-    <string name="upcoming_features_summary_alt">Funkciók &amp; tervek %s -re 2024-ben</string>
-    <string name="upcoming_features">Közelgő ThunderDex Funkciók</string>
-    <string name="about_app_summary">A ThunderDex alapvetően 2023-ban jött világra.\nÉn a War Thunder Wiki-t rendszeresen használtam és meguntam, hogy folyton a böngészőt kellett használni.\n Több mint 10 évnyi kódolási tudással, pár hónap alatt kifejlesztettem ezt az appot és úgy döntöttem, hogy mindenkinek elérhetővé teszem teljesen INGYEN!\n\nNagyon remélem hogy tetszik az app! - HiFii</string>
+
+    <!-- IX. Upcoming Features -->
+    <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
+    <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
+    <string name="upcoming_features">Preview upcoming app features</string>
+    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="upcoming_feature_one">• Add app customization options</string>
+    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
+    <string name="upcoming_feature_three">• Add more translations</string>
+    <string name="upcoming_feature_four">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_five">• Add more vehicle information + user requested information</string>
+    <string name="upcoming_feature_six">• Add more translations</string>
+    <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+
+    <!-- X. Theme -->
+    <string name="default_theme">Default</string>
+    <string name="dynamic_colors_theme">Dynamic Colors</string>
+    <string name="app_themes__experimental_warning">If the app crashes, just re-open it</string>
+    <string name="enable_monet_theming">Enable Dynamic Colors</string>
+    <string name="enable_black_theme">AMOLED Black theme</string>
+    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
+    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
+    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
+    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
+    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
+    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
+    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
+    <string name="enable_dull_blue_theme">Barely Blue Theme</string>
+    <string name="enable_space_cadet_theme">"Space Cadet" Theme</string>
+    <string name="enable_dark_red_theme">Dark Red Theme</string>
+    <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
+    <string name="enable_forest_green_theme">Forest Green Theme</string>
+    <string name="enable_halloween_theme">Halloween</string>
+    <string name="halloween_theme_pumpkin_for_header">" 🎃 "</string>
+
+    <!-- XI. Translation -->
+    <string name="github_translations_first_time_q__title">First time?</string>
+    <string name="github_translations_first_time_create_account_splitbutton">Create a GitHub account</string>
+    <string name="github_translations_first_time_hide_splitbutton">Hide</string>
+    <string name="github_translations_wt_wiki_clickable_github_text_link">Click here to visit the Thunderdex Translations GitHub page</string>
+    <string name="github_translations_steps_title">To contribute to Thunderdex, please follow these steps:</string>
+    <string name="github_translations_step_one"><b>Step 1:</b> Fork the repository</string>
+    <string name="github_translations_step_two"><b>Step 2:</b> Clone your fork locally</string>
+    <string name="contribute_translations">Contribute Translations</string>
+    <string name="contribute_translations_button_text">Click here to learn how!</string>
+    <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
+    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
     <string name="about_contribute_header_text">Hogyan járulhatok hozzá?</string>
     <string name="about_thunderdex_contributors">ThunderDex Hozzájárulók</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> Discordon <b>(Magyar fordítások)</b></string>
@@ -60,27 +126,55 @@
     <string name="about_contributor_three_og"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
-    <string name="about">About</string>
-    <string name="contribute_translations">Contribute Translations</string>
-    <string name="contribute_translations_button_text">Click here to learn how!</string>
-    <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
-    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
-    <string name="title_about_thunderdex">About ThunderDex</string>
-    <string name="app_version_text" translatable="false">ThunderDex:</string>
-    <string name="version_code_text">Version Code:</string>
-    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
-    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
 
-    <string name="view_older_changelogs">View older changelogs</string>
-    <string name="older_changelogs_title">Older Changelogs</string>
+    <!-- XII. Experiments -->
+    <string name="settings_experiments_body">Currently Testing:\nFluid Gradient types\nWiki 3.0 implementation</string>
+    <string name="settings_experiments_title">Experimental features and tests</string>
+    <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Type Tests</string>
+    <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
+    <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
+    <string name="settings_experiments_wt_wiki_3_0_body">Playground for Wiki 3.0 implementation</string>
 
-    <!-- Countdown Dialog Strings -->
+    <!-- XIII. Demo text for news and updates for testing-->
+    <string name="news_updates_body_demo_text">News body visualization text.\nthis is the second line\nthis is the third line</string>
+    <string name="news_updates_title_demo_text">News Title Test</string>
+
+    <!-- XIV. Countdown Dialog Strings -->
     <string name="countdown_start_text">"Restarting ThunderDex in "</string>
     <string name="countdown_text_seconds">" seconds"</string>
     <string name="countdown_text_one_second">1 second</string>
     <string name="countdown_dialog_zero_text">0 seconds</string>
 
-    <!-- Google Pay -->
+    <!-- XV. Sort by strings -->
+    <string name="sort_by">Rendezés</string>
+    <string name="filter_list">Lista szűrése</string>
+    <string name="sort_alphabetically">ABC sorrendben</string>
+    <string name="sort_rank_ascending">Rank szerint (Emelkedő)</string>
+    <string name="sort_rank_descending">Rank szerint (Csökkenő)</string>
+
+    <!-- XVI. Image download -->
+    <string name="image_save_success">Kép lenentve a galériába</string>
+    <string name="image_save_fail">Nem sikerült lementeni a képet</string>
+    <string name="image_load_fail">Nem sikerült betölteni a képet</string>
+
+    <!-- XVII. Other-->
+    <string name="usage_in_battles">Csatákban való használat:</string>
+    <string name="wiki">Wiki</string>
+    <string name="dev_support_settings_body">Donate through PayPal or Cash App</string>
+    <string name="paypal_link">https://paypal.me/hifii</string>
+    <string name="cash_app_link">https://cash.app/$hifii</string>
+    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
+    <string name="wt_wiki_translations_link">https://www.github.com/hifii/warthunderwiki-translations</string>
+    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
+    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
+    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
+    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
+    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+
+    <!-- UNUSED -->
+    <string name="donate_dialog_title"><b>❤   • TÁMOGATÁS •   ❤</b></string>
     <string name="gpay_donation_dialog_title"><b>Támogas Google Pay-el</b></string>
     <string name="gpay_donation_dialog_body">Köszönöm hogy megfontolod a támogatásomat!\n\n Küld a mbqonxda@gmail.com email címre</string>
     <string name="gpay_dialog_confirm">Nyitsd meg a Google Pay-t</string>
@@ -90,43 +184,5 @@
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">Google Pay Email másolva</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-
-    <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• Több testreszabhatósági lehetőség  (jármű képének merete, stb.)</string>
-    <string name="upcoming_feature_two">• Fejlesztések a jármű képnézegetőhöz</string>
-    <string name="upcoming_feature_three">• Több fordítás</string>
-    <string name="upcoming_feature_four">• Elegendő fordítás után, nyelvválasztási opció</string>
-    <string name="upcoming_feature_five">• Még több fejlesztés a teljesítményhez és a betöltési sebességhez</string>
-    <string name="upcoming_feature_six">• Több információ és felhasználók álltal kért információk</string>
-    <string name="upcoming_feature_seven">• War Thunder háttér szekció, az oldalról való letöltési lehetőséggel</string>
-
-    <!-- Radar -->
-    <string name="expandable_radar_overview_title">Radar Overview</string>
-
-    <!-- Sort by strings -->
-    <string name="sort_by">Rendezés</string>
-    <string name="filter_list">Lista szűrése</string>
-    <string name="sort_alphabetically">ABC sorrendben</string>
-    <string name="sort_rank_ascending">Rank szerint (Emelkedő)</string>
-    <string name="sort_rank_descending">Rank szerint (Csökkenő)</string>
-
-    <!-- Image download -->
-    <string name="image_save_success">Kép lenentve a galériába</string>
-    <string name="image_save_fail">Nem sikerült lementeni a képet</string>
-    <string name="image_load_fail">Nem sikerült betölteni a képet</string>
-
-    <!-- DO NOT TRANSLATE THESE!!!! -->
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
-
-    <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog History</string>
-    <string name="changelog_dialog_body" translatable="false">• Reduced app size by 4MB\n• Changed some wording in the app\n• Cleaned up code and improved code structure\n\n<i>Changes from 3.0.0:</i>\n• Redesigned parts of the app\n• Added my ThunderDexApp subreddit\n• Added blurred searchview</string>
-    <!-- And these...-->
-    <string name="paypal_link">https://paypal.me/hifii</string>
-    <string name="cash_app_link">https://cash.app/$hifii</string>
-    <string name="reddit_link">https://reddit.com/r/thunderdexapp</string>
-
-    <string name="discord_invite_link">https://discord.gg/GPbA4Jxw9F</string>
-    <!-- ^^^^^ Permanent Discord link ^^^^^ -->
 </resources>
