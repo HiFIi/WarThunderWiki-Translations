@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Section: Main Menu and Navigation -->
+    <string name="news">Новости игры</string>
+    <string name="updates">Обновления игры</string>
+    <string name="home">Главная</string>
+    <string name="settings">Настройки</string>
+    <string name="wiki">Вики</string>
+    <string name="about">О нас</string>
+
+    <!-- Section: Vehicle Groups -->
+    <string name="planes">Самолеты</string>
+    <string name="helicopters">Вертолеты</string>
+    <string name="tanks">Танки</string>
+    <string name="ships">Морской флот</string>
+
+    <!-- Section: Vehicle Info -->
+    <string name="vehicle_types">Транспортные средства</string>
+    <string name="favorite_vehicles">Избранное</string>
+    <string name="battle_rating">Рейтинг боя:</string>
+    <string name="battle_rating_ab">AB</string>
+    <string name="battle_rating_rb">RB</string>
+    <string name="battle_rating_sb">SB</string>
+    <string name="research">Стоимость исследования</string>
+    <string name="purchase">Стоимость покупки</string>
+    <string name="bundle_or_gift">Приобретено в рамках набора или в подарок в магазине</string>
+    <string name="general_info">Общая информация</string>
+    <string name="pros_and_cons">Преимущества и недостатки</string>
+    <string name="pros">Преимущества:</string>
+    <string name="cons">Недостатки:</string>
+    <string name="favorite">В избранное</string>
+    <string name="unfavorite">Убрать из избранного</string>
+    <string name="vehicle_added_favorites">добавлено в избранное</string>
+    <string name="vehicle_removed_favorites">удалено из избранного</string>
+    <string name="usage_in_battles">Использование в боях</string>
+    <string name="search_vehicle">Поиск транспортного средства</string>
+    <string name="search_here">Поиск здесь…</string>
+    <string name="clear_search">Очистить поиск</string>
+
+    <!-- Upcoming Features -->
+    <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
+    <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
+    <string name="upcoming_features">Preview upcoming app features</string>
+    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="upcoming_feature_one">• Add app customization options</string>
+    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
+    <string name="upcoming_feature_three">• Add more translations</string>
+    <string name="upcoming_feature_four">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_five">• Add more vehicle information + user requested information</string>
+    <string name="upcoming_feature_six">• Add more translations</string>
+    <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+
+    <!-- Section: Airborne Radar -->
+    <string name="radar_header_title">"Бортовой радар"</string>
+    <string name="airborne_radar_grouped_fragment">Бортовой радар</string>
+    <string name="radar_viewpager_tab_title">Радар</string>
+
+    <string name="weaponry_viewpager_tab_title">Оружие</string>
+    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+
+</resources>

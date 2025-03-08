@@ -3,11 +3,26 @@
     <string name="app_name" translatable="false">ThunderDex</string>
     <!-- DO NOT TRANSLATE -->
 
-    <string name="news">नवीनतम War Thunder समाचार</string>
-    <string name="updates">नवीनतम अपडेट</string>
-    <string name="vehicle_types">वाहनों</string>
-    <string name="favorite_vehicles">Favorite(d) Vehicles</string>
+    <!-- I. App Information & Core Functionality -->
+    <string name="about_app"><b>सर्वश्रेष्ठ</b>सर्वश्रेष्ठ वॉर थंडर विकिपीडिया ऐप।.</string>
+    <string name="title_about_thunderdex">About ThunderDex</string>
+    <string name="about_app_summary">ThunderDex की शुरुआत 2023 में की गई थी.\nमैं War Thunder Wiki का लगातार उपयोगकर्ता था और अपने ब्राउज़र पर इसका उपयोग करते-करते थक गया था.\n 10+ वर्षों के कोडिंग ज्ञान के साथ, मैंने कुछ महीनों में इस ऐप को विकसित किया और इसे सभी के लिए मुफ़्त में जारी करने का निर्णय लिया!\n\nमुझे सचमुच उम्मीद है कि आप ऐप का आनंद लेंगे! - HiFii</string>
+    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_code_text">Version Code:</string>
+
+    <!-- II. Navigation & UI Labels -->
+    <string name="home">मुखपृष्ठ</string>
     <string name="settings">समायोजन</string>
+    <string name="about">बारे में</string>
+    <string name="affirmative_text">धन्यवाद!</string>
+    <string name="read_changelog">नवीनतम चेंजलॉग पढ़ें</string>
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
+    <string name="hide_ui_string">HIDE UI FOR 1 MINUTE\n(to watch the animation)</string>
+    <string name="changelog">Changelog History</string>
+
+    <!-- III. Vehicle Data & Information -->
+    <string name="vehicle_types">वाहनों</string>
     <string name="battle_rating">लड़ाई की रेटिंग:</string>
     <string name="battle_rating_ab">आर्केड</string>
     <string name="battle_rating_rb">वास्तविक</string>
@@ -15,77 +30,95 @@
     <string name="not_available">उपलब्ध नहीं है</string>
     <string name="research">अनुसंधान:</string>
     <string name="purchase">खरीदना:</string>
-    <string name="bundle_or_gift">बंडल या उपहार</string>
+    <string name="bundle_or_gift">Purchased as part of a Bundle or as a Gift in the Store</string>
     <string name="description">विवरण:</string>
     <string name="general_info">सामान्य जानकारी:</string>
     <string name="pros_and_cons">पक्ष - विपक्ष:</string>
     <string name="pros">पक्ष:</string>
     <string name="cons">विपक्ष:</string>
-    <string name="empty_list">खाली सूची</string>
-    <string name="loading">लोड हो रहा है…</string>
-    <string name="please_wait">कृपया प्रतीक्षा करें…</string>
-    <string name="connection_error">सर्वर से कनेक्ट नहीं कर सका</string>m
-    <string name="something_went_wrong">त्रुटि: कुछ गलत हो गया</string>
-    <string name="about">बारे में</string>
-    <string name="home">मुखपृष्ठ</string>
+    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+
+    <!-- IV. Vehicle Categories -->
     <string name="planes">हवाई जहाज</string>
     <string name="helicopters">हेलीकाप्टर</string>
     <string name="tanks">टैंक</string>
     <string name="ships">Naval</string>
+
+    <!-- V. Favorite Functionality -->
+    <string name="favorite_vehicles">Favorite(d) Vehicles</string>
     <string name="favorite">पसंदीदा</string>
     <string name="unfavorite">नापसंद करें</string>
-    <string name="donate_dialog_title"><b>❤️   • दान •   ❤️</b></string>
-    <string name="settings_app_theme_title">गतिशील थीमिंग</string>
-    <string name="settings_app_theme_desc">के लिए डायनामिक थीमिंग सक्षम करें %s</string>
-    <string name="settings_donate_desc">❤️   दान देकर मेरे काम का समर्थन करें!!   ❤️</string>
-    <string name="settings_clear_cache_title">कैश को साफ़ करें</string>
-    <string name="settings_clear_cache_desc">अपनी सहेजी गई सेटिंग्स, टेक्स्ट और छवियां साफ़ करें</string>
-    <string name="affirmative_text">धन्यवाद!</string>
-    <string name="read_changelog">नवीनतम चेंजलॉग पढ़ें</string>
+
+    <!-- VI. Empty and Loading States -->
+    <string name="empty_list">खाली सूची</string>
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="connection_error">सर्वर से कनेक्ट नहीं कर सका</string>
+    <string name="something_went_wrong">त्रुटि: कुछ गलत हो गया</string>
+
+    <!-- VII. Search Functionality -->
     <string name="no_data_found">डाटा प्राप्त नहीं हुआ…</string>
     <string name="search_vehicle">वाहन खोजें</string>
     <string name="search_here">यहां तलाश करो…</string>
     <string name="clear_search">स्पष्ट खोज</string>
+
+    <!-- VIII. Settings Screen -->
+    <string name="settings_app_theme_title">गतिशील थीमिंग</string>
+    <string name="settings_app_theme_desc">के लिए डायनामिक थीमिंग सक्षम करें %s</string>
+    <string name="settings_donate_desc">❤   दान देकर मेरे काम का समर्थन करें!!   ❤</string>
+    <string name="settings_clear_cache_title">कैश को साफ़ करें</string>
+    <string name="settings_clear_cache_desc">अपनी सहेजी गई सेटिंग्स, टेक्स्ट और छवियां साफ़ करें</string>
     <string name="settings_discord_title">ThunderDex Discord समूह में शामिल हों </string>
     <string name="settings_discord_body"><i>किसी अद्भुत चीज़ का हिस्सा बनें…</i></string>
-    <string name="usage_in_battles">युद्धों में उपयोग:</string>
-    <string name="wiki">Wiki</string>
-    <string name="about_app"><b>सर्वश्रेष्ठ</b>सर्वश्रेष्ठ वॉर थंडर विकिपीडिया ऐप।.</string>
     <string name="reddit_title">शामिल होना ThunderDex Subreddit में</string>
     <string name="reddit_summary">शामिल होने के लिए यहां क्लिक करें ThunderDex subreddit 😁</string>
-    <string name="upcoming_features_summary">विशेषताएँ &amp;2024 की योजना</string>
-    <string name="upcoming_features_summary_alt">2024 ThunderDex योजना</string>
-    <string name="upcoming_features">आगामी ऐप सुविधाओं का पूर्वावलोकन करें</string>
-    <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
-    <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
-    <string name="about_app_summary">ThunderDex की शुरुआत 2023 में की गई थी.\nमैं War Thunder Wiki का लगातार उपयोगकर्ता था और अपने ब्राउज़र पर इसका उपयोग करते-करते थक गया था.\n 10+ वर्षों के कोडिंग ज्ञान के साथ, मैंने कुछ महीनों में इस ऐप को विकसित किया और इसे सभी के लिए मुफ़्त में जारी करने का निर्णय लिया!\n\nमुझे सचमुच उम्मीद है कि आप ऐप का आनंद लेंगे! - HiFii</string>
+
+    <!-- IX. Upcoming Features -->
+    <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
+    <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
+    <string name="upcoming_features">Preview upcoming app features</string>
+    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="upcoming_feature_one">• Add app customization options</string>
+    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
+    <string name="upcoming_feature_three">• Add more translations</string>
+    <string name="upcoming_feature_four">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_five">• Add more vehicle information + user requested information</string>
+    <string name="upcoming_feature_six">• Add more translations</string>
+    <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+
+    <!-- X. Theme -->
+    <string name="default_theme">Default</string>
+    <string name="dynamic_colors_theme">Dynamic Colors</string>
+    <string name="app_themes__experimental_warning">If the app crashes, just re-open it</string>
+    <string name="enable_monet_theming">Enable Dynamic Colors</string>
+    <string name="enable_black_theme">AMOLED Black theme</string>
+    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
+    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
+    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
+    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
+    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
+    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
+    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
+    <string name="enable_dull_blue_theme">Barely Blue Theme</string>
+    <string name="enable_space_cadet_theme">"Space Cadet" Theme</string>
+    <string name="enable_dark_red_theme">Dark Red Theme</string>
+    <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
+    <string name="enable_forest_green_theme">Forest Green Theme</string>
+    <string name="enable_halloween_theme">Halloween</string>
+    <string name="halloween_theme_pumpkin_for_header">" 🎃 "</string>
+
+    <!-- XI. Translation -->
+    <string name="github_translations_first_time_q__title">First time?</string>
+    <string name="github_translations_first_time_create_account_splitbutton">Create a GitHub account</string>
+    <string name="github_translations_first_time_hide_splitbutton">Hide</string>
+    <string name="github_translations_wt_wiki_clickable_github_text_link">Click here to visit the Thunderdex Translations GitHub page</string>
+    <string name="github_translations_steps_title">To contribute to Thunderdex, please follow these steps:</string>
+    <string name="github_translations_step_one"><b>Step 1:</b> Fork the repository</string>
+    <string name="github_translations_step_two"><b>Step 2:</b> Clone your fork locally</string>
     <string name="contribute_translations">Contribute Translations</string>
     <string name="contribute_translations_button_text">Click here to learn how!</string>
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
     <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
-    <string name="title_about_thunderdex">About ThunderDex</string>
-    <string name="app_version_text" translatable="false">ThunderDex:</string>
-    <string name="version_code_text">Version Code:</string>
-    <string name="view_older_changelogs">View older changelogs</string>
-    <string name="older_changelogs_title">Older Changelogs</string>
-    <!-- Programmatically set the last part of this message to the users current android version (on 9-11) -->
-    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
-
-    <!-- Radar -->
-    <string name="expandable_radar_overview_title">Radar Overview</string>
-
-    <!-- Countdown Dialog Strings -->
-    <string name="countdown_start_text">"Restarting ThunderDex in "</string>
-    <string name="countdown_text_seconds">" seconds"</string>
-    <string name="countdown_text_one_second">1 second</string>
-    <string name="countdown_dialog_zero_text">0 seconds</string>
-
-    <!-- DO NOT TRANSLATE THESE!!!! -->
-    <string name="donate_dialog_body" translatable="false">Hello!!\n\n<b>Thank you</b> for using ThunderDex ❤\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
-    <string name="settings_donate_title_paypal" translatable="false"><i>Support the developer on PayPal</i></string>
-    <string name="settings_donate_title_cash_app" translatable="false"><i>Support the developer on Cash App</i></string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
-    <string name="blank" translatable="false"> </string>
     <string name="about_contribute_header_text">मैं कैसे योगदान करूँ?</string>
     <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian Translations)</b></string>
@@ -94,32 +127,58 @@
     <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
 
+    <!-- XII. Experiments -->
+    <string name="settings_experiments_body">Currently Testing:\nFluid Gradient types\nWiki 3.0 implementation</string>
+    <string name="settings_experiments_title">Experimental features and tests</string>
+    <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Type Tests</string>
+    <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
+    <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
+    <string name="settings_experiments_wt_wiki_3_0_body">Playground for Wiki 3.0 implementation</string>
 
-    <!-- Upcoming Features strings -->
-    <string name="upcoming_feature_one">• अतिरिक्त अनुकूलन विकल्प जोड़ें (वाहन छवि आकार, आदि)</string>
-    <string name="upcoming_feature_two">• वाहन छवि दर्शक में सुधार</string>
-    <string name="upcoming_feature_three">• अधिक अनुवाद जोड़ें</string>
-    <string name="upcoming_feature_four">• एक बार पर्याप्त भाषाएँ जुड़ जाने पर, एक भाषा चयनकर्ता विकल्प बनाएँ</string>
-    <string name="upcoming_feature_five">• लोडिंग और प्रदर्शन में और भी अधिक सुधार</string>
-    <string name="upcoming_feature_six">• अधिक जानकारी और उपयोगकर्ता द्वारा अनुरोधित जानकारी भी जोड़ रहा हूँ</string>
-    <string name="upcoming_feature_seven">• साइट से डाउनलोड क्षमता के साथ War Thunder वॉलपेपर अनुभाग जोड़ें</string>
+    <!-- XIII. Demo text for news and updates for testing-->
+    <string name="news_updates_body_demo_text">News body visualization text.\nthis is the second line\nthis is the third line</string>
+    <string name="news_updates_title_demo_text">News Title Test</string>
 
-    <!-- Please always leave these strings at the bottom -->
-    <string name="changelog">Changelog History</string>
-    <string name="changelog_dialog_body" translatable="false"><b>3.5.6:</b>\n• Included original German Translation credits\n• Updated Hungarian translations\n• Fixed "upcoming features" animated background not being full screen\n• Misc. small fixes\n• Updated Gradle and Libraries\n\n<b>3.5.5:</b>\n• Slightly reduced app size again by a couple hundred kilobytes\n• When you download a vehicle image, it now outputs a file with the vehicles name instead of random numbers\n• Fixed splash screen icon\n• Reintroduce "Upcoming Features" in the "About" section of the app\n• Included all app changelogs from 2.0.0 to the newest version, if you want to look back on updates (scroll down for updates)\n• Fixed splashscreen\n• Add German translation credits\n\n<b>3.5.1:</b>\n• Misc. small changes\n\n<b>3.3.1:</b>\n• Added Predictive Back Animations in the app\n• Redesigned the "Preview App Features" Preference\n• Added the ability to navigate back in the "preview upcoming app features" Preference\n• Updated the stars animation time in the "preview app features" preference\n• Updated Hungarian translations (Thanks tdikristof_ on Discord)\n\n<b>3.3.0 (big update):</b>\n• Fix some text getting cut off on devices with smaller screens\n• Added a small divider in the Settings\n• Increased ThunderDex Header text size\n• Added a new setting that shows ThunderDex plans for 2024 :)\n• UI adjustments\n• Removed some of the summary text in the settings\n• Removed "Google Pay" donation option\n• Slightly redesigned the Settings\n• Text updates and changes\n• Updated Android Build Tools to 35.0.0rc3\n• Changed some height sizes of elements in the app\n• Fix text wrap issue on certain devices for the upcoming features preference\n\n<b>3.2.4:</b>\n• Adjust vehicle image height \n• Updated Android AGP\n• Library updates\n\n<b>3.2.3:</b>\n• Added Android 9 support\n• Change text in a Dialog\n\n<b>3.2.2:</b>\n• Adjusted vehicle image height... no more scrolling in the "wiki" tab.. :)\n• Fix changelog typo from 3.2.1\n• Bug fixes\n\n<b>3.2.1:</b>\n• Fixed Google Pay not launching on older devices\n• Added an option to copy the Google Pay Email in the dialog\n\n<b>3.2.0:</b>\n• Added cash app donation option\n• Added google pay donation option\n• Fixed up some code with the code analyzer\n• Changed the "Latest Updates" tab to "Latest Game Updates"\n• Lots of small text adjustments that you may or may not notice\n• Fixed all Java issues in the app\n• Further tweaks to elements in the app such as header height and image height\n\n<b>3.1.3:</b>\n• Fix changelog not being up to date\n\n<b>3.1.2:</b>\n• Updated AGP\n• Bug fixes\n• Performance improvements\n• Changed some element sizes in the app\n• Updated a library\n• Updated Build Tools\n• Updated Gradle\n\n<b>3.1.1:</b>\n• Added Lithuanian and Hungarian translations (thanks to theslimyboi  and Tdikristof_ on Discord for the translations)\n• Further reduced app size ;)\n• Made "ThunderDex" Header text slightly smaller\n• Removed some unused resources\n• Expanded the height of the ThunderDex Header box\n• Expanded the height of Vehicle Images\n• Updated some of the internal structuring of the apps gradle file \n\n<b>3.1.0:</b>\n• *** Decreased app size by ~4MB ***\n• Small text changes\n• Adjusted some UI elements\n• Cleaned up code\n• Removed unused resources\n• Cleaned up some backend code for the app\n\n<b>3.0.1:</b>\n• Fix changelog typo\n• Small string adjustments\n• Removed unused drawables\n\n<b>3.0.0:</b>\n• BRAND NEW DESIGN!\n• Cleaned up the user interface\n• Added my ThunderDexApp subreddit\n• planes / jets has been changed to Aircraft\n• Add blurred searchview\n• Fix toolbar glitching while collapsiing\n• Remove special star character from vehicle info\n• Removed translations setting\n• Removed request a feature activity \n\n<b>2.5.2:</b>\n• Permanent discord link added! Please join the discord group (settings > discord)\n• Made image gradient slightly darker\n• Fixed the bug where the toolbar would include the gradient \n\n<b>2.5.1:</b>\n• Update the discord invite link\n\n<b>2.5.0:</b>\n• Added the "usage in battles" section for vehicles\n• Vehicle images are now larger! :)\n• Vehicle image gradient fixed and adjusted
-• Slight UI adjustments\n• Removed translations again for now\n• cleaned up code via suggestions from the android studio code analyzer\n• Updated Gradle and AGP\n• Reduce app size (it;s now under 10mb)\n\n<b>2.0.0:</b>\n• VEHICLE SEARCH ADDED\n• Further reduce app size\n• Prevent Dialog from being closed when touched outside :)\n• Added a nice gradient for the vehicle images</string>
+    <!-- XIV. Countdown Dialog Strings -->
+    <string name="countdown_start_text">"Restarting ThunderDex in "</string>
+    <string name="countdown_text_seconds">" seconds"</string>
+    <string name="countdown_text_one_second">1 second</string>
+    <string name="countdown_dialog_zero_text">0 seconds</string>
 
-    <!-- Links -->
+    <!-- XV. Sort by strings -->
+    <string name="sort_by">इसके अनुसार क्रमबद्ध करें</string>
+    <string name="filter_list">फ़िल्टर सूची</string>
+    <string name="sort_alphabetically">वर्णक्रम</string>
+    <string name="sort_rank_ascending">रैंक (आरोही क्रम)</string>
+    <string name="sort_rank_descending">रैंक (अवरोही क्रम)</string>
+
+    <!-- XVI. Image download -->
+    <string name="image_save_success">छवि को सहेजा गया "/sdcard/Pictures"</string>
+    <string name="image_save_fail">छवि सहेजने में विफल!</string>
+    <string name="image_load_fail">छवि लोड करने में विफल!</string>
+
+    <!-- XVII. Other-->
+    <string name="usage_in_battles">युद्धों में उपयोग:</string>
+    <string name="wiki">Wiki</string>
+    <string name="dev_support_settings_body">Donate through PayPal or Cash App</string>
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
     <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
+    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
+    <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
+    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
+    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
+    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
+    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+
+    <!-- DO NOT TRANSLATE -->
     <!--       Permanent Discord link, DO NOT CHANGE       -->
     <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
     <!-- ^^^^^ Permanent Discord link, DO NOT CHANGE ^^^^^ -->
-    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
-    <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
 
-    <!-- UNUSED FOR NOW: Google Pay -->
+    <!-- UNUSED -->
+    <string name="donate_dialog_title"><b>❤   • दान •   ❤</b></string>
     <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
     <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
     <string name="gpay_dialog_confirm">Open Google Pay</string>
@@ -131,16 +190,4 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Support the developer on Google Pay</i></string>
     <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
-
-    <!-- Sort by strings -->
-    <string name="sort_by">इसके अनुसार क्रमबद्ध करें</string>
-    <string name="filter_list">फ़िल्टर सूची</string>
-    <string name="sort_alphabetically">वर्णक्रम</string>
-    <string name="sort_rank_ascending">रैंक (आरोही क्रम)</string>
-    <string name="sort_rank_descending">रैंक (अवरोही क्रम)</string>
-
-    <!-- Image download -->
-    <string name="image_save_success">छवि को सहेजा गया "/sdcard/Pictures"</string>
-    <string name="image_save_fail">छवि सहेजने में विफल!</string>
-    <string name="image_load_fail">छवि लोड करने में विफल!</string>
 </resources>

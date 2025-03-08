@@ -1,5 +1,5 @@
 <!-- START OF FILE ThunderDex_Translation_DE_V.6.0.0_beta_5_AI_merged.xml -->
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <!-- Section: App Name and Titles -->
     <string name="app_name" translatable="false">ThunderDex</string>
@@ -8,8 +8,8 @@
 
     <!-- Section: Main Menu and Navigation -->
     <string name="home">Startseite</string>
-    <string name="news">War Thunder Neuigkeiten</string>
-    <string name="updates">Updates</string>
+    <string name="news">Neuigkeiten</string>
+    <string name="updates">Aktualisierungen</string>
     <string name="wiki">Wiki</string>
     <string name="about">Über</string>
     <string name="settings">Einstellungen</string>
@@ -29,7 +29,6 @@
     <string name="battle_rating_sb">SB</string>
     <string name="research">Forschung:</string>
     <string name="purchase">Kaufen:</string>
-    <string name="bundle_or_gift">Shop Paket oder als Geschenk</string>
     <string name="general_info">Grundlegendes:</string>
     <string name="pros_and_cons">Vor- und Nachteile:</string>
     <string name="pros">Vorteile:</string>
@@ -46,7 +45,7 @@
     <!-- Section: Airborne Radar -->
     <string name="radar_header_title">" Flugzeug Radarsysteme "</string>
     <string name="airborne_radar_grouped_fragment">Flugzeug Radarsysteme</string>
-    <string name="radar_viewpager_tab_title">Radar</string>
+    <string name="radar_viewpager_tab_title">Flugzeug Radarsysteme</string>
     <!-- required string name for MaterialShared Transition Animation -->
     <string name="transition_radar" translatable="false">transition_radar</string>
 
@@ -54,6 +53,10 @@
     <string name="toolbar_title_aircraft_machine_guns">Flugzeug Maschinengewehre</string>
     <string name="toolbar_title_aircraft_cannons">Flugzeug Maschinenkanonen</string>
     <string name="weaponry_viewpager_tab_title">Bewaffnung</string>
+    <string name="no_pros_cons">Keine Vor- und Nachteile verfügbar</string>
+    <string name="no_usage_in_battles">Keine Informationen zur Verwendung im Gefecht verfügbar</string>
+    <string name="no_general_info">Keine allgemeinen Informationen verfügbar</string>
+    <string name="no_description">Keine Beschreibung verfügbar</string>
 
     <!-- Section: Settings -->
     <string name="app_theme_setting">Farbschemen</string>
@@ -162,7 +165,7 @@
     <string name="github_translations_step_three"><b>Step 3:</b> Legen sie den Ordner für ihre Sprache an</string>
 
     <!-- Section: Upcoming Features -->
-    <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2024 geplant sind</string>
+    <string name="upcoming_features_summary">Schauen Sie sich die coolen Funktionen an, die für 2025 geplant sind</string>
     <string name="upcoming_features_summary_alt">Plände für ThunderDex 2025</string>
     <string name="upcoming_features">Sieh dir kommende Funktionen an</string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
@@ -268,26 +271,6 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Änderungsprotokoll</string>
-    <string name="changelog_dialog_body" translatable="false">
-        <b>6.0.0 Beta 4</b>\n\n
-        • Finally fixed the "-90" bug, vehicles will show up properly now. In the code, it was being filtered so <b>please check for issues</b>\n
-        • Added a pulsing color gradient on the splash screen. Now it\'s less boring!\n
-        • Finally fixed the Favorite icon bug. It now shows a filled heart upon favoriting a vehicle, also ensuring a streamlined icon across the UI\n
-        • Vehicle info: fixed long-time bug that caused a weird space between pros and cons\n
-        • Settings: New icons, changed a few titles\n
-        • Added more items to the War Thunder Wiki 3.0 test in the Settings (switch from a constraintlayout to a scrollview/more typical layout structure, redesign and improve the ui, new additions: vehicle rank, vehicle role, and research cost (has formatting error where the div from parsing shows up), code improvements)\n
-        • Removed GitHub Commits section in Settings for now\n
-        • Removed Contribute Translations section in the Settings\n
-        • Improved app header (removed +15% transparent white foreground -- makes the background darker + improved the text shadow and made it darker)\n
-        • Add a clickable link to the Translations GitHub website in Language Chooser bottom sheet\n
-        • Added a warning that the language chooser may not work on Android 9-11\n
-        • Improved Fireworks animation (Implemented Fade-Out Effect, No Particle Removal, Reduced Gravity &amp; Speeds, Centralized ColorMatrix)\n
-        • Updated AGP, Libraries and Gradl\n
-        • Added some experimental gradle.properties flags to boost app launch time, improve app performance and improve app loading times\n
-        • Upcoming Features: removed outdated features and ones I already added, needs new strings translations from contributors in the XML files\n
-        • Slightly tweak Settings design (make header texture larger in height, increase texture, change look of Language Chooser option)
-    </string>
-    <string name="older_changelogs_title">Alte Änderungsprotokolle</string>
 
     <!-- Section: Translations -->
     <string-array name="language_names" translatable="false">
