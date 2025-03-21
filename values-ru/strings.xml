@@ -1,61 +1,280 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Section: Main Menu and Navigation -->
-    <string name="news">Новости игры</string>
-    <string name="updates">Обновления игры</string>
-    <string name="home">Главная</string>
-    <string name="settings">Настройки</string>
-    <string name="wiki">Вики</string>
-    <string name="about">О нас</string>
+    <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Section: Vehicle Groups -->
-    <string name="planes">Самолеты</string>
-    <string name="helicopters">Вертолеты</string>
-    <string name="tanks">Танки</string>
-    <string name="ships">Морской флот</string>
+        <!-- Section: App Name and Titles -->
+        <string name="app_name" translatable="false">ThunderDex</string>
+        <string name="header_title" translatable="false">" ThunderDex "</string>
+        <string name="settings_title" translatable="false">" Settings "</string>
 
-    <!-- Section: Vehicle Info -->
-    <string name="vehicle_types">Транспортные средства</string>
-    <string name="favorite_vehicles">Избранное</string>
-    <string name="battle_rating">Рейтинг боя:</string>
-    <string name="battle_rating_ab">AB</string>
-    <string name="battle_rating_rb">RB</string>
-    <string name="battle_rating_sb">SB</string>
-    <string name="research">Стоимость исследования</string>
-    <string name="purchase">Стоимость покупки</string>
-    <string name="bundle_or_gift">Приобретено в рамках набора или в подарок в магазине</string>
-    <string name="general_info">Общая информация</string>
-    <string name="pros_and_cons">Преимущества и недостатки</string>
-    <string name="pros">Преимущества:</string>
-    <string name="cons">Недостатки:</string>
-    <string name="favorite">В избранное</string>
-    <string name="unfavorite">Убрать из избранного</string>
-    <string name="vehicle_added_favorites">добавлено в избранное</string>
-    <string name="vehicle_removed_favorites">удалено из избранного</string>
-    <string name="usage_in_battles">Использование в боях</string>
-    <string name="search_vehicle">Поиск транспортного средства</string>
-    <string name="search_here">Поиск здесь…</string>
-    <string name="clear_search">Очистить поиск</string>
+        <!-- Section: Main Menu and Navigation -->
+        <string name="home">Главная</string>
+        <string name="news">Новости игры</string>
+        <string name="updates">Обновления игры</string>
+        <string name="wiki">Вики</string>
+        <string name="about">О приложении</string>
+        <string name="settings">Настройки</string>
 
-    <!-- Upcoming Features -->
-    <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
-    <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
-    <string name="upcoming_features">Preview upcoming app features</string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
-    <string name="upcoming_feature_one">• Add app customization options</string>
-    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_three">• Add more translations</string>
-    <string name="upcoming_feature_four">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_five">• Add more vehicle information + user requested information</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+        <!-- Section: Vehicle Groups -->
+        <string name="vehicle_types">Техника</string>
+        <string name="planes">Авиация</string>
+        <string name="helicopters">Вертолеты</string>
+        <string name="tanks">Танки</string>
+        <string name="ships">Флот</string>
 
-    <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">"Бортовой радар"</string>
-    <string name="airborne_radar_grouped_fragment">Бортовой радар</string>
-    <string name="radar_viewpager_tab_title">Радар</string>
+        <!-- Section: Vehicle Info -->
+        <string name="favorite_vehicles">Избранное</string>
+        <string name="battle_rating">Боевой рейтинг:</string>
+        <string name="battle_rating_ab">AB</string>
+        <string name="battle_rating_rb">RB</string>
+        <string name="battle_rating_sb">SB</string>
+        <string name="research">Стоимость исследования</string>
+        <string name="purchase">Стоимость покупки</string>
+        <string name="bundle_or_gift">Покупка в магазине</string>
+        <string name="general_info">Общая информация</string>
+        <string name="pros_and_cons">Плюсы и минусы</string>
+        <string name="pros">Плюсы:</string>
+        <string name="cons">Минусы:</string>
+        <string name="favorite">В избранное</string>
+        <string name="unfavorite">Убрать из избранного</string>
+        <string name="vehicle_added_favorites">добавлено в избранное</string>
+        <string name="vehicle_removed_favorites">удалено из избранного</string>
+        <string name="usage_in_battles">Применение в боях</string>
+        <string name="search_vehicle">Поиск техники</string>
+        <string name="search_here">Поиск здесь…</string>
+        <string name="clear_search">Очистить поиск</string>
 
-    <string name="weaponry_viewpager_tab_title">Оружие</string>
-    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+        <!-- Section: Airborne Radar -->
+        <string name="radar_header_title">" Воздушный радар "</string>
+        <string name="airborne_radar_grouped_fragment">Воздушный радар</string>
+        <string name="radar_viewpager_tab_title">Радар</string>
+        <!-- required string name for MaterialShared Transition Animation -->
+        <string name="transition_radar" translatable="false">transition_radar</string>
+
+        <!-- Section: Weaponry -->
+        <string name="toolbar_title_aircraft_machine_guns">Авиационные пулеметы</string>
+        <string name="toolbar_title_aircraft_cannons">Авиационные пушки</string>
+        <string name="weaponry_viewpager_tab_title">Вооружение</string>
+        <string name="no_pros_cons">Нет доступных плюсов и минусов</string>
+        <string name="no_usage_in_battles">Информация о применении в боях отсутствует</string>
+        <string name="no_general_info">Общая информация отсутствует</string>
+        <string name="no_description">Описание отсутствует</string>
+
+        <!-- Section: Settings -->
+        <string name="app_theme_setting">Темы приложения</string>
+        <string name="settings_language">Выбор языка</string>
+        <string name="settings_language_chooser_body">ВНИМАНИЕ!!!! МОЖЕТ НЕ РАБОТАТЬ НА ANDROID 9-11</string>
+        <string name="settings_language_info">Хотите внести вклад в перевод или обновить уже существующий язык в приложении?</string>
+        <string name="settings_language_system">Системный язык</string>
+        <string name="settings_language_system_description">Английский, если перевод недоступен</string>
+        <string name="support_the_developer">Поддержать разработчика</string>
+        <string name="thunderdex_social">Thunderdex в соц. сетях</string>
+        <string name="join_the_thunderdex_reddit_or_discord">Присоединяйтесь к Thunderdex Reddit &amp; Discord!</string>
+        <string name="settings_donate_title">Купи мне кофе! ☕</string>
+        <string name="settings_donate_desc">Поддержите мою работу, сделав пожертвование!!! ❤️</string>
+        <string name="settings_discord_title">Присоединиться к группе Discord</string>
+        <string name="settings_discord_body"><i>Станьте частью чего-то удивительного!!!</i></string>
+        <string name="settings_translate">Перевести ThunderDex</string>
+        <string name="settings_about_title">О ThunderDex</string>
+        <string name="settings_clear_cache_title">Очистить данные приложения</string>
+        <string name="settings_clear_cache_desc">Очищает данные приложения</string>
+        <string name="donate_dialog_title"><b>❤️ Поддержите мою работу, сделав пожертвование!! ❤️</b></string>
+        <string name="dev_support_settings_body">❤️ Пожертвуйте через <b>PayPal</b> или <b>Cash App</b> ❤️</string>
+
+        <!-- Section: Experiments -->
+        <string name="currently_testing">Текущее тестирование:</string>
+        <string name="settings_experiments_title">Экспериментальные функции и тесты</string>
+        <string name="settings_experiments_body">• Типы анимации Fluid Gradient\n• Реализация Wiki 3.0\n• Анимация Pulsed Sparkle\n(для Android 12+)</string>
+        <string name="settings_experiments_fluid_gradient_title">Демонстрация Fluid Gradient</string>
+        <string name="settings_experiments_fluid_gradient_body">Протестируйте все типы анимации fluid gradient</string>
+        <string name="settings_experiments_wt_wiki_3_0_title">Тесты совместимости Wiki 3.0</string>
+        <string name="settings_experiments_wt_wiki_3_0_body">Площадка для реализации Wiki 3.0</string>
+        <string name="settings_experiments_sparkle_gradient_title">Демонстрация анимации Pulsed Sparkle</string>
+        <string name="settings_experiments_sparkle_gradient_body">Непрерывные эксперименты с мерцающей волновой анимацией</string>
+
+        <!-- Section: Theme Configuration -->
+        <string name="themes_toolbar_title">Темы</string>
+        <string name="settings_app_theme_title">Динамические цвета приложения</string>
+        <string name="settings_app_theme_desc">НЕ ИСПОЛЬЗУЕТСЯ В НАСТОЯЩЕЕ ВРЕМЯ</string>
+        <string name="enable_monet_theming">Включить динамические цвета</string>
+        <string name="enable_black_theme">AMOLED Черная тема</string>
+        <string name="enable_almost_black_theme">"Почти черная" тема</string>
+        <string name="enable_lyft_grey_theme">"Lyft Grey" тема</string>
+        <string name="enable_slate_grey_theme">Тема "Серый сланец"</string>
+        <string name="enable_thunderteal_theme">"ThunderTeal" тема</string>
+        <string name="enable_royal_purple_theme">"Королевский пурпур" тема</string>
+        <string name="enable_wtr_assistant_theme">"WT Assistant" тема</string>
+        <string name="enable_wtr_blue_theme">"Thunder Blues" тема</string>
+        <string name="enable_dull_blue_theme">Едва синяя тема</string>
+        <string name="enable_space_cadet_theme">"Space Cadet" тема</string>
+        <string name="enable_dark_red_theme">Темно-красная тема</string>
+        <string name="enable_darkish_blue_theme">Темновато-синяя тема</string>
+        <string name="enable_forest_green_theme">Тема "Лесной зеленый"</string>
+        <string name="enable_halloween_theme">Хэллоуин</string>
+        <string name="enable_christmas_theme">Рождество</string>
+        <string name="enable_new_years_theme">Новый год</string>
+        <string name="default_theme">По умолчанию</string>
+        <string name="dynamic_colors_theme">Динамические цвета</string>
+
+        <!-- Section: Theme Categories -->
+        <string name="themes_category_dark_colors">Темные цвета</string>
+        <string name="themes_category_misc_experimental">Разное и экспериментальное</string>
+        <string name="themes_category_war_thunder">Темы War Thunder</string>
+
+        <!-- Section: Theme Warnings and Info -->
+        <string name="paid_themes_warning_info_testing_info">Темы в конечном итоге станут <b>ПЛАТНОЙ</b> функцией.\n\nТемы в настоящее время тестируются, могут работать неправильно или приводить к сбою приложения.\n\nЕсли это произойдет, просто перезапустите приложение.\nЯ также включу несколько бесплатных тем.\n\nНе могу дождаться, чтобы показать вам, что еще ждет приложение в 2024 году.</string>
+        <string name="warning">Внимание</string>
+        <string name="themes_confirm">Понятно. Спасибо!</string>
+        <string name="warning_title">⭐ <b>ВНИМАНИЕ</b> ⭐</string>
+        <string name="alt_warning_title"><b>*** ↓ ОСТОРОЖНО ↓ ***</b></string>
+        <string name="warning_body">На данный момент вам нужно вручную отмечать и снимать отметку с темы, которую вы хотите правильно отключить. Скоро это будет исправлено.\n\n<b>ЕСЛИ ПРИЛОЖЕНИЕ ЗАВИСАЕТ ИЛИ ЗАКРЫВАЕТСЯ, ПЕРЕЗАПУСТИТЕ ЕГО!</b></string>
+        <string name="theme_not_available_on_your_device">"Эта тема недоступна на вашем устройстве под управлением Android "</string>
+        <string name="theme_already_applied_warning"> уже применена</string>
+        <string name="halloween_theme_pumpkin_for_header" translatable="false">" 🎃 "</string>
+        <string name="christmas_theme_christmas_tree_for_header" translatable="false">" 🎄 "</string>
+        <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">" 🎉 "</string>
+        <string name="monet_theme_not_supported">Динамические цвета не поддерживаются на вашем устройстве</string>
+
+        <!-- Section: About ThunderDex -->
+        <string name="title_about_thunderdex">О ThunderDex</string>
+        <string name="about_app"><i><b>ЛУЧШЕЕ</b></i> приложение War Thunder Wikipedia.</string>
+        <string name="about_app_summary">ThunderDex был задуман в 2023 году как решение для частых пользователей War Thunder Wiki. Разочарованный опытом работы с браузером, я использовал более 10 лет опыта кодирования, чтобы разработать это приложение всего за несколько месяцев. Теперь он доступен для всех — бесплатно!</string>
+        <string name="about_contribute_header_text">Как я могу внести свой вклад?</string>
+        <string name="about_thunderdex_contributors">Авторы переводов</string>
+        <string name="about_contributor_one"><b>Tdikristof_</b> в Discord <b>(Венгерский перевод)</b></string>
+        <string name="about_contributor_two"><b>Theslimyboi</b> в Discord <b>(Литовский перевод)</b></string>
+        <string name="about_contributor_three_og"><b>Flitzepipe</b> в Discord <b>(Оригинальный немецкий перевод)</b></string>
+        <string name="about_contributor_three"><b>Proxima</b> в Discord <b>(Обновленный немецкий перевод)</b></string>
+        <string name="about_contributor_four"><b>Cosmicweb08</b> в Discord <b>(Перевод на хинди)</b></string>
+        <string name="about_contributor_five"><b>viispy</b> в Discord <b>(Португальско-бразильский перевод)</b></string>
+
+        <!-- Section: Contribute Translations -->
+        <string name="contribute_translations">Помощь в переводе</string>
+        <string name="contribute_translations_button_text">Нажмите здесь, чтобы узнать как!</string>
+        <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+        <string name="contribute_summary_two" translatable="false"><i>Скоро!</i></string>
+        <string name="translations_clickable_link">Нажмите <a href="https://github.com/hifii/warthunderwiki-translations">сюда</a> чтобы перейти по ссылке.</string>
+        <string name="translations_coming_soon_teaser">Скоро вернемся!\nВ настоящее время разрабатывается редизайн</string>
+
+        <!-- Section: Github Translations -->
+        <string name="github_translations_first_time_q__title">Первый раз?</string>
+        <string name="github_translations_first_time_create_account_splitbutton">Создайте учетную запись GitHub</string>
+        <string name="github_translations_first_time_hide_splitbutton">Скрыть</string>
+        <string name="github_translations_wt_wiki_clickable_github_text_link">Нажмите здесь, чтобы посетить страницу Thunderdex Translations GitHub</string>
+        <string name="github_translations_steps_title">Чтобы внести свой вклад в Thunderdex, выполните следующие действия:</string>
+        <string name="github_translations_step_one"><b>Шаг 1:</b> Сделайте форк репозитория</string>
+        <string name="github_translations_step_two"><b>Шаг 2:</b> Клонируйте свой форк локально</string>
+        <string name="github_translations_step_three"><b>Шаг 3:</b> Создайте папку для своего языка</string>
+
+        <!-- Section: Upcoming Features -->
+        <string name="upcoming_features_summary">Запланированные функции на 2025 год и далее</string>
+        <string name="upcoming_features_summary_alt">Планы ThunderDex на 2025 год</string>
+        <string name="upcoming_features">Предварительный просмотр будущих функций приложения</string>
+        <string name="upcoming_features_list">Добавьте дополнительные параметры настройки (размер изображения транспортного средства и т. д.)\n\nФильтруйте транспортные средства по рангу, а не в алфавитном порядке\n\nДобавьте возможность выбирать способ фильтрации транспортных средств\n\nУлучшения средства просмотра изображений транспортных средств\n\nДобавьте возможность загружать выбранные изображения транспортных средств\n\nДобавьте больше переводов\n\nПосле добавления достаточного количества языков создайте возможность выбора языка\n\nЕще больше улучшений загрузки и производительности\n\nДобавление дополнительной информации и информации, запрошенной пользователем, тоже\n\nДобавьте раздел обоев с возможностью загрузки!! (с сайта обоев War Thunder Wikipedia)</string>
+        <string name="upcoming_feature_one">• Добавьте параметры настройки приложения</string>
+        <string name="upcoming_feature_two">• Улучшения средства просмотра изображений транспортных средств</string>
+        <string name="upcoming_feature_three">• Добавьте больше переводов</string>
+        <string name="upcoming_feature_four">• Еще больше улучшений загрузки и производительности</string>
+        <string name="upcoming_feature_five">• Добавьте больше информации о транспортном средстве + информацию, запрошенную пользователем</string>
+        <string name="upcoming_feature_six">• Добавьте больше переводов</string>
+        <string name="upcoming_feature_seven">• Переключайте язык информации о транспортном средстве в зависимости от языка пользователя, если он поддерживается</string>
+
+        <!-- Section: Sort By Strings -->
+        <string name="sort_by">Сортировать по</string>
+        <string name="filter_list">Фильтр списка</string>
+        <string name="sort_alphabetically">По алфавиту</string>
+        <string name="sort_rank_ascending">Ранг (по возрастанию)</string>
+        <string name="sort_rank_descending">Ранг (по убыванию)</string>
+
+        <!-- Section: Image Download -->
+        <string name="image_saved">Изображение сохранено в /sdcard/pictures/</string>
+        <string name="image_save_success">Изображение успешно сохранено</string>
+        <string name="image_save_fail">Не удалось сохранить изображение</string>
+        <string name="image_load_fail">Не удалось загрузить изображение</string>
+
+        <!-- Section: Language Selector -->
+        <string-array name="language_array">
+            <item>Английский</item>
+            <item>Немецкий</item>
+            <item>Хинди</item>
+            <item>Венгерский</item>
+            <item>Литовский</item>
+            <item>Португальский (Бразилия)</item>
+            <item>Испанский</item>
+        </string-array>
+
+        <!-- Section: UI Prompts and Actions -->
+        <string name="affirmative_text">Готово</string>
+        <string name="read_changelog">Прочитать последние изменения</string>
+        <string name="restarting_text">Перезапуск ThunderDex…</string>
+        <string name="exiting_app_text">Выход…</string>
+
+        <!-- Section: Countdown Dialog -->
+        <string name="countdown_start_text">"Перезапуск ThunderDex через "</string>
+        <string name="countdown_text_seconds">" секунд"</string>
+        <string name="countdown_text_one_second">1 секунда</string>
+        <string name="countdown_dialog_zero_text">0 секунд</string>
+
+        <!-- Section: Miscellaneous Labels and Info -->
+        <string name="description">Описание</string>
+        <string name="empty_list">Пустой список</string>
+        <string name="loading">Загрузка…</string>
+        <string name="please_wait">Пожалуйста, подождите…</string>
+        <string name="not_available">Недоступно</string>
+        <string name="cache_cleared_toast_message">Данные и кэш очищены</string>
+        <string name="app_cache_size_title">Размер кэша приложения:</string>
+
+        <!-- Section: News and Updates (Demo Text) -->
+        <string name="news_updates_body_demo_text">Текст визуализации тела новости.\nэто вторая строка\nэто третья строка</string>
+        <string name="news_updates_title_demo_text">Тест заголовка новости</string>
+
+        <!-- Section: Version Info -->
+        <string name="version_codes" translatable="false"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
+        <string name="version_codes__one_line_plus_double_slash" translatable="false"><b>Version: </b>%s   ||   <b>Build: </b>#%d</string>
+        <string name="app_version_text" translatable="false">ThunderDex:</string>
+        <string name="version_code_text">Код версии:</string>
+
+        <!-- Section: Error and Connection Handling -->
+        <string name="connection_error">Не удалось подключиться к серверу</string>
+        <string name="something_went_wrong">Ошибка: Что-то пошло не так</string>
+        <string name="no_data_found">Данные не найдены…</string>
+        <string name="fragment_not_attached_error">Фрагмент не прикреплен, невозможно запустить действие.</string>
+        <string name="invalid_value_error_text">"Неверное значение: "</string>
+
+        <!-- Section: Push Notifications (Firebase) -->
+        <string name="fcm_short_task">Кратковременная задача выполнена.</string>
+        <string name="msg_subscribed">Подписка на тему ThunderDex оформлена</string>
+        <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+        <string name="msg_subscribe_failed">Не удалось подписаться на тему</string>
+        <string name="fcm_message">FCM Сообщение</string>
+        <string name="cloud_messaging_token_retrieval_failed">Не удалось получить токен регистрации FCM</string>
+        <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+        <string name="default_notification_channel_name">Уведомления ThunderDex</string>
+        <string name="notification_permission_rationale">"Чтобы улучшить ваш опыт, ThunderDex хотел бы отправлять вам уведомления о важных обновлениях и оповещениях.\n\nПредоставьте это разрешение, чтобы разрешить уведомления."</string>
+        <string name="grant_permission">Предоставить разрешение</string>
+        <string name="skip_permission">Пропустить сейчас</string>
+        <string name="notif_perm_unsupported_device">Разрешения на уведомления не требуются в этой версии.</string>
+        <string name="notifications_permission_granted">Спасибо!\nЗапуск журнала изменений.</string>
+        <string name="notifications_permission_denied">Вы не будете получать внутриигровые сообщения для ThunderDex</string>
+
+        <!-- Section: Special and Fun Features -->
+        <string name="flappydex">FlappyDex (;</string>
+        <string name="easter_egg_found_message">🍦 Запуск пасхалки!\nПоздравляем с ее обнаружением. 🍦</string>
+        <string name="launch_easter_egg_null_error">Контекст равен нулю или фрагмент не прикреплен, невозможно запустить активность Easter Egg</string>
+        <string name="hide_ui_string">СКРЫТЬ ПОЛЬЗОВАТЕЛЬСКИЙ ИНТЕРФЕЙС НА 1 МИНУТУ</string>
+        <string name="hide_ui_string_thirty_seconds">СКРЫТЬ ПОЛЬЗОВАТЕЛЬСКИЙ ИНТЕРФЕЙС\n(НА 30 СЕКУНД)</string>
+
+        <!-- Section: Debugging Features -->
+        <string name="gradient_in_testing_title">Видимый только в отладочных сборках</string>
+        <string name="gradient_in_testing_summary">Фрагмент теста градиента</string>
+
+        <!-- Section: Reddit -->
+        <string name="reddit_title">ThunderDex Subreddit</string>
+        <string name="reddit_summary">Нажмите здесь, чтобы присоединиться к сабреддиту ThunderDex 😁</string>
+
+        <!-- Section: Changelog -->
+        <string name="changelog">Журнал изменений</string>
+        <string name="changelog_dialog_body" translatable="false"><b>6.0.2:</b>\n• Revert new red theme header\n• Update the Gradle Build System\n• <b>NEW:</b> Experimental Features and test (includes wiki 3.0 WIP demo), an animation showcase, and a pulsed sparkle animation showcase\n• Add a scrollbar to the vehicle info section\n• Add a scrollbar to the Radar section\n• Adjust Vehicle Name text in the Info section, slightly changed the design but now the text is not offset with the toolbar icons\n\n<b>6.0.1:</b>\n• Improved News and Updates UI\n• Improve vehicle info image animation\n• Increase darkness for vehicle info section\n• New images for helicopters and tanks\n• Increased News image height\n• Update Sdk to target Android 16\n• Improve Android 16 support\n• Update 5 libraries\n• Increase vehicle radar group image height\n• Reduce app header height\n• Increase news image height slightly\n• increase vehicle image height\n• Reduce Radar section Header height• LANGUAGE CHOOSER ADDED! Android 12+ only\n• All sections of the app now work\n• Updated news design\n• New Radar section from the new wiki\n• Animated holiday themes, new themes added\n• Increased app performance\nmuch more!</string>
+        <string name="older_changelogs_title">Старые журналы изменений</string>
+        <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>5.5.0</b>• New feature: Added an "Aircraft Cannons" and "Aircraft Machine Guns" sections(wiki > weaponry)\n• Instantly load news and updates\n• NEW! Bottom navigation UI with blur\n• NEW! in-app notifications permissions screen\n• New Theme: Halloween\n• Changed Slate Grey theme to just Grey\n• Grey theme: New colors\n• Fixed some Theme colors\n• Fixed themes issues\n• New and improved app icons\n• Sort news and updates by time, no more out of order news\n• Improved restart on theme apply\n• Improved logic for themes\n• Improved vehicle zoom animation\n• When the user denies the Notification permission, only show the message once instead of upon every launch\n• Improved Settings UI\n• Fixed airborne radar force close on android 9-11 (thanks bearcat29 on discord)\n• Make the airborne radar section background theme-compliant\n• Airborne Radar: dynamically set the expandable cardview background with material design for android 12+\n• Airborne Radar: change logic on how dynamic color is set for the expandable cardview\n• vehicle list: Fixed the bottom app bar overlapping the vehicles at the bottom (thanks bearcat29 on discord)\n• Fix Golden Eagle icon on dark themes\n• Update german translations (thanks flitzepipe on discord)\n• Fix header text glow cutoff\n• Update favorite vehicles instantly\n• Fixed weird characters in the app\n\n<b>5.1.0</b>\n• <b>NEW!</b> image group images (helis, planes, tanks, ships)\n• <b>NEW!</b> "View Older Changelogs" in Settings > About\n• Fixed dynamic color theme not fully applying\n• Reduced app size\n• Force-apply dynamic theming for android 12+\n- Thunderdex default theme is now dynamic for android 12+ devices \n• Improved airborne radar UI, add dynamic theming elements for android 12+ and improve back navigation\n• Drastically improved the Vehicle Groups section (new images, improved zoom, slight redesigns and improvements, better Blur)\n• Bottom Navigation is now easier to see, increased visibility via user suggestion\n• Removed the textured background for the Home and Vehicle Information section\n• Updated and improved German translations (Thanks to Flitzepipe from Discord)\n• Updated 10 app libraries,, you may notice better performance\n• Updated animations again in the app, you should notice them\n• Updated Android Libraries and AGP\n• Fixed changelog in the app update being unscrollable, thanks to users who reported it\n\n<b>5.0.0:</b>\n• Completely redesigned app! New animations, layouts, design, and more. App performance has been improved too\n• redesigned the home page and vehicle info page, vehicle group page, and vehicle list page\n- Expanding on the info above, the news and updates now show 3 lines of text, and have a fading effect, as well as a slightly textured background\n- Expanding on the info above,  The vehicle info page has all new fonts, different fonts, a new layout, improved zoom, a darkened background animation, new gradient for the vehicle image, and a textured background\n- Expanding on the info above, the vehicle group page hs been redesigned. The vehicle type (regular, premium, squad) color now covers the entire square layout, I changed the rounded corners for all 4 edges resulting in more of a square shape, and added an outline to the cards as well with a minimal shadow. Looks very nice with the different themes, especially the AMOLED black\n- Expanding on the info above,  The vehicle list page now has an animation that lightens the background\n• improved the about section and added shared transitions\n• Fixed the Settings header, now it looks boring but not buggy\n• Animations are now much smoother. Before, I applied a delay method to delay animations and stagger them or hold them off momentarily as content loaded. That has been removed resulting in smoother animations throughout the app\n• Improved all themes\n• Added new textured backgrounds for themes\n• Added back any missing themes\n• Fixed some themes not applying\n• in-app updates through the play store to make updates easier\n- Expanding on the info above, the app will now prompt you upon launch to update the app, and will self-update to make it easier\n• brand new animations\n• new animations throughout the app\n• improved app performance\n• improved app memory usage\n• improved app stability\n• much, much more</string>
 
 </resources>
