@@ -260,10 +260,11 @@
     <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
 
     <!-- Section: Special and Fun Features -->
-    <string name="flappydex">FlappyDex</string>
+    <string name="flappydex">FlappyDex (;</string>
     <string name="easter_egg_found_message">🍦 Easter Egg Minispiel startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt.\nMinispiel konnte nicht gestartet werden</string>
     <string name="hide_ui_string">UI verstecken für 1 min\n(um die Animation zu sehen)</string>
+    <string name="hide_ui_string_thirty_seconds">UI VERSTECKEN\n(FÜR 30 SEKUNDEN)</string>
 
     <!-- Section: Debugging Features -->
     <string name="gradient_in_testing_title">Nur in Debug Versionen sichtbar</string>
@@ -278,7 +279,7 @@
     <string name="changelog_dialog_body" translatable="false">
         <b>6.0.0</b>\n\n</string>
     <string name="older_changelogs_title">Alte Änderungsprotokolle</string>
-    
+
     <!-- Section: Translations -->
     <string-array name="language_names" translatable="false">
         <item>Click here to see languages</item>
