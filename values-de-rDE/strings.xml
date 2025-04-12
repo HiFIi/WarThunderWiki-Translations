@@ -96,6 +96,7 @@
 
     <!-- Section: Theme Configuration -->
     <string name="themes_toolbar_title">Farbschemen</string>
+    <string name="theme_chooser_header_title">Themes</string>
     <string name="settings_app_theme_title">Dynamische Farben der App </string>
     <string name="settings_app_theme_desc">BIS DATO UNBENUTZT</string>
     <string name="enable_monet_theming">Dynamische Farben</string>
@@ -157,6 +158,7 @@
     <string name="contribute_summary_two" translatable="false"><i>Bald Verfügbar!</i></string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
     <string name="translations_coming_soon_teaser">Wird baltig wiederkehrern!\nEin neues Design is gerade in Entwicklung</string>
+    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- Section: Github Translations -->
     <string name="github_translations_first_time_q__title">Erstes Mal?</string>

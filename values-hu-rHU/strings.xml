@@ -172,6 +172,7 @@
     <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
     <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
     <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- UNUSED -->
     <string name="donate_dialog_title"><b>❤   • TÁMOGATÁS •   ❤</b></string>
@@ -185,4 +186,5 @@
     <string name="gpay_clipboard_label">Google Pay Email másolva</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
+    <string name="theme_chooser_header_title">Themes</string>
 </resources>

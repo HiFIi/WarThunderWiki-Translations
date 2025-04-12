@@ -170,9 +170,11 @@
     <string name="fcm_short_task">Short lived task is done.</string>
     <string name="app_cache_size_title">App Cache Size:</string>
     <string name="app_theme_setting">App Themes</string>
+    <string name="theme_chooser_header_title">Themes</string>
     <string name="invalid_value_error_text">"Invalid value: "</string>
     <string name="image_save_success">Image saved successfully!</string>
     <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- UNUSED -->
     <string name="donate_dialog_title"><b>❤ • DOAÇÕES • ❤</b></string>
@@ -185,6 +187,5 @@
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">E-mail para Google Pay copiado</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
 </resources>

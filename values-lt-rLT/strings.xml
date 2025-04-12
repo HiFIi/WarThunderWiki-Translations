@@ -121,6 +121,7 @@
     <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
     <string name="hide_ui_string">HIDE UI FOR 1 MINUTE\n(to watch the animation)</string>
+    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- XII. Experiments -->
     <string name="settings_experiments_body">Currently Testing:\nFluid Gradient types\nWiki 3.0 implementation</string>
@@ -182,4 +183,5 @@
 
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
+    <string name="theme_chooser_header_title">Themes</string>
 </resources>

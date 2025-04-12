@@ -127,6 +127,7 @@
     <string name="about_contributor_three_og"><b>Flitzepipe</b> en Discord <b>(Traducciones Originales alemanas)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> en Discord <b>(Traducciones Alemanas actualizadas)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> en Discord <b>(Traducciones de Hindi)</b></string>
+    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- XII. Experiments -->
     <string name="settings_experiments_body">Currently Testing:\nFluid Gradient types\nWiki 3.0 implementation</string>
@@ -179,4 +180,5 @@
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">Correo electrónico de Google Pay copiado</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <string name="theme_chooser_header_title">Themes</string>
 </resources>
