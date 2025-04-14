@@ -1,5 +1,5 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.6.0.0_release_build_pre_translation.xml -->
-<!-- Version: 2025/03/08 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.6.1.0_so_far_translation.xml -->
+<!-- Version: 2025/04/13 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
@@ -12,6 +12,7 @@
     <string name="home">Startseite</string>
     <string name="news">Neuigkeiten</string>
     <string name="updates">Updates</string>
+    <string name="news_updates_date_text_test_do_not_translate" translatable="false">April 06, 2025</string>
     <string name="wiki">Wiki</string>
     <string name="about">Über</string>
     <string name="settings">Einstellungen</string>
@@ -19,6 +20,7 @@
     <!-- Section: Vehicle Groups -->
     <string name="vehicle_types">Fahrzeuge</string>
     <string name="planes">Luftwaffe</string>
+    <string name="helicopters_shortened_for_vehicle_groups" translatable="false">Helis</string>
     <string name="helicopters">Helikopter</string>
     <string name="tanks">Heer</string>
     <string name="ships">Marine</string>
@@ -32,7 +34,7 @@
     <string name="research">Forschung:</string>
     <string name="purchase">Kaufen:</string>
     <string name="bundle_or_gift">Paket oder Geschenk</string>
-    <string name="general_info">Grundlegendes:</string>
+    <string name="general_info">Allgemeines:</string>
     <string name="pros_and_cons">Vor- und Nachteile:</string>
     <string name="pros">Vorteile:</string>
     <string name="cons">Nachteile:</string>
@@ -48,7 +50,7 @@
     <!-- Section: Airborne Radar -->
     <string name="radar_header_title">" Flugzeug Radarsysteme "</string>
     <string name="airborne_radar_grouped_fragment">Flugzeug Radarsysteme</string>
-    <string name="radar_viewpager_tab_title">Flugzeug Radarsysteme</string>
+    <string name="radar_viewpager_tab_title">Radarsysteme</string>
     <!-- required string name for MaterialShared Transition Animation -->
     <string name="transition_radar" translatable="false">transition_radar</string>
 
@@ -63,9 +65,10 @@
 
 
     <!-- Section: Settings -->
-    <string name="app_theme_setting">Farbschemen</string>
+    <string name="app_theme_setting">Farbschemen (Neues UI!!)</string>
+    <string name="theme_chooser_header_title">Farbschemen</string>
     <string name="settings_language">Sprachauswahl</string>
-    <string name="settings_language_chooser_body">WARNUNG!!!! FUNKTIONIERT MÖGLICHERWEISE MIT ANDROID 9-11</string>
+    <string name="settings_language_chooser_body">WARNUNG!!!! FUNKTIONIERT MÖGLICHERWEISE MIT ANDROID 9-11 NICHT</string>
     <string name="settings_language_info">Interessiert eine Übersetzung beizutragen oder zu aktualisieren?</string>
     <string name="settings_language_system">Systemsprache</string>
     <string name="settings_language_system_description">Englisch, falls keine Übersetzung verfügbar ist</string>
@@ -73,7 +76,7 @@
     <string name="thunderdex_social">ThunderDex in sozialen Medien</string>
     <string name="join_the_thunderdex_reddit_or_discord">Tritt dem ThunderDex Subreddit &amp; Discordserver bei</string>
     <string name="settings_donate_title">Gib mir Einen aus! ☕</string>
-    <string name="settings_donate_desc">❤️   Unterstütze meine Arbeit, indem sie spenden!!   ❤️</string>
+    <string name="settings_donate_desc">❤️   Unterstützte meine Arbeit, indem sie spenden!!   ❤️</string>
     <string name="settings_discord_title">Treten sie dem ThunderDex Discord bei!</string>
     <string name="settings_discord_body"><i>Seien Sie Teil von etwas Erstaunlichem!</i></string>
     <string name="settings_translate">Übersetze ThunderDex</string>
@@ -96,7 +99,6 @@
 
     <!-- Section: Theme Configuration -->
     <string name="themes_toolbar_title">Farbschemen</string>
-    <string name="theme_chooser_header_title">Themes</string>
     <string name="settings_app_theme_title">Dynamische Farben der App </string>
     <string name="settings_app_theme_desc">BIS DATO UNBENUTZT</string>
     <string name="enable_monet_theming">Dynamische Farben</string>
@@ -136,12 +138,12 @@
     <string name="halloween_theme_pumpkin_for_header" translatable="false">" 🎃 "</string>
     <string name="christmas_theme_christmas_tree_for_header" translatable="false">" 🎄 "</string>
     <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">" 🎉 "</string>
-    <string name="monet_theme_not_supported">Dynamische Farben werden auf ihrem Gerät nicht unterstützt</string>
+    <string name="monet_theme_not_supported">Dynamische Farben werden von ihrem Gerät nicht unterstützt</string>
 
     <!-- Section: About ThunderDex -->
     <string name="title_about_thunderdex">Über ThunderDex</string>
     <string name="about_app">Die <i><b>BESTE</b></i> War Thunder Wikipedia App.</string>
-    <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 konzipiert.\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit über 10 Jahren Programmiererfahrung habe ich die App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS zu machen!</string>
+    <string name="about_app_summary">ThunderDex wurde ursprünglich im Jahr 2023 entwickelt .\nIch war ein häufiger Nutzer des War Thunder Wiki und hatte es satt, es in meinem Browser zu verwenden.\nMit über 10 Jahren Programmiererfahrung habe ich die App in wenigen Monaten entwickelt und beschlossen, sie für alle KOSTENLOS zu machen!</string>
     <string name="about_contribute_header_text">Wie kann ich helfen?</string>
     <string name="about_thunderdex_contributors">ThunderDexs Mitwirkende</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische Übersetzung)</b></string>
@@ -157,7 +159,7 @@
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Bald Verfügbar!</i></string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
-    <string name="translations_coming_soon_teaser">Wird baltig wiederkehrern!\nEin neues Design is gerade in Entwicklung</string>
+    <string name="translations_coming_soon_teaser">Wird baltig wiederkehrern!\nEin neues Design ist gerade in Entwicklung</string>
     <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- Section: Github Translations -->
@@ -165,6 +167,7 @@
     <string name="github_translations_first_time_create_account_splitbutton">Erstelle einen Github Account</string>
     <string name="github_translations_first_time_hide_splitbutton">Ausblenden</string>
     <string name="github_translations_wt_wiki_clickable_github_text_link"> Hier klicken um die Thunderdex Übersetzungsseite auf GitHub zu öffnen</string>
+    <string name="github_translations_wt_wiki_clickable_github_text_link__emojis">🔗 ThunderDex Übersertzungen GitHub 🔗</string>
     <string name="github_translations_steps_title">Um an ThunderDex mitzuwirken, folge bitte diesen Schritten:</string>
     <string name="github_translations_step_one"><b>Step 1:</b> Teile das Repository</string>
     <string name="github_translations_step_two"><b>Step 2:</b> Kopieren sie das Repository lokal</string>
@@ -265,7 +268,7 @@
     <string name="flappydex">FlappyDex (;</string>
     <string name="easter_egg_found_message">🍦 Easter Egg Minispiel startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt.\nMinispiel konnte nicht gestartet werden</string>
-    <string name="hide_ui_string">UI verstecken für 1 min\n(um die Animation zu sehen)</string>
+    <string name="hide_ui_string">UI für 1 min verstecken\n(um die Animation zu sehen)</string>
     <string name="hide_ui_string_thirty_seconds">UI VERSTECKEN\n(FÜR 30 SEKUNDEN)</string>
 
     <!-- Section: Debugging Features -->
@@ -278,9 +281,9 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Änderungsprotokoll</string>
+    <string name="older_changelogs_title">Alte Änderungen</string>
     <string name="changelog_dialog_body" translatable="false">
         <b>6.0.0</b>\n\n</string>
-    <string name="older_changelogs_title">Alte Änderungsprotokolle</string>
 
     <!-- Section: Translations -->
     <string-array name="language_names" translatable="false">
@@ -412,5 +415,4 @@
     <string name="gpay_clipboard_label">Google Pay Email Kopiert</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Ünterstützt mich auf Google Pay</i></string>
-
 </resources>
