@@ -173,3 +173,30 @@ android:name="zh-HK" <-- Chinese (Hong Kong) -->
 android:name="zh-TW" <-- Chinese (Traditional) -->
 
 android:name="zu" <-- Zulu -->
+
+## Contributing
+
+We welcome contributions to ThunderDex Translations! If you're new to open source, this is a great place to start.
+
+### Your First Pull Request
+
+Here's a step-by-step guide to help you make your first pull request:
+
+1.  **Fork the repository:** Click the "Fork" button at the top right of this page to create your own copy of this repository.
+2.  **Create a new branch:** In your forked repository, create a new branch for your changes. Use a descriptive name for your branch, like `add-korean-translation` or `fix-typo-in-readme`. You can do this from the repository's main page or using Git on your local machine:
+    ```bash
+    git checkout -b your-branch-name
+    ```
+3.  **Make your changes:** Make the necessary changes to the files in your branch.
+4.  **Commit your changes:** Once you've made your changes, commit them with a clear and concise commit message:
+    ```bash
+    git add .
+    git commit -m "Your descriptive commit message"
+    ```
+5.  **Push your changes to the fork:** Push your committed changes to your forked repository on GitHub:
+    ```bash
+    git push origin your-branch-name
+    ```
+6.  **Open a pull request:** Go to the original ThunderDex Translations repository. You should see a prompt to create a pull request from your new branch. Click on it, review your changes, and submit the pull request.
+
+We appreciate your contributions, big or small!
