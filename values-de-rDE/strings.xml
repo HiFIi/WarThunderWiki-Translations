@@ -1,5 +1,5 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.6.1.0_so_far_translation.xml -->
-<!-- Version: 2025/04/13 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.6.1.0_beta_7_translation.xml -->
+<!-- Version: 2025/06/10 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
@@ -64,35 +64,34 @@
     <string name="no_description">Keine Beschreibung verfügbar</string>
 
     <!-- Themes -->
-    <string name="themes_default_title">ThunderDex Default</string>
-    <string name="themes_default_desc">ThunderDex Classic Purple</string>
-    <string name="themes_dynamic_title">Dynamic</string>
-    <string name="themes_dynamic_desc">Monet: Dynamic theme based on your wallpaper\n(Android 12+).</string>
-    <string name="themes_black_title">Black</string>
-    <string name="themes_black_desc">AMOLED Black: Deep, solid black ideal for AMOLED screens.</string>
-    <string name="themes_almost_black_desc">Almost Black: Very dark black with a subtle red hint.</string>
-    <string name="themes_blues_and_teals_header">Blues and Teals</string>
-    <string name="theme_category_blues_title">Blues</string>
-    <string name="themes_thunder_teal_desc">Thunder Teal: A rich, dark teal with a greenish-blue tint.</string>
-    <string name="themes_thunder_blues_desc">Thunder Blues: A dark blue with almost black undertones.</string>
-    <string name="themes_dull_blue_desc">Dull Blue: A muted, grayish-blue with a subdued feel.</string>
-    <string name="themes_darkish_blue_desc">Darkish Blue: A deeper, darker blue with more intensity.</string>
-    <string name="themes_barely_blue_desc">Barely Blue: A deep blue with a slight purple undertone.</string>
-    <string name="themes_category_greys_title">Greys</string>
-    <string name="themes_lyft_grey_desc">Lyft Grey: A cool, dark gray with a touch of blue.</string>
-    <string name="themes_google_grey_desc">Grey: A deep, neutral gray, offering balance.</string>
-    <string name="themes_red_green_title">Reds and Greens</string>
-    <string name="themes_red_category">Reds</string>
-    <string name="themes_dark_red_desc">Dark Red: A rich, dark red with brownish undertones.</string>
-    <string name="theme_greens_title">Greens</string>
-    <string name="themes_forest_green_desc">Forest Green: A deep, dark green resembling a forest.</string>
-    <string name="themes_category_misc_title">Misc</string>
-    <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray.</string>
-    <string name="themes_space_cadet_desc">Space Cadet: A deep bluish-gray with hints of purple.</string>
-    <string name="themes_halloween_desc">Halloween: Deep black with red undertones.</string>
-    <string name="themes_christmas_desc">Christmas: A rich green for festive designs.</string>
-    <string name="themes_new_years_desc">New Years: A vibrant purple for celebration.</string>
-
+    <string name="themes_default_title">ThunderDex Standart</string>
+    <string name="themes_default_desc">ThunderDexs klassisches Lila</string>
+    <string name="themes_dynamic_title">Dynamische Farben</string>
+    <string name="themes_dynamic_desc">Monet: Dynamische Farben passend zu ihrem Hintergrund!\n(Android 12+).</string>
+    <string name="themes_black_title">Schwarz</string>
+    <string name="themes_black_desc">AMOLED Schwarz: Tiefes, Festes Schwarz. Ideal für AMOLED Bildschirme.</string>
+    <string name="themes_almost_black_desc">Fast Schwarz: Sehr dunkles Schwarz mit einem leichten Rotstich.</string>
+    <string name="themes_blues_and_teals_header">Blaugrün</string>
+    <string name="theme_category_blues_title">Blau</string>
+    <string name="themes_thunder_teal_desc">ThunderDex Blaugrün: Ein kräftiges, dunkles Türkis mit einem Grünblaustich.</string>
+    <string name="themes_thunder_blues_desc">ThunderDex Blau: Ein dunkles Blau mit fast schwarzen Untertönen.</string>
+    <string name="themes_dull_blue_desc">"Stumpfes" Blau: Ein blasses, graublau mit einem dezenten Aussehen.</string>
+    <string name="themes_darkish_blue_desc">Dunkleres Blau: Ein tieferes, dunkleres und kräftigeres Blau.</string>
+    <string name="themes_barely_blue_desc">Karges Blau: Ein tiefes Blau mit einem leichten Lilaton .</string>
+    <string name="themes_category_greys_title">Grau</string>
+    <string name="themes_lyft_grey_desc">Leichtes Grau: Ein kaltes, dunkles Grau, mit einem Blaustich.</string>
+    <string name="themes_google_grey_desc">Grau: Ein tiefes, neutrales Grau, bietet ausgeglichenes Erlebnis.</string>
+    <string name="themes_red_green_title">Rot und Grün</string>
+    <string name="themes_red_category">Rot</string>
+    <string name="themes_dark_red_desc">Dunkles Rot: Ein kräftiges, dunkles rot mit bräunlischen Untertönen.</string>
+    <string name="theme_greens_title">Grün</string>
+    <string name="themes_forest_green_desc">Wald Grün: Ein tiefes, dunkles Grün ähnlich einem Wald.</string>
+    <string name="themes_category_misc_title">Sonstiges</string>
+    <string name="themes_wt_assistant_desc">WT Assistant: Ein kühles, blasses blaugrau.</string>
+    <string name="themes_space_cadet_desc">"Space Cadet": Ein dunkles blaugrau mit einem Lilastich.</string>
+    <string name="themes_halloween_desc">Halloween: Tiefes Schwarz mit Roten Untertönen.</string>
+    <string name="themes_christmas_desc">Weihnachten: Ein kräftiges grün für ein festliches Designs.</string>
+    <string name="themes_new_years_desc">Neu Jahr: Ein farbenfrohes Lila für Feierlischkeiten.</string>
 
     <!-- Section: Settings -->
     <string name="app_theme_setting">Farbschemen (Neues UI!!)</string>
