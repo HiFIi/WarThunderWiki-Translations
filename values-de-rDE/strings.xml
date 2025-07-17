@@ -94,7 +94,7 @@
     <string name="themes_new_years_desc">Neu Jahr: Ein farbenfrohes Lila für Feierlischkeiten.</string>
 
     <!-- Section: Settings -->
-    <string name="app_theme_setting">Farbschemen (Neues UI!!)</string>
+    <string name="app_theme_setting">Farbschemen</string>
     <string name="theme_chooser_header_title">Farbschemen</string>
     <string name="settings_language">Sprachauswahl</string>
     <string name="settings_language_chooser_body">WARNUNG!!!! FUNKTIONIERT MÖGLICHERWEISE MIT ANDROID 9-11 NICHT</string>
@@ -103,9 +103,9 @@
     <string name="settings_language_system_description">Englisch, falls keine Übersetzung verfügbar ist</string>
     <string name="support_the_developer">Unterstütze den Entwickler</string>
     <string name="thunderdex_social">ThunderDex in sozialen Medien</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Tritt dem ThunderDex Subreddit &amp; Discordserver bei</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Click to join the Thunderdex Reddit &amp; Discord!</string>
     <string name="settings_donate_title">Gib mir Einen aus! ☕</string>
-    <string name="settings_donate_desc">❤️   Unterstützte meine Arbeit, indem sie spenden!!   ❤️</string>
+    <string name="settings_donate_desc">Click here to Donate &amp; support my work ❤️</string>
     <string name="settings_discord_title">Treten sie dem ThunderDex Discord bei!</string>
     <string name="settings_discord_body"><i>Seien Sie Teil von etwas Erstaunlichem!</i></string>
     <string name="settings_translate">Übersetze ThunderDex</string>
@@ -298,7 +298,7 @@
     <string name="easter_egg_found_message">🍦 Easter Egg Minispiel startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt.\nMinispiel konnte nicht gestartet werden</string>
     <string name="hide_ui_string">UI für 1 min verstecken\n(um die Animation zu sehen)</string>
-    <string name="hide_ui_string_thirty_seconds">UI VERSTECKEN\n(FÜR 30 SEKUNDEN)</string>
+    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
 
     <!-- Section: Debugging Features -->
     <string name="gradient_in_testing_title">Nur in Debug Versionen sichtbar</string>

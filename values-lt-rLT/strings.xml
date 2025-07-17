@@ -11,7 +11,7 @@
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
-    <string name="themes_dynamic_title">Dynamic</string>
+    <string naapp_theme_settingapp_theme_settingme="themes_dynamic_title">Dynamic</string>
     <string name="themes_dynamic_desc">Monet: Dynamic theme based on your wallpaper\n(Android 12+).</string>
     <string name="themes_black_title">Black</string>
     <string name="themes_black_desc">AMOLED Black: Deep, solid black ideal for AMOLED screens.</string>
@@ -130,6 +130,8 @@
     <string name="enable_forest_green_theme">Forest Green Theme</string>
     <string name="enable_halloween_theme">Halloween</string>
     <string name="halloween_theme_pumpkin_for_header">" 🎃 "</string>
+
+    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
 
     <!-- XI. Translation -->
     <string name="github_translations_first_time_q__title">First time?</string>

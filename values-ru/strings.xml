@@ -263,7 +263,7 @@
     <string name="easter_egg_found_message">🍦 Запуск пасхалки!\nПоздравляем с ее обнаружением. 🍦</string>
     <string name="launch_easter_egg_null_error">Контекст равен нулю или фрагмент не прикреплен, невозможно запустить активность Easter Egg</string>
     <string name="hide_ui_string">СКРЫТЬ ПОЛЬЗОВАТЕЛЬСКИЙ ИНТЕРФЕЙС НА 1 МИНУТУ</string>
-    <string name="hide_ui_string_thirty_seconds">СКРЫТЬ ПОЛЬЗОВАТЕЛЬСКИЙ ИНТЕРФЕЙС\n(НА 30 СЕКУНД)</string>
+    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
 
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
@@ -302,7 +302,6 @@
     <!-- Section: Reddit -->
     <string name="reddit_title">ThunderDex Subreddit</string>
     <string name="reddit_summary">Нажмите здесь, чтобы присоединиться к сабреддиту ThunderDex 😁</string>
-
     <!-- Section: Changelog -->
     <string name="changelog">Журнал изменений</string>
     <string name="changelog_dialog_body" translatable="false"><b>6.0.2:</b>\n• Revert new red theme header\n• Update the Gradle Build System\n• <b>NEW:</b> Experimental Features and test (includes wiki 3.0 WIP demo), an animation showcase, and a pulsed sparkle animation showcase\n• Add a scrollbar to the vehicle info section\n• Add a scrollbar to the Radar section\n• Adjust Vehicle Name text in the Info section, slightly changed the design but now the text is not offset with the toolbar icons\n\n<b>6.0.1:</b>\n• Improved News and Updates UI\n• Improve vehicle info image animation\n• Increase darkness for vehicle info section\n• New images for helicopters and tanks\n• Increased News image height\n• Update Sdk to target Android 16\n• Improve Android 16 support\n• Update 5 libraries\n• Increase vehicle radar group image height\n• Reduce app header height\n• Increase news image height slightly\n• increase vehicle image height\n• Reduce Radar section Header height• LANGUAGE CHOOSER ADDED! Android 12+ only\n• All sections of the app now work\n• Updated news design\n• New Radar section from the new wiki\n• Animated holiday themes, new themes added\n• Increased app performance\nmuch more!</string>

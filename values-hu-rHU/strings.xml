@@ -187,6 +187,8 @@
     <string name="image_save_fail">Nem sikerült lementeni a képet</string>
     <string name="image_load_fail">Nem sikerült betölteni a képet</string>
 
+    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
+
     <!-- XVII. Other-->
     <string name="usage_in_battles">Csatákban való használat:</string>
     <string name="wiki">Wiki</string>

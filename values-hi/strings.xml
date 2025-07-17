@@ -170,6 +170,8 @@
     <string name="news_updates_body_demo_text">News body visualization text.\nthis is the second line\nthis is the third line</string>
     <string name="news_updates_title_demo_text">News Title Test</string>
 
+    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
+
     <!-- XIV. Countdown Dialog Strings -->
     <string name="countdown_start_text">"Restarting ThunderDex in "</string>
     <string name="countdown_text_seconds">" seconds"</string>

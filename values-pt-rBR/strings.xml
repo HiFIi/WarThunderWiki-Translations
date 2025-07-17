@@ -139,6 +139,8 @@
     <string name="enable_halloween_theme">Halloween</string>
     <string name="halloween_theme_pumpkin_for_header">" 🎃 "</string>
 
+    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
+
     <!-- XI. Translation -->
     <string name="github_translations_first_time_q__title">First time?</string>
     <string name="github_translations_first_time_create_account_splitbutton">Create a GitHub account</string>
