@@ -1,5 +1,5 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.6.1.0_beta_7_translation.xml -->
-<!-- Version: 2025/06/10 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_17_07_pre_translation.xml -->
+<!-- Version: 2025/07/21 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
@@ -103,16 +103,16 @@
     <string name="settings_language_system_description">Englisch, falls keine Übersetzung verfügbar ist</string>
     <string name="support_the_developer">Unterstütze den Entwickler</string>
     <string name="thunderdex_social">ThunderDex in sozialen Medien</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Click to join the Thunderdex Reddit &amp; Discord!</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Tritt dem ThunderDex Subreddit &amp; Discordserver bei</string>
     <string name="settings_donate_title">Gib mir Einen aus! ☕</string>
-    <string name="settings_donate_desc">Click here to Donate &amp; support my work ❤️</string>
+    <string name="settings_donate_desc">Hier Klicken um zu unterstützen &amp; spenden</string>
     <string name="settings_discord_title">Treten sie dem ThunderDex Discord bei!</string>
     <string name="settings_discord_body"><i>Seien Sie Teil von etwas Erstaunlichem!</i></string>
     <string name="settings_translate">Übersetze ThunderDex</string>
     <string name="settings_about_title">Über ThunderDex</string>
     <string name="settings_clear_cache_title">Cache Leeren</string>
     <string name="settings_clear_cache_desc">Löscht temporäre App Daten</string>
-    <string name="donate_dialog_title"><b>❤️   Unterstütze meine Arbeit, indem sie spendest!!   ❤️</b></string>
+    <string name="donate_dialog_title"><b>❤️   Unterstütze meine Arbeit, indem sie spenden!!   ❤️</b></string>
     <string name="dev_support_settings_body">Spenden sie über <b>PayPal</b> oder <b>Cash App️</b></string>
 
     <!-- Section: Experiments -->
@@ -298,11 +298,22 @@
     <string name="easter_egg_found_message">🍦 Easter Egg Minispiel startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt.\nMinispiel konnte nicht gestartet werden</string>
     <string name="hide_ui_string">UI für 1 min verstecken\n(um die Animation zu sehen)</string>
-    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
+    <string name="hide_ui_string_thirty_seconds">UI für 30 Sek verstecken</string>
 
     <!-- Section: Debugging Features -->
     <string name="gradient_in_testing_title">Nur in Debug Versionen sichtbar</string>
     <string name="gradient_in_testing_summary">Farbverlauftest Fragmente</string>
+
+    <!-- About Page - General -->
+    <string name="title_about_page">Über</string>
+    <string name="cd_back_button">Zurück Knopf</string> <!-- Content Description for accessibility -->
+
+    <!-- About Page - Profile/Build Info -->
+    <string name="label_app_version">App Version</string>
+    <!-- Placeholder for actual version/build number, will be set programmatically -->
+    <string name="build_number_placeholder">Version %1$s (Build %2$s)</string>
+    <string name="commit_date_placeholder">Letztes Update: %1$s</string>
+    <string name="latest_commit_sha_placeholder">SHA: %1$s</string>
 
     <!-- Section: Reddit -->
     <string name="reddit_title">Treten sie dem ThunderDex Subreddit bei!</string>
@@ -312,7 +323,7 @@
     <string name="changelog">Änderungsprotokoll</string>
     <string name="older_changelogs_title">Alte Änderungen</string>
     <string name="changelog_dialog_body" translatable="false">
-        <b>6.0.0</b>\n\n</string>
+        <b>2025.2.0</b>\n\n</string>
 
     <!-- Section: Translations -->
     <string-array name="language_names" translatable="false">
@@ -404,6 +415,22 @@
         <item>Chinese (Traditional) (zh-TW)</item>
         <item>Zulu (zu)</item>
     </string-array>
+
+    <!-- FLUID GRADIENT EXPERIMENTS -->
+    <string name="animation_type_rotation" translatable="false">ROTATION</string>
+    <string name="animation_type_pulsing_wave_with_particles" translatable="false">NEW!!!\nPULSING_WAVE_WITH_PARTICLES</string>
+    <string name="animation_type_glitchy_color_change" translatable="false">(NEW!!)\nGLITCHY_COLOR_CHANGE</string>
+    <string name="animation_type_color_change" translatable="false">COLOR_CHANGE</string>
+    <string name="animation_type_color_pulse" translatable="false">COLOR_PULSE</string>
+    <string name="animation_type_splash_color_pulse" translatable="false">SPLASH_COLOR_PULSE</string>
+    <string name="animation_type_shimmering_pixelated_wave" translatable="false">SHIMMERING_PIXELATED_WAVE</string>
+    <string name="animation_type_ripple" translatable="false">RIPPLE</string>
+    <string name="animation_type_advanced_wave_distortion" translatable="false">(NEW!)\nADVANCED_WAVE_DISTORTION</string>
+    <string name="animation_type_wave_distortion" translatable="false">(NEW!)\nWAVE_DISTORTION</string>
+    <string name="animation_type_liquid_ripple" translatable="false">LIQUID_RIPPLE</string>
+    <string name="animation_type_radar_fluid" translatable="false">RADAR_FLUID</string>
+    <string name="animation_type_experimental" translatable="false">EXPERIMENTAL</string>
+    <string name="animation_type_changelog_color_pulse" translatable="false">CHANGELOG_COLOR_PULSE</string>
 
     <!-- Section: Links (DO NOT TRANSLATE) -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
