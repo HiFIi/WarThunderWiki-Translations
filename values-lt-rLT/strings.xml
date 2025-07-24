@@ -13,7 +13,7 @@
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
-    <string naapp_theme_settingapp_theme_settingme="themes_dynamic_title">Dynamic</string>
+    <string name="themes_dynamic_title">Dynamic</string>
     <string name="themes_dynamic_desc">Monet: Dynamic theme based on your wallpaper\n(Android 12+).</string>
     <string name="themes_black_title">Black</string>
     <string name="themes_black_desc">AMOLED Black: Deep, solid black ideal for AMOLED screens.</string>
