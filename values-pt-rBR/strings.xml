@@ -9,6 +9,8 @@
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Código da versão:</string>
 
+    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
+
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
@@ -205,7 +207,7 @@
     <string name="theme_chooser_header_title">Themes</string>
     <string name="invalid_value_error_text">"Invalid value: "</string>
     <string name="image_save_success">Image saved successfully!</string>
-    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+    <string name="settings_language_chooser_body">WARNING!!!!\nMAY NOT WORK ON ANDROID 9-11</string>
     <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
 
     <!-- UNUSED -->

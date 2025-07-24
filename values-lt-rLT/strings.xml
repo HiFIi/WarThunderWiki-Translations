@@ -8,6 +8,8 @@
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Version Code:</string>
 
+    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
+
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
@@ -199,7 +201,7 @@
     <string name="radar_viewpager_tab_title">Radar</string>
     <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
     <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
-    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+    <string name="settings_language_chooser_body">WARNING!!!!\nMAY NOT WORK ON ANDROID 9-11</string>
 
     <!-- UNUSED -->
     <string name="donate_dialog_title"><b>❤   • AUKA •   ❤</b></string>

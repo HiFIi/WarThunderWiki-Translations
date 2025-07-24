@@ -2,8 +2,8 @@
 
     <!-- Section: App Name and Titles -->
     <string name="app_name" translatable="false">ThunderDex</string>
-    <string name="header_title" translatable="false">" ThunderDex "</string>
-    <string name="settings_title" translatable="false">"  Settings  "</string>
+    <string name="header_title" translatable="false">ThunderDex</string>
+    <string name="settings_title" translatable="false">Settings</string>
 
     <!-- Section: Main Menu and Navigation -->
     <string name="home">Home</string>
@@ -45,7 +45,7 @@
     <string name="clear_search">Clear Search</string>
 
     <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">" Airborne Radar "</string>
+    <string name="radar_header_title">Airborne Radar</string>
     <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
     <string name="radar_viewpager_tab_title">Radar</string>
     <!-- required string name for MaterialShared Transition Animation -->
@@ -54,6 +54,7 @@
     <!-- Section: Weaponry -->
     <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
     <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
+    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
     <string name="weaponry_viewpager_tab_title">Weaponry</string>
     <string name="no_pros_cons">No Pros and Cons available</string>
     <string name="no_usage_in_battles">No Usage in Battles is available</string>
@@ -64,7 +65,7 @@
     <string name="app_theme_setting">App Themes</string>
     <string name="theme_chooser_header_title">Themes</string>
     <string name="settings_language">Language Chooser</string>
-    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+    <string name="settings_language_chooser_body">WARNING!\nThis may not work correctly on Android 9–11.</string>
     <string name="settings_language_info_old">Interested in contributing a language?\n(or updating a language)</string>
     <string name="settings_language_info">Click the link below to find out more about contributing a language to ThunderDex</string>
     <string name="settings_language_system">Follow system</string>
@@ -75,7 +76,7 @@
     <string name="settings_donate_title">Buy me a Coffee! ☕</string>
     <string name="settings_donate_desc">Click here to Donate &amp; support my work ❤️</string>
     <string name="settings_discord_title">Join the Discord group</string>
-    <string name="settings_discord_body"><i>Be part of something amazing!!!</i></string>
+    <string name="settings_discord_body"><i>Be part of something amazing!</i></string>
     <string name="settings_translate">Translate ThunderDex</string>
     <string name="settings_about_title">About ThunderDex</string>
     <string name="settings_clear_cache_title">Clear App Data</string>
@@ -86,7 +87,7 @@
     <!-- Section: Experiments -->
     <string name="currently_testing">Currently Testing:</string>
     <string name="settings_experiments_title">Experimental features &amp; tests</string>
-    <string name="settings_experiments_body">• Fluid Gradient animation types\n• Wiki 3.0 implementation\n• Pulsed Sparkle Animation\n(for android 12+)</string>
+    <string name="settings_experiments_body">• Fluid Gradient animation types\n• Wiki 3.0 implementation\n• Pulsed Sparkle Animation\n(for Android 12+)</string>
     <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Showcase</string>
     <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
     <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
@@ -124,18 +125,18 @@
     <string name="themes_category_war_thunder">War Thunder Themes</string>
 
     <!-- Section: Theme Warnings and Info -->
-    <string name="paid_themes_warning_info_testing_info">Themes will end up being a <b>PAID</b> feature.\n\nThemes are currently being tested, may not work properly or cause the app to crash\n\nIf that happens, just re-launch the app.\nI will also be including some free themes.\n\nCan\'t wait to show you what else the app has in store for 2024.</string>
+    <string name="paid_themes_warning_info_testing_info">Themes will eventually be a <b>PAID</b> feature.\n\nThemes are currently being tested and may not work properly or could cause the app to crash.\n\nIf that happens, just re-launch the app.\nSome themes will remain free.\n\nCan\'t wait to show you what else the app has in store for 2024!</string>
     <string name="warning">Warning</string>
     <string name="themes_confirm">Understood. Thanks!</string>
     <string name="warning_title">⭐ <b>WARNING</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ CAUTION ↓ ***</b></string>
-    <string name="warning_body">For the time being, you need to manually check, and uncheck the Theme that you want to properly disable it. Will be fixed soon.\n\n<b>IF THE APP CRASHES OR CLOSES, RE-OPEN IT!</b></string>
-    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+    <string name="warning_body">For the time being, you need to manually check and uncheck a theme to properly disable it. This will be fixed soon.\n\n<b>IF THE APP CRASHES, RE-OPEN IT!</b></string>
+    <string name="theme_not_available_on_your_device">This theme is not available on your device</string>
     <string name="theme_already_applied_warning"> is already applied</string>
-    <string name="halloween_theme_pumpkin_for_header" translatable="false">" 🎃 "</string>
-    <string name="christmas_theme_christmas_tree_for_header" translatable="false">" 🎄 "</string>
-    <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">" 🎉 "</string>
-    <string name="monet_theme_not_supported">Dynamic Colors are not supported for your device</string>
+    <string name="halloween_theme_pumpkin_for_header" translatable="false">🎃</string>
+    <string name="christmas_theme_christmas_tree_for_header" translatable="false">🎄</string>
+    <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">🎉</string>
+    <string name="monet_theme_not_supported">Dynamic Colors are not supported on your device</string>
 
     <!-- Section: About ThunderDex -->
     <string name="title_about_thunderdex">About ThunderDex</string>
@@ -174,17 +175,12 @@
     <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
     <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
     <string name="upcoming_features">Preview upcoming app features</string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
-    <string name="upcoming_feature_one">• Add app customization options</string>
-    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_three">• Add more translations</string>
-    <string name="upcoming_feature_four">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_five">• Add more vehicle information + user requested information</string>
-    <string name="upcoming_feature_six">• DUPLICATE. REMOVE ME</string>
+    <string name="upcoming_feature_one">• Even more improvements to loading and performance</string>
+    <string name="upcoming_feature_five">• Add more vehicle information &amp; continue to implement requested features</string>
     <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
 
     <!-- Section: Sort By Strings -->
-    <string name="sort_by">Sort by</string>
+    <string name="sort_by">Sort by:</string>
     <string name="filter_list">Filter List</string>
     <string name="sort_alphabetically">Alphabetically</string>
     <string name="sort_rank_ascending">Rank (Ascending Order)</string>
@@ -229,11 +225,11 @@
     <string name="app_cache_size_title">App Cache Size:</string>
 
     <!-- Section: News and Updates (Demo Text) -->
-    <string name="news_updates_body_demo_text">News body visualization text.\nthis is the second line\nthis is the third line\nThis is the fourth lines\nThis is the fifth line</string>
+    <string name="news_updates_body_demo_text">News body visualization text.\nThis is the second line.\nThis is the third line.\nThis is the fourth line.\nThis is the fifth line.</string>
     <string name="news_updates_title_demo_text">News Title Test</string>
 
     <!-- Section: Version Info -->
-    <string name="version_codes" translatable="false"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
+    <string name="version_codes" translatable="false"><b>App Version:</b>\n%s\n\n<b>Version Code:</b>\n#%d</string>
     <string name="version_codes__one_line_plus_double_slash" translatable="false"><b>Version: </b>%s   ||   <b>Build: </b>#%d</string>
     <string name="app_version_text" translatable="false">ThunderDex:</string>
     <string name="version_code_text">Version Code:</string>
@@ -246,7 +242,7 @@
     <string name="invalid_value_error_text">"Invalid value: "</string>
 
     <!-- Section: Push Notifications (Firebase) -->
-    <string name="fcm_short_task">Short lived task is done.</string>
+    <string name="fcm_short_task">Short-lived task is done.</string>
     <string name="msg_subscribed">Subscribed to ThunderDex topic</string>
     <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
     <string name="msg_subscribe_failed">Failed to subscribe to topic</string>
@@ -262,7 +258,7 @@
     <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
 
     <!-- Section: Special and Fun Features -->
-    <string name="flappydex">FlappyDex (;</string>
+    <string name="flappydex">FlappyDex ;)</string>
     <string name="easter_egg_found_message">🍦 Launching the Easter Egg!\nCongrats on discovering it. 🍦</string>
     <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
     <string name="hide_ui_string">HIDE THE UI FOR 1 MINUTE</string>
@@ -289,9 +285,9 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"><b>2025.2.0 (07-17-25 Build 1)</b>\n• Improve News and Updates UI: Small tweaks (increased font size slight and also increased line spacing)\n• Update 5 libraries</string>
+    <string name="changelog_dialog_body" translatable="false"><b>2025.2.0 (07-19-25 Build 1)</b>\n\n• Improve News and Updates UI: decrease body text size• Update the Gradle Build System</string>
     <string name="older_changelogs_title">Older Changelogs</string>
-    <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>6.0.2:</b>\n• Added full, app-wide Russian Translation support (Done by Google AI STudio)\n• Revert new red theme header\n• Update the Gradle Build System\n• <b>NEW:</b> Experimental Features and test (includes wiki 3.0 WIP demo), an animation showcase, and a pulsed sparkle animation showcase\n• Add a scrollbar to the vehicle info section\n• Add a scrollbar to the Radar section\n• Adjust Vehicle Name text in the Info section, slightly changed the design but now the text is not offset with the toolbar icons\n\n<b>6.0.1:</b>\n• Improved News and Updates UI\n• Improve vehicle info image animation\n• Increase darkness for vehicle info section\n• New images for helicopters and tanks\n• Increased News image height\n• Update Sdk to target Android 16\n• Improve Android 16 support\n• Update 5 libraries\n• Increase vehicle radar group image height\n• Reduce app header height\n• Increase news image height slightly\n• increase vehicle image height\n• Reduce Radar section Header height• LANGUAGE CHOOSER ADDED! Android 12+ only\n• All sections of the app now work\n• Updated news design\n• New Radar section from the new wiki\n• Animated holiday themes, new themes added\n• Increased app performance\nmuch more!<b>5.5.0</b>\n• New feature: Added an "Aircraft Cannons" and "Aircraft Machine Guns" sections(wiki > weaponry)\n• Instantly load news and updates\n• NEW! Bottom navigation UI with blur\n• NEW! in-app notifications permissions screen\n• New Theme: Halloween\n• Changed Slate Grey theme to just Grey\n• Grey theme: New colors\n• Fixed some Theme colors\n• Fixed themes issues\n• New and improved app icons\n• Sort news and updates by time, no more out of order news\n• Improved restart on theme apply\n• Improved logic for themes\n• Improved vehicle zoom animation\n• When the user denies the Notification permission, only show the message once instead of upon every launch\n• Improved Settings UI\n• Fixed airborne radar force close on android 9-11 (thanks bearcat29 on discord)\n• Make the airborne radar section background theme-compliant\n• Airborne Radar: dynamically set the expandable cardview background with material design for android 12+\n• Airborne Radar: change logic on how dynamic color is set for the expandable cardview\n• vehicle list: Fixed the bottom app bar overlapping the vehicles at the bottom (thanks bearcat29 on discord)\n• Fix Golden Eagle icon on dark themes\n• Update german translations (thanks flitzepipe on discord)\n• Fix header text glow cutoff\n• Update favorite vehicles instantly\n• Fixed weird characters in the app\n\n<b>5.1.0</b>\n• <b>NEW!</b> image group images (helis, planes, tanks, ships)\n• <b>NEW!</b> "View Older Changelogs" in Settings > About\n• Fixed dynamic color theme not fully applying\n• Reduced app size\n• Force-apply dynamic theming for android 12+\n- Thunderdex default theme is now dynamic for android 12+ devices \n• Improved airborne radar UI, add dynamic theming elements for android 12+ and improve back navigation\n• Drastically improved the Vehicle Groups section (new images, improved zoom, slight redesigns and improvements, better Blur)\n• Bottom Navigation is now easier to see, increased visibility via user suggestion\n• Removed the textured background for the Home and Vehicle Information section\n• Updated and improved German translations (Thanks to Flitzepipe from Discord)\n• Updated 10 app libraries,, you may notice better performance\n• Updated animations again in the app, you should notice them\n• Updated Android Libraries and AGP\n• Fixed changelog in the app update being unscrollable, thanks to users who reported it\n\n<b>5.0.0:</b>\n• Completely redesigned app! New animations, layouts, design, and more. App performance has been improved too\n• redesigned the home page and vehicle info page, vehicle group page, and vehicle list page\n- Expanding on the info above, the news and updates now show 3 lines of text, and have a fading effect, as well as a slightly textured background\n- Expanding on the info above,  The vehicle info page has all new fonts, different fonts, a new layout, improved zoom, a darkened background animation, new gradient for the vehicle image, and a textured background\n- Expanding on the info above, the vehicle group page hs been redesigned. The vehicle type (regular, premium, squad) color now covers the entire square layout, I changed the rounded corners for all 4 edges resulting in more of a square shape, and added an outline to the cards as well with a minimal shadow. Looks very nice with the different themes, especially the AMOLED black\n- Expanding on the info above,  The vehicle list page now has an animation that lightens the background\n• improved the about section and added shared transitions\n• Fixed the Settings header, now it looks boring but not buggy\n• Animations are now much smoother. Before, I applied a delay method to delay animations and stagger them or hold them off momentarily as content loaded. That has been removed resulting in smoother animations throughout the app\n• Improved all themes\n• Added new textured backgrounds for themes\n• Added back any missing themes\n• Fixed some themes not applying\n• in-app updates through the play store to make updates easier\n- Expanding on the info above, the app will now prompt you upon launch to update the app, and will self-update to make it easier\n• brand new animations\n• new animations throughout the app\n• improved app performance\n• improved app memory usage\n• improved app stability\n• much, much more</string>
+    <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
 
     <!-- Section: Translations -->
     <string-array name="language_names" translatable="false">
@@ -422,7 +418,7 @@
     <string name="themes_default_title">ThunderDex Default</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
     <string name="themes_dynamic_title">Dynamic</string>
-    <string name="themes_dynamic_desc">Monet: Dynamic theme based on your wallpaper\n(Android 12+).</string>
+    <string name="themes_dynamic_desc"><b>Dynamic theming (Material You)</b> extracts colors from your wallpaper and applies them to ThunderDex\' interface for a personalized look.\nAvailable only on Android 12+</string>
     <string name="themes_black_title">Black</string>
     <string name="themes_black_desc">AMOLED Black: Deep, solid black ideal for AMOLED screens.</string>
     <string name="themes_almost_black_desc">Almost Black: Very dark black with a subtle red hint.</string>
@@ -456,7 +452,7 @@
          (https://github.com/HiFIi/WarThunderWiki-Translations)
     -->
     <string name="default_web_client_id" translatable="false">PRIVATE</string>
-    <string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>
+	<string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>
     <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
     <!--(( Mostly Google Pay related Strings for potential future use )) -->
     <string name="gpay_donation_dialog_title">Donate using Google Pay</string>

@@ -1,53 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!-- I. App Information & Core Functionality -->
     <string name="about_app">La <i><b>MEJOR</b></i> app Wikipedia de Guerra de Trueno</string>
     <string name="title_about_thunderdex">Acerca de ThunderDex</string>
     <string name="about_app_summary">ThunderDex fue concebido inicialmente en 2023.\nEra un usuario frecuente de la Wiki de War Thunder y me cansé de usarlo en mi navegador.\nCon más de 10 años de conocimiento en programación, desarrollé esta aplicación en unos pocos meses y decidí lanzarla para todos de forma GRATUITA!\n\nEspero de verdad que disfrutes la aplicación! - HiFii</string>
     <string name="version_code_text">Código de versión:</string>
+    <string name="toolbar_title_tank_ammunition">Munición para tanques</string>
 
-    <!-- Themes -->
-    <string name="themes_default_title">ThunderDex Default</string>
-    <string name="themes_default_desc">ThunderDex Classic Purple</string>
-    <string name="themes_dynamic_title">Dynamic</string>
-    <string name="themes_dynamic_desc">Monet: Dynamic theme based on your wallpaper\n(Android 12+).</string>
-    <string name="themes_black_title">Black</string>
-    <string name="themes_black_desc">AMOLED Black: Deep, solid black ideal for AMOLED screens.</string>
-    <string name="themes_almost_black_desc">Almost Black: Very dark black with a subtle red hint.</string>
-    <string name="themes_blues_and_teals_header">Blues and Teals</string>
-    <string name="theme_category_blues_title">Blues</string>
-    <string name="themes_thunder_teal_desc">Thunder Teal: A rich, dark teal with a greenish-blue tint.</string>
-    <string name="themes_thunder_blues_desc">Thunder Blues: A dark blue with almost black undertones.</string>
-    <string name="themes_dull_blue_desc">Dull Blue: A muted, grayish-blue with a subdued feel.</string>
-    <string name="themes_darkish_blue_desc">Darkish Blue: A deeper, darker blue with more intensity.</string>
-    <string name="themes_barely_blue_desc">Barely Blue: A deep blue with a slight purple undertone.</string>
-    <string name="themes_category_greys_title">Greys</string>
-    <string name="themes_lyft_grey_desc">Lyft Grey: A cool, dark gray with a touch of blue.</string>
-    <string name="themes_google_grey_desc">Grey: A deep, neutral gray, offering balance.</string>
-    <string name="themes_red_green_title">Reds and Greens</string>
-    <string name="themes_red_category">Reds</string>
-    <string name="themes_dark_red_desc">Dark Red: A rich, dark red with brownish undertones.</string>
-    <string name="theme_greens_title">Greens</string>
-    <string name="themes_forest_green_desc">Forest Green: A deep, dark green resembling a forest.</string>
-    <string name="themes_category_misc_title">Misc</string>
-    <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray.</string>
-    <string name="themes_space_cadet_desc">Space Cadet: A deep bluish-gray with hints of purple.</string>
-    <string name="themes_halloween_desc">Halloween: Deep black with red undertones.</string>
-    <string name="themes_christmas_desc">Christmas: A rich green for festive designs.</string>
-    <string name="themes_new_years_desc">New Years: A vibrant purple for celebration.</string>
+    <!-- II. Themes -->
+    <string name="theme_chooser_header_title">Temas</string>
 
-    <!-- II. Navigation & UI Labels -->
+    <string name="themes_default_title">ThunderDex Predeterminado</string>
+    <string name="themes_default_desc">ThunderDex Clásico Púrpura</string>
+    <string name="themes_dynamic_title">Dinámico</string>
+    <string name="themes_dynamic_desc">Monet: Tema dinámico basado en tu fondo de pantalla\n(Android 12+).</string>
+
+    <string name="themes_black_title">Negro</string>
+    <string name="themes_black_desc">AMOLED Negro: Negro profundo y sólido ideal para pantallas AMOLED.</string>
+    <string name="themes_almost_black_desc">Casi negro: Negro muy oscuro con un leve toque rojo.</string>
+
+    <string name="themes_blues_and_teals_header">Azules y Verdes Azulados</string>
+    <string name="theme_category_blues_title">Azules</string>
+    <string name="themes_thunder_teal_desc">Thunder Teal: Un verde azulado oscuro y rico con tintes verdosos.</string>
+    <string name="themes_thunder_blues_desc">Thunder Blues: Un azul oscuro con matices casi negros.</string>
+    <string name="themes_dull_blue_desc">Azul apagado: Azul grisáceo y atenuado.</string>
+    <string name="themes_darkish_blue_desc">Azul oscuro: Azul profundo con más intensidad.</string>
+    <string name="themes_barely_blue_desc">Azul tenue: Azul profundo con un leve tono púrpura.</string>
+
+    <string name="themes_category_greys_title">Grises</string>
+    <string name="themes_lyft_grey_desc">Gris Lyft: Gris oscuro frío con un toque azul.</string>
+    <string name="themes_google_grey_desc">Gris: Gris profundo y neutral que ofrece balance.</string>
+
+    <string name="themes_red_green_title">Rojos y Verdes</string>
+    <string name="themes_red_category">Rojos</string>
+    <string name="themes_dark_red_desc">Rojo oscuro: Rojo intenso con matices marrones.</string>
+
+    <string name="theme_greens_title">Verdes</string>
+    <string name="themes_forest_green_desc">Verde bosque: Verde oscuro profundo que recuerda a un bosque.</string>
+
+    <string name="themes_category_misc_title">Misceláneos</string>
+    <string name="themes_wt_assistant_desc">Asistente WT: Azul grisáceo frío y apagado.</string>
+    <string name="themes_space_cadet_desc">Cadete espacial: Gris azulado profundo con toques púrpuras.</string>
+    <string name="themes_halloween_desc">Halloween: Negro profundo con matices rojos.</string>
+    <string name="themes_christmas_desc">Navidad: Verde intenso para diseños festivos.</string>
+    <string name="themes_new_years_desc">Año Nuevo: Púrpura vibrante para celebraciones.</string>
+
+    <!-- Theme Enable Options -->
+    <string name="app_themes__experimental_warning">Si la aplicación se cierra, simplemente vuelve a abrirla</string>
+    <string name="default_theme">Predeterminado</string>
+    <string name="dynamic_colors_theme">Colores dinámicos</string>
+    <string name="enable_monet_theming">Activar colores dinámicos</string>
+    <string name="enable_black_theme">Tema AMOLED Negro</string>
+    <string name="enable_almost_black_theme">Tema "Casi negro"</string>
+    <string name="enable_lyft_grey_theme">Tema "Gris Lyft"</string>
+    <string name="enable_slate_grey_theme">Tema Gris Pizarra</string>
+    <string name="enable_thunderteal_theme">Tema "ThunderTeal"</string>
+    <string name="enable_royal_purple_theme">Tema "Púrpura Real"</string>
+    <string name="enable_wtr_assistant_theme">Tema "Asistente WT"</string>
+    <string name="enable_wtr_blue_theme">Tema "Thunder Blues"</string>
+    <string name="enable_dull_blue_theme">Tema Azul Apagado</string>
+    <string name="enable_space_cadet_theme">Tema "Cadete Espacial"</string>
+    <string name="enable_dark_red_theme">Tema Rojo Oscuro</string>
+    <string name="enable_darkish_blue_theme">Tema Azul Oscuro</string>
+    <string name="enable_forest_green_theme">Tema Verde Bosque</string>
+    <string name="enable_halloween_theme">Tema Halloween</string>
+    <string name="halloween_theme_pumpkin_for_header">🎃</string>
+
+    <string name="hide_ui_string_thirty_seconds">OCULTAR UI (30s)</string>
+
+    <!-- III. Navigation & UI Labels -->
     <string name="home">Inicio</string>
     <string name="settings">Ajustes</string>
     <string name="about">Acerca de</string>
     <string name="affirmative_text">Hecho</string>
-    <string name="changelog">Changelog</string>
-    <string name="view_older_changelogs">View older changelogs</string>
-    <string name="older_changelogs_title">Older Changelogs</string>
+    <string name="changelog">Registro de cambios</string>
+    <string name="view_older_changelogs">Ver registros de cambios antiguos</string>
+    <string name="older_changelogs_title">Registros de cambios antiguos</string>
     <string name="read_changelog">Leer el registro de cambios más reciente</string>
-    <string name="hide_ui_string">HIDE UI FOR 1 MINUTE\n(to watch the animation)</string>
+    <string name="hide_ui_string">OCULTAR UI POR 1 MINUTO\n(para ver la animación)</string>
 
-    <!-- III. Vehicle Data & Information -->
+    <!-- IV. Vehicle Data & Information -->
     <string name="vehicle_types">Vehículos</string>
     <string name="battle_rating">Clasificación de batalla:</string>
     <string name="battle_rating_ab">AB</string>
@@ -56,47 +89,47 @@
     <string name="not_available">No disponible</string>
     <string name="research">Coste de investigación:</string>
     <string name="purchase">Coste de compra:</string>
-    <string name="bundle_or_gift">Purchased as part of a Bundle or as a Gift in the Store</string>
+    <string name="bundle_or_gift">Comprado como parte de un paquete o regalo en la tienda</string>
     <string name="description">Descripción:</string>
     <string name="general_info">Información general:</string>
-    <string name="pros_and_cons">Pros &amp; Contras:</string>
+    <string name="pros_and_cons">Pros y Contras:</string>
     <string name="pros">Pros:</string>
     <string name="cons">Contras:</string>
     <string name="usage_in_battles">Uso en batallas:</string>
-    <string name="theme_not_available_on_your_device">"This theme is not available on your device running Android "</string>
+    <string name="theme_not_available_on_your_device">Este tema no está disponible en tu dispositivo con Android </string>
 
-    <!-- IV. Vehicle Categories -->
+    <!-- V. Vehicle Categories -->
     <string name="planes">Aviones</string>
     <string name="helicopters">Helicópteros</string>
     <string name="tanks">Tanques</string>
     <string name="ships">Naval</string>
 
-    <!-- V. Favorite Functionality -->
+    <!-- VI. Favorite Functionality -->
     <string name="favorite_vehicles">Vehículos favoritos</string>
     <string name="favorite">Favoritos</string>
     <string name="unfavorite">Eliminar favorito</string>
-    <string name="vehicle_added_favorites">añadido a Favoritos</string>
-    <string name="vehicle_removed_favorites">eliminado de Favoritos</string>
+    <string name="vehicle_added_favorites">añadido a favoritos</string>
+    <string name="vehicle_removed_favorites">eliminado de favoritos</string>
 
-    <!-- VI. Empty and Loading States -->
+    <!-- VII. Empty and Loading States -->
     <string name="empty_list">Lista vacía</string>
     <string name="loading">Cargando…</string>
-    <string name="please_wait">Por favor espere…</string>
+    <string name="please_wait">Por favor, espere…</string>
     <string name="connection_error">No se pudo conectar al servidor</string>
     <string name="something_went_wrong">Error: Algo salió mal</string>
 
-    <!-- VII. Search Functionality -->
+    <!-- VIII. Search Functionality -->
     <string name="no_data_found">No se encontraron datos…</string>
     <string name="search_vehicle">Buscar vehículo</string>
     <string name="search_here">Buscar…</string>
     <string name="clear_search">Limpiar búsqueda</string>
 
-    <!-- VIII. Settings Screen -->
+    <!-- IX. Settings Screen -->
     <string name="settings_app_theme_title">Tema Dinámico</string>
     <string name="settings_app_theme_desc">Activar colores dinámicos de aplicación</string>
     <string name="settings_donate_desc">❤ Apoya mi trabajo donando!! ❤</string>
     <string name="settings_clear_cache_title">Borrar caché y datos de la aplicación</string>
-    <string name="settings_clear_cache_desc">Limpia los ajustes guardados, textos &amp; imágenes de la aplicación</string>
+    <string name="settings_clear_cache_desc">Limpia los ajustes guardados, textos e imágenes de la aplicación</string>
     <string name="settings_discord_title">Únete al grupo Discord de ThunderDex</string>
     <string name="settings_discord_body"><i>¡¡¡¡Sé parte de algo increíble!!!</i></string>
     <string name="reddit_title">Únete al Subreddit ThunderDex</string>
@@ -104,113 +137,90 @@
     <string name="news">Noticias del Juego</string>
     <string name="updates">Actualizaciones de Juego</string>
 
-    <!-- IX. Upcoming Features -->
-    <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
-    <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
-    <string name="upcoming_features">Preview upcoming app features</string>
-    <string name="upcoming_features_list">Add extra customization options (vehicle image size, etc)\n\nFilter vehicles by rank instead of alphabetically\n\nAdd option to choose how vehicles are filtered\n\nImprovements to the vehicle image viewer\n\nAdd an option to download selected vehicle images\n\nAdd more translations\n\nOnce enough languages are added, create a language chooser option\n\nEven more improvements to loading and performance\n\nAdding more information and user requested information too\n\nAdd a wallpaper section with a download ability!! (from the war thunder Wikipedia wallpaper site)</string>
-    <string name="upcoming_feature_one">• Add app customization options</string>
-    <string name="upcoming_feature_two">• Improvements to the vehicle image viewer</string>
-    <string name="upcoming_feature_three">• Add more translations</string>
-    <string name="upcoming_feature_four">• Even more improvements to loading and performance</string>
-    <string name="upcoming_feature_five">• Add more vehicle information + user requested information</string>
-    <string name="upcoming_feature_six">• Add more translations</string>
-    <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+    <!-- X. Upcoming Features -->
+    <string name="upcoming_features_summary">Funciones planificadas para 2025 y más allá</string>
+    <string name="upcoming_features_summary_alt">Planes de ThunderDex 2025</string>
+    <string name="upcoming_features">Vista previa de funciones próximas</string>
+    <string name="upcoming_features_list">Agregar opciones extra de personalización (tamaño de imagen del vehículo, etc.)\n\nFiltrar vehículos por rango en lugar de alfabéticamente\n\nAgregar opción para elegir cómo se filtran los vehículos\n\nMejoras en el visor de imágenes de vehículos\n\nAgregar opción para descargar imágenes seleccionadas\n\nAgregar más traducciones\n\nCrear opción de selección de idioma cuando haya suficientes idiomas\n\nMás mejoras en la carga y el rendimiento\n\nAgregar más información y detalles solicitados por los usuarios\n\nAgregar sección de fondos de pantalla con opción de descarga (desde el sitio de fondos de War Thunder Wikipedia)</string>
+    <string name="upcoming_feature_one">• Agregar opciones de personalización de la app</string>
+    <string name="upcoming_feature_two">• Mejoras en el visor de imágenes de vehículos</string>
+    <string name="upcoming_feature_three">• Agregar más traducciones</string>
+    <string name="upcoming_feature_four">• Más mejoras en la carga y el rendimiento</string>
+    <string name="upcoming_feature_five">• Agregar más información de vehículos y solicitada por usuarios</string>
+    <string name="upcoming_feature_six">• Agregar más traducciones</string>
+    <string name="upcoming_feature_seven">• Cambiar idioma de info de vehículos según idioma del usuario, si está disponible</string>
 
-    <!-- X. Theme -->
-    <string name="app_themes__experimental_warning">If the app crashes, just re-open it</string>
-    <string name="default_theme">Default</string>
-    <string name="dynamic_colors_theme">Dynamic Colors</string>
-    <string name="enable_monet_theming">Enable Dynamic Colors</string>
-    <string name="enable_black_theme">AMOLED Black theme</string>
-    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
-    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
-    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
-    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
-    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
-    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
-    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
-    <string name="enable_dull_blue_theme">Barely Blue Theme</string>
-    <string name="enable_space_cadet_theme">"Space Cadet" Theme</string>
-    <string name="enable_dark_red_theme">Dark Red Theme</string>
-    <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
-    <string name="enable_forest_green_theme">Forest Green Theme</string>
-    <string name="enable_halloween_theme">Halloween</string>
-    <string name="halloween_theme_pumpkin_for_header">" 🎃 "</string>
-
-    <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
-
-    <!-- XI. Translation -->
-    <string name="github_translations_first_time_q__title">First time?</string>
-    <string name="github_translations_first_time_create_account_splitbutton">Create a GitHub account</string>
-    <string name="github_translations_first_time_hide_splitbutton">Hide</string>
-    <string name="github_translations_wt_wiki_clickable_github_text_link">Click here to visit the Thunderdex Translations GitHub page</string>
-    <string name="github_translations_steps_title">To contribute to Thunderdex, please follow these steps:</string>
-    <string name="github_translations_step_one"><b>Step 1:</b> Fork the repository</string>
-    <string name="github_translations_step_two"><b>Step 2:</b> Clone your fork locally</string>
+    <!-- XI. Translation Contribution -->
+    <string name="github_translations_first_time_q__title">¿Primera vez?</string>
+    <string name="github_translations_first_time_create_account_splitbutton">Crear una cuenta de GitHub</string>
+    <string name="github_translations_first_time_hide_splitbutton">Ocultar</string>
+    <string name="github_translations_wt_wiki_clickable_github_text_link">Haz clic aquí para visitar la página de traducciones de ThunderDex en GitHub</string>
+    <string name="github_translations_steps_title">Para contribuir a ThunderDex, sigue estos pasos:</string>
+    <string name="github_translations_step_one"><b>Paso 1:</b> Haz un fork del repositorio</string>
+    <string name="github_translations_step_two"><b>Paso 2:</b> Clona tu fork localmente</string>
     <string name="contribute_translations">Contribuir con traducciones</string>
     <string name="contribute_translations_button_text">¡Haz clic aquí para aprender cómo!</string>
-    <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
-    <string name="translations_clickable_link">Haga clic <a href="https://github.com/hifii/warthunderwiki-translations">aquí</a> para visitar el enlace.</string>
+    <string name="translations_coming_soon_teaser">¡Regresa pronto!\nSe está desarrollando un rediseño</string>
+    <string name="translations_clickable_link">Haz clic <a href="https://github.com/hifii/warthunderwiki-translations">aquí</a> para visitar el enlace.</string>
     <string name="about_contribute_header_text">¿Cómo contribuir?</string>
     <string name="about_thunderdex_contributors">Contribuidores de ThunderDex</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> en Discord <b>(Traducciones húngaras)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> en Discord <b>(Traducciones lituanas)</b></string>
-    <string name="about_contributor_three_og"><b>Flitzepipe</b> en Discord <b>(Traducciones Originales alemanas)</b></string>
-    <string name="about_contributor_three"><b>Proxima</b> en Discord <b>(Traducciones Alemanas actualizadas)</b></string>
-    <string name="about_contributor_four"><b>Cosmicweb08</b> en Discord <b>(Traducciones de Hindi)</b></string>
-    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> en Discord <b>(Traducciones originales alemanas)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> en Discord <b>(Traducciones alemanas actualizadas)</b></string>
+    <string name="about_contributor_four"><b>Cosmicweb08</b> en Discord <b>(Traducciones en Hindi)</b></string>
+    <string name="contribution_enticement_language_chooser">¿Interesado en contribuir?\n(o actualizar un idioma)</string>
 
-    <!-- XII. Experiments -->
-    <string name="settings_experiments_body">Currently Testing:\nFluid Gradient types\nWiki 3.0 implementation</string>
-    <string name="settings_experiments_title">Experimental features and tests</string>
-    <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Type Tests</string>
-    <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
-    <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
-    <string name="settings_experiments_wt_wiki_3_0_body">Playground for Wiki 3.0 implementation</string>
+    <!-- XII. Experimental Features -->
+    <string name="settings_experiments_body">Actualmente probando:\nTipos de gradiente fluido\nImplementación Wiki 3.0</string>
+    <string name="settings_experiments_title">Características experimentales y pruebas</string>
+    <string name="settings_experiments_fluid_gradient_title">Pruebas de tipos de gradiente fluido</string>
+    <string name="settings_experiments_fluid_gradient_body">Prueba todos los tipos de animación de gradiente fluido</string>
+    <string name="settings_experiments_wt_wiki_3_0_title">Pruebas de compatibilidad Wiki 3.0</string>
+    <string name="settings_experiments_wt_wiki_3_0_body">Área de pruebas para implementación Wiki 3.0</string>
 
-    <!-- XIII. Demo text for news and updates for testing-->
-    <string name="news_updates_body_demo_text">News body visualization text.\nthis is the second line\nthis is the third line</string>
-    <string name="news_updates_title_demo_text">News Title Test</string>
+    <!-- XIII. Demo Text for News & Updates -->
+    <string name="news_updates_body_demo_text">Texto de visualización del cuerpo de noticias.\nEsta es la segunda línea\nEsta es la tercera línea</string>
+    <string name="news_updates_title_demo_text">Prueba de título de noticias</string>
 
-    <!-- XIV. Countdown Dialog Strings -->
-    <string name="countdown_start_text">"Reiniciar ThunderDex en "</string>
-    <string name="countdown_text_seconds">" segundos"</string>
+    <!-- XIV. Countdown Dialog -->
+    <string name="countdown_start_text">Reiniciando ThunderDex en </string>
+    <string name="countdown_text_seconds"> segundos</string>
     <string name="countdown_text_one_second">1 segundo</string>
     <string name="countdown_dialog_zero_text">0 segundos</string>
 
-    <!-- XV. Sort by strings -->
+    <!-- XV. Sorting & Filtering -->
     <string name="sort_by">Ordenar por</string>
     <string name="filter_list">Lista de filtros</string>
     <string name="sort_alphabetically">Orden alfabético</string>
-    <string name="sort_rank_ascending">Rango (orden ascendente)</string>
-    <string name="sort_rank_descending">Rango (Orden descendente)</string>
+    <string name="sort_rank_ascending">Rango (ascendente)</string>
+    <string name="sort_rank_descending">Rango (descendente)</string>
 
-    <!-- XVI. Image download -->
+    <!-- XVI. Image Download & Cache -->
     <string name="image_saved">Imagen guardada en /sdcard/imagen/</string>
     <string name="image_save_fail">Error al guardar la imagen</string>
     <string name="image_load_fail">Error al cargar la imagen</string>
-    <string name="cache_cleared_toast_message"><![CDATA[Limpiar datos y caché de aplicaciones]]></string>
+    <string name="cache_cleared_toast_message"><![CDATA[Limpieza de datos y caché de la aplicación]]></string>
 
-    <!-- Please always leave these strings at the bottom -->
-    <string name="dev_support_settings_body">Donate through PayPal or Cash App</string>
-    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
-    <string name="radar_header_title">" Airborne Radar "</string>
+    <!-- XVII. Misc / Support -->
+    <string name="dev_support_settings_body">Donar a través de PayPal o Cash App</string>
+    <string name="airborne_radar_grouped_fragment">Radar Aerotransportado</string>
+    <string name="radar_header_title">Radar Aerotransportado</string>
     <string name="radar_viewpager_tab_title">Radar</string>
-    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
-    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
-    <string name="settings_language_chooser_body">WARNING!!!! MAY NOT WORK ON ANDROID 9-11</string>
+    <string name="toolbar_title_aircraft_machine_guns">Ametralladoras de avión</string>
+    <string name="toolbar_title_aircraft_cannons">Cañones de avión</string>
+    <string name="settings_language_chooser_body">¡ADVERTENCIA!\nPuede no funcionar en Android 9-11</string>
 
-    <!-- UNUSED -->
+    <!-- XVIII. Unused / Donation Related -->
     <string name="donate_dialog_title"><b>❤ • DONACIONES • ❤</b></string>
     <string name="gpay_donation_dialog_title">Donar usando Google Pay</string>
-    <string name="gpay_donation_dialog_body"><i>¡Gracias por considerar una donación!</i>\n\n\n<b>Envíe el pago a mbqonxda@gmail. om o seleccione "Copiar email" en el diálogo</b></string>
+    <string name="gpay_donation_dialog_body"><i>¡Gracias por considerar una donación!</i>\n\n\n<b>Envía el pago a mbqonxda@gmail.com o selecciona "Copiar email" en el diálogo</b></string>
     <string name="gpay_dialog_confirm">Abrir Google Pay</string>
     <string name="gpay_dialog_negative">Copiar email</string>
-    <string name="error_gpay_not_installed">¡Google Pay no instalado! Iniciando Google Play Store…</string>
+    <string name="error_gpay_not_installed">¡Google Pay no está instalado! Abriendo Google Play Store…</string>
     <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">Correo electrónico de Google Pay copiado</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-    <string name="theme_chooser_header_title">Themes</string>
+
 </resources>

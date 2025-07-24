@@ -21,6 +21,8 @@
     <string name="tanks">Танки</string>
     <string name="ships">Флот</string>
 
+    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
+
     <!-- Section: Vehicle Info -->
     <string name="favorite_vehicles">Избранное</string>
     <string name="battle_rating">Боевой рейтинг:</string>
@@ -62,7 +64,7 @@
     <!-- Section: Settings -->
     <string name="app_theme_setting">Темы приложения</string>
     <string name="settings_language">Выбор языка</string>
-    <string name="settings_language_chooser_body">ВНИМАНИЕ!!!! МОЖЕТ НЕ РАБОТАТЬ НА ANDROID 9-11</string>
+    <string name="settings_language_chooser_body">ВНИМАНИЕ!!!!\nМОЖЕТ НЕ РАБОТАТЬ НА ANDROID 9-11</string>
     <string name="settings_language_info">Хотите внести вклад в перевод или обновить уже существующий язык в приложении?</string>
     <string name="settings_language_system">Системный язык</string>
     <string name="settings_language_system_description">Английский, если перевод недоступен</string>
