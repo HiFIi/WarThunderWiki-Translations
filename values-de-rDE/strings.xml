@@ -1,5 +1,5 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_17_07_pre_translation.xml -->
-<!-- Version: 2025/07/21 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_25_07_pre_translation.xml -->
+<!-- Version: 2025/07/25 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
@@ -71,7 +71,7 @@
     <string name="themes_google_grey_desc">Grau: Ein tiefes, neutrales Grau, bietet ausgeglichenes Erlebnis.</string>
     <string name="themes_red_green_title">Rot und Grün</string>
     <string name="themes_red_category">Rot</string>
-    <string name="themes_dark_red_desc">Dunkles Rot: Ein kräftiges, dunkles rot mit bräunlischen Untertönen.</string>
+    <string name="themes_dark_red_desc">Dunkles Rot: Ein kräftiges, dunkles rot mit bräunlichen Untertönen.</string>
     <string name="theme_greens_title">Grün</string>
     <string name="themes_forest_green_desc">Wald Grün: Ein tiefes, dunkles Grün ähnlich einem Wald.</string>
     <string name="themes_category_misc_title">Sonstiges</string>
@@ -132,6 +132,7 @@
     <string name="enable_dark_red_theme">Dunkelrote Farben</string>
     <string name="enable_darkish_blue_theme">Dunklere blaue Farben</string>
     <string name="enable_forest_green_theme">Forstgrüne Farben</string>
+    <string name="enable_halloween_theme">Halloween</string>
     <string name="enable_christmas_theme">Weihnachten</string>
     <string name="enable_new_years_theme">Neujahr</string>
     <string name="default_theme">Standart</string>
@@ -172,7 +173,7 @@
 
     <!-- Section: Github Translations -->
     <string name="github_translations_first_time_q__title">Erstes Mal?</string>
-    <string name="github_translations_first_time_create_account_splitbutton">Erstelle einen Github Account</string>
+    <string name="github_translations_first_time_create_account_splitbutton">Erstelle einen GitHub Account</string>
     <string name="github_translations_first_time_hide_splitbutton">Ausblenden</string>
     <string name="github_translations_wt_wiki_clickable_github_text_link"> Hier klicken um die Thunderdex Übersetzungsseite auf GitHub zu öffnen</string>
     <string name="github_translations_wt_wiki_clickable_github_text_link__emojis">🔗 ThunderDex Übersertzungen GitHub 🔗</string>
@@ -309,7 +310,7 @@
     <string name="updates">Updates</string>
 
     <!-- line 233 -->
-    <string name="upcoming_features_list"><b>Plans for 2025:</b>\n\nAdd extra customization options (vehicle image size, etc) -- APP CUSTOMIZATION ADDED JULY 15th, 2025\n\nImprovements to the vehicle image viewer\n\nAdd more translations\n\nContinuous improvements to loading and performance\n\nAdd more information and user requested features\n\n</string>
+    <string name="upcoming_features_list"><b>Pläne für 2025:</b>\n\nHunzufügen zusätzlicher Anpassungsoptionen (Fahrzeugbildgrößen, etc) -- APP PERSONALISIERUNG 15. JULI 2025 HINZUGEFÜGT, \n\nVerbesserungen an der Fahrzeugbildanzeige\n\nMehr Übersertzungen hinzufügen\n\nKontinuierliche Verbesserugnen der Ladezeiten und App-Leistung\n\nMehr Informationen und von Benutzern gewünschte Features\n\n</string>
 
     <!-- line 197 -->
     <string name="about_app">Die <i><b>BESTE</b></i> War Thunder Wikipedia App.</string>
@@ -320,10 +321,10 @@
 
     <!-- Halloween Theme -->
     <!-- 📝 Replace the old string with the one below and delete this one after -->
-    <string name="enable_halloween_theme">Halloween</string> <!-- string to be removed, pending your approval -->
+    <!-- <string name="enable_halloween_theme">Halloween</string> string to be removed, pending your approval -->
     <!-- 🔁 Return to line 135 when translated -->
     <!-- NEWER STRING FOR MORE PLAYFULNESS AND YOUR CONSIDERATION (according to wikipedia. lol)
-         string to be added, pending your approval --> <string name="enable_halloween_theme_NEW">Gruselige Halloween-Nacht</string> -->
+         string to be added, pending your approval --> <string name="enable_halloween_theme_NEW">Gruselige Halloween-Nacht</string>
 
     <!-- 211-214, remove the spaces at the beginning -->
     <string name="countdown_text_seconds">" Sekunden"</string>
@@ -331,7 +332,7 @@
     <string name="countdown_dialog_zero_text">0 Sekunden</string>
 
     <!-- line 230 -->
-    <string name="version_code_text">Version Code:</string>
+    <string name="version_code_text">Versions Code:</string>
 
     <!-- and 271 -->
     <string name="label_app_version">App Version</string>
