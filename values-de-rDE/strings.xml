@@ -132,8 +132,6 @@
     <string name="enable_dark_red_theme">Dunkelrote Farben</string>
     <string name="enable_darkish_blue_theme">Dunklere blaue Farben</string>
     <string name="enable_forest_green_theme">Forstgrüne Farben</string>
-    <string name="enable_halloween_theme">Halloween</string>
-    <string name="theme_name_halloween_spooky">Gruselige Halloween-Nacht</string>
     <string name="enable_christmas_theme">Weihnachten</string>
     <string name="enable_new_years_theme">Neujahr</string>
     <string name="default_theme">Standart</string>
@@ -148,7 +146,6 @@
     <string name="paid_themes_warning_info_testing_info">Farbschemen werden irgendwann ein <b>KOSTENPFLICHTIGES</b> Feature.\n\nFarbschemen sind noch in der Testphase und können noch fehlerhaft sein oder die App zum Absturz bringen.\n\nSollte sie Abstürzen, einfach die App neu öffnen.\nEs wird kostenlose Farbschemen geben.\n\nIch kann es kaum erwarten, euch zu zeigen, was ich noch für die App in 2025 geplant habe.</string>
     <string name="warning">Warnung</string>
     <string name="themes_confirm">Alles Klar!</string>
-    <string name="warning_title">⭐ <b>WARNUNG</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ ACHTUNG ↓ ***</b></string>
     <string name="warning_body">Im Moment müsst ihr noch Farbschemen manuell aktivieren und deaktivieren, damit sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIEßT ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
     <string name="theme_not_available_on_your_device">"Diese Farbschema wird von ihrem Gerät mit Android "Android Verison here" nicht unterstützt "</string>
@@ -308,7 +305,6 @@
             ║   ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆  ║
             ╚════════════════════════════════════════════════════════════════════╝ -->
 
-
     <!--  line 26 -->
     <string name="updates">Updates</string>
 
@@ -322,20 +318,25 @@
     <!-- Return to line 59 when translated -->
     <string name="themes_dynamic_desc"><b>Dynamic theming (Material You)</b> extracts colors from your wallpaper and applies them to ThunderDex\' interface for a personalized look.\nAvailable only on Android 12+</string>
 
-    <!-- Halloween Theme Note -->
+    <!-- Halloween Theme -->
+    <!-- 📝 Replace the old string with the one below and delete this one after -->
+    <string name="enable_halloween_theme">Halloween</string> <!-- string to be removed, pending your approval -->
     <!-- 🔁 Return to line 135 when translated -->
-    <!-- 📝 Replace the old string with the one below and delete this note after -->
-    <string name="enable_halloween_theme">Halloween</string>
-    <string name="enable_halloween_theme_NEW">Gruselige Halloween-Nacht</string>
+    <!-- NEWER STRING FOR MORE PLAYFULNESS AND YOUR CONSIDERATION (according to wikipedia. lol)
+         string to be added, pending your approval --> <string name="enable_halloween_theme_NEW">Gruselige Halloween-Nacht</string> -->
 
     <!-- 211-214, remove the spaces at the beginning -->
     <string name="countdown_text_seconds">" Sekunden"</string>
     <string name="countdown_text_one_second">1 Sekunde</string>
     <string name="countdown_dialog_zero_text">0 Sekunden</string>
+
     <!-- line 230 -->
     <string name="version_code_text">Version Code:</string>
-    <!-- 271 -->
+
+    <!-- and 271 -->
     <string name="label_app_version">App Version</string>
+
+
 
 
     <!--  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
