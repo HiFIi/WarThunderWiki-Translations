@@ -4,39 +4,39 @@
     <string name="settings_title" translatable="false"> Settings </string>
     
     <!-- Section: Main Menu and Navigation -->
-    <string name="home">Home</string>
-    <string name="news">Game News</string>
-    <string name="updates">Game Updates</string>
-    <string name="wiki">Wiki</string>
-    <string name="about">About</string>
-    <string name="settings">Settings</string>
+    <string name="home">Главное</string>
+    <string name="news">Новости игры</string>
+    <string name="updates">Обновления</string>
+    <string name="wiki">Вики</string>
+    <string name="about">О нас</string>
+    <string name="settings">Настройки</string>
 
     <!-- Section: Vehicle Groups -->
-    <string name="vehicle_types">Vehicles</string>
-    <string name="planes">Aircraft</string>
+    <string name="vehicle_types">Наземная техника</string>
+    <string name="planes">Самолёты</string>
     <string name="helicopters_shortened_for_vehicle_groups" translatable="false">Helis</string>
-    <string name="helicopters">Helicopters</string>
-    <string name="tanks">Tanks</string>
-    <string name="ships">Naval</string>
+    <string name="helicopters">Вертолёты</string>
+    <string name="tanks">Танки</string>
+    <string name="ships">Флот</string>
 
     <!-- Section: Vehicle Info -->
-    <string name="favorite_vehicles">Favorites</string>
-    <string name="battle_rating">Battle Rating:</string>
-    <string name="research">Research cost</string>
-    <string name="purchase">Purchase cost</string>
-    <string name="bundle_or_gift">Store Purchase</string>
-    <string name="general_info">General Info</string>
-    <string name="pros_and_cons">Pros &amp; Cons</string>
-    <string name="pros">Pros:</string>
-    <string name="cons">Cons:</string>
-    <string name="favorite">Favorite</string>
-    <string name="unfavorite">Unfavorite</string>
-    <string name="vehicle_added_favorites">added to Favorites</string>
-    <string name="vehicle_removed_favorites">removed from Favorites</string>
-    <string name="usage_in_battles">Usage in battles</string>
-    <string name="search_vehicle">Search vehicle</string>
-    <string name="search_here">Search here…</string>
-    <string name="clear_search">Clear Search</string>
+    <string name="favorite_vehicles">Избранное</string>
+    <string name="battle_rating">Боевой рейтинг:</string>
+    <string name="research">Стоимость исследования</string>
+    <string name="purchase">Стоимость покупки</string>
+    <string name="bundle_or_gift">Цена в магазине</string>
+    <string name="general_info">Описание</string>
+    <string name="pros_and_cons">Плюсы &amp; Минусы</string>
+    <string name="pros">Плюсы:</string>
+    <string name="cons">Минусы:</string>
+    <string name="favorite">Добавить в избранное</string>
+    <string name="unfavorite">Убрать из избранного</string>
+    <string name="vehicle_added_favorites">добавлено в Избранное</string>
+    <string name="vehicle_removed_favorites">убрано из Избранного</string>
+    <string name="usage_in_battles">Применение в боях</string>
+    <string name="search_vehicle">Поиск техники</string>
+    <string name="search_here">Введите название...</string>
+    <string name="clear_search">Очистить поиск</string>
 
     <!-- Section: Airborne Radar -->
     <string name="radar_header_title">Airborne Radar</string>
