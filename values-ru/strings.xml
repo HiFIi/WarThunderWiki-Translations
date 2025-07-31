@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Section: App Name and Titles -->
-    <string name="settings_title" translatable="false"> Settings </string>
+    <string name="settings_title" translatable="false"> Настройки </string>
     
     <!-- Section: Main Menu and Navigation -->
     <string name="home">Главное</string>
@@ -43,38 +43,38 @@
     <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
     <string name="radar_viewpager_tab_title">Radar</string>
 
-    <!-- Section: Weaponry -->
-    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
-    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
-    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
-    <string name="weaponry_viewpager_tab_title">Weaponry</string>
-    <string name="no_pros_cons">No Pros and Cons available</string>
-    <string name="no_usage_in_battles">No Usage in Battles is available</string>
-    <string name="no_general_info">No General Info is available</string>
-    <string name="no_description">No Description is available</string>
+    <!-- Section: Вооружение -->
+    <string name="toolbar_title_aircraft_machine_guns">Самолетные пулемёты</string>
+    <string name="toolbar_title_aircraft_cannons">Самолетные пушки</string>
+    <string name="toolbar_title_tank_ammunition">Танковые снаряды</string>
+    <string name="weaponry_viewpager_tab_title">Вооружение</string>
+    <string name="no_pros_cons">Нет доступных плюсов или минусов</string>
+    <string name="no_usage_in_battles">Нет доступных сведений о использовании в боях</string>
+    <string name="no_general_info">Нет доступной информации</string>
+    <string name="no_description">Нет доступного описания</string>
 
     <!-- Section: Settings -->
-    <string name="app_theme_setting">App Themes</string>
-    <string name="theme_chooser_header_title">Themes</string>
-    <string name="settings_language">Language Chooser</string>
-    <string name="settings_language_chooser_body">WARNING!\nThis may not work correctly on Android 9–11.</string>
-    <string name="settings_language_info_old">Interested in contributing a language?\n(or updating a language)</string>
-    <string name="settings_language_info">Click the link below to find out more about contributing a language to ThunderDex</string>
-    <string name="settings_language_system">Follow system</string>
-    <string name="settings_language_system_description">English if translation is not available</string>
-    <string name="support_the_developer">Support the Developer</string>
-    <string name="thunderdex_social">Thunderdex Social</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Click to join the Thunderdex Reddit &amp; Discord!</string>
-    <string name="settings_donate_title">Buy me a Coffee! ☕</string>
-    <string name="settings_donate_desc">Click here to Donate &amp; support my work ❤️</string>
-    <string name="settings_discord_title">Join the Discord group</string>
-    <string name="settings_discord_body"><i>Be part of something amazing!</i></string>
-    <string name="settings_translate">Translate ThunderDex</string>
-    <string name="settings_about_title">About ThunderDex</string>
-    <string name="settings_clear_cache_title">Clear App Data</string>
-    <string name="settings_clear_cache_desc">Clears the app data</string>
-    <string name="donate_dialog_title"><b>!!! Support my work by donating !!!</b></string>
-    <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b> ❤️</string>
+    <string name="app_theme_setting">Темы приложения</string>
+    <string name="theme_chooser_header_title">Темы</string>
+    <string name="settings_language">Выбрать язык</string>
+    <string name="settings_language_chooser_body">Внимание!\nМожет работать некорректно на Android 9–11.</string>
+    <string name="settings_language_info_old">Заинтересованы в переводе?\n(или улучшении перевода)</string>
+    <string name="settings_language_info">Нажмите на ссылку чтобы найти больше информации о добавлении перевода в ThunderDex</string>
+    <string name="settings_language_system">Язык системы</string>
+    <string name="settings_language_system_description">Выбран английский если перевод не доступен</string>
+    <string name="support_the_developer">Поддержать разработчика</string>
+    <string name="thunderdex_social">Сообщество Thunderdex</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Нажмите чтобы присоединиться к Thunderdex в Reddit &amp; Discord!</string>
+    <string name="settings_donate_title">Поддержать кружечкой кофе! ☕</string>
+    <string name="settings_donate_desc">Нажмите здесь для доната &amp; поддержать мою работу ❤️</string>
+    <string name="settings_discord_title">Присоединяться к группе Дискорд</string>
+    <string name="settings_discord_body"><i>Будь частью чего-то удивительного!</i></string>
+    <string name="settings_translate">Перевести ThunderDex</string>
+    <string name="settings_about_title">О приложении ThunderDex</string>
+    <string name="settings_clear_cache_title">Очистить кэш</string>
+    <string name="settings_clear_cache_desc">Очищяем</string>
+    <string name="donate_dialog_title"><b>!!! Поддержать мой проект донатом !!!</b></string>
+    <string name="dev_support_settings_body">Перевести на <b>PayPal</b> или <b>Cash App️</b> ❤️</string>
 
     <!-- Section: Experiments -->
     <string name="currently_testing">Currently Testing:</string>
