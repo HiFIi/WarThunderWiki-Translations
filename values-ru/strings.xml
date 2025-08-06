@@ -39,9 +39,9 @@
     <string name="clear_search">Очистить поиск</string>
 
     <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">Airborne Radar</string>
-    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
-    <string name="radar_viewpager_tab_title">Radar</string>
+    <string name="radar_header_title">Авиационный радар</string>
+    <string name="airborne_radar_grouped_fragment">Бортовой радар</string>
+    <string name="radar_viewpager_tab_title">Радар</string>
 
     <!-- Section: Вооружение -->
     <string name="toolbar_title_aircraft_machine_guns">Самолетные пулемёты</string>
@@ -88,56 +88,56 @@
     <string name="settings_experiments_sparkle_gradient_body">Continuous experiments with a sparkling ripple animation</string>
 
     <!-- Section: Theme Configuration -->
-    <string name="themes_toolbar_title">Themes</string>
-    <string name="settings_app_theme_title">Dynamic App Colors</string>
-    <string name="enable_monet_theming">Enable Dynamic Colors</string>
-    <string name="enable_black_theme">AMOLED Black theme</string>
-    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
-    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
-    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
-    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
-    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
-    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
-    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
-    <string name="enable_dull_blue_theme">Barely Blue Theme</string>
-    <string name="enable_space_cadet_theme">"Space Cadet" Theme</string>
-    <string name="enable_dark_red_theme">Dark Red Theme</string>
-    <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
-    <string name="enable_forest_green_theme">Forest Green Theme</string>
-    <string name="enable_halloween_theme">Halloween</string>
-    <string name="enable_christmas_theme">Christmas</string>
-    <string name="enable_new_years_theme">New Years</string>
-    <string name="default_theme">Default</string>
-    <string name="dynamic_colors_theme">Dynamic Colors</string>
+    <string name="themes_toolbar_title">Темы</string>
+    <string name="settings_app_theme_title">Динамические цвета приложения</string>
+    <string name="enable_monet_theming">Включить динамические цвета</string>
+    <string name="enable_black_theme">AMOLED Черная тема</string>
+    <string name="enable_almost_black_theme">"Почти черная" Тема</string>
+    <string name="enable_lyft_grey_theme">"Лифтовый серый" Тема</string>
+    <string name="enable_slate_grey_theme">Грифельно-серая Тема</string>
+    <string name="enable_thunderteal_theme">"Грозово-бирюзовая" Тема</string>
+    <string name="enable_royal_purple_theme">"Королевский фиолетовый" Тема</string>
+    <string name="enable_wtr_assistant_theme">"WT Ассистент" Тема</string>
+    <string name="enable_wtr_blue_theme">"Thunder блюз" Тема</string>
+    <string name="enable_dull_blue_theme">Чуть голубая Тема</string>
+    <string name="enable_space_cadet_theme">"Юный космонавт" Тема</string>
+    <string name="enable_dark_red_theme">Темно-красная Тема</string>
+    <string name="enable_darkish_blue_theme">Темно-синяя Тема</string>
+    <string name="enable_forest_green_theme">Тема зеленого леса</string>
+    <string name="enable_halloween_theme">Хэллоуин</string>
+    <string name="enable_christmas_theme">Рождество</string>
+    <string name="enable_new_years_theme">Новый год</string>
+    <string name="default_theme">Обычная</string>
+    <string name="dynamic_colors_theme">Динамические цвета</string>
 
     <!-- Section: Theme Categories -->
-    <string name="themes_category_dark_colors">Dark Colors</string>
-    <string name="themes_category_misc_experimental">Misc. &amp; Experimental</string>
-    <string name="themes_category_war_thunder">War Thunder Themes</string>
+    <string name="themes_category_dark_colors">Темные цвета</string>
+    <string name="themes_category_misc_experimental">Разное. &amp; Экспериментальные</string>
+    <string name="themes_category_war_thunder">Темы War Thunder</string>
 
     <!-- Section: Theme Warnings and Info -->
-    <string name="warning_title">⭐ <b>WARNING</b> ⭐</string>
-    <string name="alt_warning_title"><b>*** ↓ CAUTION ↓ ***</b></string>
-    <string name="theme_not_available_on_your_device">This theme is not available on your device</string>
-    <string name="theme_already_applied_warning"> is already applied</string>
-    <string name="monet_theme_not_supported">Dynamic Colors are not supported on your device</string>
+    <string name="warning_title">⭐ <b>ВНИМАНИЕ</b> ⭐</string>
+    <string name="alt_warning_title"><b>*** ↓ ПРЕДУПРЕЖДЕНИЕ ↓ ***</b></string>
+    <string name="theme_not_available_on_your_device">Эта тема недоступна на вашем устройстве</string>
+    <string name="theme_already_applied_warning"> уже применена</string>
+    <string name="monet_theme_not_supported">Динамические цвета не поддерживаются на вашем устройстве</string>
 
     <!-- Section: About ThunderDex -->
-    <string name="title_about_thunderdex">About ThunderDex</string>
-    <string name="about_app">The <i><b>BEST</b></i> War Thunder Wikipedia App.</string>
-    <string name="about_app_summary">ThunderDex was envisioned in 2023 as a solution for frequent users of the War Thunder Wiki. Frustrated with the browser experience, I utilized over 10 years of coding expertise to develop this app in just a few months. Now, it’s available for everyone—for free!</string>
-    <string name="about_contribute_header_text">How do I contribute?</string>
-    <string name="about_thunderdex_contributors">Translation Contributors</string>
-    <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian Translations)</b></string>
-    <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian Translations)</b></string>
-    <string name="about_contributor_three_og"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
-    <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
-    <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
-    <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portuguese-Brazilian Translations)</b></string>
+    <string name="title_about_thunderdex">О ThunderDex</string>
+    <string name="about_app">Самое <i><b>ЛУЧШЕЕ</b></i> War Thunder Вики приложение.</string>
+    <string name="about_app_summary">Приложение ThunderDex было задумано в 2023 году как решение для пользователей War Thunder Wiki. Разочарованный работой браузера, я использовал более чем 10-летний опыт программирования, чтобы разработать это приложение всего за несколько месяцев. Теперь оно доступно для всех — бесплатно!</string>
+    <string name="about_contribute_header_text">Как я могу внести свой вклад?</string>
+    <string name="about_thunderdex_contributors">Авторы переводов</string>
+    <string name="about_contributor_one"><b>Tdikristof_</b> Discord <b>(Перевод на венгерский)</b></string>
+    <string name="about_contributor_two"><b>Theslimyboi</b> Discord <b>(Перевод на литовский)</b></string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> Discord <b>(Основной перевод на немецкий)</b></string>
+    <string name="about_contributor_three"><b>Proxima</b> Discord <b>(Обновленный перевод на немецкий)</b></string>
+    <string name="about_contributor_four"><b>Cosmicweb08</b> Discord <b>(Перевод на хинди)</b></string>
+    <string name="about_contributor_five"><b>viispy</b> Discord <b>(Перевод с португальского на бразильский)</b></string>
 
     <!-- Section: Contribute Translations -->
-    <string name="contribute_translations">Contribute Translations</string>
-    <string name="contribute_translations_button_text">Click here to learn how!</string>
+    <string name="contribute_translations">Внести свой вклад в переводы</string>
+    <string name="contribute_translations_button_text">Нажмите здесь, чтобы узнать, как это сделать!</string>
     <!-- <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string> -->
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
