@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Section: App Name and Titles -->
-    <string name="app_name" translatable="false">ThunderDex</string>
+    <string name="app_name" translatable="false">  ThunderDex  </string>
     <string name="header_title" translatable="false">ThunderDex</string>
-    <string name="settings_title" translatable="false">Settings</string>
+    <string name="settings_title" translatable="false"> Settings </string>
 
     <!-- Section: Main Menu and Navigation -->
     <string name="home">Home</string>
@@ -83,6 +83,8 @@
     <string name="settings_clear_cache_desc">Clears the app data</string>
     <string name="donate_dialog_title"><b>!!! Support my work by donating !!!</b></string>
     <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b> ❤️</string>
+    <string name="settings_thunderhub">Access ThunderHub</string>
+    <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
 
     <!-- Section: Experiments -->
     <string name="currently_testing">Currently Testing:</string>
@@ -154,8 +156,8 @@
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Contribute Translations</string>
     <string name="contribute_translations_button_text">Click here to learn how!</string>
-    <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
-    <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string>
+    <!-- <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string> -->
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
     <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
     <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
@@ -285,7 +287,7 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"><b>2025.2.0 (07-19-25 Build 1)</b>\n\n• Improve News and Updates UI: decrease body text size• Update the Gradle Build System</string>
+    <string name="changelog_dialog_body" translatable="false">CHANGELOG IS NOW PULLED FROM HTTPS://HIFII.GITHUB.IO, THIS STRING WILL BE PHASED OUT SOON</string>
     <string name="older_changelogs_title">Older Changelogs</string>
     <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
 
@@ -444,16 +446,12 @@
     <string name="themes_christmas_desc">Christmas: A rich green for festive designs.</string>
     <string name="themes_new_years_desc">New Years: A vibrant purple for celebration.</string>
 
-    <!-- Section: UNUSED -->
     <string name="view_older_changelogs">View older changelogs</string>
 
-    <!-- Section: PRIVATE and PERMANENT
-        + DO NOT UPLOAD KEY To WT Translations Github
-         (https://github.com/HiFIi/WarThunderWiki-Translations)
-    -->
-    <string name="default_web_client_id" translatable="false">PRIVATE</string>
-	<string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>
+    <!-- Section: PRIVATE, PERMANENT, AND UNUSED -->
+    <string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>
     <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
+
     <!--(( Mostly Google Pay related Strings for potential future use )) -->
     <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
     <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
@@ -465,4 +463,7 @@
     <string name="gpay_clipboard_label">Copied Google Pay Email</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Support me on Google Pay</i></string>
+
+    <!-- DO NOT UPLOAD KEY To WT Translations Github (https://github.com/HiFIi/WarThunderWiki-Translations) -->
+    <string name="default_web_client_id" translatable="false">PRIVATE</string>
 </resources>
