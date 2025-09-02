@@ -78,6 +78,7 @@
 
     <string name="settings_thunderhub">Access ThunderHub</string>
     <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
+    <string name="settings_app_customization">App Customization</string>
 
     <!-- Section: Experiments -->
     <string name="currently_testing">Currently Testing:</string>
