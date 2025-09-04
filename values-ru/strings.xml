@@ -11,6 +11,8 @@
     <string name="about">О нас</string>
     <string name="settings">Настройки</string>
 
+    <string name="tank_ammo_loading">Loading...</string>
+
     <!-- Section: Vehicle Groups -->
     <string name="vehicle_types">Наземная техника</string>
     <string name="planes">Самолёты</string>

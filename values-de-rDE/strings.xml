@@ -17,6 +17,8 @@
     <string name="about">Über</string>
     <string name="settings">Einstellungen</string>
 
+    <string name="tank_ammo_loading">Loading...</string>
+
     <!-- Section: Vehicle Groups -->
     <string name="vehicle_types">Fahrzeuge</string>
     <string name="planes">Luftwaffe</string>
