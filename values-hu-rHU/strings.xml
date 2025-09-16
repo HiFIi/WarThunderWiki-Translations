@@ -221,4 +221,5 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="donate_dialog_body" translatable="false">Köszönöm, hogy használod a ThunderDex-et.\n\nEz a <b>LEGJOBB</b> War Thunder Wikipédia kliens Androidra.\n\nKérlek, fontold meg a támogatást, ha tetszik az alkalmazás... rengeteg <b>munka</b> van ebben az <b>ingyenes</b> appban.\n\n<b>Támogatás a beállításokban a PayPal opció megnyomásával lehetséges.</b>\n\n– HiFii</string>
     <string name="theme_chooser_header_title">Témák</string>
+    <string name="could_not_load_content">could not load content</string>
 </resources>

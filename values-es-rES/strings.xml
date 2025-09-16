@@ -222,5 +222,6 @@
     <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
     <string name="gpay_clipboard_label">Correo electrónico de Google Pay copiado</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <string name="could_not_load_content">could not load content</string>
 
 </resources>

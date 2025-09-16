@@ -237,5 +237,6 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Google Pay पर डेवलपर का समर्थन करें</i></string>
     <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
+    <string name="could_not_load_content">could not load content</string>
 
 </resources>

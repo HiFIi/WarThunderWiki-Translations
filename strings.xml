@@ -290,7 +290,7 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false">CHANGELOG IS NOW PULLED FROM HTTPS://HIFII.GITHUB.IO, THIS STRING WILL BE PHASED OUT SOON</string>
+    <string name="changelog_dialog_body" translatable="false"></string>
     <string name="older_changelogs_title">Older Changelogs</string>
     <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
 
@@ -469,4 +469,5 @@
 
     <!-- DO NOT UPLOAD KEY To WT Translations Github (https://github.com/HiFIi/WarThunderWiki-Translations) -->
     <string name="default_web_client_id" translatable="false">PRIVATE</string>
+    <string name="could_not_load_content">could not load content</string>
 </resources>

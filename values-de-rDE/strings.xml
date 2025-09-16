@@ -477,4 +477,5 @@
     <string name="gpay_clipboard_label">Google Pay Email Kopiert</string>
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="settings_donate_title_google_pay" translatable="false"><i>Ünterstützt mich auf Google Pay</i></string>
+    <string name="could_not_load_content">could not load content</string>
 </resources>
