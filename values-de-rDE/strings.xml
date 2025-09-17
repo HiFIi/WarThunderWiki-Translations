@@ -1,5 +1,5 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_17_07_pre_translation.xml -->
-<!-- Version: 2025/07/21 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_16_09_translation.xml -->
+<!-- Version: 2025/09/16 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
@@ -457,7 +457,7 @@
     <string name="settings_donate_title_cash_app">Mit Cash App spenden</string>
 
     <!-- Section: UNUSED -->
-    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="view_older_changelogs">Alte Änderungprotokolle</string>
 
     <!-- Section: PRIVATE and PERMANENT
         + DO NOT UPLOAD KEY To WT Translations Github
