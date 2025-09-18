@@ -85,7 +85,7 @@
     <string name="settings_clear_cache_desc">Clears the app data</string>
     <string name="donate_dialog_title"><b>!!! Support my work by donating !!!</b></string>
     <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b> ❤️</string>
-    <string name="settings_thunderhub">Access ThunderHub</string>
+    <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
     <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
     <string name="settings_app_customization">App Customization</string>
 
