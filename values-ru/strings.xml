@@ -78,7 +78,7 @@
     <string name="donate_dialog_title"><b>!!! Поддержать мой проект донатом !!!</b></string>
     <string name="dev_support_settings_body">Перевести на <b>PayPal</b> или <b>Cash App️</b> ❤️</string>
 
-    <string name="settings_thunderhub">Access ThunderHub</string>
+    <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
     <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
     <string name="settings_app_customization">App Customization</string>
 
