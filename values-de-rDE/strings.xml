@@ -30,9 +30,6 @@
     <!-- Section: Vehicle Info -->
     <string name="favorite_vehicles">Favoriten</string>
     <string name="battle_rating">Kampfeinstufung:</string>
-    <string name="battle_rating_ab">AB</string>
-    <string name="battle_rating_rb">RB</string>
-    <string name="battle_rating_sb">SB</string>
     <string name="research">Forschung:</string>
     <string name="purchase">Kaufen:</string>
     <string name="bundle_or_gift">Paket oder Geschenk</string>
@@ -128,7 +125,7 @@
     <string name="settings_experiments_sparkle_gradient_title">Pulsierende Funkelanimation vorführen</string>
     <string name="settings_experiments_sparkle_gradient_body">Vortlaufende Experimente mit einer Funkelnden Wellenanimation</string>
 
-    <string name="settings_thunderhub">Access ThunderHub</string>
+    <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
     <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
     <string name="settings_app_customization">App Customization</string>
 
@@ -234,17 +231,6 @@
     <string name="image_save_fail">Fehler beim Speichern des Bildes</string>
     <string name="image_load_fail">Fehler beim Laden des Bildes</string>
 
-    <!-- Section: Language Selector -->
-    <string-array name="language_array">
-        <item>English</item>
-        <item>German</item>
-        <item>Hindi</item>
-        <item>Hungarian</item>
-        <item>Lithuanian</item>
-        <item>Portuguese (Brazil)</item>
-        <item>Spanish</item>
-    </string-array>
-
     <!-- Section: UI Prompts and Actions -->
     <string name="affirmative_text">Fertig!</string>
     <string name="read_changelog">Lies den neusten Changelog</string>
@@ -271,9 +257,8 @@
     <string name="news_updates_title_demo_text">Neuigkeiten Titel Test</string>
 
     <!-- Section: Version Info -->
-    <string name="version_codes" translatable="false"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
-    <string name="version_codes__one_line_plus_double_slash" translatable="false"><b>Version: </b>%s   ||   <b>Build: </b>#%d</string>
-    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_codes"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
+    <string name="version_codes__one_line_plus_double_slash"><b>Version: </b>%s   ||   <b>Build: </b>#%d</string>
     <string name="version_code_text">Version Code:</string>
 
     <!-- Section: Error and Connection Handling -->
@@ -282,6 +267,7 @@
     <string name="no_data_found">Keine Daten gefunden…</string>
     <string name="fragment_not_attached_error">Fragment nicht angehängt, Aktivität konnte nicht gestartet werden.</string>
     <string name="invalid_value_error_text">"Ungültiger Eingabewert: "</string>
+    <string name="could_not_load_content">could not load content</string>
 
     <!-- Section: Push Notifications (Firebase) -->
     <string name="fcm_short_task">Kurze Anfrage fertiggestellt.</string>
@@ -300,7 +286,6 @@
     <string name="notifications_permission_denied">Sie werden keine In-App-Benachrichtigungen erhalten</string>
 
     <!-- Section: Special and Fun Features -->
-    <string name="flappydex">FlappyDex (;</string>
     <string name="easter_egg_found_message">🍦 Easter Egg Minispiel startet!\nGlückwunsch zum finden. 🍦</string>
     <string name="launch_easter_egg_null_error">Kontext nicht gegeben oder Fragment nicht angehängt.\nMinispiel konnte nicht gestartet werden</string>
     <string name="hide_ui_string">UI für 1 min verstecken\n(um die Animation zu sehen)</string>
@@ -319,7 +304,6 @@
     <!-- Placeholder for actual version/build number, will be set programmatically -->
     <string name="build_number_placeholder">Version %1$s (Build %2$s)</string>
     <string name="commit_date_placeholder">Letztes Update: %1$s</string>
-    <string name="latest_commit_sha_placeholder">SHA: %1$s</string>
 
     <!-- Section: Reddit -->
     <string name="reddit_title">Treten sie dem ThunderDex Subreddit bei!</string>
@@ -328,154 +312,7 @@
     <!-- Section: Changelog -->
     <string name="changelog">Änderungsprotokoll</string>
     <string name="older_changelogs_title">Alte Änderungen</string>
-    <string name="changelog_dialog_body" translatable="false">
-        <b>2025.2.0</b>\n\n</string>
-
-    <!-- Section: Translations -->
-    <string-array name="language_names" translatable="false">
-        <item>Click here to see languages</item>
-        <item>Afrikaans (af)</item>
-        <item>Amharic (am)</item>
-        <item>Arabic (ar)</item>
-        <item>Assamese (as)</item>
-        <item>Azerbaijani (az)</item>
-        <item>Belarusian (be)</item>
-        <item>Bulgarian (bg)</item>
-        <item>Bengali (bn)</item>
-        <item>Bosnian (bs)</item>
-        <item>Catalan (ca)</item>
-        <item>Czech (cs)</item>
-        <item>Danish (da)</item>
-        <item>German (de)</item>
-        <item>Greek (el)</item>
-        <item>English (Australia) (en-AU)</item>
-        <item>English (Canada) (en-CA)</item>
-        <item>English (United Kingdom) (en-GB)</item>
-        <item>English (India) (en-IN)</item>
-        <item>English (United States) (en-US)</item>
-        <item>English (Pseudo-Accents) (en-XA)</item>
-        <item>Spanish (Spain) (es)</item>
-        <item>Spanish (United States) (es-US)</item>
-        <item>Estonian (et)</item>
-        <item>Basque (eu)</item>
-        <item>Farsi (fa)</item>
-        <item>Finnish (fi)</item>
-        <item>French (France) (fr)</item>
-        <item>French (Canada) (fr-CA)</item>
-        <item>Galician (gl)</item>
-        <item>Gujarati (gu)</item>
-        <item>Hindi (hi)</item>
-        <item>Croatian (hr)</item>
-        <item>Hungarian (hu)</item>
-        <item>Armenian (hy)</item>
-        <item>Indonesian (in)</item>
-        <item>Icelandic (is)</item>
-        <item>Italian (it)</item>
-        <item>Hebrew (iw)</item>
-        <item>Japanese (ja)</item>
-        <item>Georgian (ka)</item>
-        <item>Kazakh (kk)</item>
-        <item>Khmer (km)</item>
-        <item>Kannada (kn)</item>
-        <item>Korean (ko)</item>
-        <item>Kyrgyz (ky)</item>
-        <item>Lao (lo)</item>
-        <item>Lithuanian (lt)</item>
-        <item>Latvian (lv)</item>
-        <item>Macedonian (mk)</item>
-        <item>Malayalam (ml)</item>
-        <item>Mongolian (mn)</item>
-        <item>Marathi (mr)</item>
-        <item>Malay (ms)</item>
-        <item>Burmese (my)</item>
-        <item>Burmese (Myanmar) (my-MM)</item>
-        <item>Norwegian (nb)</item>
-        <item>Nepali (ne)</item>
-        <item>Dutch (nl)</item>
-        <item>Odia (or)</item>
-        <item>Punjabi (pa)</item>
-        <item>Polish (pl)</item>
-        <item>Portuguese (Brazil) (pt-BR)</item>
-        <item>Portuguese (Portugal) (pt-PT)</item>
-        <item>Romanian (ro)</item>
-        <item>Russian (ru)</item>
-        <item>Sinhala (si)</item>
-        <item>Slovak (sk)</item>
-        <item>Slovenian (sl)</item>
-        <item>Albanian (sq)</item>
-        <item>Serbian (Cyrillic) (sr)</item>
-        <item>Serbian (Latin) (sr-Latn)</item>
-        <item>Swedish (sv)</item>
-        <item>Swahili (sw)</item>
-        <item>Tamil (ta)</item>
-        <item>Telugu (te)</item>
-        <item>Thai (th)</item>
-        <item>Filipino (tl)</item>
-        <item>Turkish (tr)</item>
-        <item>Ukrainian (uk)</item>
-        <item>Urdu (ur)</item>
-        <item>Uzbek (uz)</item>
-        <item>Vietnamese (vi)</item>
-        <item>Chinese (Simplified) (zh-CN)</item>
-        <item>Chinese (Hong Kong) (zh-HK)</item>
-        <item>Chinese (Traditional) (zh-TW)</item>
-        <item>Zulu (zu)</item>
-    </string-array>
-
-    <!-- FLUID GRADIENT EXPERIMENTS -->
-    <string name="animation_type_rotation" translatable="false">ROTATION</string>
-    <string name="animation_type_pulsing_wave_with_particles" translatable="false">NEW!!!\nPULSING_WAVE_WITH_PARTICLES</string>
-    <string name="animation_type_glitchy_color_change" translatable="false">(NEW!!)\nGLITCHY_COLOR_CHANGE</string>
-    <string name="animation_type_color_change" translatable="false">COLOR_CHANGE</string>
-    <string name="animation_type_color_pulse" translatable="false">COLOR_PULSE</string>
-    <string name="animation_type_splash_color_pulse" translatable="false">SPLASH_COLOR_PULSE</string>
-    <string name="animation_type_shimmering_pixelated_wave" translatable="false">SHIMMERING_PIXELATED_WAVE</string>
-    <string name="animation_type_ripple" translatable="false">RIPPLE</string>
-    <string name="animation_type_advanced_wave_distortion" translatable="false">(NEW!)\nADVANCED_WAVE_DISTORTION</string>
-    <string name="animation_type_wave_distortion" translatable="false">(NEW!)\nWAVE_DISTORTION</string>
-    <string name="animation_type_liquid_ripple" translatable="false">LIQUID_RIPPLE</string>
-    <string name="animation_type_radar_fluid" translatable="false">RADAR_FLUID</string>
-    <string name="animation_type_experimental" translatable="false">EXPERIMENTAL</string>
-    <string name="animation_type_changelog_color_pulse" translatable="false">CHANGELOG_COLOR_PULSE</string>
-
-    <!-- Section: Links (DO NOT TRANSLATE) -->
-    <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
-    <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
-    <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
-    <string name="twitter_link" translatable="false">https://twitter.com/developerrr_</string>
-    <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
-    <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
-    <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
-
-    <!-- Section: DO NOT TRANSLATE -->
-    <string name="a" translatable="false">A</string>
-    <string name="blank" translatable="false"> </string>
-    <string name="apostrophe" translatable="false">\'</string>
-
-    <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
-    <string name="settings_donate_title_paypal">Mit PayPal spenden</string>
-    <string name="settings_donate_title_cash_app">Mit Cash App spenden</string>
 
     <!-- Section: UNUSED -->
     <string name="view_older_changelogs">Alte Änderungprotokolle</string>
-
-    <!-- Section: PRIVATE and PERMANENT
-        + DO NOT UPLOAD KEY To WT Translations Github
-         (https://github.com/HiFIi/WarThunderWiki-Translations)
-    -->
-    <string name="default_web_client_id" translatable="false">PRIVATE</string>
-    <string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>
-    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
-    <!--(( Mostly Google Pay related Strings for potential future use )) -->
-    <string name="gpay_donation_dialog_title"><b>Spenden mit Google Pay</b></string>
-    <string name="gpay_donation_dialog_body"><i>Vielen Dank, dass Sie eine Spende in Betracht ziehen!</i>\n\n\n<b>Senden Sie die Zahlung an mbqonxda@gmail.com</b></string>
-    <string name="gpay_dialog_confirm">Öffnen Sie Google Pay</string>
-    <string name="gpay_dialog_negative">Email Addresse kopieren</string>
-    <string name="error_gpay_not_installed">Google Pay nicht installiert! Google Play Store startet…</string>
-    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_clipboard_label">Google Pay Email Kopiert</string>
-    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-    <string name="settings_donate_title_google_pay" translatable="false"><i>Ünterstützt mich auf Google Pay</i></string>
-    <string name="could_not_load_content">could not load content</string>
 </resources>
