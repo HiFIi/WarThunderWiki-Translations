@@ -314,4 +314,10 @@
     <string name="view_older_changelogs">View older changelogs</string>
 
     <string name="could_not_load_content">could not load content</string>
+
+    <!-- Changelog dialog strings -->
+    <string name="changelog_dialog_update">Update</string>
+    <string name="changelog_dialog_later">Later</string>
+    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
+    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
 </resources>

@@ -223,4 +223,10 @@
     <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
     <string name="donate_dialog_body" translatable="false">Hello and thank you for using ThunderDex.\n\nThe <b>BEST</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal option.</b>\n\n-HiFii</string>
     <string name="could_not_load_content">could not load content</string>
+
+    <!-- Changelog dialog strings -->
+    <string name="changelog_dialog_update">Update</string>
+    <string name="changelog_dialog_later">Later</string>
+    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
+    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
 </resources>

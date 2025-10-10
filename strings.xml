@@ -1,3 +1,4 @@
+<!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Section: App Name and Titles -->
@@ -9,7 +10,7 @@
     <string name="home">Home</string>
     <string name="news">Game News</string>
     <string name="updates">Game Updates</string>
-    <string name="news_updates_date_text_test_do_not_translate" translatable="false">July 15th, 2025</string>
+    <string name="news_updates_date_text_test_do_not_translate" translatable="false">September 25 2025</string>
     <string name="wiki">Wiki</string>
     <string name="about">About</string>
     <string name="settings">Settings</string>
@@ -159,8 +160,9 @@
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Contribute Translations</string>
     <string name="contribute_translations_button_text">Click here to learn how!</string>
-    <!-- <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
-    <string name="contribute_summary_two" translatable="false"><i>Coming soon!</i></string> -->
+    <!-- Previously commented out, now defined to resolve warnings -->
+    <string name="contribute_summary" translatable="false">Learn how to contribute translations: <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="contribute_summary_two" translatable="false"><i>More contribution options coming soon!</i></string>
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
     <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
     <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
@@ -181,8 +183,17 @@
     <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
     <string name="upcoming_features">Preview upcoming app features</string>
     <string name="upcoming_feature_one">• Even more improvements to loading and performance</string>
+    <!-- Added definitions for previously missing strings -->
+    <string name="upcoming_feature_two">• Improved user interface and navigation</string>
+    <string name="upcoming_feature_three">• Enhanced search capabilities and filters</string>
+    <string name="upcoming_feature_four">• New customization options</string>
     <string name="upcoming_feature_five">• Add more vehicle information &amp; continue to implement requested features</string>
+    <string name="upcoming_feature_six">• Offline mode for Wiki content</string>
     <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+    <string name="upcoming_features_list">Check out our exciting upcoming features!</string>
+
+    <!-- Added definition for previously missing app_themes__experimental_warning -->
+    <string name="app_themes__experimental_warning" translatable="false">Experimental theme. May cause unexpected behavior.</string>
 
     <!-- Section: Sort By Strings -->
     <string name="sort_by">Sort by:</string>
@@ -245,6 +256,7 @@
     <string name="no_data_found">No data found…</string>
     <string name="fragment_not_attached_error">Fragment is not attached, cannot launch activity.</string>
     <string name="invalid_value_error_text">"Invalid value: "</string>
+    <string name="could_not_load_content">could not load content</string>
 
     <!-- Section: Push Notifications (Firebase) -->
     <string name="fcm_short_task">Short-lived task is done.</string>
@@ -290,7 +302,7 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"></string>
+    <string name="changelog_dialog_body" translatable="false"> </string>
     <string name="older_changelogs_title">Older Changelogs</string>
     <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
 
@@ -401,6 +413,13 @@
     <string name="animation_type_experimental" translatable="false">EXPERIMENTAL</string>
     <string name="animation_type_changelog_color_pulse" translatable="false">CHANGELOG_COLOR_PULSE</string>
 
+    <!-- Changelog dialog strings -->
+    <string name="changelog_dialog_update">Update</string>
+    <string name="changelog_dialog_later">Later</string>
+    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
+    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
+    <string name="changelog_dialog_visual_example_for_version" translatable="false">Version vX.Y.Z</string>
+
     <!-- Section: Links (DO NOT TRANSLATE) -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
@@ -469,5 +488,4 @@
 
     <!-- DO NOT UPLOAD KEY To WT Translations Github (https://github.com/HiFIi/WarThunderWiki-Translations) -->
     <string name="default_web_client_id" translatable="false">PRIVATE</string>
-    <string name="could_not_load_content">could not load content</string>
 </resources>

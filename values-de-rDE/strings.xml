@@ -315,4 +315,10 @@
 
     <!-- Section: UNUSED -->
     <string name="view_older_changelogs">Alte Änderungprotokolle</string>
+
+    <!-- Changelog dialog strings -->
+    <string name="changelog_dialog_update">Update</string>
+    <string name="changelog_dialog_later">Later</string>
+    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
+    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
 </resources>
