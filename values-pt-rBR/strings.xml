@@ -229,4 +229,9 @@
     <string name="changelog_dialog_later">Later</string>
     <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
     <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
+
+    <string name="settings_language_chooser_title__with_body">Language Chooser\n(may not work on Android 9-11)</string>
+    <string name="settings_more_title">More...</string>
+    <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
+    <string name="settings_commit_history_title">Commit History (Live changelog)</string>
 </resources>

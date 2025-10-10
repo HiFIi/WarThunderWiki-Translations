@@ -89,6 +89,10 @@
     <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
     <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
     <string name="settings_app_customization">App Customization</string>
+    <string name="settings_language_chooser_title__with_body">Language Chooser\n(may not work on Android 9-11)</string>
+    <string name="settings_more_title">More...</string>
+    <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
+    <string name="settings_commit_history_title">Commit History (Live changelog)</string>
 
     <!-- Section: Experiments -->
     <string name="currently_testing">Currently Testing:</string>
