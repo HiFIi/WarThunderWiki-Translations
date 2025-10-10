@@ -48,7 +48,7 @@
     <string name="clear_search">Clear Search</string>
 
     <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">Airborne Radar</string>
+    <string name="radar_header_title">"  Airborne Radar  "</string>
     <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
     <string name="radar_viewpager_tab_title">Radar</string>
     <!-- required string name for MaterialShared Transition Animation -->

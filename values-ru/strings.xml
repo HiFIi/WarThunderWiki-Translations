@@ -41,7 +41,7 @@
     <string name="clear_search">Очистить поиск</string>
 
     <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">Авиационный радар</string>
+    <string name="radar_header_title">" Авиационный радар "</string>
     <string name="airborne_radar_grouped_fragment">Бортовой радар</string>
     <string name="radar_viewpager_tab_title">Радар</string>
 

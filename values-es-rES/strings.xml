@@ -209,7 +209,7 @@
     <!-- XVII. Misc / Support -->
     <string name="dev_support_settings_body">Donar a través de PayPal o Cash App</string>
     <string name="airborne_radar_grouped_fragment">Radar Aerotransportado</string>
-    <string name="radar_header_title">Radar Aerotransportado</string>
+    <string name="radar_header_title">" Radar Aerotransportado "</string>
     <string name="radar_viewpager_tab_title">Radar</string>
     <string name="toolbar_title_aircraft_machine_guns">Ametralladoras de avión</string>
     <string name="toolbar_title_aircraft_cannons">Cañones de avión</string>
