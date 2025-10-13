@@ -174,6 +174,8 @@
     <string name="about_contributor_three"><b>Proxima</b> en Discord <b>(Traducciones alemanas actualizadas)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> en Discord <b>(Traducciones en Hindi)</b></string>
     <string name="contribution_enticement_language_chooser">¿Interesado en contribuir?\n(o actualizar un idioma)</string>
+    <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
+    <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
 
     <!-- XII. Experimental Features -->
     <string name="settings_experiments_body">Actualmente probando:\nTipos de gradiente fluido\nImplementación Wiki 3.0</string>

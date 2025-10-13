@@ -188,6 +188,8 @@
     <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Geholfen bei Deutscher Übersetzungs)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
     <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
+    <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
+    <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
 
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Übersetze ThunderDex</string>
@@ -261,8 +263,9 @@
     <string name="news_updates_title_demo_text">Neuigkeiten Titel Test</string>
 
     <!-- Section: Version Info -->
-    <string name="version_codes"><b>App Version:</b>\n%s\n<b>\nVersion Code:</b>\n#%d</string>
-    <string name="version_codes__one_line_plus_double_slash"><b>Version: </b>%s   ||   <b>Build: </b>#%d</string>
+    <string name="version_codes">%s\n\n<b>Version Code:</b>\n#%d</string>
+    <string name="version_codes__one_line_plus_double_slash" translatable="false">%s</string>
+    <!-- <string name="version_codes__one_line_plus_double_slash" translatable="false">%s\n\n<b>Build: </b>#%d</string> -->
     <string name="version_code_text">Version Code:</string>
 
     <!-- Section: Error and Connection Handling -->

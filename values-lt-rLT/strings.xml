@@ -151,6 +151,8 @@
     <string name="about_contributor_three"><b>Proxima</b> on Discord <b>(Updated German Translations)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> on Discord <b>(Hindi Translations)</b></string>
     <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portuguese-Brazilian Translations)</b></string>
+    <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
+    <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
 
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Contribute Translations</string>
