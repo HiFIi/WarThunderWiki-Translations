@@ -1,29 +1,23 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_16_09_translation.xml -->
-<!-- Version: 2025/09/16 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_17_10_translation.xml -->
+<!-- Version: 2025/10/17 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
-    <string name="app_name" translatable="false">ThunderDex</string>
-    <string name="header_title" translatable="false">" ThunderDex "</string>
-    <string name="settings_title" translatable="false">" Einstellungen "</string>
+    <string name="settings_title">" Einstellungen "</string>
 
 
     <!-- Section: Main Menu and Navigation -->
     <string name="home">Startseite</string>
     <string name="news">Neuigkeiten</string>
     <string name="updates">Updates</string>
-    <string name="news_updates_date_text_test_do_not_translate" translatable="false">April 06, 2025</string>
-    <string name="wiki">Wiki</string>
     <string name="about">Über</string>
     <string name="settings">Einstellungen</string>
 
-    <string name="tank_ammo_loading">Loading...</string>
+    <string name="tank_ammo_loading">Lädt...</string>
 
     <!-- Section: Vehicle Groups -->
     <string name="vehicle_types">Fahrzeuge</string>
     <string name="planes">Luftwaffe</string>
-    <string name="helicopters_shortened_for_vehicle_groups" translatable="false">Helis</string>
-    <string name="helicopters">Helikopter</string>
     <string name="tanks">Heer</string>
     <string name="ships">Marine</string>
 
@@ -48,14 +42,15 @@
 
     <!-- Section: Airborne Radar -->
     <string name="radar_header_title">" Flugzeug Radarsysteme "</string>
-    <string name="airborne_radar_grouped_fragment">Flugzeug Radarsysteme</string>
-    <string name="radar_viewpager_tab_title">Radarsysteme</string>
+    <string name="airborne_radar_grouped_fragment">Radarsysteme</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
     <!-- required string name for MaterialShared Transition Animation -->
     <string name="transition_radar" translatable="false">transition_radar</string>
 
     <!-- Section: Weaponry -->
     <string name="toolbar_title_aircraft_machine_guns">Flugzeug Maschinengewehre</string>
     <string name="toolbar_title_aircraft_cannons">Flugzeug Maschinenkanonen</string>
+    <string name="toolbar_title_tank_ammunition">Panzer Munition</string>
     <string name="weaponry_viewpager_tab_title">Bewaffnung</string>
     <string name="no_pros_cons">Keine Vor- und Nachteile verfügbar</string>
     <string name="no_usage_in_battles">Keine Informationen zum einsatz in Gefechten verfügbar</string>
@@ -113,10 +108,9 @@
     <string name="settings_clear_cache_desc">Löscht temporäre App Daten</string>
     <string name="donate_dialog_title"><b>❤️   Unterstütze meine Arbeit, indem sie spenden!!   ❤️</b></string>
     <string name="dev_support_settings_body">Spenden sie über <b>PayPal</b> oder <b>Cash App️</b></string>
-    <string name="settings_language_chooser_title__with_body">Language Chooser\n(may not work on Android 9-11)</string>
-    <string name="settings_more_title">More...</string>
-    <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
-    <string name="settings_commit_history_title">Commit History (Live changelog)</string>
+    <string name="settings_language_chooser_title__with_body">Sprache\n(Unter Umständen Fehlerhaft mit Android 9-11)</string>
+    <string name="settings_more_title">Mehr...</string>
+    <string name="settings_commit_history_title">Änderungshistorie (Live Änderungsprotokolle)</string>
 
     <!-- Section: Experiments -->
     <string name="currently_testing">Momentane Tests:</string>
@@ -129,8 +123,8 @@
     <string name="settings_experiments_sparkle_gradient_title">Pulsierende Funkelanimation vorführen</string>
     <string name="settings_experiments_sparkle_gradient_body">Vortlaufende Experimente mit einer Funkelnden Wellenanimation</string>
 
-    <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
-    <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
+    <string name="settings_thunderhub">Hier geht\'s zum ThunderHub</string>
+    <string name="settings_thunderhub_description">- Erhalte Zugriff auf ThunderDex Neuigkeiten\n- ERfahre wie Du helfen kannst</string>
     <string name="settings_app_customization">App Customization</string>
 
     <!-- Section: Theme Configuration -->
@@ -138,7 +132,7 @@
     <string name="settings_app_theme_title">Dynamische Farben der App </string>
     <string name="settings_app_theme_desc">BIS DATO UNBENUTZT</string>
     <string name="enable_monet_theming">Dynamische Farben</string>
-    <string name="enable_black_theme">AMOLED Black Farben</string>
+    <string name="enable_black_theme">Pechschwarz Farben</string>
     <string name="enable_almost_black_theme">"Almost Black" Farben</string>
     <string name="enable_lyft_grey_theme">"Lyft Grey" Farben</string>
     <string name="enable_slate_grey_theme">Slate Grey Farben</string>
@@ -151,7 +145,6 @@
     <string name="enable_dark_red_theme">Dunkelrote Farben</string>
     <string name="enable_darkish_blue_theme">Dunklere blaue Farben</string>
     <string name="enable_forest_green_theme">Forstgrüne Farben</string>
-    <string name="enable_halloween_theme">Halloween</string>
     <string name="enable_christmas_theme">Weihnachten</string>
     <string name="enable_new_years_theme">Neujahr</string>
     <string name="default_theme">Standart</string>
@@ -171,9 +164,6 @@
     <string name="warning_body">Im Moment müsst ihr noch Farbschemen manuell aktivieren und deaktivieren, damit sie richtig funktionieren. Wird bald behoben sein.\n\n<b>FALLS SICH DIE APP SCHLIEßT ODER SIE ABSTÜRZT, ÖFFNET SIE ERNEUT!</b></string>
     <string name="theme_not_available_on_your_device">"Diese Farbschema wird von ihrem Gerät mit Android "Android Verison here" nicht unterstützt "</string>
     <string name="theme_already_applied_warning"> wird bereits angewendet</string>
-    <string name="halloween_theme_pumpkin_for_header" translatable="false">" 🎃 "</string>
-    <string name="christmas_theme_christmas_tree_for_header" translatable="false">" 🎄 "</string>
-    <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">" 🎉 "</string>
     <string name="monet_theme_not_supported">Dynamische Farben werden von ihrem Gerät nicht unterstützt</string>
 
     <!-- Section: About ThunderDex -->
@@ -188,8 +178,8 @@
     <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Geholfen bei Deutscher Übersetzungs)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
     <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
-    <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
-    <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
+    <string name="about_contributor_six"><b>needatreat</b> auf Discord <b>(Russische Übersetzung)</b></string>
+    <string name="about_contributor_seven"><b>koorDesart</b> auf Telegram <b>(Wiki 3.0 Implementierung)</b></string>
 
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Übersetze ThunderDex</string>
@@ -198,7 +188,7 @@
     <string name="contribute_summary_two" translatable="false"><i>Bald Verfügbar!</i></string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
     <string name="translations_coming_soon_teaser">Wird baltig wiederkehrern!\nEin neues Design ist gerade in Entwicklung</string>
-    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
+    <string name="contribution_enticement_language_chooser">Interessiert mit zu helfen?</string>
 
     <!-- Section: Github Translations -->
     <string name="github_translations_first_time_q__title">Erstes Mal?</string>
@@ -263,10 +253,8 @@
     <string name="news_updates_title_demo_text">Neuigkeiten Titel Test</string>
 
     <!-- Section: Version Info -->
-    <string name="version_codes">%s\n\n<b>Version Code:</b>\n#%d</string>
-    <string name="version_codes__one_line_plus_double_slash" translatable="false">%s</string>
-    <!-- <string name="version_codes__one_line_plus_double_slash" translatable="false">%s\n\n<b>Build: </b>#%d</string> -->
-    <string name="version_code_text">Version Code:</string>
+    <string name="version_codes">%s\n\n<b>Versions Code:</b>\n#%d</string>
+    <string name="version_code_text">Versions Code:</string>
 
     <!-- Section: Error and Connection Handling -->
     <string name="connection_error">Es konnte keine Verbindung zum Server hergestellt werden</string>
@@ -274,7 +262,7 @@
     <string name="no_data_found">Keine Daten gefunden…</string>
     <string name="fragment_not_attached_error">Fragment nicht angehängt, Aktivität konnte nicht gestartet werden.</string>
     <string name="invalid_value_error_text">"Ungültiger Eingabewert: "</string>
-    <string name="could_not_load_content">could not load content</string>
+    <string name="could_not_load_content">Inhalte konnten nicht geladen werden</string>
 
     <!-- Section: Push Notifications (Firebase) -->
     <string name="fcm_short_task">Kurze Anfrage fertiggestellt.</string>
@@ -283,7 +271,6 @@
     <string name="msg_subscribe_failed">Abonnieren des Themas fehlgeschlagen</string>
     <string name="fcm_message">FCM Nachricht</string>
     <string name="cloud_messaging_token_retrieval_failed">Beantragen von Benachrichtigungen fehlgeschlagen</string>
-    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
     <string name="default_notification_channel_name" translatable="true">ThunderDex Benachrichtigungen</string>
     <string name="notification_permission_rationale">"Um ihr Erlebnis zu er, würde ThudnerDex ihnen gerne Benachrichtigungen zu wichtigen Updated &amp; Ereignissen senden.\n\nBitte lassen sie Benachrichtigungen zu."</string>
     <string name="grant_permission">Zulassen</string>
@@ -307,7 +294,6 @@
     <string name="cd_back_button">Zurück Knopf</string> <!-- Content Description for accessibility -->
 
     <!-- About Page - Profile/Build Info -->
-    <string name="label_app_version">App Version</string>
     <!-- Placeholder for actual version/build number, will be set programmatically -->
     <string name="build_number_placeholder">Version %1$s (Build %2$s)</string>
     <string name="commit_date_placeholder">Letztes Update: %1$s</string>
@@ -324,8 +310,7 @@
     <string name="view_older_changelogs">Alte Änderungprotokolle</string>
 
     <!-- Changelog dialog strings -->
-    <string name="changelog_dialog_update">Update</string>
-    <string name="changelog_dialog_later">Later</string>
-    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
-    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
+    <string name="changelog_dialog_later">Später</string>
+    <string name="changelog_dialog_whats_new_title">Was gibt\'s neues in ThunderDex</string>
+    <string name="changelog_dialog_loading_changelog">Lädt...</string>
 </resources>
