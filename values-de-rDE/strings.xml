@@ -41,7 +41,7 @@
     <string name="clear_search">Suche leeren</string>
 
     <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">" Flugzeug Radarsysteme "</string>
+    <string name="radar_header_title">" Radarsysteme "</string>
     <string name="airborne_radar_grouped_fragment">Radarsysteme</string>
     <string name="radar_viewpager_tab_title">Radar</string>
     <!-- required string name for MaterialShared Transition Animation -->

@@ -2,9 +2,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Section: App Name and Titles -->
-    <string name="app_name" translatable="false">  ThunderDex  </string>
+    <string name="app_name" translatable="false">"  ThunderDex  "</string>
     <string name="header_title" translatable="false">ThunderDex</string>
-    <string name="settings_title" translatable="false"> Settings </string>
+    <string name="settings_title">" Settings "</string>
 
     <!-- Section: Main Menu and Navigation -->
     <string name="home">Home</string>
@@ -263,7 +263,7 @@
     <string name="no_data_found">No data found…</string>
     <string name="fragment_not_attached_error">Fragment is not attached, cannot launch activity.</string>
     <string name="invalid_value_error_text">"Invalid value: "</string>
-    <string name="could_not_load_content">could not load content</string>
+    <string name="could_not_load_content">Could not load content</string>
 
     <!-- Section: Push Notifications (Firebase) -->
     <string name="fcm_short_task">Short-lived task is done.</string>
@@ -309,7 +309,7 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"> </string>
+    <string name="changelog_dialog_body" translatable="false"><b>2025.2.0:</b>\nTHIS IS THE BIG ONE!\n\nALL VEHICLES ADDED!\n\nOver 10,000 lines of code were changed for this update!\n\n• FULL WIKI 3.0 SUPPORT\n\n• ALL VEHICLES RESTORED\n\n• Vehicle information section now has many more items from the official wiki\n• Every part of the app has been redesigned\n• Add new themes\n• Add new languages\n• Updated languages \n• Improved app performance\n• Improved app stability</string>
     <string name="older_changelogs_title">Older Changelogs</string>
     <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
 
