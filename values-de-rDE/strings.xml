@@ -180,7 +180,7 @@
     <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
     <string name="about_contributor_six"><b>needatreat</b> auf Discord <b>(Russische Übersetzung)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> auf Telegram <b>(Wiki 3.0 Implementierung)</b></string>
-
+    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <i><b>(Has contributed a tremendous amount of feedback helping shape ThunderDex into what it is today)</b></i></string>
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Übersetze ThunderDex</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>

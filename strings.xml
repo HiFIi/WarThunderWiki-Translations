@@ -97,7 +97,7 @@
     <!-- Section: Experiments -->
     <string name="currently_testing">Currently Testing:</string>
     <string name="settings_experiments_title">Experimental features &amp; tests</string>
-    <string name="settings_experiments_body">• Fluid Gradient animation types\n• Wiki 3.0 implementation\n• Pulsed Sparkle Animation\n(for Android 12+)</string>
+    <string name="settings_experiments_body">• Fluid Gradient animation types\n• Pulsed Sparkle Animation\n(for Android 12+)</string>
     <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Showcase</string>
     <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
     <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
@@ -153,7 +153,7 @@
     <string name="about_app">The <i><b>BEST</b></i> War Thunder Wikipedia App.</string>
     <string name="about_app_summary">ThunderDex was envisioned in 2023 as a solution for frequent users of the War Thunder Wiki. Frustrated with the browser experience, I utilized over 10 years of coding expertise to develop this app in just a few months. Now, it’s available for everyone—for free!</string>
     <string name="about_contribute_header_text">How do I contribute?</string>
-    <string name="about_thunderdex_contributors">Translation Contributors</string>
+    <string name="about_thunderdex_contributors">ThunderDex Contributors</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> on Discord <b>(Hungarian Translations)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> on Discord <b>(Lithuanian Translations)</b></string>
     <string name="about_contributor_three_og"><b>Flitzepipe</b> on Discord <b>(Original German Translations)</b></string>
@@ -162,6 +162,7 @@
     <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portuguese-Brazilian Translations)</b></string>
     <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
+    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <i><b>(Has contributed a tremendous amount of feedback helping shape ThunderDex into what it is today)</b></i></string>
 
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Contribute Translations</string>
@@ -297,7 +298,7 @@
     <string name="cd_back_button">Back button</string> <!-- Content Description for accessibility -->
 
     <!-- About Page - Profile/Build Info -->
-    <string name="label_app_version">App Version</string>
+    <string name="label_app_version">App Version: </string>
     <!-- Placeholder for actual version/build number, will be set programmatically -->
     <string name="build_number_placeholder">Version %1$s (Build %2$s)</string>
     <string name="commit_date_placeholder">Last updated: %1$s</string>
@@ -309,7 +310,7 @@
 
     <!-- Section: Changelog -->
     <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"><b>2025.2.0:</b>\nTHIS IS THE BIG ONE!\n\nALL VEHICLES ADDED!\n\nOver 10,000 lines of code were changed for this update!\n\n• FULL WIKI 3.0 SUPPORT\n\n• ALL VEHICLES RESTORED\n\n• Vehicle information section now has many more items from the official wiki\n• Every part of the app has been redesigned\n• Add new themes\n• Add new languages\n• Updated languages \n• Improved app performance\n• Improved app stability</string>
+    <string name="changelog_dialog_body" translatable="false"><b>2025.2.1:</b>\n• "War Thunder" theme has been completely overhauled and all bugs have been fixed\n• Improve Vehicle List UI\n• Improved the Classic (default) Theme\n• Improved the Home screen Header\n• Improved the About section\n• Fixed Cash App icon in Developer Support section\n• Fixed bug where upon navigating back in the Tank Ammunition section, the Bottom Navigation wouldnt show\n• Improved the Donation section\n• Improved the Experimental Settings section\n• Added a contributor in the About section\n• Improved Group sections UI\n• Performance improvements\n\n<b>THIS IS THE BIG ONE! ALL VEHICLES ADDED!</b>\n\nOver <i>10,000</i> lines of code were changed for this update!\n\n<b>2025.2.0:</b>\n• FULL WIKI 3.0 SUPPORT\n• ALL VEHICLES RESTORED\n• Vehicle information section now has many more items from the official wiki\n• Every part of the app has been redesigned\n• Add new themes\n• Added and Updated languages</string>
     <string name="older_changelogs_title">Older Changelogs</string>
     <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
 

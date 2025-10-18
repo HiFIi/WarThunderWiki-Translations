@@ -176,7 +176,7 @@
     <string name="contribution_enticement_language_chooser">¿Interesado en contribuir?\n(o actualizar un idioma)</string>
     <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
-
+    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <i><b>(Has contributed a tremendous amount of feedback helping shape ThunderDex into what it is today)</b></i></string>
     <!-- XII. Experimental Features -->
     <string name="settings_experiments_body">Actualmente probando:\nTipos de gradiente fluido\nImplementación Wiki 3.0</string>
     <string name="settings_experiments_title">Características experimentales y pruebas</string>
