@@ -153,8 +153,8 @@
     <string name="about_contributor_five"><b>viispy</b> on Discord <b>(Portuguese-Brazilian Translations)</b></string>
     <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
-    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <i><b>(Has contributed a tremendous amount of feedback helping shape ThunderDex into what it is today)</b></i></string>
-    <!-- Section: Contribute Translations -->
+    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
+    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>    <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Contribute Translations</string>
     <string name="contribute_translations_button_text">Click here to learn how!</string>
     <!-- <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
@@ -181,6 +181,9 @@
     <string name="upcoming_feature_one">• Even more improvements to loading and performance</string>
     <string name="upcoming_feature_five">• Add more vehicle information &amp; continue to implement requested features</string>
     <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
+
+    <!-- About menu -->
+    <string name="about_menu_app_customization">App Customization\n(Experimental)</string>
 
     <!-- Section: Sort By Strings -->
     <string name="sort_by">Sort by:</string>

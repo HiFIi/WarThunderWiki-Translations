@@ -61,7 +61,7 @@
     <string name="themes_default_title">ThunderDex Standart</string>
     <string name="themes_default_desc">ThunderDexs klassisches Lila</string>
     <string name="themes_dynamic_title">Dynamische Farben</string>
-    <string name="themes_dynamic_desc">Monet: Dynamische Farben passend zu ihrem Hintergrund!\n(Android 12+).</string>
+    <string name="themes_dynamic_desc"><b>Dynamic Color</b> uses your wallpaper colors to style ThunderDex UI Elements.</string>
     <string name="themes_black_title">Schwarz</string>
     <string name="themes_black_desc">AMOLED Schwarz: Tiefes, Festes Schwarz. Ideal für AMOLED Bildschirme.</string>
     <string name="themes_almost_black_desc">Fast Schwarz: Sehr dunkles Schwarz mit einem leichten Rotstich.</string>
@@ -180,8 +180,8 @@
     <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
     <string name="about_contributor_six"><b>needatreat</b> auf Discord <b>(Russische Übersetzung)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> auf Telegram <b>(Wiki 3.0 Implementierung)</b></string>
-    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <i><b>(Has contributed a tremendous amount of feedback helping shape ThunderDex into what it is today)</b></i></string>
-    <!-- Section: Contribute Translations -->
+    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
+    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>    <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Übersetze ThunderDex</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
@@ -213,6 +213,9 @@
     <string name="upcoming_feature_five">To-Do: Übersetzungen</string>
     <string name="upcoming_feature_six">• Hinzufügen neuer Übersetzungen</string>
     <string name="upcoming_feature_seven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, sofern verfügbar</string>
+
+    <!-- About menu -->
+    <string name="about_menu_app_customization">App Customization\n(Experimental)</string>
 
     <!-- Section: Sort By Strings -->
     <string name="sort_by">Sortieren nach</string>
