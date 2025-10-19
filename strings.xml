@@ -143,10 +143,10 @@
     <string name="warning_body">For the time being, you need to manually check and uncheck a theme to properly disable it. This will be fixed soon.\n\n<b>IF THE APP CRASHES, RE-OPEN IT!</b></string>
     <string name="theme_not_available_on_your_device">This theme is not available on your device</string>
     <string name="theme_already_applied_warning"> is already applied</string>
-    <string name="halloween_theme_pumpkin_for_header" translatable="false">🎃</string>
-    <string name="christmas_theme_christmas_tree_for_header" translatable="false">🎄</string>
-    <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">🎉</string>
-    <string name="monet_theme_not_supported">Dynamic Colors are not supported on your device</string>
+    <string name="halloween_theme_pumpkin_for_header" translatable="false">" 🎃 "</string>
+    <string name="christmas_theme_christmas_tree_for_header" translatable="false">" 🎄 "</string>
+    <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">" 🎉 "</string>
+    <string name="monet_theme_not_supported">Dynamic Colors are not supported on your device. :(</string>
 
     <!-- Section: About ThunderDex -->
     <string name="title_about_thunderdex">About ThunderDex</string>
