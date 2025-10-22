@@ -470,12 +470,15 @@
     <string name="themes_google_grey_desc">Grey: A deep, neutral gray, offering balance.</string>
     <string name="themes_red_green_title">Reds and Greens</string>
     <string name="themes_red_category">Reds</string>
-    <string name="themes_dark_red_desc">Dark Red: A rich, dark red with brownish undertones.</string>
+    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful header</string>
+    <string name="themes_vortex_desc">Vortex: A pleasant, flat red theme</string>
     <string name="theme_greens_title">Greens</string>
     <string name="themes_forest_green_desc">Forest Green: A deep, dark green resembling a forest.</string>
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
     <string name="themes_category_misc_title">Misc</string>
     <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray.</string>
     <string name="themes_space_cadet_desc">Space Cadet: A deep bluish-gray with hints of purple.</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
     <string name="themes_halloween_desc">Halloween: Deep black with red undertones.</string>
     <string name="themes_christmas_desc">Christmas: A rich green for festive designs.</string>
     <string name="themes_new_years_desc">New Years: A vibrant purple for celebration.</string>

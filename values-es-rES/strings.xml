@@ -38,10 +38,11 @@
 
     <string name="theme_greens_title">Verdes</string>
     <string name="themes_forest_green_desc">Verde bosque: Verde oscuro profundo que recuerda a un bosque.</string>
-
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
     <string name="themes_category_misc_title">Misceláneos</string>
     <string name="themes_wt_assistant_desc">Asistente WT: Azul grisáceo frío y apagado.</string>
     <string name="themes_space_cadet_desc">Cadete espacial: Gris azulado profundo con toques púrpuras.</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
     <string name="themes_halloween_desc">Halloween: Negro profundo con matices rojos.</string>
     <string name="themes_christmas_desc">Navidad: Verde intenso para diseños festivos.</string>
     <string name="themes_new_years_desc">Año Nuevo: Púrpura vibrante para celebraciones.</string>

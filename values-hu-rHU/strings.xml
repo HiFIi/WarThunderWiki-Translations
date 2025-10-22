@@ -32,12 +32,15 @@
     <string name="themes_google_grey_desc">Szürke: Mély, semleges szürke egyensúllyal.</string>
     <string name="themes_red_green_title">Pirosak és zöldek</string>
     <string name="themes_red_category">Pirosak</string>
-    <string name="themes_dark_red_desc">Sötét piros: Gazdag, mély piros barnás árnyalatokkal.</string>
+    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful header</string>
+    <string name="themes_vortex_desc">Vortex: A pleasant, flat red theme</string>
     <string name="theme_greens_title">Zöldek</string>
     <string name="themes_forest_green_desc">Erdei zöld: Mély, sötét zöld, mint egy erdő.</string>
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
     <string name="themes_category_misc_title">Vegyes</string>
     <string name="themes_wt_assistant_desc">WT asszisztens: Hűvös, tompa kékeszürke.</string>
     <string name="themes_space_cadet_desc">Űr tiszt: Mély kékesszürke, lila árnyalatokkal.</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
     <string name="themes_halloween_desc">Halloween: Mély fekete vöröses árnyalatokkal.</string>
     <string name="themes_christmas_desc">Karácsony: Gazdag zöld ünnepi dizájnokhoz.</string>
     <string name="themes_new_years_desc">Újév: Élénk lila az ünnepléshez.</string>

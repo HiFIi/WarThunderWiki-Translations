@@ -127,12 +127,15 @@
     <string name="themes_google_grey_desc">ग्रे: एक गहरा, तटस्थ ग्रे, जो संतुलन प्रदान करता है।</string>
     <string name="themes_red_green_title">लाल और हरे</string>
     <string name="themes_red_category">लाल</string>
-    <string name="themes_dark_red_desc">गहरा लाल: भूरे रंग के अंडरटोन वाला एक गहरा लाल।</string>
+    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful header</string>
+    <string name="themes_vortex_desc">Vortex: A pleasant, flat red theme</string>
     <string name="theme_greens_title">हरे</string>
     <string name="themes_forest_green_desc">फ़ॉरेस्ट ग्रीन: जंगल जैसा दिखने वाला एक गहरा, गहरा हरा।</string>
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
     <string name="themes_category_misc_title">विविध</string>
     <string name="themes_wt_assistant_desc">WT असिस्टेंट: एक ठंडा, हल्का नीला-ग्रे।</string>
     <string name="themes_space_cadet_desc">स्पेस कैडेट: बैंगनी रंग के संकेत के साथ एक गहरा नीला-ग्रे।</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
     <string name="themes_halloween_desc">हैलोवीन: लाल अंडरटोन के साथ गहरा काला।</string>
     <string name="themes_christmas_desc">क्रिसमस: उत्सव के डिजाइनों के लिए एक गहरा हरा।</string>
     <string name="themes_new_years_desc">नया साल: उत्सव के लिए एक जीवंत बैंगनी।</string>

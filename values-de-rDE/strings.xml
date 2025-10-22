@@ -77,12 +77,15 @@
     <string name="themes_google_grey_desc">Grau: Ein tiefes, neutrales Grau, bietet ausgeglichenes Erlebnis.</string>
     <string name="themes_red_green_title">Rot und Grün</string>
     <string name="themes_red_category">Rot</string>
-    <string name="themes_dark_red_desc">Dunkles Rot: Ein kräftiges, dunkles rot mit bräunlischen Untertönen.</string>
+    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful header</string>
+    <string name="themes_vortex_desc">Vortex: A pleasant, flat red theme</string>
     <string name="theme_greens_title">Grün</string>
     <string name="themes_forest_green_desc">Wald Grün: Ein tiefes, dunkles Grün ähnlich einem Wald.</string>
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
     <string name="themes_category_misc_title">Sonstiges</string>
     <string name="themes_wt_assistant_desc">WT Assistant: Ein kühles, blasses blaugrau.</string>
     <string name="themes_space_cadet_desc">"Space Cadet": Ein dunkles blaugrau mit einem Lilastich.</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
     <string name="themes_halloween_desc">Halloween: Tiefes Schwarz mit Roten Untertönen.</string>
     <string name="themes_christmas_desc">Weihnachten: Ein kräftiges grün für ein festliches Designs.</string>
     <string name="themes_new_years_desc">Neu Jahr: Ein farbenfrohes Lila für Feierlischkeiten.</string>
