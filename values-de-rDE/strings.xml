@@ -64,6 +64,7 @@
     <string name="themes_dynamic_desc"><b>Dynamic Color</b> uses your wallpaper colors to style ThunderDex UI Elements.</string>
     <string name="themes_black_title">Schwarz</string>
     <string name="themes_black_desc">AMOLED Schwarz: Tiefes, Festes Schwarz. Ideal für AMOLED Bildschirme.</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
     <string name="themes_almost_black_desc">Fast Schwarz: Sehr dunkles Schwarz mit einem leichten Rotstich.</string>
     <string name="themes_blues_and_teals_header">Blaugrün</string>
     <string name="theme_category_blues_title">Blau</string>
@@ -114,6 +115,7 @@
     <string name="settings_language_chooser_title__with_body">Sprache\n(Unter Umständen Fehlerhaft mit Android 9-11)</string>
     <string name="settings_more_title">Mehr...</string>
     <string name="settings_commit_history_title">Änderungshistorie (Live Änderungsprotokolle)</string>
+    <string name="current_time">Current time: </string>
 
     <!-- Section: Experiments -->
     <string name="currently_testing">Momentane Tests:</string>

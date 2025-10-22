@@ -19,6 +19,7 @@
     <string name="themes_dynamic_desc">Monet: Dinamikus téma a háttérképed alapján\n(Android 12+).</string>
     <string name="themes_black_title">Fekete</string>
     <string name="themes_black_desc">AMOLED fekete: Mély, tömör fekete, ideális AMOLED kijelzőkhöz.</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
     <string name="themes_almost_black_desc">Majdnem fekete: Nagyon sötét fekete enyhe vörös árnyalattal.</string>
     <string name="themes_blues_and_teals_header">Kékek és zöldeskékek</string>
     <string name="theme_category_blues_title">Kékek</string>
@@ -241,4 +242,5 @@
     <string name="settings_more_title">More...</string>
     <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
     <string name="settings_commit_history_title">Commit History (Live changelog)</string>
+    <string name="current_time">Current time: </string>
 </resources>

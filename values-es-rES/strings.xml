@@ -18,6 +18,7 @@
 
     <string name="themes_black_title">Negro</string>
     <string name="themes_black_desc">AMOLED Negro: Negro profundo y sólido ideal para pantallas AMOLED.</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
     <string name="themes_almost_black_desc">Casi negro: Negro muy oscuro con un leve toque rojo.</string>
 
     <string name="themes_blues_and_teals_header">Azules y Verdes Azulados</string>
@@ -144,6 +145,7 @@
     <string name="settings_more_title">More...</string>
     <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
     <string name="settings_commit_history_title">Commit History (Live changelog)</string>
+    <string name="current_time">Current time: </string>
 
     <!-- X. Upcoming Features -->
     <string name="upcoming_features_summary">Funciones planificadas para 2025 y más allá</string>

@@ -293,6 +293,7 @@
     <string name="themes_dynamic_desc"><b>Dynamic theming (Material You)</b> extracts colors from your wallpaper and applies them to ThunderDex\' interface for a personalized look.\nAvailable only on Android 12+</string>
     <string name="themes_black_title">Black</string>
     <string name="themes_black_desc">AMOLED Black: Deep, solid black ideal for AMOLED screens.</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
     <string name="themes_almost_black_desc">Almost Black: Very dark black with a subtle red hint.</string>
     <string name="themes_blues_and_teals_header">Blues and Teals</string>
     <string name="theme_category_blues_title">Blues</string>
@@ -333,4 +334,5 @@
     <string name="settings_more_title">More...</string>
     <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
     <string name="settings_commit_history_title">Commit History (Live changelog)</string>
+    <string name="current_time">Current time: </string>
 </resources>

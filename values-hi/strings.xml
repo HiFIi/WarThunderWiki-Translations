@@ -114,6 +114,7 @@
     <string name="themes_dynamic_desc">मोनेट: आपके वॉलपेपर पर आधारित गतिशील थीम\n(एंड्रॉइड 12+)</string>
     <string name="themes_black_title">काला</string>
     <string name="themes_black_desc">AMOLED काला: AMOLED स्क्रीन के लिए गहरा, ठोस काला आदर्श।</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
     <string name="themes_almost_black_desc">लगभग काला: हल्के लाल रंग के संकेत के साथ बहुत गहरा काला।</string>
     <string name="themes_blues_and_teals_header">नीले और टील्स</string>
     <string name="theme_category_blues_title">नीले</string>
@@ -259,5 +260,6 @@
     <string name="settings_more_title">More...</string>
     <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
     <string name="settings_commit_history_title">Commit History (Live changelog)</string>
+    <string name="current_time">Current time: </string>
 
 </resources>
