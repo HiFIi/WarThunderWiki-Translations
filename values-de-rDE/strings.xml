@@ -1,5 +1,5 @@
-<!-- START OF FILE ThunderDex_Translation_DE_V.2025.2.0_nightly_17_10_translation.xml -->
-<!-- Version: 2025/10/17 -->
+<!-- START OF FILE ThunderDex_Translation_DE_V.2025.3.1_nightly_2025_10_27_translation.xml -->
+<!-- Version: 2025/10/27 -->
 <resources>
 
     <!-- Section: App Name and Titles -->
@@ -61,10 +61,10 @@
     <string name="themes_default_title">ThunderDex Standart</string>
     <string name="themes_default_desc">ThunderDexs klassisches Lila</string>
     <string name="themes_dynamic_title">Dynamische Farben</string>
-    <string name="themes_dynamic_desc"><b>Dynamic Color</b> uses your wallpaper colors to style ThunderDex UI Elements.</string>
+    <string name="themes_dynamic_desc"><b>Dynamische Farben</b> verwenden sie ihre Hintergrundfarben um die UI Elemente von ThunderDex zu färben.</string>
     <string name="themes_black_title">Schwarz</string>
     <string name="themes_black_desc">AMOLED Schwarz: Tiefes, Festes Schwarz. Ideal für AMOLED Bildschirme.</string>
-    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
+    <string name="themes_stargaze_24hr_desc">Sternen Blick: Ein echtzeit Theme mit live Himmel </string>
     <string name="themes_almost_black_desc">Fast Schwarz: Sehr dunkles Schwarz mit einem leichten Rotstich.</string>
     <string name="themes_blues_and_teals_header">Blaugrün</string>
     <string name="theme_category_blues_title">Blau</string>
@@ -78,15 +78,15 @@
     <string name="themes_google_grey_desc">Grau: Ein tiefes, neutrales Grau, bietet ausgeglichenes Erlebnis.</string>
     <string name="themes_red_green_title">Rot und Grün</string>
     <string name="themes_red_category">Rot</string>
-    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful header</string>
-    <string name="themes_vortex_desc">Vortex: A pleasant, flat red theme</string>
+    <string name="themes_dark_red_desc">Dunkel Rot: Ein kräftiges, dunkles rot begleitet von eienm wunderschönen Banner</string>
+    <string name="themes_vortex_desc">Vortex: Ein Angenehmes, seichtes Rot</string>
     <string name="theme_greens_title">Grün</string>
     <string name="themes_forest_green_desc">Wald Grün: Ein tiefes, dunkles Grün ähnlich einem Wald.</string>
-    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
+    <string name="themes_electric_tide_desc">Elektrische Gezeiten: Ein wunderschönes, tiefes blaugrün.</string>
     <string name="themes_category_misc_title">Sonstiges</string>
     <string name="themes_wt_assistant_desc">WT Assistant: Ein kühles, blasses blaugrau.</string>
     <string name="themes_space_cadet_desc">"Space Cadet": Ein dunkles blaugrau mit einem Lilastich.</string>
-    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
+    <string name="themes_nocturne_desc">Nachtaktive: Ein tiefes, wunderschönes Lila.</string>
     <string name="themes_halloween_desc">Halloween: Tiefes Schwarz mit Roten Untertönen.</string>
     <string name="themes_christmas_desc">Weihnachten: Ein kräftiges grün für ein festliches Designs.</string>
     <string name="themes_new_years_desc">Neu Jahr: Ein farbenfrohes Lila für Feierlischkeiten.</string>
@@ -130,7 +130,7 @@
 
     <string name="settings_thunderhub">Hier geht\'s zum ThunderHub</string>
     <string name="settings_thunderhub_description">- Erhalte Zugriff auf ThunderDex Neuigkeiten\n- ERfahre wie Du helfen kannst</string>
-    <string name="settings_app_customization">App Customization</string>
+    <string name="settings_app_customization">App Benuzerdefinierbarkeit</string>
 
     <!-- Section: Theme Configuration -->
     <string name="themes_toolbar_title">Farbschemen</string>
@@ -179,20 +179,20 @@
     <string name="about_thunderdex_contributors">ThunderDexs Mitwirkende</string>
     <string name="about_contributor_one"><b>Tdikristof_</b> auf Discord <b>(Ungarische Übersetzung)</b></string>
     <string name="about_contributor_two"><b>Theslimyboi</b> auf Discord <b>(Litauische Übersetzung)</b></string>
-    <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Deutsche Übersetzung)</b></string>
+    <string name="about_contributor_three_og"><b>Flitzepipe</b> auf Discord <b>(Deutsche Übersetzung; Haupt Softwaretester)</b></string>
     <string name="about_contributor_three"><b>Proxima</b> auf Discord <b>(Geholfen bei Deutscher Übersetzungs)</b></string>
     <string name="about_contributor_four"><b>Cosmicweb08</b> auf Discord <b>(Hindi Übersetzung)</b></string>
     <string name="about_contributor_five"><b>viispy</b> auf Discord <b>(Portugiesisch-Brasilianische Übersetzung)</b></string>
     <string name="about_contributor_six"><b>needatreat</b> auf Discord <b>(Russische Übersetzung)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> auf Telegram <b>(Wiki 3.0 Implementierung)</b></string>
-    <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
-    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>    <!-- Section: Contribute Translations -->
+    <string name="about_contributor_eight"><b>bearcat29</b> auf Discord <b>(Haupt Softwaretester, half ThunderDex zu dem zumachen was es heute ist)</b></string>
+    <string name="about_contributor_nine"><b>Paget96</b> auf Telegram <b>(BubbleEmitterView (Effektname), Sichtbar im Banner der Einstellungen)</b></string>    <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Übersetze ThunderDex</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
     <string name="contribute_summary_two" translatable="false"><i>Bald Verfügbar!</i></string>
     <string name="translations_clickable_link">Klick <a href="https://github.com/hifii/warthunderwiki-translations">hier</a> um die Seite zu besuchen.</string>
-    <string name="translations_coming_soon_teaser">Wird baltig wiederkehrern!\nEin neues Design ist gerade in Entwicklung</string>
+    <string name="translations_coming_soon_teaser">Kommt bald wieder!\nEin neues Design ist gerade in Entwicklung</string>
     <string name="contribution_enticement_language_chooser">Interessiert mit zu helfen?</string>
 
     <!-- Section: Github Translations -->
@@ -220,7 +220,7 @@
     <string name="upcoming_feature_seven">• Hinzufüger einer Möglichkeit zum Ändern der Sprache eines Fahrzeug Artikels, sofern verfügbar</string>
 
     <!-- About menu -->
-    <string name="about_menu_app_customization">App Customization\n(Experimental)</string>
+    <string name="about_menu_app_customization">App Benuzerdefinierbarkeit\n(Experimentell)</string>
 
     <!-- Section: Sort By Strings -->
     <string name="sort_by">Sortieren nach</string>
@@ -307,8 +307,8 @@
     <string name="commit_date_placeholder">Letztes Update: %1$s</string>
 
     <!-- Section: Reddit -->
-    <string name="reddit_title">Treten sie dem ThunderDex Subreddit bei!</string>
-    <string name="reddit_summary">Drücke hier, um den ThunderDex Subreddit beizutreten! 😁</string>
+    <string name="reddit_title">Treten sie dem ThunderDex SubReddit bei!</string>
+    <string name="reddit_summary">Drücke hier, um den ThunderDex SubReddit beizutreten! 😁</string>
 
     <!-- Section: Changelog -->
     <string name="changelog">Änderungsprotokoll</string>
