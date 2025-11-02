@@ -59,6 +59,7 @@
 
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Standart</string>
+    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_default_desc">ThunderDexs klassisches Lila</string>
     <string name="themes_dynamic_title">Dynamische Farben</string>
     <string name="themes_dynamic_desc"><b>Dynamische Farben</b> verwenden sie ihre Hintergrundfarben um die UI Elemente von ThunderDex zu färben.</string>
@@ -90,6 +91,7 @@
     <string name="themes_halloween_desc">Halloween: Tiefes Schwarz mit Roten Untertönen.</string>
     <string name="themes_christmas_desc">Weihnachten: Ein kräftiges grün für ein festliches Designs.</string>
     <string name="themes_new_years_desc">Neu Jahr: Ein farbenfrohes Lila für Feierlischkeiten.</string>
+    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
 
     <!-- Section: Settings -->
     <string name="app_theme_setting">Farbschemen</string>

@@ -3,7 +3,7 @@
 
     <!-- Section: App Name and Titles -->
     <string name="app_name" translatable="false">"  ThunderDex  "</string>
-    <string name="header_title" translatable="false">ThunderDex</string>
+    <string name="header_title" translatable="false">"  ThunderDex  "</string>
     <string name="settings_title">" Settings "</string>
 
     <!-- Section: Main Menu and Navigation -->
@@ -453,6 +453,7 @@
 
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
+    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
     <string name="themes_dynamic_title">Dynamic Color</string>
     <string name="themes_dynamic_desc"><b>Dynamic Color</b> uses your wallpaper colors to style ThunderDex UI Elements.</string>
@@ -484,6 +485,7 @@
     <string name="themes_halloween_desc">Halloween: Deep black with red undertones.</string>
     <string name="themes_christmas_desc">Christmas: A rich green for festive designs.</string>
     <string name="themes_new_years_desc">New Years: A vibrant purple for celebration.</string>
+    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
 
     <string name="view_older_changelogs">View older changelogs</string>
 
