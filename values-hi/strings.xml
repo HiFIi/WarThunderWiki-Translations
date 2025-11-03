@@ -110,6 +110,7 @@
     <!-- Theme Titles and Descriptions -->
     <string name="themes_default_title">थंडरडेक्स डिफॉल्ट</string>
     <string name="themes_default_desc">थंडरडेक्स क्लासिक पर्पल</string>
+    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_dynamic_title">गतिशील</string>
     <string name="themes_dynamic_desc">मोनेट: आपके वॉलपेपर पर आधारित गतिशील थीम\n(एंड्रॉइड 12+)</string>
     <string name="themes_black_title">काला</string>
@@ -137,9 +138,22 @@
     <string name="themes_wt_assistant_desc">WT असिस्टेंट: एक ठंडा, हल्का नीला-ग्रे।</string>
     <string name="themes_space_cadet_desc">स्पेस कैडेट: बैंगनी रंग के संकेत के साथ एक गहरा नीला-ग्रे।</string>
     <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
+    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
     <string name="themes_halloween_desc">हैलोवीन: लाल अंडरटोन के साथ गहरा काला।</string>
     <string name="themes_christmas_desc">क्रिसमस: उत्सव के डिजाइनों के लिए एक गहरा हरा।</string>
     <string name="themes_new_years_desc">नया साल: उत्सव के लिए एक जीवंत बैंगनी।</string>
+    <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+
+    <!-- Webpage download stuff -->
+    <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
+    <string name="article_failed_to_save">Failed to save article.</string>
+    <string name="webpage_download_title">Downloading Article</string>
+    <string name="webpage_download_confirmation_message">Do you want to download this article for offline reading?\n\n(Estimated size: %1$s)</string>
+    <string name="webpage_download_confirmation_message_unknown_size">Do you want to download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
+    <string name="webpage_download_confirm">Download</string>
+    <string name="webpage_download_cancel">Cancel</string>
+    <string name="webpage_estimating_size">Estimating download size...</string>
+    <string name="webpage_download_confirmation_message_unknown_size_generic">Do you want to download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
     <!-- Theme Chooser (Legacy) -->
     <string name="default_theme">डिफ़ॉल्ट</string>
     <string name="dynamic_colors_theme">गतिशील रंग</string>

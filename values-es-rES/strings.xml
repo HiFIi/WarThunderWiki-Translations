@@ -12,6 +12,7 @@
     <string name="theme_chooser_header_title">Temas</string>
 
     <string name="themes_default_title">ThunderDex Predeterminado</string>
+    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_default_desc">ThunderDex Clásico Púrpura</string>
     <string name="themes_dynamic_title">Dinámico</string>
     <string name="themes_dynamic_desc">Monet: Tema dinámico basado en tu fondo de pantalla\n(Android 12+).</string>
@@ -36,7 +37,6 @@
     <string name="themes_red_green_title">Rojos y Verdes</string>
     <string name="themes_red_category">Rojos</string>
     <string name="themes_dark_red_desc">Rojo oscuro: Rojo intenso con matices marrones.</string>
-
     <string name="theme_greens_title">Verdes</string>
     <string name="themes_forest_green_desc">Verde bosque: Verde oscuro profundo que recuerda a un bosque.</string>
     <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
@@ -47,7 +47,19 @@
     <string name="themes_halloween_desc">Halloween: Negro profundo con matices rojos.</string>
     <string name="themes_christmas_desc">Navidad: Verde intenso para diseños festivos.</string>
     <string name="themes_new_years_desc">Año Nuevo: Púrpura vibrante para celebraciones.</string>
+    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
+    <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
 
+    <!-- Webpage download stuff -->
+    <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
+    <string name="article_failed_to_save">Failed to save article.</string>
+    <string name="webpage_download_title">Downloading Article</string>
+    <string name="webpage_download_confirmation_message">Do you want to download this article for offline reading?\n\n(Estimated size: %1$s)</string>
+    <string name="webpage_download_confirmation_message_unknown_size">Do you want to download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
+    <string name="webpage_download_confirm">Download</string>
+    <string name="webpage_download_cancel">Cancel</string>
+    <string name="webpage_estimating_size">Estimating download size...</string>
+    <string name="webpage_download_confirmation_message_unknown_size_generic">Do you want to download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
     <!-- Theme Enable Options -->
     <string name="app_themes__experimental_warning">Si la aplicación se cierra, simplemente vuelve a abrirla</string>
     <string name="default_theme">Predeterminado</string>

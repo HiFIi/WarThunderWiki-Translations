@@ -3,7 +3,7 @@
 
     <!-- Section: App Name and Titles -->
     <string name="app_name" translatable="false">"  ThunderDex  "</string>
-    <string name="header_title" translatable="false">ThunderDex</string>
+    <string name="header_title" translatable="false">"  ThunderDex  "</string>
     <string name="settings_title">" Settings "</string>
 
     <!-- Section: Main Menu and Navigation -->
@@ -453,6 +453,7 @@
 
     <!-- Themes -->
     <string name="themes_default_title">ThunderDex Default</string>
+    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_default_desc">ThunderDex Classic Purple</string>
     <string name="themes_dynamic_title">Dynamic Color</string>
     <string name="themes_dynamic_desc"><b>Dynamic Color</b> uses your wallpaper colors to style ThunderDex UI Elements.</string>
@@ -477,13 +478,29 @@
     <string name="theme_greens_title">Greens</string>
     <string name="themes_forest_green_desc">Forest Green: A deep, dark green resembling a forest.</string>
     <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
-    <string name="themes_category_misc_title">Misc</string>
+    <string name="themes_category_misc_title">Misc.</string>
     <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray.</string>
     <string name="themes_space_cadet_desc">Space Cadet: A deep bluish-gray with hints of purple.</string>
     <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
     <string name="themes_halloween_desc">Halloween: Deep black with red undertones.</string>
-    <string name="themes_christmas_desc">Christmas: A rich green for festive designs.</string>
-    <string name="themes_new_years_desc">New Years: A vibrant purple for celebration.</string>
+    <string name="themes_christmas_desc">Hope you brought a shovel this year for this festive animated Christmas theme</string>
+    <string name="themes_new_years_desc">New Years: A deep purple/blue theme with animated fireworks!</string>
+    <string name="themes_radar_desc">Radar: A sweeping animated Radar theme</string>
+    <string name="themes_war_thunder_title">War Thunder</string>
+    <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+    <string name="themes_fluid_motion_title">Fluid Motion (Animated)</string>
+    <string name="themes_fluid_motion_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+
+    <!-- Webpage download stuff -->
+    <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
+    <string name="article_failed_to_save">Failed to save article.</string>
+    <string name="webpage_download_title">Downloading Article</string>
+    <string name="webpage_download_confirmation_message">Do you want to download this article for offline reading?\n\nEstimated size: %1$s</string>
+    <string name="webpage_download_confirmation_message_unknown_size">Do you want to download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
+    <string name="webpage_download_confirm">Download</string>
+    <string name="webpage_download_cancel">Cancel</string>
+    <string name="webpage_estimating_size">Estimating download size...</string>
+    <string name="webpage_download_confirmation_message_unknown_size_generic">Do you want to download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
 
     <string name="view_older_changelogs">View older changelogs</string>
 
@@ -505,4 +522,5 @@
 
     <!-- DO NOT UPLOAD KEY To WT Translations Github (https://github.com/HiFIi/WarThunderWiki-Translations) -->
     <string name="default_web_client_id" translatable="false">PRIVATE</string>
+
 </resources>
