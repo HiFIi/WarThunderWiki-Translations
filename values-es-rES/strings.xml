@@ -12,7 +12,6 @@
     <string name="theme_chooser_header_title">Temas</string>
 
     <string name="themes_default_title">ThunderDex Predeterminado</string>
-    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_default_desc">ThunderDex Clásico Púrpura</string>
     <string name="themes_dynamic_title">Dinámico</string>
     <string name="themes_dynamic_desc">Monet: Tema dinámico basado en tu fondo de pantalla\n(Android 12+).</string>
@@ -48,7 +47,6 @@
     <string name="themes_halloween_desc">Halloween: Negro profundo con matices rojos.</string>
     <string name="themes_christmas_desc">Navidad: Verde intenso para diseños festivos.</string>
     <string name="themes_new_years_desc">Año Nuevo: Púrpura vibrante para celebraciones.</string>
-    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
 
     <!-- Theme Enable Options -->
     <string name="app_themes__experimental_warning">Si la aplicación se cierra, simplemente vuelve a abrirla</string>

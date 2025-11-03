@@ -14,7 +14,6 @@
 
     <!-- II. Themes -->
     <string name="themes_default_title">ThunderDex Alapértelmezett</string>
-    <string name="themes_new_default_title">Default and Dynamic</string>
     <string name="themes_default_desc">ThunderDex Klasszikus Lila</string>
     <string name="themes_dynamic_title">Dinamikus</string>
     <string name="themes_dynamic_desc">Monet: Dinamikus téma a háttérképed alapján\n(Android 12+).</string>
@@ -46,7 +45,6 @@
     <string name="themes_halloween_desc">Halloween: Mély fekete vöröses árnyalatokkal.</string>
     <string name="themes_christmas_desc">Karácsony: Gazdag zöld ünnepi dizájnokhoz.</string>
     <string name="themes_new_years_desc">Újév: Élénk lila az ünnepléshez.</string>
-    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
 
     <!-- III. Navigation & UI Labels -->
     <string name="home">Kezdőlap</string>
