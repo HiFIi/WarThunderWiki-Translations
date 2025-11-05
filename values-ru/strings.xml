@@ -75,8 +75,18 @@
     <string name="settings_about_title">О приложении ThunderDex</string>
     <string name="settings_clear_cache_title">Очистить кэш</string>
     <string name="settings_clear_cache_desc">Очищяем</string>
+    <string name="settings_clear_cache_dialog_title">Delete App Data &amp; Cache</string>
+    <string name="settings_clear_cache_dialog_body">Would you like to clear the app data &amp; cache?</string>
+    <string name="settings_clear_cache_dialog_confirm">Yes, clear cache &amp; data</string>
     <string name="donate_dialog_title"><b>!!! Поддержать мой проект донатом !!!</b></string>
     <string name="dev_support_settings_body">Перевести на <b>PayPal</b> или <b>Cash App️</b> ❤️</string>
+
+    <!-- Settings changelog -->
+    <string name="settings_full_changelog_title">Full Changelog</string>
+
+    <!-- Affirmations -->
+    <string name="no">No</string>
+    <string name="dialog_no">No</string>
 
     <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
     <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
@@ -298,11 +308,13 @@
     <string name="themes_nocturne_desc">Nocturne: A deep, flat, beautiful purple theme</string>
     <string name="themes_radar_desc">Radar: A live sweeping Radar animation theme</string>
     <string name="themes_halloween_desc">Halloween: We\re getting spooky! This theme features a festive Halloween inspired design</string>
-    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling sanow</string>
+    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling snow</string>
     <string name="themes_new_years_desc">New Years: A new year already? This festive theme features a unique header image and animated fireworks!</string>
     <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
     <string name="themes_fluid_motion_title">Fluid Motion (Animated)</string>
     <string name="themes_fluid_motion_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+    <string name="themes_wof_title">Wings of Fury</string>
+    <string name="themes_wof_desc">Wings of Fury features a blurred image captured in War Thunder by me, with the theme revolving around this image</string>
 
     <!-- Webpage download stuff -->
     <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>

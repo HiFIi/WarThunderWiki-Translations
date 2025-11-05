@@ -90,11 +90,13 @@
     <string name="themes_nocturne_desc">Nocturne: A deep, flat, beautiful purple theme</string>
     <string name="themes_radar_desc">Radar: A live sweeping Radar animation theme</string>
     <string name="themes_halloween_desc">Halloween: We\re getting spooky! This theme features a festive Halloween inspired design</string>
-    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling sanow</string>
+    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling snow</string>
     <string name="themes_new_years_desc">New Years: A new year already? This festive theme features a unique header image and animated fireworks!</string>
     <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
     <string name="themes_fluid_motion_title">Fluid Motion (Animated)</string>
     <string name="themes_fluid_motion_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+    <string name="themes_wof_title">Wings of Fury</string>
+    <string name="themes_wof_desc">Wings of Fury features a blurred image captured in War Thunder by me, with the theme revolving around this image</string>
 
     <!-- Webpage download stuff -->
     <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
@@ -125,11 +127,22 @@
     <string name="settings_about_title">Über ThunderDex</string>
     <string name="settings_clear_cache_title">Cache Leeren</string>
     <string name="settings_clear_cache_desc">Löscht temporäre App Daten</string>
+    <string name="settings_clear_cache_dialog_title">Delete App Data &amp; Cache</string>
+    <string name="settings_clear_cache_dialog_body">Would you like to clear the app data &amp; cache?</string>
+    <string name="settings_clear_cache_dialog_confirm">Yes, clear cache &amp; data</string>
     <string name="donate_dialog_title"><b>❤️   Unterstütze meine Arbeit, indem sie spenden!!   ❤️</b></string>
     <string name="dev_support_settings_body">Spenden sie über <b>PayPal</b> oder <b>Cash App️</b></string>
     <string name="settings_language_chooser_title__with_body">Sprache\n(Unter Umständen Fehlerhaft mit Android 9-11)</string>
     <string name="settings_more_title">Mehr...</string>
     <string name="settings_commit_history_title">Änderungshistorie (Live Änderungsprotokolle)</string>
+
+    <!-- Affirmations -->
+    <string name="no">No</string>
+    <string name="dialog_no">No</string>
+
+    <!-- Settings changelog -->
+    <string name="settings_full_changelog_title">Full Changelog</string>
+
     <string name="current_time">Current time: </string>
 
     <!-- Section: Experiments -->
