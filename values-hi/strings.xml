@@ -103,46 +103,44 @@
     <string name="upcoming_feature_seven">• यदि समर्थित हो तो उपयोगकर्ता भाषा के आधार पर वाहन जानकारी भाषा बदलें</string>
 
 
-    <!-- X. Themes -->
-    <string name="theme_chooser_header_title">थीम्स</string>
-    <string name="theme_not_available_on_your_device">"यह थीम आपके डिवाइस पर एंड्रॉइड चलाने के लिए उपलब्ध नहीं है "</string>
-    <string name="app_themes__experimental_warning">यदि ऐप क्रैश हो जाता है, तो बस इसे फिर से खोलें</string>
-    <!-- Theme Titles and Descriptions -->
-    <string name="themes_default_title">थंडरडेक्स डिफॉल्ट</string>
-    <string name="themes_default_desc">थंडरडेक्स क्लासिक पर्पल</string>
+    <!-- Themes -->
+    <string name="themes_default_title">ThunderDex Default</string>
     <string name="themes_new_default_title">Default and Dynamic</string>
-    <string name="themes_dynamic_title">गतिशील</string>
-    <string name="themes_dynamic_desc">मोनेट: आपके वॉलपेपर पर आधारित गतिशील थीम\n(एंड्रॉइड 12+)</string>
-    <string name="themes_black_title">काला</string>
-    <string name="themes_black_desc">AMOLED काला: AMOLED स्क्रीन के लिए गहरा, ठोस काला आदर्श।</string>
-    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time dynamic theme with a live sky header</string>
-    <string name="themes_almost_black_desc">लगभग काला: हल्के लाल रंग के संकेत के साथ बहुत गहरा काला।</string>
-    <string name="themes_blues_and_teals_header">नीले और टील्स</string>
-    <string name="theme_category_blues_title">नीले</string>
-    <string name="themes_thunder_teal_desc">थंडर टील: हरे-नीले रंग के साथ एक गहरा, गहरा टील।</string>
-    <string name="themes_thunder_blues_desc">थंडर ब्लूज़: लगभग काले अंडरटोन वाला एक गहरा नीला।</string>
-    <string name="themes_dull_blue_desc">डल ब्लू: एक हल्का, भूरा-नीला रंग जिसमें एक शांत अनुभव हो।</string>
-    <string name="themes_darkish_blue_desc">गहरा नीला: अधिक तीव्रता वाला एक गहरा नीला।</string>
-    <string name="themes_barely_blue_desc">बेयरली ब्लू: हल्के बैंगनी अंडरटोन वाला एक गहरा नीला।</string>
-    <string name="themes_category_greys_title">ग्रे</string>
-    <string name="themes_lyft_grey_desc">लिफ़्ट ग्रे: नीले रंग के स्पर्श के साथ एक ठंडा, गहरा ग्रे।</string>
-    <string name="themes_google_grey_desc">ग्रे: एक गहरा, तटस्थ ग्रे, जो संतुलन प्रदान करता है।</string>
-    <string name="themes_red_green_title">लाल और हरे</string>
-    <string name="themes_red_category">लाल</string>
-    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful header</string>
-    <string name="themes_vortex_desc">Vortex: A pleasant, flat red theme</string>
-    <string name="theme_greens_title">हरे</string>
-    <string name="themes_forest_green_desc">फ़ॉरेस्ट ग्रीन: जंगल जैसा दिखने वाला एक गहरा, गहरा हरा।</string>
-    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme.</string>
-    <string name="themes_category_misc_title">विविध</string>
-    <string name="themes_wt_assistant_desc">WT असिस्टेंट: एक ठंडा, हल्का नीला-ग्रे।</string>
-    <string name="themes_space_cadet_desc">स्पेस कैडेट: बैंगनी रंग के संकेत के साथ एक गहरा नीला-ग्रे।</string>
-    <string name="themes_nocturne_desc">Nocturne: A deep, beautiful purple.</string>
-    <string name="themes_radar_desc">Radar: A sweeping Radar animation theme</string>
-    <string name="themes_halloween_desc">हैलोवीन: लाल अंडरटोन के साथ गहरा काला।</string>
-    <string name="themes_christmas_desc">क्रिसमस: उत्सव के डिजाइनों के लिए एक गहरा हरा।</string>
-    <string name="themes_new_years_desc">नया साल: उत्सव के लिए एक जीवंत बैंगनी।</string>
+    <string name="themes_default_desc">ThunderDex Classic Purple</string>
+    <string name="themes_dynamic_title">Dynamic</string>
+    <string name="themes_dynamic_desc"><b>Dynamic Colors:</b> Extracts colors from your wallpaper and applies them to ThunderDex\' interface for a personalized look.\nAvailable only on Android 12+</string>
+    <string name="themes_black_title">Black</string>
+    <string name="themes_black_desc">AMOLED Black: <i>The</i> classic all-black theme</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time theme that changes colors based on the time of day</string>
+    <string name="themes_almost_black_desc">Almost Black: Slightly lighter than Pitch black, features a unique app header</string>
+    <string name="themes_blues_and_teals_header">Blues and Teals</string>
+    <string name="theme_category_blues_title">Blues</string>
+    <string name="themes_thunder_teal_desc">Thunder Teal: A rich, dark teal with a greenish-blue tint</string>
+    <string name="themes_thunder_blues_desc">Thunder Blues: A dark blue theme</string>
+    <string name="themes_dull_blue_desc">Dull Blue: A dull, muted blue with theme</string>
+    <string name="themes_darkish_blue_desc">Darkish Blue: A deeper, darker blue with more intensity</string>
+    <string name="themes_barely_blue_desc">Barely Blue: A theme that is barely blue!</string>
+    <string name="themes_category_greys_title">Greys</string>
+    <string name="themes_lyft_grey_desc">Lyft Grey: Taken right out of the Lyft Ride app, this is a flat themee with the Lyft Grey color</string>
+    <string name="themes_google_grey_desc">Grey: Differing from the Lyft theme,e this is closer to a Google Grey</string>
+    <string name="themes_red_green_title">Reds and Greens</string>
+    <string name="themes_red_category">Reds</string>
+    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful red-blue header</string>
+    <string name="themes_vortex_desc">Vortex: A simple flat red theme</string>
+    <string name="theme_greens_title">Greens</string>
+    <string name="themes_forest_green_desc">Forest Green: A beautiful dark green theme</string>
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme</string>
+    <string name="themes_category_misc_title">Misc</string>
+    <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray</string>
+    <string name="themes_space_cadet_desc">Space Cadet: Slightly resembles the Classic app theme, this theme is a lighter purple</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, flat, beautiful purple theme</string>
+    <string name="themes_radar_desc">Radar: A live sweeping Radar animation theme</string>
+    <string name="themes_halloween_desc">Halloween: We\re getting spooky! This theme features a festive Halloween inspired design</string>
+    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling sanow</string>
+    <string name="themes_new_years_desc">New Years: A new year already? This festive theme features a unique header image and animated fireworks!</string>
     <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+    <string name="themes_fluid_motion_title">Fluid Motion (Animated)</string>
+    <string name="themes_fluid_motion_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
 
     <!-- Webpage download stuff -->
     <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
