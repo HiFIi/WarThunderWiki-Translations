@@ -98,13 +98,12 @@
     <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
     <string name="article_failed_to_save">Failed to save article.</string>
     <string name="webpage_download_title">Downloading Article</string>
-    <string name="webpage_download_confirmation_message">Do you want to download this article for offline reading?\n\nEstimated size: %1$s</string>
-    <string name="webpage_download_confirmation_message_unknown_size">Do you want to download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
+    <string name="webpage_download_confirmation_message">Download this article for offline reading?\n\nEstimated size: %1$s</string>
+    <string name="webpage_download_confirmation_message_unknown_size">Download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
     <string name="webpage_download_confirm">Download</string>
     <string name="webpage_download_cancel">Cancel</string>
     <string name="webpage_estimating_size">Estimating download size...</string>
-    <string name="webpage_download_confirmation_message_unknown_size_generic">Do you want to download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
-
+    <string name="webpage_download_confirmation_message_unknown_size_generic">Download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
     <!-- Section: Settings -->
     <string name="app_theme_setting">Farbschemen</string>
     <string name="theme_chooser_header_title">Farbschemen</string>
