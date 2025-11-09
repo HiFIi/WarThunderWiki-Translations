@@ -156,13 +156,18 @@
     <!-- Webpage download stuff -->
     <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
     <string name="article_failed_to_save">Failed to save article.</string>
-    <string name="webpage_download_title">Downloading Article</string>
+    <string name="webpage_download_title">Download Article?</string>
     <string name="webpage_download_confirmation_message">Download this article for offline reading?\n\nEstimated size: %1$s</string>
     <string name="webpage_download_confirmation_message_unknown_size">Download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
     <string name="webpage_download_confirm">Download</string>
     <string name="webpage_download_cancel">Cancel</string>
     <string name="webpage_estimating_size">Estimating download size...</string>
     <string name="webpage_download_confirmation_message_unknown_size_generic">Download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
+
+    <!-- strings for offline mode -->
+    <string name="you_are_offline_showing_cached_feed">You are currently offline. Showing cached news feed.</string>
+    <string name="no_internet_and_no_cached_feed">No internet connection and no news feed cached.</string>
+    <string name="loading_cached_feed">Loading cached news feed...</string>
 
     <!-- Theme Chooser (Legacy) -->
     <string name="default_theme">डिफ़ॉल्ट</string>
