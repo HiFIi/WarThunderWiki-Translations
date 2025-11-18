@@ -1,5 +1,6 @@
 <!-- suppress CheckTagEmptyBody  -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
     <!--  Section: App Name and Titles  -->
     <string name="settings_title">" Ustawienia "</string>
 
@@ -116,7 +117,7 @@
     <string name="settings_app_theme_desc">OBECNIE NIEUŻYWANE</string>
     <string name="enable_monet_theming">Enable Dynamic Colors</string>
     <string name="enable_black_theme">AMOLED Black theme</string>
-    
+
     <!-- *** RESPECT QUOTATIONS*** -->
     <string name="enable_almost_black_theme">"Almost Black" Theme</string>
     <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
@@ -439,4 +440,3 @@
     <string name="loading_cached_feed">Wczytywanie zbuforowanych wiadomości...</string>
     <string name="view_older_changelogs">Zobacz starsze changelogi</string>
 </resources>
-

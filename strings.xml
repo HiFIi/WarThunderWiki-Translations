@@ -172,6 +172,7 @@
     <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
     <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
     <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>
+    <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>
 
     <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Contribute Translations</string>
@@ -231,6 +232,7 @@
         <item>Hindi</item>
         <item>Hungarian</item>
         <item>Lithuanian</item>
+        <item>Polish</item>
         <item>Portuguese (Brazil)</item>
         <item>Spanish</item>
     </string-array>

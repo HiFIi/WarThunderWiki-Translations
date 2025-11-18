@@ -153,7 +153,10 @@
     <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
     <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
-    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>    <!-- Section: Contribute Translations -->
+    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>
+    <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>
+
+    <!-- Section: Contribute Translations -->
     <string name="contribute_translations">Внести свой вклад в переводы</string>
     <string name="contribute_translations_button_text">Нажмите здесь, чтобы узнать, как это сделать!</string>
     <!-- <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>

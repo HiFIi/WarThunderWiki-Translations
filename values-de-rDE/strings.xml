@@ -220,6 +220,7 @@
     <string name="about_contributor_seven"><b>koorDesart</b> auf Telegram <b>(Wiki 3.0 Implementierung)</b></string>
     <string name="about_contributor_eight"><b>bearcat29</b> auf Discord <b>(Haupt Softwaretester, half ThunderDex zu dem zumachen was es heute ist)</b></string>
     <string name="about_contributor_nine"><b>Paget96</b> auf Telegram <b>(BubbleEmitterView (Effektname), Sichtbar im Banner der Einstellungen)</b></string>    <!-- Section: Contribute Translations -->
+    <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>
     <string name="contribute_translations">Übersetze ThunderDex</string>
     <string name="contribute_translations_button_text">Klick hier, um zu lernen wie!</string>
     <string name="contribute_summary" translatable="false">test <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>

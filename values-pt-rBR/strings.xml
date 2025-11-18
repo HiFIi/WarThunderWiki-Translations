@@ -202,7 +202,10 @@
     <string name="about_contributor_six"><b>needatreat</b> on Discord <b>(Russian Translations)</b></string>
     <string name="about_contributor_seven"><b>koorDesart</b> on Telegram <b>(Wiki 3.0 Implementation to keep the app alive)</b></string>
     <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
-    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>    <!-- XII. Experiments -->
+    <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>
+    <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>
+
+    <!-- XII. Experiments -->
     <string name="settings_experiments_body">Currently Testing:\nFluid Gradient types\nWiki 3.0 implementation</string>
     <string name="settings_experiments_title">Experimental features and tests</string>
     <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Type Tests</string>
