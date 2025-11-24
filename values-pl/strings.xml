@@ -1,5 +1,6 @@
 <!-- suppress CheckTagEmptyBody  -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
     <!--  Section: App Name and Titles  -->
     <string name="settings_title">" Ustawienia "</string>
 
@@ -44,6 +45,7 @@
     <!--  Section: Airborne Radar  -->
     <string name="radar_header_title">Radar pokładowy</string>
     <string name="airborne_radar_grouped_fragment">Radar pokładowy</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
 
     <!--  Section: Weaponry  -->
     <string name="toolbar_title_aircraft_machine_guns">Karabiny maszynowe (lotnictwo)</string>
@@ -74,8 +76,7 @@
         <i>Dołącz do czegoś wyjątkowego!</i>
     </string>
     <string name="settings_translate">Tłumacz ThunderDex</string>
-    <string name="settings_about_title">ThunderDex</string>
-    
+    <string name="settings_about_title">O ThunderDex</string>
     <string name="settings_clear_cache_dialog_title">Usuń dane aplikacji i pamięć podręczną</string>
     <string name="settings_clear_cache_dialog_body">Czy chcesz wyczyścić dane aplikacji i pamięć podręczną?</string>
     <string name="settings_clear_cache_dialog_confirm">Tak, wyczyść pamięć podręczną i dane</string>
@@ -114,27 +115,27 @@
     <string name="themes_toolbar_title">Motywy</string>
     <string name="settings_app_theme_title">Dynamiczne kolory aplikacji</string>
     <string name="settings_app_theme_desc">OBECNIE NIEUŻYWANE</string>
-    <string name="enable_monet_theming">Włącz dynamiczne kolorys</string>
-    <string name="enable_black_theme">Motyw AMOLED czarny</string>
-    
-    <!-- *** RESPECT QUOTATIONS*** -->
-    <string name="enable_almost_black_theme">"Prawie czarny" Theme</string>
-    <string name="enable_lyft_grey_theme">"Szary" Theme</string>
-    <string name="enable_slate_grey_theme">"Szary łupkowy" Theme</string>
-    <string name="enable_thunderteal_theme">"Błękitna burza" Theme</string>
-    <string name="enable_royal_purple_theme">"Królewski fiolet" Theme</string>
-    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
-    <string name="enable_wtr_blue_theme">"granatowy" Theme</string>
-    <string name="enable_dull_blue_theme">'bladoniebieski' Theme</string>
-    <string name="enable_space_cadet_theme">"kadet kosmosu" Theme</string>
-    <string name="enable_dark_red_theme">"ciemnoczerwony" Theme</string>
-    <string name="enable_darkish_blue_theme">'Ciemnoniebieski' Theme</string>
-    <string name="enable_forest_green_theme">Leśna zieleń Theme</string>
-    <string name="enable_halloween_theme">Halloween</string>
+    <string name="enable_monet_theming">Enable Dynamic Colors</string>
+    <string name="enable_black_theme">AMOLED Black theme</string>
 
-    <string name="enable_new_years_theme">Nowy rok</string>
-    <string name="default_theme">normalne</string>
-    <string name="dynamic_colors_theme">dynamiczne kolory</string>
+    <!-- *** RESPECT QUOTATIONS*** -->
+    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
+    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
+    <string name="enable_slate_grey_theme">Slate Grey Theme</string>
+    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
+    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
+    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
+    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
+    <string name="enable_dull_blue_theme">Barely Blue Theme</string>
+    <string name="enable_space_cadet_theme">"Space Cadet" Theme</string>
+    <string name="enable_dark_red_theme">Dark Red Theme</string>
+    <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
+    <string name="enable_forest_green_theme">Forest Green Theme</string>
+    <string name="enable_halloween_theme">Halloween</string>
+    <string name="enable_christmas_theme">Christmas</string>
+    <string name="enable_new_years_theme">New Years</string>
+    <string name="default_theme">Default</string>
+    <string name="dynamic_colors_theme">Dynamic Colors</string>
 
     <!--  Section: Theme Categories  -->
     <string name="themes_category_dark_colors">Ciemne kolory</string>
@@ -233,8 +234,8 @@
     <string name="contribute_translations_button_text">Kliknij, aby dowiedzieć się jak!</string>
 
     <!--  Previously commented out, now defined to resolve warnings  -->
-    <string name="contribute_summary" translatable="false">Dowiedz się, jak dodawać tłumaczenia: <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
-    <string name="contribute_summary_two" translatable="false"><i>Wkrótce więcej opcji!</i></string>
+    <string name="contribute_summary" translatable="false">Learn how to contribute translations: <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="contribute_summary_two" translatable="false"><i>More contribution options coming soon!</i></string>
     <string name="translations_clickable_link">
         Kliknij
         <a href="https://github.com/hifii/warthunderwiki-translations">tutaj</a>
@@ -247,8 +248,8 @@
     <string name="github_translations_first_time_q__title">Pierwszy raz?</string>
     <string name="github_translations_first_time_create_account_splitbutton">Utwórz konto GitHub</string>
     <string name="github_translations_first_time_hide_splitbutton">Ukryj</string>
-    <string name="github_translations_wt_wiki_clickable_github_text_link"><b>→</b> Tłumaczenia Thunderdex na GitHub <b>←</b></string>
-    <string name="github_translations_wt_wiki_clickable_github_text_link__emojis">🔗 Tłumaczenia Thunderdex na GitHub 🔗</string>
+    <string name="github_translations_wt_wiki_clickable_github_text_link"><b>→</b> Thunderdex Translations GitHub <b>←</b></string>
+    <string name="github_translations_wt_wiki_clickable_github_text_link__emojis">🔗 Thunderdex Translations GitHub 🔗</string>
     <string name="github_translations_steps_title">Aby współtworzyć ThunderDex, wykonaj te kroki:</string>
     <string name="github_translations_step_one">
         <b>Krok 1:</b>
@@ -296,7 +297,7 @@
     <string name="exiting_app_text">Zamykanie...</string>
 
     <!--  Section: Countdown Dialog  -->
-    <string name="countdown_start_text">Restartowanie ThunderDex za </string>
+    <string name="countdown_start_text">Restart ThunderDex za </string>
     <string name="countdown_text_seconds"> sek.</string>
     <string name="countdown_text_one_second">1 sekunda</string>
     <string name="countdown_dialog_zero_text">0 sekund</string>
@@ -314,8 +315,8 @@
     <string name="settings_full_changelog_title">Pełny changelog</string>
 
     <!--  Section: Version Info  -->
-    <string name="version_codes" translatable="false">%s\n\n<b>Wersja:</b>\n#%d</string>
-    <string name="version_code_text">Wersja:</string>
+    <string name="version_codes" translatable="false">%s\n\n<b>Version Code:</b>\n#%d</string>
+    <string name="version_code_text">Kod wersji:</string>
 
     <!--  Section: Error and Connection Handling  -->
     <string name="connection_error">Nie można połączyć z serwerem</string>
@@ -355,12 +356,12 @@
     <string name="commit_date_placeholder">Ostatnia aktualizacja: %1$s</string>
 
     <!--  Section: Reddit  -->
-    <string name="reddit_title">ThunderDex Reddit</string>
+    <string name="reddit_title">ThunderDex Subreddit</string>
     <string name="reddit_summary">Kliknij, aby dołączyć do subreddita ThunderDex 😁</string>
 
     <!--  Section: Changelog  -->
-    <string name="changelog">Zmiany w aplikacji</string>
-    <string name="older_changelogs_title">Historia zmian</string>
+    <string name="changelog">Changelog</string>
+    <string name="older_changelogs_title">Starsze changelogi</string>
 
     <!--  About menu  -->
     <string name="about_menu_app_customization">Personalizacja aplikacji\n(Eksperymentalne)</string>
