@@ -119,15 +119,15 @@
     <string name="enable_black_theme">AMOLED Black theme</string>
 
     <!-- *** RESPECT QUOTATIONS*** -->
-    <string name="enable_almost_black_theme">"Almost Black" Theme</string>
-    <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
+    <string name="enable_almost_black_theme">\"Almost Black\" Theme</string>
+    <string name="enable_lyft_grey_theme">\"Lyft Grey\" Theme</string>
     <string name="enable_slate_grey_theme">Slate Grey Theme</string>
-    <string name="enable_thunderteal_theme">"ThunderTeal" Theme</string>
-    <string name="enable_royal_purple_theme">"Royal Purple" Theme</string>
-    <string name="enable_wtr_assistant_theme">"WT Assistant" Theme</string>
-    <string name="enable_wtr_blue_theme">"Thunder Blues" Theme</string>
+    <string name="enable_thunderteal_theme">\"ThunderTeal\" Theme</string>
+    <string name="enable_royal_purple_theme">\"Royal Purple\" Theme</string>
+    <string name="enable_wtr_assistant_theme">\"WT Assistant\" Theme</string>
+    <string name="enable_wtr_blue_theme">\"Thunder Blues\" Theme</string>
     <string name="enable_dull_blue_theme">Barely Blue Theme</string>
-    <string name="enable_space_cadet_theme">"Space Cadet" Theme</string>
+    <string name="enable_space_cadet_theme">\"Space Cadet\" Theme</string>
     <string name="enable_dark_red_theme">Dark Red Theme</string>
     <string name="enable_darkish_blue_theme">Darkish Blue Theme</string>
     <string name="enable_forest_green_theme">Forest Green Theme</string>
@@ -222,12 +222,15 @@
         na Discordzie
         <b>(mnóstwo feedbacku, który ukształtował ThunderDex)</b>
     </string>
+
+    <!-- FIXED SECTION START -->
     <string name="about_contributor_nine">
-    <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>     
         <b>Paget96</b>
         na Telegramie
         <b>(BubbleEmitterView, widoczne w karcie nagłówka Ustawień)</b>
     </string>
+    <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>
+    <!-- FIXED SECTION END -->
 
     <!--  Section: Contribute Translations  -->
     <string name="contribute_translations">Współtwórz tłumaczenia</string>
