@@ -1,36 +1,44 @@
-<!--suppress CheckTagEmptyBody -->
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Section: App Name and Titles -->
+    <!-- =========================================================
+         SECTION: APP IDENTITY & BASIC NAVIGATION
+         ========================================================= -->
     <string name="app_name" translatable="false">"  ThunderDex  "</string>
     <string name="header_title" translatable="false">"  ThunderDex  "</string>
-    <string name="settings_title">" Settings "</string>
-
-    <!-- Affirmations -->
-    <string name="no">No</string>
-    <string name="dialog_no">No</string>
-
-    <!-- Section: Main Menu and Navigation -->
     <string name="home">Home</string>
     <string name="news">Game News</string>
     <string name="updates">Game Updates</string>
-    <string name="news_updates_date_text_test_do_not_translate" translatable="false">September 25 2025</string>
     <string name="wiki">Wiki</string>
     <string name="about">About</string>
     <string name="settings">Settings</string>
+    <string name="settings_title">" Settings "</string>
 
-    <string name="tank_ammo_loading">Loading...</string>
+    <!-- Global Affirmations / Actions -->
+    <string name="no">No</string>
+    <string name="dialog_no">No</string>
+    <string name="affirmative_text">Done</string>
+    <string name="warning">Warning</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="loading">Loading…</string>
+    <string name="not_available">Not Available</string>
+    <string name="description">Description</string>
+    <string name="cd_back_button">Back button</string>
 
-    <!-- Section: Vehicle Groups -->
+    <!-- =========================================================
+         SECTION: VEHICLE GROUPS & TYPES
+         ========================================================= -->
     <string name="vehicle_types">Vehicles</string>
     <string name="planes">Aircraft</string>
-    <string name="helicopters_shortened_for_vehicle_groups" translatable="false">Helis</string>
     <string name="helicopters">Helicopters</string>
+    <string name="helicopters_shortened_for_vehicle_groups" translatable="false">Helis</string>
     <string name="tanks">Tanks</string>
     <string name="ships">Naval</string>
 
-    <!-- Section: Vehicle Info -->
-    <string name="favorite_vehicles">Favorites</string>
+    <!-- =========================================================
+         SECTION: VEHICLE INFORMATION & SEARCH
+         ========================================================= -->
+    <string name="general_info">General Info</string>
     <string name="battle_rating">Battle Rating:</string>
     <string name="battle_rating_ab">AB</string>
     <string name="battle_rating_rb">RB</string>
@@ -38,86 +46,98 @@
     <string name="research">Research cost</string>
     <string name="purchase">Purchase cost</string>
     <string name="bundle_or_gift">Store Purchase</string>
-    <string name="general_info">General Info</string>
+    <string name="usage_in_battles">Usage in battles</string>
+
     <string name="pros_and_cons">Pros &amp; Cons</string>
     <string name="pros">Pros:</string>
     <string name="cons">Cons:</string>
-    <string name="favorite">Favorite</string>
-    <string name="unfavorite">Unfavorite</string>
-    <string name="vehicle_added_favorites">added to Favorites!</string>
-    <string name="vehicle_removed_favorites">removed from Favorites!</string>
-    <string name="usage_in_battles">Usage in battles</string>
-    <string name="search_vehicle">Search vehicle</string>
-    <string name="search_here">Search here…</string>
-    <string name="clear_search">Clear Search</string>
-
-    <!-- Section: Airborne Radar -->
-    <string name="radar_header_title">"  Airborne Radar  "</string>
-    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
-    <string name="radar_viewpager_tab_title">Radar</string>
-    <!-- required string name for MaterialShared Transition Animation -->
-    <string name="transition_radar" translatable="false">transition_radar</string>
-
-    <!-- Section: Weaponry -->
-    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
-    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
-    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
-    <string name="weaponry_viewpager_tab_title">Weaponry</string>
     <string name="no_pros_cons">No Pros and Cons available</string>
     <string name="no_usage_in_battles">No Usage in Battles is available</string>
     <string name="no_general_info">No General Info is available</string>
     <string name="no_description">No Description is available</string>
 
-    <!-- Section: Settings -->
-    <string name="app_theme_setting">App Themes</string>
-    <string name="theme_chooser_header_title">Themes</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="favorite_vehicles">Favorites</string>
+    <string name="vehicle_added_favorites">added to Favorites!</string>
+    <string name="vehicle_removed_favorites">removed from Favorites!</string>
+
+    <string name="search_vehicle">Search vehicle</string>
+    <string name="search_here">Search here…</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="empty_list">Empty List</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="filter_list">Filter List</string>
+    <string name="sort_alphabetically">Alphabetically</string>
+    <string name="sort_rank_ascending">Rank (Ascending Order)</string>
+    <string name="sort_rank_descending">Rank (Descending Order)</string>
+
+    <!-- =========================================================
+         SECTION: SPECIFIC VEHICLE FEATURES (RADAR/WEAPONRY)
+         ========================================================= -->
+    <!-- Airborne Radar -->
+    <string name="radar_header_title">"  Airborne Radar  "</string>
+    <string name="airborne_radar_grouped_fragment">Airborne Radar</string>
+    <string name="radar_viewpager_tab_title">Radar</string>
+    <string name="transition_radar" translatable="false">transition_radar</string>
+
+    <!-- Weaponry -->
+    <string name="weaponry_viewpager_tab_title">Weaponry</string>
+    <string name="toolbar_title_aircraft_machine_guns">Aircraft Machine Guns</string>
+    <string name="toolbar_title_aircraft_cannons">Aircraft Cannons</string>
+    <string name="toolbar_title_tank_ammunition">Tank Ammunition</string>
+    <string name="tank_ammo_loading">Loading...</string>
+
+    <!-- =========================================================
+         SECTION: APP SETTINGS & CUSTOMIZATION
+         ========================================================= -->
+    <string name="settings_app_customization">App Customization</string>
+    <string name="settings_more_title">More...</string>
+
+    <!-- Language Settings -->
     <string name="settings_language">Language Chooser</string>
+    <string name="settings_language_chooser_title__with_body">Language Chooser\n(may not work on Android 9-11)</string>
     <string name="settings_language_chooser_body">WARNING!\nThis may not work correctly on Android 9–11.</string>
-    <string name="settings_language_info_old">Interested in contributing a language?\n(or updating a language)</string>
-    <string name="settings_language_info">Click the link below to find out more about contributing a language to ThunderDex</string>
     <string name="settings_language_system">Follow system</string>
     <string name="settings_language_system_description">English if translation is not available</string>
-    <string name="support_the_developer">Support the Developer</string>
-    <string name="thunderdex_social">Thunderdex Social</string>
-    <string name="join_the_thunderdex_reddit_or_discord">Click to join the Thunderdex Reddit &amp; Discord!</string>
-    <string name="settings_donate_title">Buy me a Coffee! ☕</string>
-    <string name="settings_donate_desc">Click here to Donate &amp; support my work ❤️</string>
-    <string name="settings_discord_title">Join the Discord group</string>
-    <string name="settings_discord_body"><i>Be part of something amazing!</i></string>
-    <string name="settings_translate">Translate ThunderDex</string>
-    <string name="settings_about_title">About ThunderDex</string>
+    <string name="settings_language_info">Click the link below to find out more about contributing a language to ThunderDex</string>
+    <string name="settings_language_info_old">Interested in contributing a language?\n(or updating a language)</string>
+    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
+
+    <!-- Cache/Data Management -->
+    <string name="settings_clear_cache_title">Clear App Data</string>
+    <string name="settings_clear_cache_desc">Clears the app data</string>
     <string name="settings_clear_cache_dialog_title">Delete App Data &amp; Cache</string>
     <string name="settings_clear_cache_dialog_body">Would you like to clear the app data &amp; cache?</string>
     <string name="settings_clear_cache_dialog_confirm">Yes, clear cache &amp; data</string>
-    <string name="settings_clear_cache_title">Clear App Data</string>
-    <string name="settings_clear_cache_desc">Clears the app data</string>
-    <string name="donate_dialog_title"><b>!!! Support my work by donating !!!</b></string>
-    <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b> ❤️</string>
-    <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
-    <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
-    <string name="settings_app_customization">App Customization</string>
-    <string name="settings_language_chooser_title__with_body">Language Chooser\n(may not work on Android 9-11)</string>
-    <string name="settings_more_title">More...</string>
-    <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
-    <string name="settings_commit_history_title">Commit History (Live changelog)</string>
-    <string name="current_time">Current time: </string>
+    <string name="cache_cleared_toast_message">Cleared Data &amp; Cache</string>
+    <string name="app_cache_size_title">App Cache Size:</string>
 
-    <!-- Section: Experiments -->
-    <string name="currently_testing">Currently Testing:</string>
-    <string name="settings_experiments_title">Experimental features &amp; tests</string>
-    <string name="settings_experiments_body">• Fluid Gradient animation types\n• Pulsed Sparkle Animation\n(for Android 12+)</string>
-    <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Showcase</string>
-    <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
-    <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
-    <string name="settings_experiments_wt_wiki_3_0_body">Playground for Wiki 3.0 implementation</string>
-    <string name="settings_experiments_sparkle_gradient_title">Pulsed Sparkle Animation Showcase</string>
-    <string name="settings_experiments_sparkle_gradient_body">Continuous experiments with a sparkling ripple animation</string>
-
-    <!-- Section: Theme Configuration -->
+    <!-- =========================================================
+         SECTION: THEME ENGINE & CONFIGURATION
+         ========================================================= -->
     <string name="themes_toolbar_title">Themes</string>
+    <string name="theme_chooser_header_title">Themes</string>
+    <string name="app_theme_setting">App Themes</string>
     <string name="settings_app_theme_title">Dynamic App Colors</string>
     <string name="settings_app_theme_desc">UNUSED FOR NOW</string>
+    <string name="default_theme">Default</string>
+    <string name="dynamic_colors_theme">Dynamic Colors</string>
     <string name="enable_monet_theming">Enable Dynamic Colors</string>
+
+    <!-- Theme Categories -->
+    <string name="themes_category_dark_colors">Dark Colors</string>
+    <string name="themes_category_misc_experimental">Misc. &amp; Experimental</string>
+    <string name="themes_category_war_thunder">War Thunder Themes</string>
+    <string name="themes_blues_and_teals_header">Blues and Teals</string>
+    <string name="theme_category_blues_title">Blues</string>
+    <string name="themes_category_greys_title">Greys</string>
+    <string name="themes_red_green_title">Reds and Greens</string>
+    <string name="themes_red_category">Reds</string>
+    <string name="theme_greens_title">Greens</string>
+    <string name="themes_category_misc_title">Misc</string>
+
+    <!-- Theme Selection Options -->
     <string name="enable_black_theme">AMOLED Black theme</string>
     <string name="enable_almost_black_theme">"Almost Black" Theme</string>
     <string name="enable_lyft_grey_theme">"Lyft Grey" Theme</string>
@@ -134,30 +154,92 @@
     <string name="enable_halloween_theme">Halloween</string>
     <string name="enable_christmas_theme">Christmas</string>
     <string name="enable_new_years_theme">New Years</string>
-    <string name="default_theme">Default</string>
-    <string name="dynamic_colors_theme">Dynamic Colors</string>
 
-    <!-- Section: Theme Categories -->
-    <string name="themes_category_dark_colors">Dark Colors</string>
-    <string name="themes_category_misc_experimental">Misc. &amp; Experimental</string>
-    <string name="themes_category_war_thunder">War Thunder Themes</string>
+    <!-- Theme Descriptions -->
+    <string name="themes_default_title">ThunderDex Default</string>
+    <string name="themes_new_default_title">Default and Dynamic</string>
+    <string name="themes_default_desc">ThunderDex Classic Purple</string>
+    <string name="themes_dynamic_title">Dynamic</string>
+    <string name="themes_dynamic_desc"><b>Dynamic Colors:</b> Extracts colors from your wallpaper and applies them to ThunderDex\' interface for a personalized look.\n</string>
+    <string name="themes_black_title">Black</string>
+    <string name="themes_black_desc">AMOLED Black: <i>The</i> classic all-black theme</string>
+    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time theme that changes colors based on the time of day</string>
+    <string name="themes_almost_black_desc">Almost Black: Slightly lighter than Pitch black, features a unique app header</string>
+    <string name="themes_thunder_teal_desc">Thunder Teal: A rich, dark teal with a greenish-blue tint</string>
+    <string name="themes_thunder_blues_desc">Thunder Blues: A dark blue theme</string>
+    <string name="themes_dull_blue_desc">Dull Blue: A dull, muted blue with theme</string>
+    <string name="themes_darkish_blue_desc">Darkish Blue: A deeper, darker blue with more intensity</string>
+    <string name="themes_barely_blue_desc">Barely Blue: A theme that is barely blue!</string>
+    <string name="themes_lyft_grey_desc">Lyft Grey: Taken right out of the Lyft Ride app, this is a flat themee with the Lyft Grey color</string>
+    <string name="themes_google_grey_desc">Grey: Differing from the Lyft theme,e this is closer to a Google Grey</string>
+    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful red-blue header</string>
+    <string name="themes_vortex_desc">Vortex: A simple flat red theme</string>
+    <string name="themes_forest_green_desc">Forest Green: A beautiful dark green theme</string>
+    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme</string>
+    <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray</string>
+    <string name="themes_space_cadet_desc">Space Cadet: Slightly resembles the Classic app theme, this theme is a lighter purple</string>
+    <string name="themes_nocturne_desc">Nocturne: A deep, flat, beautiful purple theme</string>
+    <string name="themes_radar_desc">Radar: A live sweeping Radar animation theme</string>
+    <string name="themes_halloween_desc">Halloween: We\re getting spooky! This theme features a festive Halloween inspired design</string>
+    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling sanow</string>
+    <string name="themes_new_years_desc">New Years: A new year already? This festive theme features a unique header image and animated fireworks!</string>
+    <string name="themes_war_thunder_title" translatable="false">War Thunder Wiki</string>
+    <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+    <string name="themes_fluid_motion_title">Fluid Motion (Animated)</string>
+    <string name="themes_fluid_motion_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
+    <string name="themes_wof_title">Wings of Fury</string>
+    <string name="themes_wof_desc">Wings of Fury features a blurred image captured in War Thunder by me, with the theme revolving around this image</string>
 
-    <!-- Section: Theme Warnings and Info -->
+    <!-- Theme Warnings -->
     <string name="paid_themes_warning_info_testing_info">Themes will eventually be a <b>PAID</b> feature.\n\nThemes are currently being tested and may not work properly or could cause the app to crash.\n\nIf that happens, just re-launch the app.\nSome themes will remain free.\n\nCan\'t wait to show you what else the app has in store for 2024!</string>
-    <string name="warning">Warning</string>
     <string name="themes_confirm">Understood. Thanks!</string>
     <string name="warning_title">⭐ <b>WARNING</b> ⭐</string>
     <string name="alt_warning_title"><b>*** ↓ CAUTION ↓ ***</b></string>
     <string name="warning_body">For the time being, you need to manually check and uncheck a theme to properly disable it. This will be fixed soon.\n\n<b>IF THE APP CRASHES, RE-OPEN IT!</b></string>
     <string name="theme_not_available_on_your_device">This theme is not available on your device</string>
     <string name="theme_already_applied_warning"> is already applied</string>
+    <string name="monet_theme_not_supported">Dynamic Colors are not supported on your device. :(</string>
+    <string name="app_themes__experimental_warning" translatable="false">Experimental theme. May cause unexpected behavior.</string>
     <string name="halloween_theme_pumpkin_for_header" translatable="false">" 🎃 "</string>
     <string name="christmas_theme_christmas_tree_for_header" translatable="false">" 🎄 "</string>
     <string name="new_years_theme_party_popper_emoji_for_header" translatable="false">" 🎉 "</string>
-    <string name="monet_theme_not_supported">Dynamic Colors are not supported on your device. :(</string>
 
-    <!-- Section: About ThunderDex -->
+    <!-- =========================================================
+         SECTION: SUPPORT & SOCIAL LINKS
+         ========================================================= -->
+    <string name="support_the_developer">Support the Developer</string>
+    <string name="thunderdex_social">Thunderdex Social</string>
+    <string name="join_the_thunderdex_reddit_or_discord">Click to join the Thunderdex Reddit &amp; Discord!</string>
+    <string name="settings_discord_title">Join the Discord group</string>
+    <string name="settings_discord_body"><i>Be part of something amazing!</i></string>
+    <string name="reddit_title">ThunderDex Subreddit</string>
+    <string name="reddit_summary">Click here to join the ThunderDex subreddit 😁</string>
+
+    <!-- Donations -->
+    <string name="settings_donate_title">Buy me a Coffee! ☕</string>
+    <string name="settings_donate_desc">Click here to Donate &amp; support my work ❤️</string>
+    <string name="donate_dialog_title"><b>!!! Support my work by donating !!!</b></string>
+    <string name="dev_support_settings_body">Donate through <b>PayPal</b> or <b>Cash App️</b> ❤️</string>
+    <string name="settings_donate_title_paypal">Donate through PayPal</string>
+    <string name="settings_donate_title_cash_app">Donate through Cash App</string>
+    <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
+
+    <!-- Google Pay Donation -->
+    <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
+    <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
+    <string name="gpay_dialog_confirm">Open Google Pay</string>
+    <string name="gpay_dialog_negative">Copy Email address</string>
+    <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
+    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
+    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
+    <string name="settings_donate_title_google_pay" translatable="false"><i>Support me on Google Pay</i></string>
+
+    <!-- =========================================================
+         SECTION: ABOUT & CONTRIBUTORS
+         ========================================================= -->
     <string name="title_about_thunderdex">About ThunderDex</string>
+    <string name="settings_about_title">About ThunderDex</string>
+    <string name="title_about_page">About</string>
     <string name="about_app">The <i><b>BEST</b></i> War Thunder Wikipedia App.</string>
     <string name="about_app_summary">ThunderDex was envisioned in 2023 as a solution for frequent users of the War Thunder Wiki. Frustrated with the browser experience, I utilized over 10 years of coding expertise to develop this app in just a few months. Now, it’s available for everyone—for free!</string>
     <string name="about_contribute_header_text">How do I contribute?</string>
@@ -173,18 +255,20 @@
     <string name="about_contributor_eight"><b>bearcat29</b> on Discord <b>(Has provided lots of feedback, helping shape ThunderDex into what it is today)</b></string>
     <string name="about_contributor_nine"><b>Paget96</b> on Telegram <b>(BubbleEmitterView, seen in the Settings header card)</b></string>
     <string name="about_contributor_ten"><b>magik</b> on Discord <b>(Polish Translations)</b></string>
+    <string name="about_menu_app_customization">App Customization\n(Experimental)</string>
 
-    <!-- Section: Contribute Translations -->
+    <!-- =========================================================
+         SECTION: TRANSLATIONS & GITHUB CONTRIBUTIONS
+         ========================================================= -->
+    <string name="settings_translate">Translate ThunderDex</string>
     <string name="contribute_translations">Contribute Translations</string>
     <string name="contribute_translations_button_text">Click here to learn how!</string>
-    <!-- Previously commented out, now defined to resolve warnings -->
-    <string name="contribute_summary" translatable="false">Learn how to contribute translations: <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
-    <string name="contribute_summary_two" translatable="false"><i>More contribution options coming soon!</i></string>
     <string name="translations_clickable_link">Click <a href="https://github.com/hifii/warthunderwiki-translations">here</a> to visit the link.</string>
     <string name="translations_coming_soon_teaser">Coming back soon!\nA redesign is currently in development</string>
-    <string name="contribution_enticement_language_chooser">Interested in contributing?\n(or updating a language)</string>
+    <string name="contribute_summary" translatable="false">Learn how to contribute translations: <a href="https://github.com/hifii/warthunderwiki-translations"><b>click here</b></a></string>
+    <string name="contribute_summary_two" translatable="false"><i>More contribution options coming soon!</i></string>
 
-    <!-- Section: Github Translations -->
+    <!-- GitHub specifics -->
     <string name="github_translations_first_time_q__title">First time?</string>
     <string name="github_translations_first_time_create_account_splitbutton">Create a GitHub account</string>
     <string name="github_translations_first_time_hide_splitbutton">Hide</string>
@@ -195,12 +279,44 @@
     <string name="github_translations_step_two"><b>Step 2:</b> Clone your fork locally</string>
     <string name="github_translations_step_three"><b>Step 3:</b> Create the folder for your language</string>
 
-    <!-- Section: Upcoming Features -->
+    <!-- ThunderHub -->
+    <string name="settings_thunderhub">Click Here to Access ThunderHub</string>
+    <string name="settings_thunderhub_description">- Get access to news for ThunderDex\n- Learn how to contribute</string>
+
+    <!-- =========================================================
+         SECTION: DEVELOPMENT, VERSIONS & EXPERIMENTS
+         ========================================================= -->
+    <string name="label_app_version">App Version: </string>
+    <string name="build_number_placeholder">Version %1$s (Build %2$s)</string>
+    <string name="commit_date_placeholder">Last updated: %1$s</string>
+    <string name="latest_commit_sha_placeholder">SHA: %1$s</string>
+    <string name="version_code_text">Version Code:</string>
+    <string name="app_version_text" translatable="false">ThunderDex:</string>
+    <string name="version_codes" translatable="false">%s\n\n<b>Version Code:</b>\n#%d</string>
+    <string name="version_codes__one_line_plus_double_slash" translatable="false">%s</string>
+
+    <string name="settings_gradle_properties_title">Gradle Properties JVM Verification</string>
+    <string name="settings_commit_history_title">Commit History (Live changelog)</string>
+    <string name="current_time">Current time: </string>
+
+    <!-- Experiments -->
+    <string name="currently_testing">Currently Testing:</string>
+    <string name="settings_experiments_title">Experimental features &amp; tests</string>
+    <string name="settings_experiments_body">• Fluid Gradient animation types\n• Pulsed Sparkle Animation\n(for Android 12+)</string>
+    <string name="settings_experiments_fluid_gradient_title">Fluid Gradient Showcase</string>
+    <string name="settings_experiments_fluid_gradient_body">Test all fluid gradient animation types</string>
+    <string name="settings_experiments_wt_wiki_3_0_title">Wiki 3.0 Compatibility Tests</string>
+    <string name="settings_experiments_wt_wiki_3_0_body">Playground for Wiki 3.0 implementation</string>
+    <string name="settings_experiments_sparkle_gradient_title">Pulsed Sparkle Animation Showcase</string>
+    <string name="settings_experiments_sparkle_gradient_body">Continuous experiments with a sparkling ripple animation</string>
+    <string name="gradient_in_testing_title">Visible in Debug builds only</string>
+    <string name="gradient_in_testing_summary">Gradient Test Fragment</string>
+
+    <!-- Upcoming -->
     <string name="upcoming_features_summary">Planned features for 2025 and beyond</string>
     <string name="upcoming_features_summary_alt">2025 ThunderDex Plans</string>
     <string name="upcoming_features">Preview upcoming app features</string>
     <string name="upcoming_feature_one">• Even more improvements to loading and performance</string>
-    <!-- Added definitions for previously missing strings -->
     <string name="upcoming_feature_two">• Improved user interface and navigation</string>
     <string name="upcoming_feature_three">• Enhanced search capabilities and filters</string>
     <string name="upcoming_feature_four">• New customization options</string>
@@ -209,79 +325,75 @@
     <string name="upcoming_feature_seven">• Switch vehicle info language based on user language if supported</string>
     <string name="upcoming_features_list">Check out our exciting upcoming features!</string>
 
-    <!-- Added definition for previously missing app_themes__experimental_warning -->
-    <string name="app_themes__experimental_warning" translatable="false">Experimental theme. May cause unexpected behavior.</string>
-
-    <!-- Section: Sort By Strings -->
-    <string name="sort_by">Sort by:</string>
-    <string name="filter_list">Filter List</string>
-    <string name="sort_alphabetically">Alphabetically</string>
-    <string name="sort_rank_ascending">Rank (Ascending Order)</string>
-    <string name="sort_rank_descending">Rank (Descending Order)</string>
-
-    <!-- Section: Image Download -->
-    <string name="image_saved">Image has been saved to /sdcard/pictures</string>
-    <string name="image_save_success">Image was successfully saved</string>
-    <string name="image_save_fail">Failed to save image</string>
-    <string name="image_load_fail">Failed to load image</string>
-
-    <!-- Section: Language Selector -->
-    <string-array name="language_array">
-        <item>English</item>
-        <item>German</item>
-        <item>Hindi</item>
-        <item>Hungarian</item>
-        <item>Lithuanian</item>
-        <item>Polish</item>
-        <item>Portuguese (Brazil)</item>
-        <item>Spanish</item>
-    </string-array>
-
-    <!-- Section: UI Prompts and Actions -->
-    <string name="affirmative_text">Done</string>
-    <string name="read_changelog">Read the latest changelog</string>
-    <string name="restarting_text">Restarting ThunderDex…</string>
-    <string name="exiting_app_text">Exiting...</string>
-
-    <!-- Section: Countdown Dialog -->
-    <string name="countdown_start_text">"Restarting ThunderDex in "</string>
-    <string name="countdown_text_seconds">" seconds"</string>
-    <string name="countdown_text_one_second">1 second</string>
-    <string name="countdown_dialog_zero_text">0 seconds</string>
-
-    <!-- Section: Miscellaneous Labels and Info -->
-    <string name="description">Description</string>
-    <string name="empty_list">Empty List</string>
-    <string name="loading">Loading…</string>
-    <string name="please_wait">Please wait…</string>
-    <string name="not_available">Not Available</string>
-    <string name="cache_cleared_toast_message">Cleared Data &amp; Cache</string>
-    <string name="app_cache_size_title">App Cache Size:</string>
-
-    <!-- Settings changelog -->
-    <string name="settings_full_changelog_title">Full Changelog</string>
-    <string name="settings_full_changelog_body">2025.4.0</string>
-
-    <!-- Section: News and Updates (Demo Text) -->
-    <string name="news_updates_body_demo_text">News body visualization text.\nThis is the second line.\nThis is the third line.\nThis is the fourth line.\nThis is the fifth line.</string>
-    <string name="news_updates_title_demo_text">News Title Test</string>
-
-    <!-- Section: Version Info -->
-    <string name="version_codes" translatable="false">%s\n\n<b>Version Code:</b>\n#%d</string>
-    <string name="version_codes__one_line_plus_double_slash" translatable="false">%s</string>
-    <!-- <string name="version_codes__one_line_plus_double_slash" translatable="false">%s\n\n<b>Build: </b>#%d</string> -->
-    <string name="app_version_text" translatable="false">ThunderDex:</string>
-    <string name="version_code_text">Version Code:</string>
-
-    <!-- Section: Error and Connection Handling -->
+    <!-- =========================================================
+         SECTION: CONNECTIVITY, ERRORS & SYSTEM MESSAGES
+         ========================================================= -->
     <string name="connection_error">Could not connect to server</string>
     <string name="something_went_wrong">Error: Something went wrong</string>
     <string name="no_data_found">No data found…</string>
     <string name="fragment_not_attached_error">Fragment is not attached, cannot launch activity.</string>
     <string name="invalid_value_error_text">"Invalid value: "</string>
     <string name="could_not_load_content">Could not load content</string>
+    <string name="restarting_text">Restarting ThunderDex…</string>
+    <string name="exiting_app_text">Exiting...</string>
 
-    <!-- Section: Push Notifications (Firebase) -->
+    <!-- Countdown Dialog -->
+    <string name="countdown_start_text">"Restarting ThunderDex in "</string>
+    <string name="countdown_text_seconds">" seconds"</string>
+    <string name="countdown_text_one_second">1 second</string>
+    <string name="countdown_dialog_zero_text">0 seconds</string>
+
+    <!-- Image Handling -->
+    <string name="image_saved">Image has been saved to /sdcard/pictures</string>
+    <string name="image_save_success">Image was successfully saved</string>
+    <string name="image_save_fail">Failed to save image</string>
+    <string name="image_load_fail">Failed to load image</string>
+
+    <!-- =========================================================
+         SECTION: OFFLINE MODE & NEWS CONTENT
+         ========================================================= -->
+    <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
+    <string name="article_failed_to_save">Failed to save article.</string>
+    <string name="webpage_download_title">Download Article?</string>
+    <string name="webpage_download_confirmation_message">Download this article for offline reading?\n\nEstimated size: %1$s</string>
+    <string name="webpage_download_confirmation_message_unknown_size">Download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
+    <string name="webpage_download_confirmation_message_unknown_size_generic">Download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
+    <string name="webpage_download_confirm">Download</string>
+    <string name="webpage_download_cancel">Cancel</string>
+    <string name="webpage_estimating_size">Estimating download size...</string>
+
+    <string name="you_are_offline_showing_cached_feed">You are currently offline. Showing cached news feed.</string>
+    <string name="no_internet_and_no_cached_feed">No internet connection and no news feed cached.</string>
+    <string name="loading_cached_feed">Loading cached news feed...</string>
+
+    <!-- News Demo Text -->
+    <string name="news_updates_date_text_test_do_not_translate" translatable="false">September 25 2025</string>
+    <string name="news_updates_body_demo_text">News body visualization text.\nThis is the second line.\nThis is the third line.\nThis is the fourth line.\nThis is the fifth line.</string>
+    <string name="news_updates_title_demo_text">News Title Test</string>
+
+    <!-- =========================================================
+         SECTION: CHANGELOG
+         ========================================================= -->
+    <string name="changelog">Changelog</string>
+    <string name="read_changelog">Read the latest changelog</string>
+    <string name="view_older_changelogs">View older changelogs</string>
+    <string name="older_changelogs_title">Older Changelogs</string>
+    <string name="settings_full_changelog_title">Full Changelog</string>
+    <string name="settings_full_changelog_body">2026.1.0</string>
+    <string name="commits_section_old__to__new">2025.2.1 → 2026.1.0</string>
+    <string name="changelog_dialog_body" translatable="false"> </string>
+    <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
+
+    <!-- Changelog dialog elements -->
+    <string name="changelog_dialog_update">Update</string>
+    <string name="changelog_dialog_later">Later</string>
+    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
+    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
+    <string name="changelog_dialog_visual_example_for_version" translatable="false">Version vX.Y.Z</string>
+
+    <!-- =========================================================
+         SECTION: PUSH NOTIFICATIONS (FIREBASE)
+         ========================================================= -->
     <string name="fcm_short_task">Short-lived task is done.</string>
     <string name="msg_subscribed">Subscribed to ThunderDex topic</string>
     <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
@@ -297,42 +409,53 @@
     <string name="notifications_permission_granted">Thanks!\nLaunching the Changelog.</string>
     <string name="notifications_permission_denied">You will not receive in-app messages for ThunderDex</string>
 
-    <!-- Section: Special and Fun Features -->
+    <!-- =========================================================
+         SECTION: SPECIAL & FUN FEATURES
+         ========================================================= -->
     <string name="flappydex">FlappyDex ;)</string>
     <string name="easter_egg_found_message">🍦 Launching the Easter Egg!\nCongrats on discovering it. 🍦</string>
     <string name="launch_easter_egg_null_error">Context is null or Fragment is not attached, cannot start the Easter Egg Activity</string>
     <string name="hide_ui_string">HIDE THE UI FOR 1 MINUTE</string>
     <string name="hide_ui_string_thirty_seconds">HIDE UI (30s)</string>
 
-    <!-- Section: Debugging Features -->
-    <string name="gradient_in_testing_title">Visible in Debug builds only</string>
-    <string name="gradient_in_testing_summary">Gradient Test Fragment</string>
+    <!-- =========================================================
+         SECTION: ANIMATION TYPES (DO NOT TRANSLATE)
+         ========================================================= -->
+    <string name="animation_type_rotation" translatable="false">ROTATION</string>
+    <string name="animation_type_zoom_rotation" translatable="false">ZOOM_ROTATION</string>
+    <string name="animation_type_skew" translatable="false">SKEW</string>
+    <string name="animation_type_color_change" translatable="false">COLOR_CHANGE</string>
+    <string name="animation_type_color_pulse" translatable="false">COLOR_PULSE</string>
+    <string name="animation_type_splash_color_pulse" translatable="false">SPLASH_COLOR_PULSE</string>
+    <string name="animation_type_changelog_color_pulse" translatable="false">CHANGELOG_COLOR_PULSE</string>
+    <string name="animation_type_ripple" translatable="false">RIPPLE</string>
+    <string name="animation_type_liquid_ripple" translatable="false">LIQUID_RIPPLE</string>
+    <string name="animation_type_radar_fluid" translatable="false">RADAR_FLUID</string>
+    <string name="animation_type_sine_wave" translatable="false">SINE_WAVE</string>
+    <string name="animation_type_experimental" translatable="false">EXPERIMENTAL</string>
+    <string name="animation_type_pulsing_wave_with_particles" translatable="false">NEW!!!\nPULSING_WAVE_WITH_PARTICLES</string>
+    <string name="animation_type_shimmering_pixelated_wave" translatable="false">SHIMMERING_PIXELATED_WAVE</string>
+    <string name="animation_type_wave_distortion" translatable="false">(NEW!)\nWAVE_DISTORTION</string>
+    <string name="animation_type_advanced_wave_distortion" translatable="false">(NEW!)\nADVANCED_WAVE_DISTORTION</string>
+    <string name="animation_type_glitchy_wave_distortion" translatable="false">(NEW!)\nGLITCHY_WAVE_DISTORTION</string>
+    <string name="animation_type_bubble_gradient" translatable="false">BUBBLE_GRADIENT</string>
+    <string name="animation_type_fast_dynamic_fluid" translatable="false">(NEW!)\nFAST_DYNAMIC_FLUID</string>
+    <string name="animation_type_sparkling_gradient" translatable="false">(NEW!)\nSPARKLING_GRADIENT</string>
 
-    <!-- About Page - General -->
-    <string name="title_about_page">About</string>
-    <string name="cd_back_button">Back button</string> <!-- Content Description for accessibility -->
+    <!-- =========================================================
+         SECTION: STRING ARRAYS
+         ========================================================= -->
+    <string-array name="language_array">
+        <item>English</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Lithuanian</item>
+        <item>Polish</item>
+        <item>Portuguese (Brazil)</item>
+        <item>Spanish</item>
+    </string-array>
 
-    <!-- About Page - Profile/Build Info -->
-    <string name="label_app_version">App Version: </string>
-    <!-- Placeholder for actual version/build number, will be set programmatically -->
-    <string name="build_number_placeholder">Version %1$s (Build %2$s)</string>
-    <string name="commit_date_placeholder">Last updated: %1$s</string>
-    <string name="latest_commit_sha_placeholder">SHA: %1$s</string>
-
-    <!-- Section: Reddit -->
-    <string name="reddit_title">ThunderDex Subreddit</string>
-    <string name="reddit_summary">Click here to join the ThunderDex subreddit 😁</string>
-
-    <!-- Section: Changelog -->
-    <string name="changelog">Changelog</string>
-    <string name="changelog_dialog_body" translatable="false"> </string>
-    <string name="older_changelogs_title">Older Changelogs</string>
-    <string name="older_changelogs_body" translatable="false" tools:ignore="StringFormatInvalid"><b>2025.1.0:</b>\n\n• Improved the ThunderDex UI!!! You should see an immediate improvement :)\n• BRAND NEW ZOOM ANIMATION in the Vehicle Info Section!\n• <b><i>NEW Theme Chooser UI!</i></b>\nNo more Dialog. This will continually be improved!\n• Improved the Radar section UI and animation\n• Improved ThunderDex header &amp; "Almost Black" Header\n• Fixed bugs, crashes &amp; reduced app size\n• Increased app performance\n• Updated app translations\n• App Experiments have been moved to Settings > About > overflow menu > app experiments and tests\n• Improved Changelog UI\n• Improved the Settings UI\n• Multiple improvements to loading\n\n<b><i>• New app versioning!</i></b>\n<b>2025.1.0 is the current build</b>\n<b>Year.MAJOR_version.MINOR_version:</b>\nThe <b>Major Version</b> going forward will represent major UI or app changes, or a major feature addition, whereas the <b>minor version</b> will focus on bug fixes and minor improvements.</string>
-
-    <!-- About menu -->
-    <string name="about_menu_app_customization">App Customization\n(Experimental)</string>
-
-    <!-- Section: Translations -->
     <string-array name="language_names" translatable="false">
         <item>Click here to see languages</item>
         <item>Afrikaans (af)</item>
@@ -423,30 +546,9 @@
         <item>Zulu (zu)</item>
     </string-array>
 
-    <!-- FLUID GRADIENT EXPERIMENTS -->
-    <string name="animation_type_rotation" translatable="false">ROTATION</string>
-    <string name="animation_type_pulsing_wave_with_particles" translatable="false">NEW!!!\nPULSING_WAVE_WITH_PARTICLES</string>
-    <string name="animation_type_glitchy_color_change" translatable="false">(NEW!!)\nGLITCHY_COLOR_CHANGE</string>
-    <string name="animation_type_color_change" translatable="false">COLOR_CHANGE</string>
-    <string name="animation_type_color_pulse" translatable="false">COLOR_PULSE</string>
-    <string name="animation_type_splash_color_pulse" translatable="false">SPLASH_COLOR_PULSE</string>
-    <string name="animation_type_shimmering_pixelated_wave" translatable="false">SHIMMERING_PIXELATED_WAVE</string>
-    <string name="animation_type_ripple" translatable="false">RIPPLE</string>
-    <string name="animation_type_advanced_wave_distortion" translatable="false">(NEW!)\nADVANCED_WAVE_DISTORTION</string>
-    <string name="animation_type_wave_distortion" translatable="false">(NEW!)\nWAVE_DISTORTION</string>
-    <string name="animation_type_liquid_ripple" translatable="false">LIQUID_RIPPLE</string>
-    <string name="animation_type_radar_fluid" translatable="false">RADAR_FLUID</string>
-    <string name="animation_type_experimental" translatable="false">EXPERIMENTAL</string>
-    <string name="animation_type_changelog_color_pulse" translatable="false">CHANGELOG_COLOR_PULSE</string>
-
-    <!-- Changelog dialog strings -->
-    <string name="changelog_dialog_update">Update</string>
-    <string name="changelog_dialog_later">Later</string>
-    <string name="changelog_dialog_whats_new_title">What\'s New in ThunderDex</string>
-    <string name="changelog_dialog_loading_changelog">Loading changelog...</string>
-    <string name="changelog_dialog_visual_example_for_version" translatable="false">Version vX.Y.Z</string>
-
-    <!-- Section: Links (DO NOT TRANSLATE) -->
+    <!-- =========================================================
+         SECTION: LINKS & TECHNICAL (DO NOT TRANSLATE)
+         ========================================================= -->
     <string name="paypal_link" translatable="false">https://paypal.me/hifii</string>
     <string name="cash_app_link" translatable="false">https://cash.app/$hifii</string>
     <string name="reddit_link" translatable="false">https://reddit.com/r/thunderdexapp</string>
@@ -454,92 +556,16 @@
     <string name="wt_wiki_translations_link" translatable="false">https://www.github.com/hifii/warthunderwiki-translations</string>
     <string name="discord_invite_link" translatable="false">https://discord.gg/GPbA4Jxw9F</string>
     <string name="crowdin_link">https://crowdin.com/project/thunderdexapp</string>
+    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
+    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
 
-    <!-- Section: DO NOT TRANSLATE -->
     <string name="a" translatable="false">A</string>
     <string name="blank" translatable="false"> </string>
     <string name="apostrophe" translatable="false">\'</string>
-
-    <string name="donate_dialog_body" translatable="false">Hello, and <b>Thank you</b> for using ThunderDex.\n\nThe <b>BEST</b> and <b>ONLY</b> War Thunder Wikipedia client for Android.\n\nPlease, consider donating if you are enjoying the app... a <b>LOT</b> of work goes into this <b>free</b> app.\n\n<b>You can donate by going into the settings of the app and clicking on the PayPal, or the Cash App option!</b>\n\n-HiFii</string>
-    <string name="settings_donate_title_paypal">Donate through PayPal</string>
-    <string name="settings_donate_title_cash_app">Donate through Cash App</string>
-
-    <!-- Themes -->
-    <string name="themes_default_title">ThunderDex Default</string>
-    <string name="themes_new_default_title">Default and Dynamic</string>
-    <string name="themes_default_desc">ThunderDex Classic Purple</string>
-    <string name="themes_dynamic_title">Dynamic</string>
-    <string name="themes_dynamic_desc"><b>Dynamic Colors:</b> Extracts colors from your wallpaper and applies them to ThunderDex\' interface for a personalized look.\nAvailable only on Android 12+</string>
-    <string name="themes_black_title">Black</string>
-    <string name="themes_black_desc">AMOLED Black: <i>The</i> classic all-black theme</string>
-    <string name="themes_stargaze_24hr_desc">StarGaze: A real-time theme that changes colors based on the time of day</string>
-    <string name="themes_almost_black_desc">Almost Black: Slightly lighter than Pitch black, features a unique app header</string>
-    <string name="themes_blues_and_teals_header">Blues and Teals</string>
-    <string name="theme_category_blues_title">Blues</string>
-    <string name="themes_thunder_teal_desc">Thunder Teal: A rich, dark teal with a greenish-blue tint</string>
-    <string name="themes_thunder_blues_desc">Thunder Blues: A dark blue theme</string>
-    <string name="themes_dull_blue_desc">Dull Blue: A dull, muted blue with theme</string>
-    <string name="themes_darkish_blue_desc">Darkish Blue: A deeper, darker blue with more intensity</string>
-    <string name="themes_barely_blue_desc">Barely Blue: A theme that is barely blue!</string>
-    <string name="themes_category_greys_title">Greys</string>
-    <string name="themes_lyft_grey_desc">Lyft Grey: Taken right out of the Lyft Ride app, this is a flat themee with the Lyft Grey color</string>
-    <string name="themes_google_grey_desc">Grey: Differing from the Lyft theme,e this is closer to a Google Grey</string>
-    <string name="themes_red_green_title">Reds and Greens</string>
-    <string name="themes_red_category">Reds</string>
-    <string name="themes_dark_red_desc">Dark Red: A rich, dark red accompanied with a beautiful red-blue header</string>
-    <string name="themes_vortex_desc">Vortex: A simple flat red theme</string>
-    <string name="theme_greens_title">Greens</string>
-    <string name="themes_forest_green_desc">Forest Green: A beautiful dark green theme</string>
-    <string name="themes_electric_tide_desc">Electric Tide: A beautiful, deep Teal theme</string>
-    <string name="themes_category_misc_title">Misc</string>
-    <string name="themes_wt_assistant_desc">WT Assistant: A cool, muted blue-gray</string>
-    <string name="themes_space_cadet_desc">Space Cadet: Slightly resembles the Classic app theme, this theme is a lighter purple</string>
-    <string name="themes_nocturne_desc">Nocturne: A deep, flat, beautiful purple theme</string>
-    <string name="themes_radar_desc">Radar: A live sweeping Radar animation theme</string>
-    <string name="themes_halloween_desc">Halloween: We\re getting spooky! This theme features a festive Halloween inspired design</string>
-    <string name="themes_christmas_desc">Christmas: Ho Ho Ho! Merry Christmas! Features realtime falling sanow</string>
-    <string name="themes_new_years_desc">New Years: A new year already? This festive theme features a unique header image and animated fireworks!</string>
-    <string name="themes_war_thunder_title" translatable="false">War Thunder Wiki</string>
-    <string name="themes_war_thunder_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
-    <string name="themes_fluid_motion_title">Fluid Motion (Animated)</string>
-    <string name="themes_fluid_motion_desc">With inspiration taken from the website itself,\nthis is the full War Thunder Wiki experience</string>
-    <string name="themes_wof_title">Wings of Fury</string>
-    <string name="themes_wof_desc">Wings of Fury features a blurred image captured in War Thunder by me, with the theme revolving around this image</string>
-
-    <!-- Webpage download stuff -->
-    <string name="webpage_article_saved_for_offline">Article saved for offline reading!</string>
-    <string name="article_failed_to_save">Failed to save article.</string>
-    <string name="webpage_download_title">Download Article?</string>
-    <string name="webpage_download_confirmation_message">Download this article for offline reading?\n\nEstimated size: %1$s</string>
-    <string name="webpage_download_confirmation_message_unknown_size">Download this article for offline reading?\n\n(Size unknown)\n(This usually means it is a larger article)</string>
-    <string name="webpage_download_confirm">Download</string>
-    <string name="webpage_download_cancel">Cancel</string>
-    <string name="webpage_estimating_size">Estimating download size...</string>
-    <string name="webpage_download_confirmation_message_unknown_size_generic">Download this article for offline reading?\n\n(Size could not be accurately estimated)\n(This usually means it is a larger article)</string>
-
-    <!-- strings for offline mode -->
-    <string name="you_are_offline_showing_cached_feed">You are currently offline. Showing cached news feed.</string>
-    <string name="no_internet_and_no_cached_feed">No internet connection and no news feed cached.</string>
-    <string name="loading_cached_feed">Loading cached news feed...</string>
-
-    <string name="view_older_changelogs">View older changelogs</string>
-
-    <!-- Section: PRIVATE, PERMANENT, AND UNUSED -->
     <string name="dummy_default_web_client_id" translatable="false">PRIVATE</string>
-    <string name="gpay_donation_email" translatable="false">mbqonxda@gmail.com</string>
 
-    <!--(( Mostly Google Pay related Strings for potential future use )) -->
-    <string name="gpay_donation_dialog_title">Donate using Google Pay</string>
-    <string name="gpay_donation_dialog_body"><i>Thank you for considering a donation!</i>\n\n\n<b>Send the payment to mbqonxda@gmail.com or select "Copy Email text" in the Dialog</b></string>
-    <string name="gpay_dialog_confirm">Open Google Pay</string>
-    <string name="gpay_dialog_negative">Copy Email address</string>
-    <string name="error_gpay_not_installed">Google Pay not installed! Launching Google Play Store…</string>
-    <string name="gpay_pkg_name">com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_market_link">market://details?id=com.google.android.apps.nbu.paisa.user</string>
-    <string name="gpay_clipboard_label">Copied Google Pay Email</string>
-    <string name="gpay_clipboard_text">mbqonxda@gmail.com</string>
-    <string name="settings_donate_title_google_pay" translatable="false"><i>Support me on Google Pay</i></string>
-
-    <!-- DO NOT UPLOAD KEY To WT Translations Github (https://github.com/HiFIi/WarThunderWiki-Translations) -->
+    <!-- DO NOT UPLOAD KEY To WT Translations Github -->
     <string name="default_web_client_id" translatable="false">PRIVATE</string>
+
 </resources>

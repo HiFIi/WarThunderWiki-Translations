@@ -1,5 +1,5 @@
 <!-- suppress CheckTagEmptyBody  -->
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <!--  Section: App Name and Titles  -->
     <string name="settings_title">" Ustawienia "</string>
